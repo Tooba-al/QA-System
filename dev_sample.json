@@ -1,0 +1,1974 @@
+{
+    "data": [
+        {
+            "title": "Super_Bowl_50",
+            "paragraphs": [
+                {
+                    "context": "Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season. The American Football Conference (AFC) champion Denver Broncos defeated the National Football Conference (NFC) champion Carolina Panthers 24\u201310 to earn their third Super Bowl title. The game was played on February 7, 2016, at Levi's Stadium in the San Francisco Bay Area at Santa Clara, California. As this was the 50th Super Bowl, the league emphasized the \"golden anniversary\" with various gold-themed initiatives, as well as temporarily suspending the tradition of naming each Super Bowl game with Roman numerals (under which the game would have been known as \"Super Bowl L\"), so that the logo could prominently feature the Arabic numerals 50.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                },
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                },
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                }
+                            ],
+                            "question": "Which NFL team represented the AFC at Super Bowl 50?",
+                            "id": "56be4db0acb8001400a502ec"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 249,
+                                    "text": "Carolina Panthers"
+                                },
+                                {
+                                    "answer_start": 249,
+                                    "text": "Carolina Panthers"
+                                },
+                                {
+                                    "answer_start": 249,
+                                    "text": "Carolina Panthers"
+                                }
+                            ],
+                            "question": "Which NFL team represented the NFC at Super Bowl 50?",
+                            "id": "56be4db0acb8001400a502ed"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 403,
+                                    "text": "Santa Clara, California"
+                                },
+                                {
+                                    "answer_start": 355,
+                                    "text": "Levi's Stadium"
+                                },
+                                {
+                                    "answer_start": 355,
+                                    "text": "Levi's Stadium in the San Francisco Bay Area at Santa Clara, California."
+                                }
+                            ],
+                            "question": "Where did Super Bowl 50 take place?",
+                            "id": "56be4db0acb8001400a502ee"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                },
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                },
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                }
+                            ],
+                            "question": "Which NFL team won Super Bowl 50?",
+                            "id": "56be4db0acb8001400a502ef"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 488,
+                                    "text": "gold"
+                                },
+                                {
+                                    "answer_start": 488,
+                                    "text": "gold"
+                                },
+                                {
+                                    "answer_start": 521,
+                                    "text": "gold"
+                                }
+                            ],
+                            "question": "What color was used to emphasize the 50th anniversary of the Super Bowl?",
+                            "id": "56be4db0acb8001400a502f0"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 487,
+                                    "text": "\"golden anniversary\""
+                                },
+                                {
+                                    "answer_start": 521,
+                                    "text": "gold-themed"
+                                },
+                                {
+                                    "answer_start": 487,
+                                    "text": "\"golden anniversary"
+                                }
+                            ],
+                            "question": "What was the theme of Super Bowl 50?",
+                            "id": "56be8e613aeaaa14008c90d1"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 334,
+                                    "text": "February 7, 2016"
+                                },
+                                {
+                                    "answer_start": 334,
+                                    "text": "February 7"
+                                },
+                                {
+                                    "answer_start": 334,
+                                    "text": "February 7, 2016"
+                                }
+                            ],
+                            "question": "What day was the game played on?",
+                            "id": "56be8e613aeaaa14008c90d2"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 133,
+                                    "text": "American Football Conference"
+                                },
+                                {
+                                    "answer_start": 133,
+                                    "text": "American Football Conference"
+                                },
+                                {
+                                    "answer_start": 133,
+                                    "text": "American Football Conference"
+                                }
+                            ],
+                            "question": "What is the AFC short for?",
+                            "id": "56be8e613aeaaa14008c90d3"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 487,
+                                    "text": "\"golden anniversary\""
+                                },
+                                {
+                                    "answer_start": 521,
+                                    "text": "gold-themed"
+                                },
+                                {
+                                    "answer_start": 521,
+                                    "text": "gold"
+                                }
+                            ],
+                            "question": "What was the theme of Super Bowl 50?",
+                            "id": "56bea9923aeaaa14008c91b9"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 133,
+                                    "text": "American Football Conference"
+                                },
+                                {
+                                    "answer_start": 133,
+                                    "text": "American Football Conference"
+                                },
+                                {
+                                    "answer_start": 133,
+                                    "text": "American Football Conference"
+                                }
+                            ],
+                            "question": "What does AFC stand for?",
+                            "id": "56bea9923aeaaa14008c91ba"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 334,
+                                    "text": "February 7, 2016"
+                                },
+                                {
+                                    "answer_start": 334,
+                                    "text": "February 7"
+                                },
+                                {
+                                    "answer_start": 334,
+                                    "text": "February 7, 2016"
+                                }
+                            ],
+                            "question": "What day was the Super Bowl played on?",
+                            "id": "56bea9923aeaaa14008c91bb"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                },
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                },
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                }
+                            ],
+                            "question": "Who won Super Bowl 50?",
+                            "id": "56beace93aeaaa14008c91df"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 355,
+                                    "text": "Levi's Stadium"
+                                },
+                                {
+                                    "answer_start": 355,
+                                    "text": "Levi's Stadium"
+                                },
+                                {
+                                    "answer_start": 355,
+                                    "text": "Levi's Stadium in the San Francisco Bay Area at Santa Clara"
+                                }
+                            ],
+                            "question": "What venue did Super Bowl 50 take place in?",
+                            "id": "56beace93aeaaa14008c91e0"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 403,
+                                    "text": "Santa Clara"
+                                },
+                                {
+                                    "answer_start": 403,
+                                    "text": "Santa Clara"
+                                },
+                                {
+                                    "answer_start": 403,
+                                    "text": "Santa Clara"
+                                }
+                            ],
+                            "question": "What city did Super Bowl 50 take place in?",
+                            "id": "56beace93aeaaa14008c91e1"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 693,
+                                    "text": "Super Bowl L"
+                                },
+                                {
+                                    "answer_start": 704,
+                                    "text": "L"
+                                },
+                                {
+                                    "answer_start": 693,
+                                    "text": "Super Bowl L"
+                                }
+                            ],
+                            "question": "If Roman numerals were used, what would Super Bowl 50 have been called?",
+                            "id": "56beace93aeaaa14008c91e2"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 116,
+                                    "text": "2015"
+                                },
+                                {
+                                    "answer_start": 112,
+                                    "text": "the 2015 season"
+                                },
+                                {
+                                    "answer_start": 116,
+                                    "text": "2015"
+                                }
+                            ],
+                            "question": "Super Bowl 50 decided the NFL champion for what season?",
+                            "id": "56beace93aeaaa14008c91e3"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 116,
+                                    "text": "2015"
+                                },
+                                {
+                                    "answer_start": 346,
+                                    "text": "2016"
+                                },
+                                {
+                                    "answer_start": 116,
+                                    "text": "2015"
+                                }
+                            ],
+                            "question": "What year did the Denver Broncos secure a Super Bowl title for the third time?",
+                            "id": "56bf10f43aeaaa14008c94fd"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 403,
+                                    "text": "Santa Clara"
+                                },
+                                {
+                                    "answer_start": 403,
+                                    "text": "Santa Clara"
+                                },
+                                {
+                                    "answer_start": 403,
+                                    "text": "Santa Clara"
+                                }
+                            ],
+                            "question": "What city did Super Bowl 50 take place in?",
+                            "id": "56bf10f43aeaaa14008c94fe"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 355,
+                                    "text": "Levi's Stadium"
+                                },
+                                {
+                                    "answer_start": 355,
+                                    "text": "Levi's Stadium"
+                                },
+                                {
+                                    "answer_start": 355,
+                                    "text": "Levi's Stadium"
+                                }
+                            ],
+                            "question": "What stadium did Super Bowl 50 take place in?",
+                            "id": "56bf10f43aeaaa14008c94ff"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 267,
+                                    "text": "24\u201310"
+                                },
+                                {
+                                    "answer_start": 267,
+                                    "text": "24\u201310"
+                                },
+                                {
+                                    "answer_start": 267,
+                                    "text": "24\u201310"
+                                }
+                            ],
+                            "question": "What was the final score of Super Bowl 50? ",
+                            "id": "56bf10f43aeaaa14008c9500"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 334,
+                                    "text": "February 7, 2016"
+                                },
+                                {
+                                    "answer_start": 334,
+                                    "text": "February 7, 2016"
+                                },
+                                {
+                                    "answer_start": 334,
+                                    "text": "February 7, 2016"
+                                }
+                            ],
+                            "question": "What month, day and year did Super Bowl 50 take place? ",
+                            "id": "56bf10f43aeaaa14008c9501"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 116,
+                                    "text": "2015"
+                                },
+                                {
+                                    "answer_start": 346,
+                                    "text": "2016"
+                                },
+                                {
+                                    "answer_start": 346,
+                                    "text": "2016"
+                                }
+                            ],
+                            "question": "What year was Super Bowl 50?",
+                            "id": "56d20362e7d4791d009025e8"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                },
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                },
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                }
+                            ],
+                            "question": "What team was the AFC champion?",
+                            "id": "56d20362e7d4791d009025e9"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 249,
+                                    "text": "Carolina Panthers"
+                                },
+                                {
+                                    "answer_start": 249,
+                                    "text": "Carolina Panthers"
+                                },
+                                {
+                                    "answer_start": 249,
+                                    "text": "Carolina Panthers"
+                                }
+                            ],
+                            "question": "What team was the NFC champion?",
+                            "id": "56d20362e7d4791d009025ea"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                },
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                },
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                }
+                            ],
+                            "question": "Who won Super Bowl 50?",
+                            "id": "56d20362e7d4791d009025eb"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 116,
+                                    "text": "2015"
+                                },
+                                {
+                                    "answer_start": 112,
+                                    "text": "the 2015 season"
+                                },
+                                {
+                                    "answer_start": 116,
+                                    "text": "2015"
+                                }
+                            ],
+                            "question": "Super Bowl 50 determined the NFL champion for what season?",
+                            "id": "56d600e31c85041400946eae"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                },
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                },
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                }
+                            ],
+                            "question": "Which team won Super Bowl 50.",
+                            "id": "56d600e31c85041400946eb0"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 403,
+                                    "text": "Santa Clara, California."
+                                },
+                                {
+                                    "answer_start": 355,
+                                    "text": "Levi's Stadium"
+                                },
+                                {
+                                    "answer_start": 355,
+                                    "text": "Levi's Stadium"
+                                }
+                            ],
+                            "question": "Where was Super Bowl 50 held?",
+                            "id": "56d600e31c85041400946eb1"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Super Bowl"
+                                },
+                                {
+                                    "answer_start": 0,
+                                    "text": "Super Bowl"
+                                },
+                                {
+                                    "answer_start": 0,
+                                    "text": "Super Bowl"
+                                }
+                            ],
+                            "question": "The name of the NFL championship game is?",
+                            "id": "56d9895ddc89441400fdb50e"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                },
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                },
+                                {
+                                    "answer_start": 177,
+                                    "text": "Denver Broncos"
+                                }
+                            ],
+                            "question": "What 2015 NFL team one the AFC playoff?",
+                            "id": "56d9895ddc89441400fdb510"
+                        }
+                    ]
+                },
+                {
+                    "context": "The Panthers finished the regular season with a 15\u20131 record, and quarterback Cam Newton was named the NFL Most Valuable Player (MVP). They defeated the Arizona Cardinals 49\u201315 in the NFC Championship Game and advanced to their second Super Bowl appearance since the franchise was founded in 1995. The Broncos finished the regular season with a 12\u20134 record, and denied the New England Patriots a chance to defend their title from Super Bowl XLIX by defeating them 20\u201318 in the AFC Championship Game. They joined the Patriots, Dallas Cowboys, and Pittsburgh Steelers as one of four teams that have made eight appearances in the Super Bowl.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                },
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                },
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                }
+                            ],
+                            "question": "Which Carolina Panthers player was named Most Valuable Player?",
+                            "id": "56be4e1facb8001400a502f6"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 467,
+                                    "text": "8"
+                                },
+                                {
+                                    "answer_start": 601,
+                                    "text": "eight"
+                                },
+                                {
+                                    "answer_start": 601,
+                                    "text": "eight"
+                                }
+                            ],
+                            "question": "How many appearances have the Denver Broncos made in the Super Bowl?",
+                            "id": "56be4e1facb8001400a502f9"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 291,
+                                    "text": "1995"
+                                },
+                                {
+                                    "answer_start": 291,
+                                    "text": "1995"
+                                },
+                                {
+                                    "answer_start": 291,
+                                    "text": "1995"
+                                }
+                            ],
+                            "question": "What year was the Carolina Panthers franchise founded?",
+                            "id": "56be4e1facb8001400a502fa"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 152,
+                                    "text": "Arizona Cardinals"
+                                },
+                                {
+                                    "answer_start": 148,
+                                    "text": "the Arizona Cardinals"
+                                },
+                                {
+                                    "answer_start": 152,
+                                    "text": "Arizona Cardinals"
+                                }
+                            ],
+                            "question": "What team did the Panthers defeat?",
+                            "id": "56beaa4a3aeaaa14008c91c2"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 372,
+                                    "text": "New England Patriots"
+                                },
+                                {
+                                    "answer_start": 368,
+                                    "text": "the New England Patriots"
+                                },
+                                {
+                                    "answer_start": 372,
+                                    "text": "New England Patriots"
+                                }
+                            ],
+                            "question": "Who did the Broncos prevent from going to the Super Bowl?",
+                            "id": "56beaa4a3aeaaa14008c91c3"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 152,
+                                    "text": "Arizona Cardinals"
+                                },
+                                {
+                                    "answer_start": 148,
+                                    "text": "the Arizona Cardinals"
+                                },
+                                {
+                                    "answer_start": 152,
+                                    "text": "Arizona Cardinals"
+                                }
+                            ],
+                            "question": "Who did the Panthers beat in the NFC Championship Game?",
+                            "id": "56bead5a3aeaaa14008c91e9"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 372,
+                                    "text": "New England Patriots"
+                                },
+                                {
+                                    "answer_start": 368,
+                                    "text": "the New England Patriots"
+                                },
+                                {
+                                    "answer_start": 372,
+                                    "text": "New England Patriots"
+                                }
+                            ],
+                            "question": "Who lost to the Broncos in the AFC Championship?",
+                            "id": "56bead5a3aeaaa14008c91ea"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 372,
+                                    "text": "New England Patriots"
+                                },
+                                {
+                                    "answer_start": 368,
+                                    "text": "the New England Patriots"
+                                },
+                                {
+                                    "answer_start": 372,
+                                    "text": "New England Patriots"
+                                }
+                            ],
+                            "question": "Who were the defending Super Bowl champions?",
+                            "id": "56bead5a3aeaaa14008c91eb"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 575,
+                                    "text": "four"
+                                },
+                                {
+                                    "answer_start": 575,
+                                    "text": "four"
+                                },
+                                {
+                                    "answer_start": 575,
+                                    "text": "four"
+                                }
+                            ],
+                            "question": "How many teams have been in the Super Bowl eight times?",
+                            "id": "56bead5a3aeaaa14008c91ec"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                },
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                },
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                }
+                            ],
+                            "question": "Who was this season's NFL MVP?",
+                            "id": "56bead5a3aeaaa14008c91ed"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 48,
+                                    "text": "15\u20131"
+                                },
+                                {
+                                    "answer_start": 48,
+                                    "text": "15\u20131"
+                                },
+                                {
+                                    "answer_start": 48,
+                                    "text": "15\u20131"
+                                }
+                            ],
+                            "question": "What was the win/loss ratio in 2015 for the Carolina Panthers during their regular season?",
+                            "id": "56bf159b3aeaaa14008c9507"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                },
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                },
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                }
+                            ],
+                            "question": "Which Carolina Panthers team member was picked as the team's MVP in 2015? ",
+                            "id": "56bf159b3aeaaa14008c9508"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 344,
+                                    "text": "12\u20134"
+                                },
+                                {
+                                    "answer_start": 344,
+                                    "text": "12\u20134"
+                                },
+                                {
+                                    "answer_start": 344,
+                                    "text": "12\u20134"
+                                }
+                            ],
+                            "question": "What were the win/loss game stats for the Denver Bronco's regular season in 2015?",
+                            "id": "56bf159b3aeaaa14008c9509"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 170,
+                                    "text": "4"
+                                },
+                                {
+                                    "answer_start": 575,
+                                    "text": "four"
+                                },
+                                {
+                                    "answer_start": 575,
+                                    "text": "four"
+                                }
+                            ],
+                            "question": "How many teams have played in the Super Bowl eight times?",
+                            "id": "56bf159b3aeaaa14008c950a"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 372,
+                                    "text": "New England Patriots"
+                                },
+                                {
+                                    "answer_start": 368,
+                                    "text": "the New England Patriots"
+                                },
+                                {
+                                    "answer_start": 372,
+                                    "text": "New England Patriots"
+                                }
+                            ],
+                            "question": "Which team did not get a chance to defend their Super Bowl XLIX win in Super Bowl 50?",
+                            "id": "56bf159b3aeaaa14008c950b"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                },
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                },
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                }
+                            ],
+                            "question": "Who is the quarterback for the Panthers?",
+                            "id": "56d2045de7d4791d009025f3"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 152,
+                                    "text": "Arizona Cardinals"
+                                },
+                                {
+                                    "answer_start": 148,
+                                    "text": "the Arizona Cardinals"
+                                },
+                                {
+                                    "answer_start": 152,
+                                    "text": "Arizona Cardinals"
+                                }
+                            ],
+                            "question": "Who did Carolina beat in the NFC championship game?",
+                            "id": "56d2045de7d4791d009025f4"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 345,
+                                    "text": "2"
+                                },
+                                {
+                                    "answer_start": 227,
+                                    "text": "second"
+                                },
+                                {
+                                    "answer_start": 227,
+                                    "text": "second"
+                                }
+                            ],
+                            "question": "How many times have the Panthers been in the Super Bowl?",
+                            "id": "56d2045de7d4791d009025f5"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 372,
+                                    "text": "New England Patriots"
+                                },
+                                {
+                                    "answer_start": 368,
+                                    "text": "the New England Patriots"
+                                },
+                                {
+                                    "answer_start": 372,
+                                    "text": "New England Patriots"
+                                }
+                            ],
+                            "question": "Who did Denver beat in the AFC championship?",
+                            "id": "56d2045de7d4791d009025f6"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                },
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                },
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                }
+                            ],
+                            "question": "Who was the Most Valuable Player for the 2015 NFL season?",
+                            "id": "56d6017d1c85041400946ebe"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 372,
+                                    "text": "New England Patriots"
+                                },
+                                {
+                                    "answer_start": 368,
+                                    "text": "the New England Patriots"
+                                },
+                                {
+                                    "answer_start": 372,
+                                    "text": "New England Patriots"
+                                }
+                            ],
+                            "question": "Who did Denver beat in the 2015 AFC Championship game?",
+                            "id": "56d6017d1c85041400946ec1"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 152,
+                                    "text": "Arizona Cardinals"
+                                },
+                                {
+                                    "answer_start": 148,
+                                    "text": "the Arizona Cardinals"
+                                },
+                                {
+                                    "answer_start": 152,
+                                    "text": "Arizona Cardinals"
+                                }
+                            ],
+                            "question": "Who did the Carolina Panthers beat in the 2015 NFC Championship game?",
+                            "id": "56d6017d1c85041400946ec2"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                },
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                },
+                                {
+                                    "answer_start": 77,
+                                    "text": "Cam Newton"
+                                }
+                            ],
+                            "question": "Who was the 2015 NFL MVP?",
+                            "id": "56d98a59dc89441400fdb52a"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 152,
+                                    "text": "Arizona Cardinals"
+                                },
+                                {
+                                    "answer_start": 148,
+                                    "text": "the Arizona Cardinals"
+                                },
+                                {
+                                    "answer_start": 152,
+                                    "text": "Arizona Cardinals"
+                                }
+                            ],
+                            "question": "Who did the Panthers beat to become the NFC champs?",
+                            "id": "56d98a59dc89441400fdb52b"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 291,
+                                    "text": "1995."
+                                },
+                                {
+                                    "answer_start": 291,
+                                    "text": "1995"
+                                },
+                                {
+                                    "answer_start": 291,
+                                    "text": "1995"
+                                }
+                            ],
+                            "question": "What year did the Carolina Panthers form?",
+                            "id": "56d98a59dc89441400fdb52e"
+                        }
+                    ]
+                },
+                {
+                    "context": "The Broncos took an early lead in Super Bowl 50 and never trailed. Newton was limited by Denver's defense, which sacked him seven times and forced him into three turnovers, including a fumble which they recovered for a touchdown. Denver linebacker Von Miller was named Super Bowl MVP, recording five solo tackles, 2\u00bd sacks, and two forced fumbles.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 248,
+                                    "text": "Von Miller"
+                                },
+                                {
+                                    "answer_start": 248,
+                                    "text": "Von Miller"
+                                },
+                                {
+                                    "answer_start": 252,
+                                    "text": "Miller"
+                                }
+                            ],
+                            "question": "Who was the Super Bowl 50 MVP?",
+                            "id": "56be4eafacb8001400a50302"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 314,
+                                    "text": "2"
+                                },
+                                {
+                                    "answer_start": 328,
+                                    "text": "two"
+                                },
+                                {
+                                    "answer_start": 328,
+                                    "text": "two"
+                                }
+                            ],
+                            "question": "How many fumbles did Von Miller force in Super Bowl 50?",
+                            "id": "56be4eafacb8001400a50303"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 4,
+                                    "text": "Broncos"
+                                },
+                                {
+                                    "answer_start": 0,
+                                    "text": "The Broncos"
+                                },
+                                {
+                                    "answer_start": 4,
+                                    "text": "Broncos"
+                                }
+                            ],
+                            "question": "Which team held the scoring lead throughout the entire game?",
+                            "id": "56be4eafacb8001400a50304"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 237,
+                                    "text": "linebacker Von Miller"
+                                },
+                                {
+                                    "answer_start": 248,
+                                    "text": "Von Miller"
+                                },
+                                {
+                                    "answer_start": 252,
+                                    "text": "Miller"
+                                }
+                            ],
+                            "question": "Which Denver linebacker was named Super Bowl MVP?",
+                            "id": "56beab833aeaaa14008c91d2"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 295,
+                                    "text": "five solo tackles"
+                                },
+                                {
+                                    "answer_start": 295,
+                                    "text": "five"
+                                },
+                                {
+                                    "answer_start": 295,
+                                    "text": "five"
+                                }
+                            ],
+                            "question": "How many solo tackles did Von Miller make at Super Bowl 50?",
+                            "id": "56beab833aeaaa14008c91d3"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 67,
+                                    "text": "Newton was limited by Denver's defense"
+                                },
+                                {
+                                    "answer_start": 67,
+                                    "text": "Newton"
+                                },
+                                {
+                                    "answer_start": 67,
+                                    "text": "Newton"
+                                }
+                            ],
+                            "question": "Who was limited by Denver's defense?",
+                            "id": "56beab833aeaaa14008c91d4"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 124,
+                                    "text": "seven"
+                                },
+                                {
+                                    "answer_start": 124,
+                                    "text": "seven"
+                                },
+                                {
+                                    "answer_start": 124,
+                                    "text": "seven"
+                                }
+                            ],
+                            "question": "How many times was Cam Newton sacked?",
+                            "id": "56beae423aeaaa14008c91f4"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 248,
+                                    "text": "Von Miller"
+                                },
+                                {
+                                    "answer_start": 0,
+                                    "text": "The Broncos"
+                                },
+                                {
+                                    "answer_start": 252,
+                                    "text": "Miller"
+                                }
+                            ],
+                            "question": "Who won the Super Bowl MVP?",
+                            "id": "56beae423aeaaa14008c91f5"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 156,
+                                    "text": "three"
+                                },
+                                {
+                                    "answer_start": 156,
+                                    "text": "three"
+                                },
+                                {
+                                    "answer_start": 156,
+                                    "text": "three"
+                                }
+                            ],
+                            "question": "How many turnovers did Cam Newton have?",
+                            "id": "56beae423aeaaa14008c91f6"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 328,
+                                    "text": "two"
+                                },
+                                {
+                                    "answer_start": 328,
+                                    "text": "two"
+                                },
+                                {
+                                    "answer_start": 328,
+                                    "text": "two"
+                                }
+                            ],
+                            "question": "How many fumbles did Von Miller force?",
+                            "id": "56beae423aeaaa14008c91f7"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 248,
+                                    "text": "Von Miller"
+                                },
+                                {
+                                    "answer_start": 248,
+                                    "text": "Von Miller"
+                                },
+                                {
+                                    "answer_start": 252,
+                                    "text": "Miller"
+                                }
+                            ],
+                            "question": "Who was given the esteemed status of MVP for Super Bowl 50?",
+                            "id": "56bf17653aeaaa14008c9511"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 237,
+                                    "text": "linebacker"
+                                },
+                                {
+                                    "answer_start": 237,
+                                    "text": "linebacker"
+                                },
+                                {
+                                    "answer_start": 237,
+                                    "text": "linebacker"
+                                }
+                            ],
+                            "question": "What position does Von Miller play for the Denver Broncos?",
+                            "id": "56bf17653aeaaa14008c9513"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 45,
+                                    "text": "5"
+                                },
+                                {
+                                    "answer_start": 295,
+                                    "text": "five"
+                                },
+                                {
+                                    "answer_start": 295,
+                                    "text": "five"
+                                }
+                            ],
+                            "question": "What was the number of solo tackles that Von Miller had in Super Bowl 50?",
+                            "id": "56bf17653aeaaa14008c9514"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 314,
+                                    "text": "2"
+                                },
+                                {
+                                    "answer_start": 328,
+                                    "text": "two"
+                                },
+                                {
+                                    "answer_start": 328,
+                                    "text": "two"
+                                }
+                            ],
+                            "question": "How many forced fumbles did Von Miller have during the Super Bowl 50 game?",
+                            "id": "56bf17653aeaaa14008c9515"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 248,
+                                    "text": "Von Miller"
+                                },
+                                {
+                                    "answer_start": 248,
+                                    "text": "Von Miller"
+                                },
+                                {
+                                    "answer_start": 248,
+                                    "text": "Von Miller"
+                                }
+                            ],
+                            "question": "Who won the MVP for the Super Bowl?",
+                            "id": "56d204ade7d4791d00902603"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 45,
+                                    "text": "5"
+                                },
+                                {
+                                    "answer_start": 295,
+                                    "text": "five"
+                                },
+                                {
+                                    "answer_start": 295,
+                                    "text": "five"
+                                }
+                            ],
+                            "question": "How many tackles did Von Miller get during the game?",
+                            "id": "56d204ade7d4791d00902604"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 124,
+                                    "text": "seven"
+                                },
+                                {
+                                    "answer_start": 124,
+                                    "text": "seven"
+                                },
+                                {
+                                    "answer_start": 124,
+                                    "text": "seven"
+                                }
+                            ],
+                            "question": "How many times was Cam Newton sacked in Super Bowl 50?",
+                            "id": "56d601e41c85041400946ece"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 156,
+                                    "text": "three"
+                                },
+                                {
+                                    "answer_start": 156,
+                                    "text": "three"
+                                },
+                                {
+                                    "answer_start": 156,
+                                    "text": "three"
+                                }
+                            ],
+                            "question": "How many times did the Denver defense force Newton into turnovers?",
+                            "id": "56d601e41c85041400946ecf"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 183,
+                                    "text": "a fumble"
+                                },
+                                {
+                                    "answer_start": 183,
+                                    "text": "a fumble"
+                                },
+                                {
+                                    "answer_start": 185,
+                                    "text": "fumble"
+                                }
+                            ],
+                            "question": "Which Newton turnover resulted in seven points for Denver?",
+                            "id": "56d601e41c85041400946ed0"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 248,
+                                    "text": "Von Miller"
+                                },
+                                {
+                                    "answer_start": 248,
+                                    "text": "Von Miller"
+                                },
+                                {
+                                    "answer_start": 248,
+                                    "text": "Von Miller"
+                                }
+                            ],
+                            "question": "Who was the Most Valuable Player of Super Bowl 50?",
+                            "id": "56d601e41c85041400946ed1"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 237,
+                                    "text": "linebacker"
+                                },
+                                {
+                                    "answer_start": 237,
+                                    "text": "linebacker"
+                                },
+                                {
+                                    "answer_start": 237,
+                                    "text": "linebacker"
+                                }
+                            ],
+                            "question": "What position does Von Miller play?",
+                            "id": "56d601e41c85041400946ed2"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 124,
+                                    "text": "seven"
+                                },
+                                {
+                                    "answer_start": 124,
+                                    "text": "seven"
+                                },
+                                {
+                                    "answer_start": 124,
+                                    "text": "seven"
+                                }
+                            ],
+                            "question": "How many times was the Panthers' quarterback sacked?",
+                            "id": "56d98b33dc89441400fdb53b"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 156,
+                                    "text": "three"
+                                },
+                                {
+                                    "answer_start": 156,
+                                    "text": "three"
+                                },
+                                {
+                                    "answer_start": 156,
+                                    "text": "three"
+                                }
+                            ],
+                            "question": "How many times did the Broncos cause turnovers in the game?",
+                            "id": "56d98b33dc89441400fdb53c"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 248,
+                                    "text": "Von Miller"
+                                },
+                                {
+                                    "answer_start": 248,
+                                    "text": "Von Miller"
+                                },
+                                {
+                                    "answer_start": 248,
+                                    "text": "Von Miller"
+                                }
+                            ],
+                            "question": "What Denver player caused two fumbles for the Panthers?",
+                            "id": "56d98b33dc89441400fdb53d"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 295,
+                                    "text": "five"
+                                },
+                                {
+                                    "answer_start": 295,
+                                    "text": "five"
+                                },
+                                {
+                                    "answer_start": 295,
+                                    "text": "five"
+                                }
+                            ],
+                            "question": "How many tackles did Von Miller accomlish by himself in the game?",
+                            "id": "56d98b33dc89441400fdb53e"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Warsaw",
+            "paragraphs": [
+                {
+                    "context": "One of the most famous people born in Warsaw was Maria Sk\u0142odowska-Curie, who achieved international recognition for her research on radioactivity and was the first female recipient of the Nobel Prize. Famous musicians include W\u0142adys\u0142aw Szpilman and Fr\u00e9d\u00e9ric Chopin. Though Chopin was born in the village of \u017belazowa Wola, about 60 km (37 mi) from Warsaw, he moved to the city with his family when he was seven months old. Casimir Pulaski, a Polish general and hero of the American Revolutionary War, was born here in 1745.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 188,
+                                    "text": "Nobel Prize"
+                                },
+                                {
+                                    "answer_start": 188,
+                                    "text": "Nobel Prize"
+                                },
+                                {
+                                    "answer_start": 188,
+                                    "text": "Nobel Prize"
+                                }
+                            ],
+                            "question": "What was Maria Curie the first female recipient of?",
+                            "id": "5733a5f54776f41900660f45"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 517,
+                                    "text": "1745"
+                                },
+                                {
+                                    "answer_start": 517,
+                                    "text": "1745"
+                                },
+                                {
+                                    "answer_start": 517,
+                                    "text": "1745"
+                                }
+                            ],
+                            "question": "What year was Casimir Pulaski born in Warsaw?",
+                            "id": "5733a5f54776f41900660f48"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 49,
+                                    "text": "Maria Sk\u0142odowska-Curie"
+                                },
+                                {
+                                    "answer_start": 49,
+                                    "text": "Maria Sk\u0142odowska-Curie"
+                                },
+                                {
+                                    "answer_start": 49,
+                                    "text": "Maria Sk\u0142odowska-Curie"
+                                }
+                            ],
+                            "question": "Who was one of the most famous people born in Warsaw?",
+                            "id": "5733a5f54776f41900660f44"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 201,
+                                    "text": "Famous musicians"
+                                },
+                                {
+                                    "answer_start": 208,
+                                    "text": "musicians"
+                                },
+                                {
+                                    "answer_start": 201,
+                                    "text": "Famous musicians"
+                                }
+                            ],
+                            "question": "Who was Fr\u00e9d\u00e9ric Chopin?",
+                            "id": "5733a5f54776f41900660f46"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 404,
+                                    "text": "seven months old"
+                                },
+                                {
+                                    "answer_start": 404,
+                                    "text": "seven months old"
+                                },
+                                {
+                                    "answer_start": 404,
+                                    "text": "seven months old"
+                                }
+                            ],
+                            "question": "How old was Chopin when he moved to Warsaw with his family?",
+                            "id": "5733a5f54776f41900660f47"
+                        }
+                    ]
+                },
+                {
+                    "context": "The Saxon Garden, covering the area of 15.5 ha, was formally a royal garden. There are over 100 different species of trees and the avenues are a place to sit and relax. At the east end of the park, the Tomb of the Unknown Soldier is situated. In the 19th century the Krasi\u0144ski Palace Garden was remodelled by Franciszek Szanior. Within the central area of the park one can still find old trees dating from that period: maidenhair tree, black walnut, Turkish hazel and Caucasian wingnut trees. With its benches, flower carpets, a pond with ducks on and a playground for kids, the Krasi\u0144ski Palace Garden is a popular strolling destination for the Varsovians. The Monument of the Warsaw Ghetto Uprising is also situated here. The \u0141azienki Park covers the area of 76 ha. The unique character and history of the park is reflected in its landscape architecture (pavilions, sculptures, bridges, cascades, ponds) and vegetation (domestic and foreign species of trees and bushes). What makes this park different from other green spaces in Warsaw is the presence of peacocks and pheasants, which can be seen here walking around freely, and royal carps in the pond. The Wilan\u00f3w Palace Park, dates back to the second half of the 17th century. It covers the area of 43 ha. Its central French-styled area corresponds to the ancient, baroque forms of the palace. The eastern section of the park, closest to the Palace, is the two-level garden with a terrace facing the pond. The park around the Kr\u00f3likarnia Palace is situated on the old escarpment of the Vistula. The park has lanes running on a few levels deep into the ravines on both sides of the palace.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 92,
+                                    "text": "100"
+                                },
+                                {
+                                    "answer_start": 87,
+                                    "text": "over 100"
+                                },
+                                {
+                                    "answer_start": 92,
+                                    "text": "100"
+                                }
+                            ],
+                            "question": "Over how many species of trees can be found in the Saxon Garden?",
+                            "id": "57336755d058e614000b5a3d"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 579,
+                                    "text": "Krasi\u0144ski Palace Garden"
+                                },
+                                {
+                                    "answer_start": 579,
+                                    "text": "Krasi\u0144ski Palace Garden"
+                                },
+                                {
+                                    "answer_start": 579,
+                                    "text": "Krasi\u0144ski Palace Garden"
+                                }
+                            ],
+                            "question": "What is a popular strolling destination for the Varsovians?",
+                            "id": "57336755d058e614000b5a3f"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "The Saxon Garden"
+                                },
+                                {
+                                    "answer_start": 4,
+                                    "text": "Saxon Garden"
+                                },
+                                {
+                                    "answer_start": 0,
+                                    "text": "The Saxon Garden"
+                                }
+                            ],
+                            "question": "What garden was formally only for royalty?",
+                            "id": "57336755d058e614000b5a3c"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 176,
+                                    "text": "east end"
+                                },
+                                {
+                                    "answer_start": 176,
+                                    "text": "east"
+                                },
+                                {
+                                    "answer_start": 176,
+                                    "text": "east"
+                                }
+                            ],
+                            "question": "Which end of the Saxon Garden is the Tom of the Unknown Soldier located at?",
+                            "id": "57336755d058e614000b5a3e"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 728,
+                                    "text": "\u0141azienki"
+                                },
+                                {
+                                    "answer_start": 728,
+                                    "text": "\u0141azienki Park"
+                                },
+                                {
+                                    "answer_start": 728,
+                                    "text": "\u0141azienki Park"
+                                }
+                            ],
+                            "question": "What park covers an area of 76 ha.?",
+                            "id": "57336755d058e614000b5a40"
+                        }
+                    ]
+                },
+                {
+                    "context": "There are 13 natural reserves in Warsaw \u2013 among others, Bielany Forest, Kabaty Woods, Czerniak\u00f3w Lake. About 15 kilometres (9 miles) from Warsaw, the Vistula river's environment changes strikingly and features a perfectly preserved ecosystem, with a habitat of animals that includes the otter, beaver and hundreds of bird species. There are also several lakes in Warsaw \u2013 mainly the oxbow lakes, like Czerniak\u00f3w Lake, the lakes in the \u0141azienki or Wilan\u00f3w Parks, Kamionek Lake. There are lot of small lakes in the parks, but only a few are permanent \u2013 the majority are emptied before winter to clean them of plants and sediments.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 109,
+                                    "text": "15 kilometres"
+                                },
+                                {
+                                    "answer_start": 109,
+                                    "text": "15 kilometres"
+                                },
+                                {
+                                    "answer_start": 103,
+                                    "text": "About 15 kilometres"
+                                }
+                            ],
+                            "question": "How far from Warsaw does the Vistula river's environment change noticeably? ",
+                            "id": "57337ddc4776f41900660bbb"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 287,
+                                    "text": "otter, beaver and hundreds of bird species"
+                                },
+                                {
+                                    "answer_start": 287,
+                                    "text": "otter, beaver and hundreds of bird species"
+                                },
+                                {
+                                    "answer_start": 287,
+                                    "text": "otter, beaver and hundreds of bird species."
+                                }
+                            ],
+                            "question": "What animals does the Vistula river's ecosystem include?",
+                            "id": "57337ddc4776f41900660bbc"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 10,
+                                    "text": "13"
+                                },
+                                {
+                                    "answer_start": 10,
+                                    "text": "13"
+                                },
+                                {
+                                    "answer_start": 10,
+                                    "text": "13"
+                                }
+                            ],
+                            "question": "How many natural reserves are in Warsaw?",
+                            "id": "57337ddc4776f41900660bba"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 346,
+                                    "text": "several"
+                                },
+                                {
+                                    "answer_start": 346,
+                                    "text": "several"
+                                },
+                                {
+                                    "answer_start": 346,
+                                    "text": "several"
+                                }
+                            ],
+                            "question": "How many lakes are there in Warsaw?",
+                            "id": "57337ddc4776f41900660bbd"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 590,
+                                    "text": "to clean them"
+                                },
+                                {
+                                    "answer_start": 593,
+                                    "text": "clean them"
+                                },
+                                {
+                                    "answer_start": 590,
+                                    "text": "to clean them of plants and sediments"
+                                }
+                            ],
+                            "question": "Why are the small lakes in the parks emptied before winter?",
+                            "id": "57337ddc4776f41900660bbe"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Normans",
+            "paragraphs": [
+                {
+                    "context": "The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 159,
+                                    "text": "France"
+                                },
+                                {
+                                    "answer_start": 159,
+                                    "text": "France"
+                                },
+                                {
+                                    "answer_start": 159,
+                                    "text": "France"
+                                },
+                                {
+                                    "answer_start": 159,
+                                    "text": "France"
+                                }
+                            ],
+                            "question": "In what country is Normandy located?",
+                            "id": "56ddde6b9a695914005b9628"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 94,
+                                    "text": "10th and 11th centuries"
+                                },
+                                {
+                                    "answer_start": 87,
+                                    "text": "in the 10th and 11th centuries"
+                                },
+                                {
+                                    "answer_start": 94,
+                                    "text": "10th and 11th centuries"
+                                },
+                                {
+                                    "answer_start": 94,
+                                    "text": "10th and 11th centuries"
+                                }
+                            ],
+                            "question": "When were the Normans in Normandy?",
+                            "id": "56ddde6b9a695914005b9629"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 256,
+                                    "text": "Denmark, Iceland and Norway"
+                                },
+                                {
+                                    "answer_start": 256,
+                                    "text": "Denmark, Iceland and Norway"
+                                },
+                                {
+                                    "answer_start": 256,
+                                    "text": "Denmark, Iceland and Norway"
+                                },
+                                {
+                                    "answer_start": 256,
+                                    "text": "Denmark, Iceland and Norway"
+                                }
+                            ],
+                            "question": "From which countries did the Norse originate?",
+                            "id": "56ddde6b9a695914005b962a"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 308,
+                                    "text": "Rollo"
+                                },
+                                {
+                                    "answer_start": 308,
+                                    "text": "Rollo"
+                                },
+                                {
+                                    "answer_start": 308,
+                                    "text": "Rollo"
+                                },
+                                {
+                                    "answer_start": 308,
+                                    "text": "Rollo"
+                                }
+                            ],
+                            "question": "Who was the Norse leader?",
+                            "id": "56ddde6b9a695914005b962b"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 671,
+                                    "text": "10th century"
+                                },
+                                {
+                                    "answer_start": 649,
+                                    "text": "the first half of the 10th century"
+                                },
+                                {
+                                    "answer_start": 671,
+                                    "text": "10th"
+                                },
+                                {
+                                    "answer_start": 671,
+                                    "text": "10th"
+                                }
+                            ],
+                            "question": "What century did the Normans first gain their separate identity?",
+                            "id": "56ddde6b9a695914005b962c"
+                        }
+                    ]
+                },
+                {
+                    "context": "The Norman dynasty had a major political, cultural and military impact on medieval Europe and even the Near East. The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language. The Duchy of Normandy, which they formed by treaty with the French crown, was a great fief of medieval France, and under Richard I of Normandy was forged into a cohesive and formidable principality in feudal tenure. The Normans are noted both for their culture, such as their unique Romanesque architecture and musical traditions, and for their significant military accomplishments and innovations. Norman adventurers founded the Kingdom of Sicily under Roger II after conquering southern Italy on the Saracens and Byzantines, and an expedition on behalf of their duke, William the Conqueror, led to the Norman conquest of England at the Battle of Hastings in 1066. Norman cultural and military influence spread from these new European centres to the Crusader states of the Near East, where their prince Bohemond I founded the Principality of Antioch in the Levant, to Scotland and Wales in Great Britain, to Ireland, and to the coasts of north Africa and the Canary Islands.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 1022,
+                                    "text": "William the Conqueror"
+                                },
+                                {
+                                    "answer_start": 1022,
+                                    "text": "William the Conqueror"
+                                },
+                                {
+                                    "answer_start": 1022,
+                                    "text": "William the Conqueror"
+                                }
+                            ],
+                            "question": "Who was the duke in the battle of Hastings?",
+                            "id": "56dddf4066d3e219004dad5f"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 573,
+                                    "text": "Richard I"
+                                },
+                                {
+                                    "answer_start": 573,
+                                    "text": "Richard I"
+                                },
+                                {
+                                    "answer_start": 573,
+                                    "text": "Richard I"
+                                }
+                            ],
+                            "question": "Who ruled the duchy of Normandy",
+                            "id": "56dddf4066d3e219004dad60"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 230,
+                                    "text": "Catholic"
+                                },
+                                {
+                                    "answer_start": 230,
+                                    "text": "Catholic orthodoxy"
+                                },
+                                {
+                                    "answer_start": 230,
+                                    "text": "Catholic"
+                                }
+                            ],
+                            "question": "What religion were the Normans",
+                            "id": "56dddf4066d3e219004dad61"
+                        }
+                    ]
+                },
+                {
+                    "context": "The English name \"Normans\" comes from the French words Normans/Normanz, plural of Normant, modern French normand, which is itself borrowed from Old Low Franconian Nortmann \"Northman\" or directly from Old Norse Nor\u00f0ma\u00f0r, Latinized variously as Nortmannus, Normannus, or Nordmannus (recorded in Medieval Latin, 9th century) to mean \"Norseman, Viking\".",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 341,
+                                    "text": "Viking"
+                                },
+                                {
+                                    "answer_start": 331,
+                                    "text": "Norseman, Viking"
+                                },
+                                {
+                                    "answer_start": 331,
+                                    "text": "Norseman, Viking"
+                                }
+                            ],
+                            "question": "What is the original meaning of the word Norman?",
+                            "id": "56dde0379a695914005b9636"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 309,
+                                    "text": "9th century"
+                                },
+                                {
+                                    "answer_start": 309,
+                                    "text": "9th century"
+                                },
+                                {
+                                    "answer_start": 309,
+                                    "text": "9th century"
+                                }
+                            ],
+                            "question": "When was the Latin version of the word Norman first recorded?",
+                            "id": "56dde0379a695914005b9637"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
