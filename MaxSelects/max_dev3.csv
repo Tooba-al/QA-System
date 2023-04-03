@@ -1,0 +1,411 @@
+0,1,2,3,4
+"['Alexander', 'marry']",Alexander,0,0,2
+"['Alexander', 'marry']",marry,0,0,2
+"['Anglo-Norman', 'language', 'final', 'form']",Anglo-Norman,0,0,2
+"['Anglo-Norman', 'language', 'final', 'form']",final,0,0,2
+"['Anglo-Norman', 'language', 'final', 'form']",form,0,0,2
+"['Anglo-Norman', 'language', 'final', 'form']",language,0,0,2
+"['Archangel', 'Michael', 'shrine', 'located']",Archangel,0,0,2
+"['Archangel', 'Michael', 'shrine', 'located']",Michael,0,0,2
+"['Archangel', 'Michael', 'shrine', 'located']",located,0,0,2
+"['Archangel', 'Michael', 'shrine', 'located']",shrine,0,0,2
+"['Battle', 'Hastings']",Battle,0,0,2
+"['Battle', 'Hastings']",Hastings,0,0,2
+"['Berengaria', 'Navarre', 'marry']",Berengaria,0,0,2
+"['Berengaria', 'Navarre', 'marry']",Navarre,0,0,2
+"['Berengaria', 'Navarre', 'marry']",marry,0,0,2
+"['Count', 'Melfi']",Count,0,0,2
+"['Count', 'Melfi']",Melfi,0,0,2
+"['Duchy', 'Normandy', 'founded']",Duchy,0,0,2
+"['Duchy', 'Normandy', 'founded']",Normandy,0,0,2
+"['Duchy', 'Normandy', 'founded']",founded,0,0,2
+"['Dyrrachium', 'fall', 'Normans']",Dyrrachium,0,0,2
+"['Dyrrachium', 'fall', 'Normans']",Normans,0,0,2
+"['Dyrrachium', 'fall', 'Normans']",fall,0,0,2
+"['Dyrrachium', 'located']",Dyrrachium,0,0,2
+"['Dyrrachium', 'located']",located,0,0,2
+"['Edward', 'Confessor', 'half-brother']",Confessor,0,0,2
+"['Edward', 'Confessor', 'half-brother']",Edward,0,0,2
+"['Edward', 'Confessor', 'half-brother']",half-brother,0,0,2
+"['Edward', 'make', 'archbishop', 'Canterbury']",Canterbury,0,0,2
+"['Edward', 'make', 'archbishop', 'Canterbury']",Edward,0,0,2
+"['Edward', 'make', 'archbishop', 'Canterbury']",archbishop,0,0,2
+"['Edward', 'make', 'archbishop', 'Canterbury']",make,0,0,2
+"['Edward', 'return']",Edward,0,0,2
+"['Edward', 'return']",return,0,0,2
+"['Emma', 'Marry']",Emma,0,0,2
+"['Emma', 'Marry']",Marry,0,0,2
+"['Emma', 'brother']",Emma,0,0,2
+"['Emma', 'brother']",brother,0,0,2
+"['French', 'war', 'religion']",French,0,0,2
+"['French', 'war', 'religion']",religion,0,0,2
+"['French', 'war', 'religion']",war,0,0,2
+"['From', 'country', 'Norse', 'originate']",From,0.293863377,5,2
+"['From', 'country', 'Norse', 'originate']",Norse,0,0,2
+"['From', 'country', 'Norse', 'originate']",country,0,0,2
+"['From', 'country', 'Norse', 'originate']",originate,0,0,2
+"['Guy', 'Rival']",Guy,0,0,2
+"['Guy', 'Rival']",Rival,0,0,2
+"['Harold', 'II', 'die']",Harold,0,0,2
+"['Harold', 'II', 'die']",II,0,0,2
+"['Harold', 'II', 'die']",die,0,0,2
+"['Herve', 'serve', 'Byzantine', 'general']",Byzantine,0,0,2
+"['Herve', 'serve', 'Byzantine', 'general']",Herve,0,0,2
+"['Herve', 'serve', 'Byzantine', 'general']",general,0,0,2
+"['Herve', 'serve', 'Byzantine', 'general']",serve,0,0,2
+"['Isaac', 'chain', 'made']",Isaac,0,0,2
+"['Isaac', 'chain', 'made']",chain,0,0,2
+"['Isaac', 'chain', 'made']",made,0,0,2
+"['Jersey', 'Guernsey']",Guernsey,0,0,2
+"['Jersey', 'Guernsey']",Jersey,0,0,2
+"['Kitab', 'Rudjdjar', 'mean', 'English']",English,0,0,2
+"['Kitab', 'Rudjdjar', 'mean', 'English']",Kitab,0,0,2
+"['Kitab', 'Rudjdjar', 'mean', 'English']",Rudjdjar,0,0,2
+"['Kitab', 'Rudjdjar', 'mean', 'English']",mean,0,0,2
+"['Latin', 'version', 'word', 'Norman', 'first', 'recorded']",Latin,0,0,2
+"['Latin', 'version', 'word', 'Norman', 'first', 'recorded']",Norman,0,0,2
+"['Latin', 'version', 'word', 'Norman', 'first', 'recorded']",first,0,0,2
+"['Latin', 'version', 'word', 'Norman', 'first', 'recorded']",recorded,0,0,2
+"['Latin', 'version', 'word', 'Norman', 'first', 'recorded']",version,0,0,2
+"['Latin', 'version', 'word', 'Norman', 'first', 'recorded']",word,0,0,2
+"['Margaret', 'brother']",Margaret,0,0,2
+"['Margaret', 'brother']",brother,0,0,2
+"['Margaret', 'husband']",Margaret,0,0,2
+"['Margaret', 'husband']",husband,0,0,2
+"['Norman', 'architecture', 'idiom']",Norman,0,0,2
+"['Norman', 'architecture', 'idiom']",architecture,0,0,2
+"['Norman', 'architecture', 'idiom']",idiom,0,0,2
+"['Norman', 'art', 'well', 'known', 'piece']",Norman,0,0,2
+"['Norman', 'art', 'well', 'known', 'piece']",art,0,0,2
+"['Norman', 'art', 'well', 'known', 'piece']",known,0,0,2
+"['Norman', 'art', 'well', 'known', 'piece']",piece,0,0,2
+"['Norman', 'art', 'well', 'known', 'piece']",well,0,0,2
+"['Norman', 'religion']",Norman,0,0,2
+"['Norman', 'religion']",religion,0,0,2
+"['Normans', 'Byzantines', 'sign', 'peace', 'treaty']",Byzantines,0,0,2
+"['Normans', 'Byzantines', 'sign', 'peace', 'treaty']",Normans,0,0,2
+"['Normans', 'Byzantines', 'sign', 'peace', 'treaty']",peace,0,0,2
+"['Normans', 'Byzantines', 'sign', 'peace', 'treaty']",sign,0,0,2
+"['Normans', 'Byzantines', 'sign', 'peace', 'treaty']",treaty,0,0,2
+"['Normans', 'Normandy']",Normandy,0,0,2
+"['Normans', 'Normandy']",Normans,0,0,2
+"['Normans', 'attack', 'Dyrrachium']",Dyrrachium,0,0,2
+"['Normans', 'attack', 'Dyrrachium']",Normans,0,0,2
+"['Normans', 'attack', 'Dyrrachium']",attack,0,0,2
+"['Normans', 'main', 'enemy', 'Italy', 'Byzantine', 'Empire', 'Armenia']",Armenia,0,0,2
+"['Normans', 'main', 'enemy', 'Italy', 'Byzantine', 'Empire', 'Armenia']",Byzantine,0,0,2
+"['Normans', 'main', 'enemy', 'Italy', 'Byzantine', 'Empire', 'Armenia']",Empire,0,0,2
+"['Normans', 'main', 'enemy', 'Italy', 'Byzantine', 'Empire', 'Armenia']",Italy,0,0,2
+"['Normans', 'main', 'enemy', 'Italy', 'Byzantine', 'Empire', 'Armenia']",Normans,0,0,2
+"['Normans', 'main', 'enemy', 'Italy', 'Byzantine', 'Empire', 'Armenia']",enemy,0,0,2
+"['Normans', 'main', 'enemy', 'Italy', 'Byzantine', 'Empire', 'Armenia']",main,0,0,2
+"['Normans', 'team', 'Anatolia']",Anatolia,0,0,2
+"['Normans', 'team', 'Anatolia']",Normans,0,0,2
+"['Normans', 'team', 'Anatolia']",team,0,0,2
+"['Norse', 'leader']",Norse,0,0,2
+"['Norse', 'leader']",leader,0,0,2
+"['Ralph', 'charge', 'war']",Ralph,0,0,2
+"['Ralph', 'charge', 'war']",charge,0,0,2
+"['Ralph', 'charge', 'war']",war,0,0,2
+"['Ralph', 'earl']",Ralph,0,0,2
+"['Ralph', 'earl']",earl,0,0,2
+"['Richard', 'fiancee']",Richard,0,0,2
+"['Richard', 'fiancee']",fiancee,0,0,2
+"['Robert', 'Crispin', 'go', 'Turks']",Crispin,0,0,2
+"['Robert', 'Crispin', 'go', 'Turks']",Robert,0,0,2
+"['Robert', 'Crispin', 'go', 'Turks']",Turks,0,0,2
+"['Robert', 'Crispin', 'go', 'Turks']",go,0,0,2
+"['Robert', 'son']",Robert,0,0,2
+"['Robert', 'son']",son,0,0,2
+"['Rollo', 'sign', 'treaty', 'Saint-Clair-sur-Epte']",Rollo,0,0,2
+"['Rollo', 'sign', 'treaty', 'Saint-Clair-sur-Epte']",Saint-Clair-sur-Epte,0,0,2
+"['Rollo', 'sign', 'treaty', 'Saint-Clair-sur-Epte']",sign,0,0,2
+"['Rollo', 'sign', 'treaty', 'Saint-Clair-sur-Epte']",treaty,0,0,2
+"['Scotland', 'invaded', 'William']",Scotland,0,0,2
+"['Scotland', 'invaded', 'William']",William,0,0,2
+"['Scotland', 'invaded', 'William']",invaded,0,0,2
+"['Siege', 'Antioch', 'take', 'place']",Antioch,0,0,2
+"['Siege', 'Antioch', 'take', 'place']",Siege,0,0,2
+"['Siege', 'Antioch', 'take', 'place']",place,0,0,2
+"['Siege', 'Antioch', 'take', 'place']",take,0,0,2
+"['To', 'Ethelred', 'flee']",Ethelred,0,0,2
+"['To', 'Ethelred', 'flee']",To,0,0,2
+"['To', 'Ethelred', 'flee']",flee,0,0,2
+"['Venetians', 'take', 'total', 'control', 'Cyprus']",Cyprus,0,0,2
+"['Venetians', 'take', 'total', 'control', 'Cyprus']",Venetians,0,0,2
+"['Venetians', 'take', 'total', 'control', 'Cyprus']",control,0,0,2
+"['Venetians', 'take', 'total', 'control', 'Cyprus']",take,0,0,2
+"['Venetians', 'take', 'total', 'control', 'Cyprus']",total,0,0,2
+"['Whose', 'shrine', 'pilgrim', 'go', '1016']",1016,0,0,2
+"['Whose', 'shrine', 'pilgrim', 'go', '1016']",Whose,0,0,2
+"['Whose', 'shrine', 'pilgrim', 'go', '1016']",go,0,0,2
+"['Whose', 'shrine', 'pilgrim', 'go', '1016']",pilgrim,0,0,2
+"['Whose', 'shrine', 'pilgrim', 'go', '1016']",shrine,0,0,2
+"['William', 'Iron', 'Arm', 'castle', 'located']",Arm,0,0,2
+"['William', 'Iron', 'Arm', 'castle', 'located']",Iron,0,0,2
+"['William', 'Iron', 'Arm', 'castle', 'located']",William,0,0,2
+"['William', 'Iron', 'Arm', 'castle', 'located']",castle,0,0,2
+"['William', 'Iron', 'Arm', 'castle', 'located']",located,0,0,2
+"['another', 'name', 'Tabula', 'Rogeriana']",Rogeriana,0,0,2
+"['another', 'name', 'Tabula', 'Rogeriana']",Tabula,0,0,2
+"['another', 'name', 'Tabula', 'Rogeriana']",another,0,0,2
+"['another', 'name', 'Tabula', 'Rogeriana']",name,0,0,2
+"['architecture', 'type', 'came', 'Norman', 'England']",England,0,0,2
+"['architecture', 'type', 'came', 'Norman', 'England']",Norman,0,0,2
+"['architecture', 'type', 'came', 'Norman', 'England']",architecture,0,0,2
+"['architecture', 'type', 'came', 'Norman', 'England']",came,0,0,2
+"['architecture', 'type', 'came', 'Norman', 'England']",type,0,0,2
+"['attack', 'occur', 'Normans', 'impressed', 'Prince', 'Guaimar', 'III', 'occur']",Guaimar,0,0,2
+"['attack', 'occur', 'Normans', 'impressed', 'Prince', 'Guaimar', 'III', 'occur']",III,0,0,2
+"['attack', 'occur', 'Normans', 'impressed', 'Prince', 'Guaimar', 'III', 'occur']",Normans,0,0,2
+"['attack', 'occur', 'Normans', 'impressed', 'Prince', 'Guaimar', 'III', 'occur']",Prince,0,0,2
+"['attack', 'occur', 'Normans', 'impressed', 'Prince', 'Guaimar', 'III', 'occur']",attack,0,0,2
+"['attack', 'occur', 'Normans', 'impressed', 'Prince', 'Guaimar', 'III', 'occur']",impressed,0,0,2
+"['attack', 'occur', 'Normans', 'impressed', 'Prince', 'Guaimar', 'III', 'occur']",occur,0,0,2
+"['became', 'King', 'Canary', 'Islands']",Canary,0,0,2
+"['became', 'King', 'Canary', 'Islands']",Islands,0,0,2
+"['became', 'King', 'Canary', 'Islands']",King,0,0,2
+"['became', 'King', 'Canary', 'Islands']",became,0,0,2
+"['bought', 'right']",bought,0,0,2
+"['bought', 'right']",right,0,0,2
+"['century', 'Normans', 'first', 'gain', 'separate', 'identity']",Normans,0,0,2
+"['century', 'Normans', 'first', 'gain', 'separate', 'identity']",century,0,0,2
+"['century', 'Normans', 'first', 'gain', 'separate', 'identity']",first,0,0,2
+"['century', 'Normans', 'first', 'gain', 'separate', 'identity']",gain,0,0,2
+"['century', 'Normans', 'first', 'gain', 'separate', 'identity']",identity,0,0,2
+"['century', 'Normans', 'first', 'gain', 'separate', 'identity']",separate,0,0,2
+"['century', 'important', 'classical', 'music', 'development', 'occur', 'Normandy']",Normandy,0,0,2
+"['century', 'important', 'classical', 'music', 'development', 'occur', 'Normandy']",century,0,0,2
+"['century', 'important', 'classical', 'music', 'development', 'occur', 'Normandy']",classical,0,0,2
+"['century', 'important', 'classical', 'music', 'development', 'occur', 'Normandy']",development,0,0,2
+"['century', 'important', 'classical', 'music', 'development', 'occur', 'Normandy']",important,0,0,2
+"['century', 'important', 'classical', 'music', 'development', 'occur', 'Normandy']",music,0,0,2
+"['century', 'important', 'classical', 'music', 'development', 'occur', 'Normandy']",occur,0,0,2
+"['charge', 'papal', 'army', 'War', 'Barbastro']",Barbastro,0,0,2
+"['charge', 'papal', 'army', 'War', 'Barbastro']",War,0,0,2
+"['charge', 'papal', 'army', 'War', 'Barbastro']",army,0,0,2
+"['charge', 'papal', 'army', 'War', 'Barbastro']",charge,0,0,2
+"['charge', 'papal', 'army', 'War', 'Barbastro']",papal,0,0,2
+"['church', 'reform', 'begin']",begin,0,0,2
+"['church', 'reform', 'begin']",church,0,0,2
+"['church', 'reform', 'begin']",reform,0,0,2
+"['commissioned', 'Tapestry']",Tapestry,0,0,2
+"['commissioned', 'Tapestry']",commissioned,0,0,2
+"['continent', 'Canarian', 'Islands', 'coast']",Canarian,0,0,2
+"['continent', 'Canarian', 'Islands', 'coast']",Islands,0,0,2
+"['continent', 'Canarian', 'Islands', 'coast']",coast,0,0,2
+"['continent', 'Canarian', 'Islands', 'coast']",continent,0,0,2
+"['controlled', 'Sicily', 'Normans']",Normans,0,0,2
+"['controlled', 'Sicily', 'Normans']",Sicily,0,0,2
+"['controlled', 'Sicily', 'Normans']",controlled,0,0,2
+"['country', 'Normandy', 'located']",Normandy,0,0,2
+"['country', 'Normandy', 'located']",country,3.526360525,8,2
+"['country', 'Normandy', 'located']",located,0.881590131,15,2
+"['country', 'Normans', 'invade', '1169']",1169,0,0,2
+"['country', 'Normans', 'invade', '1169']",Normans,0,0,2
+"['country', 'Normans', 'invade', '1169']",country,0,0,2
+"['country', 'Normans', 'invade', '1169']",invade,0,0,2
+"['country', 'control', 'Norman', 'baron']",Norman,0,0,2
+"['country', 'control', 'Norman', 'baron']",baron,0,0,2
+"['country', 'control', 'Norman', 'baron']",control,0,0,2
+"['country', 'control', 'Norman', 'baron']",country,0,0,2
+"['culture', 'Normans', 'combine', 'Ireland']",Ireland,0,0,2
+"['culture', 'Normans', 'combine', 'Ireland']",Normans,0,0,2
+"['culture', 'Normans', 'combine', 'Ireland']",combine,0,0,2
+"['culture', 'Normans', 'combine', 'Ireland']",culture,0,0,2
+"['culture', 'arrival', 'Scotland', 'know', 'Davidian', 'Revolution']",Davidian,0,0,2
+"['culture', 'arrival', 'Scotland', 'know', 'Davidian', 'Revolution']",Revolution,0,0,2
+"['culture', 'arrival', 'Scotland', 'know', 'Davidian', 'Revolution']",Scotland,0,0,2
+"['culture', 'arrival', 'Scotland', 'know', 'Davidian', 'Revolution']",arrival,0,0,2
+"['culture', 'arrival', 'Scotland', 'know', 'Davidian', 'Revolution']",culture,0,0,2
+"['culture', 'arrival', 'Scotland', 'know', 'Davidian', 'Revolution']",know,0,0,2
+"['customaries', 'Norman', 'customary', 'law']",Norman,0,0,2
+"['customaries', 'Norman', 'customary', 'law']",customaries,0,0,2
+"['customaries', 'Norman', 'customary', 'law']",customary,0,0,2
+"['customaries', 'Norman', 'customary', 'law']",law,0,0,2
+"['duke', 'battle', 'Hastings']",Hastings,0,0,2
+"['duke', 'battle', 'Hastings']",battle,0,0,2
+"['duke', 'battle', 'Hastings']",duke,0,0,2
+"['group', 'bought', 'Cyprus', 'Norman', 'conquest']",Cyprus,0,0,2
+"['group', 'bought', 'Cyprus', 'Norman', 'conquest']",Norman,0,0,2
+"['group', 'bought', 'Cyprus', 'Norman', 'conquest']",bought,0,0,2
+"['group', 'bought', 'Cyprus', 'Norman', 'conquest']",conquest,0,0,2
+"['group', 'bought', 'Cyprus', 'Norman', 'conquest']",group,0,0,2
+['hostage'],hostage,0,0,2
+"['important', 'type', 'Norman', 'art', 'preserved', 'church']",Norman,0,0,2
+"['important', 'type', 'Norman', 'art', 'preserved', 'church']",art,0,0,2
+"['important', 'type', 'Norman', 'art', 'preserved', 'church']",church,0,0,2
+"['important', 'type', 'Norman', 'art', 'preserved', 'church']",important,0,0,2
+"['important', 'type', 'Norman', 'art', 'preserved', 'church']",preserved,0,0,2
+"['important', 'type', 'Norman', 'art', 'preserved', 'church']",type,0,0,2
+"['kicked', 'Ethelred']",Ethelred,0,0,2
+"['kicked', 'Ethelred']",kicked,0,0,2
+"['killed', 'Harold', 'II']",Harold,0,0,2
+"['killed', 'Harold', 'II']",II,0,0,2
+"['killed', 'Harold', 'II']",killed,0,0,2
+"['kind', 'arch', 'Norman', 'architecture']",Norman,0,0,2
+"['kind', 'arch', 'Norman', 'architecture']",arch,0,0,2
+"['kind', 'arch', 'Norman', 'architecture']",architecture,0,0,2
+"['kind', 'arch', 'Norman', 'architecture']",kind,0,0,2
+"['kind', 'bureaucracy', 'Normans', 'institute']",Normans,0,0,2
+"['kind', 'bureaucracy', 'Normans', 'institute']",bureaucracy,0,0,2
+"['kind', 'bureaucracy', 'Normans', 'institute']",institute,0,0,2
+"['kind', 'bureaucracy', 'Normans', 'institute']",kind,0,0,2
+"['kind', 'coronation', 'happened']",coronation,0,0,2
+"['kind', 'coronation', 'happened']",happened,0,0,2
+"['kind', 'coronation', 'happened']",kind,0,0,2
+"['kind', 'needlework', 'used', 'creation', 'Bayeux', 'Tapestry']",Bayeux,0,0,2
+"['kind', 'needlework', 'used', 'creation', 'Bayeux', 'Tapestry']",Tapestry,0,0,2
+"['kind', 'needlework', 'used', 'creation', 'Bayeux', 'Tapestry']",creation,0,0,2
+"['kind', 'needlework', 'used', 'creation', 'Bayeux', 'Tapestry']",kind,0,0,2
+"['kind', 'needlework', 'used', 'creation', 'Bayeux', 'Tapestry']",needlework,0,0,2
+"['kind', 'needlework', 'used', 'creation', 'Bayeux', 'Tapestry']",used,0,0,2
+"['leader', 'Franks', 'entered', 'Euphrates', 'valley']",Euphrates,0,0,2
+"['leader', 'Franks', 'entered', 'Euphrates', 'valley']",Franks,0,0,2
+"['leader', 'Franks', 'entered', 'Euphrates', 'valley']",entered,0,0,2
+"['leader', 'Franks', 'entered', 'Euphrates', 'valley']",leader,0,0,2
+"['leader', 'Franks', 'entered', 'Euphrates', 'valley']",valley,0,0,2
+"['led', 'Richard', 'troop', 'Cyprus', 'conquered']",Cyprus,0,0,2
+"['led', 'Richard', 'troop', 'Cyprus', 'conquered']",Richard,0,0,2
+"['led', 'Richard', 'troop', 'Cyprus', 'conquered']",conquered,0,0,2
+"['led', 'Richard', 'troop', 'Cyprus', 'conquered']",led,0,0,2
+"['led', 'Richard', 'troop', 'Cyprus', 'conquered']",troop,0,0,2
+"['long', 'Western', 'Europe', 'control', 'Cyprus']",Cyprus,0,0,2
+"['long', 'Western', 'Europe', 'control', 'Cyprus']",Europe,0,0,2
+"['long', 'Western', 'Europe', 'control', 'Cyprus']",Western,0,0,2
+"['long', 'Western', 'Europe', 'control', 'Cyprus']",control,0,0,2
+"['long', 'Western', 'Europe', 'control', 'Cyprus']",long,0,0,2
+"['made', 'Ralph', 'earl']",Ralph,0,0,2
+"['made', 'Ralph', 'earl']",earl,0,0,2
+"['made', 'Ralph', 'earl']",made,0,0,2
+"['major', 'conquest', 'Tancred', 'play', 'roll']",Tancred,0,0,2
+"['major', 'conquest', 'Tancred', 'play', 'roll']",conquest,0,0,2
+"['major', 'conquest', 'Tancred', 'play', 'roll']",major,0,0,2
+"['major', 'conquest', 'Tancred', 'play', 'roll']",play,0,0,2
+"['major', 'conquest', 'Tancred', 'play', 'roll']",roll,0,0,2
+"['men', 'Robert', 'army']",Robert,0,0,2
+"['men', 'Robert', 'army']",army,0,0,2
+"['men', 'Robert', 'army']",men,0,0,2
+"['monastery', 'Saint-Evroul', 'monk', 'establish', 'Italy']",Italy,0,0,2
+"['monastery', 'Saint-Evroul', 'monk', 'establish', 'Italy']",Saint-Evroul,0,0,2
+"['monastery', 'Saint-Evroul', 'monk', 'establish', 'Italy']",establish,0,0,2
+"['monastery', 'Saint-Evroul', 'monk', 'establish', 'Italy']",monastery,0,0,2
+"['monastery', 'Saint-Evroul', 'monk', 'establish', 'Italy']",monk,0,0,2
+"['monk', 'flee']",flee,0,0,2
+"['monk', 'flee']",monk,0,0,2
+"['name', 'Bohemond', 'nephew']",Bohemond,0,0,2
+"['name', 'Bohemond', 'nephew']",name,0,0,2
+"['name', 'Bohemond', 'nephew']",nephew,0,0,2
+"['name', 'Norman', 'castle']",Norman,0,0,2
+"['name', 'Norman', 'castle']",castle,0,0,2
+"['name', 'Norman', 'castle']",name,0,0,2
+"['name', 'count', 'Apulia']",Apulia,0,0,2
+"['name', 'count', 'Apulia']",count,0,0,2
+"['name', 'count', 'Apulia']",name,0,0,2
+"['name', 'leader', 'ennobled', 'Henry', 'III']",Henry,0,0,2
+"['name', 'leader', 'ennobled', 'Henry', 'III']",III,0,0,2
+"['name', 'leader', 'ennobled', 'Henry', 'III']",ennobled,0,0,2
+"['name', 'leader', 'ennobled', 'Henry', 'III']",leader,0,0,2
+"['name', 'leader', 'ennobled', 'Henry', 'III']",name,0,0,2
+"['naval', 'base', 'called']",base,0,0,2
+"['naval', 'base', 'called']",called,0,0,2
+"['naval', 'base', 'called']",naval,0,0,2
+"['one', 'Norman', 'major', 'export']",Norman,0,0,2
+"['one', 'Norman', 'major', 'export']",export,0,0,2
+"['one', 'Norman', 'major', 'export']",major,0,0,2
+"['one', 'Norman', 'major', 'export']",one,0,0,2
+"['origin', 'Raouliii', 'family']",Raouliii,0,0,2
+"['origin', 'Raouliii', 'family']",family,0,0,2
+"['origin', 'Raouliii', 'family']",origin,0,0,2
+"['original', 'meaning', 'word', 'Norman']",Norman,0,0,2
+"['original', 'meaning', 'word', 'Norman']",meaning,0,0,2
+"['original', 'meaning', 'word', 'Norman']",original,0,0,2
+"['original', 'meaning', 'word', 'Norman']",word,0,0,2
+"['part', 'France', 'Normans', 'located']",France,0,0,2
+"['part', 'France', 'Normans', 'located']",Normans,0,0,2
+"['part', 'France', 'Normans', 'located']",located,0,0,2
+"['part', 'France', 'Normans', 'located']",part,0,0,2
+"['patronized', 'monk', 'Italy']",Italy,0,0,2
+"['patronized', 'monk', 'Italy']",monk,0,0,2
+"['patronized', 'monk', 'Italy']",patronized,0,0,2
+"['place', 'Norman', 'Arab', 'architectural', 'style']",Arab,0,0,2
+"['place', 'Norman', 'Arab', 'architectural', 'style']",Norman,0,0,2
+"['place', 'Norman', 'Arab', 'architectural', 'style']",architectural,0,0,2
+"['place', 'Norman', 'Arab', 'architectural', 'style']",place,0,0,2
+"['place', 'Norman', 'Arab', 'architectural', 'style']",style,0,0,2
+"['religion', 'Normans']",Normans,0,0,2
+"['religion', 'Normans']",religion,0,0,2
+"['river', 'Petrela', 'located']",Petrela,0,0,2
+"['river', 'Petrela', 'located']",located,0,0,2
+"['river', 'Petrela', 'located']",river,0,0,2
+"['river', 'originally', 'bounded', 'Duchy']",Duchy,0,0,2
+"['river', 'originally', 'bounded', 'Duchy']",bounded,0,0,2
+"['river', 'originally', 'bounded', 'Duchy']",originally,0,0,2
+"['river', 'originally', 'bounded', 'Duchy']",river,0,0,2
+"['ruined', 'Richard', 'plan', 'reach', 'Acre']",Acre,0,0,2
+"['ruined', 'Richard', 'plan', 'reach', 'Acre']",Richard,0,0,2
+"['ruined', 'Richard', 'plan', 'reach', 'Acre']",plan,0,0,2
+"['ruined', 'Richard', 'plan', 'reach', 'Acre']",reach,0,0,2
+"['ruined', 'Richard', 'plan', 'reach', 'Acre']",ruined,0,0,2
+"['ruined', 'Roussel', 'de', 'Bailleul', 'plan', 'independent', 'state']",Bailleul,0,0,2
+"['ruined', 'Roussel', 'de', 'Bailleul', 'plan', 'independent', 'state']",Roussel,0,0,2
+"['ruined', 'Roussel', 'de', 'Bailleul', 'plan', 'independent', 'state']",de,0,0,2
+"['ruined', 'Roussel', 'de', 'Bailleul', 'plan', 'independent', 'state']",independent,0,0,2
+"['ruined', 'Roussel', 'de', 'Bailleul', 'plan', 'independent', 'state']",plan,0,0,2
+"['ruined', 'Roussel', 'de', 'Bailleul', 'plan', 'independent', 'state']",ruined,0,0,2
+"['ruined', 'Roussel', 'de', 'Bailleul', 'plan', 'independent', 'state']",state,0,0,2
+"['ruled', 'Cyprus', '1191']",1191,0,0,2
+"['ruled', 'Cyprus', '1191']",Cyprus,0,0,2
+"['ruled', 'Cyprus', '1191']",ruled,0,0,2
+"['ruled', 'duchy', 'Normandy']",Normandy,0,0,2
+"['ruled', 'duchy', 'Normandy']",duchy,0,0,2
+"['ruled', 'duchy', 'Normandy']",ruled,0,0,2
+"['ruling', 'class', 'ahead', 'Normans']",Normans,0,0,2
+"['ruling', 'class', 'ahead', 'Normans']",ahead,0,0,2
+"['ruling', 'class', 'ahead', 'Normans']",class,0,0,2
+"['ruling', 'class', 'ahead', 'Normans']",ruling,0,0,2
+"['sold', 'right']",right,0,0,2
+"['sold', 'right']",sold,0,0,2
+"['tradition', 'Saint-Evroul', 'monk', 'known']",Saint-Evroul,0,0,2
+"['tradition', 'Saint-Evroul', 'monk', 'known']",known,0,0,2
+"['tradition', 'Saint-Evroul', 'monk', 'known']",monk,0,0,2
+"['tradition', 'Saint-Evroul', 'monk', 'known']",tradition,0,0,2
+"['two', 'abbot', 'Fécamp', 'Abbey']",Abbey,0,0,2
+"['two', 'abbot', 'Fécamp', 'Abbey']",Fécamp,0,0,2
+"['two', 'abbot', 'Fécamp', 'Abbey']",abbot,0,0,2
+"['two', 'abbot', 'Fécamp', 'Abbey']",two,0,0,2
+"['upon', 'arriving', 'gave', 'original', 'viking', 'settler', 'common', 'identity']",arriving,0,0,2
+"['upon', 'arriving', 'gave', 'original', 'viking', 'settler', 'common', 'identity']",common,0,0,2
+"['upon', 'arriving', 'gave', 'original', 'viking', 'settler', 'common', 'identity']",gave,0,0,2
+"['upon', 'arriving', 'gave', 'original', 'viking', 'settler', 'common', 'identity']",identity,0,0,2
+"['upon', 'arriving', 'gave', 'original', 'viking', 'settler', 'common', 'identity']",original,0,0,2
+"['upon', 'arriving', 'gave', 'original', 'viking', 'settler', 'common', 'identity']",settler,0,0,2
+"['upon', 'arriving', 'gave', 'original', 'viking', 'settler', 'common', 'identity']",upon,0,0,2
+"['upon', 'arriving', 'gave', 'original', 'viking', 'settler', 'common', 'identity']",viking,0,0,2
+"['used', 'church', 'unify']",church,0,0,2
+"['used', 'church', 'unify']",unify,0,0,2
+"['used', 'church', 'unify']",used,0,0,2
+"['wedding', 'date']",date,0,0,2
+"['wedding', 'date']",wedding,0,0,2
+"['year', 'Norman', 'invade', 'Bannow', 'Bay']",Bannow,0,0,2
+"['year', 'Norman', 'invade', 'Bannow', 'Bay']",Bay,0,0,2
+"['year', 'Norman', 'invade', 'Bannow', 'Bay']",Norman,0,0,2
+"['year', 'Norman', 'invade', 'Bannow', 'Bay']",invade,0,0,2
+"['year', 'Norman', 'invade', 'Bannow', 'Bay']",year,0,0,2
+"['year', 'Roger', 'II', 'made', 'king']",II,0,0,2
+"['year', 'Roger', 'II', 'made', 'king']",Roger,0,0,2
+"['year', 'Roger', 'II', 'made', 'king']",king,0,0,2
+"['year', 'Roger', 'II', 'made', 'king']",made,0,0,2
+"['year', 'Roger', 'II', 'made', 'king']",year,0,0,2
+"['year', 'Roger', 'de', 'Tosny', 'fail', 'accomplish', 'set']",Roger,0,0,2
+"['year', 'Roger', 'de', 'Tosny', 'fail', 'accomplish', 'set']",Tosny,0,0,2
+"['year', 'Roger', 'de', 'Tosny', 'fail', 'accomplish', 'set']",accomplish,0,0,2
+"['year', 'Roger', 'de', 'Tosny', 'fail', 'accomplish', 'set']",de,0,0,2
+"['year', 'Roger', 'de', 'Tosny', 'fail', 'accomplish', 'set']",fail,0,0,2
+"['year', 'Roger', 'de', 'Tosny', 'fail', 'accomplish', 'set']",set,0,0,2
+"['year', 'Roger', 'de', 'Tosny', 'fail', 'accomplish', 'set']",year,0,0,2
+"['year', 'storm', 'hit', 'Richard', 'fleet']",Richard,0,0,2
+"['year', 'storm', 'hit', 'Richard', 'fleet']",fleet,0,0,2
+"['year', 'storm', 'hit', 'Richard', 'fleet']",hit,0,0,2
+"['year', 'storm', 'hit', 'Richard', 'fleet']",storm,0,0,2
+"['year', 'storm', 'hit', 'Richard', 'fleet']",year,0,0,2

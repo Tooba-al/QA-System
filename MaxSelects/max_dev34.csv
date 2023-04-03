@@ -1,0 +1,1737 @@
+s,1,2,3,4
+"[""n't"", 'economic', 'growth', 'sufficient', 'progress']",economic,0,0,33
+"[""n't"", 'economic', 'growth', 'sufficient', 'progress']",growth,0,0,33
+"[""n't"", 'economic', 'growth', 'sufficient', 'progress']",n't,0,0,33
+"[""n't"", 'economic', 'growth', 'sufficient', 'progress']",progress,0,0,33
+"[""n't"", 'economic', 'growth', 'sufficient', 'progress']",sufficient,0,0,33
+"['1996', 'study', 'Perotti', 'examine']",1996,0,0,33
+"['1996', 'study', 'Perotti', 'examine']",Perotti,0,0,33
+"['1996', 'study', 'Perotti', 'examine']",examine,0,0,33
+"['1996', 'study', 'Perotti', 'examine']",study,0,0,33
+"['2013', 'report', 'Nigeria', 'suggest', 'growth', 'done']",2013,0,0,33
+"['2013', 'report', 'Nigeria', 'suggest', 'growth', 'done']",Nigeria,0,0,33
+"['2013', 'report', 'Nigeria', 'suggest', 'growth', 'done']",done,0,0,33
+"['2013', 'report', 'Nigeria', 'suggest', 'growth', 'done']",growth,0,0,33
+"['2013', 'report', 'Nigeria', 'suggest', 'growth', 'done']",report,0,0,33
+"['2013', 'report', 'Nigeria', 'suggest', 'growth', 'done']",suggest,0,0,33
+"['According', '1955', 'review', 'saving', 'wealthy', 'thought', 'offset']",1955,0,0,33
+"['According', '1955', 'review', 'saving', 'wealthy', 'thought', 'offset']",According,0,0,33
+"['According', '1955', 'review', 'saving', 'wealthy', 'thought', 'offset']",offset,0,0,33
+"['According', '1955', 'review', 'saving', 'wealthy', 'thought', 'offset']",review,0,0,33
+"['According', '1955', 'review', 'saving', 'wealthy', 'thought', 'offset']",saving,0,0,33
+"['According', '1955', 'review', 'saving', 'wealthy', 'thought', 'offset']",thought,0,0,33
+"['According', '1955', 'review', 'saving', 'wealthy', 'thought', 'offset']",wealthy,0,0,33
+"['According', 'Oxfam', '85', 'richest', 'people', 'wealth', 'equal', 'average', 'people']",85,0.408057852,24,33
+"['According', 'Oxfam', '85', 'richest', 'people', 'wealth', 'equal', 'average', 'people']",According,0.748106062,5,33
+"['According', 'Oxfam', '85', 'richest', 'people', 'wealth', 'equal', 'average', 'people']",Oxfam,0,0,33
+"['According', 'Oxfam', '85', 'richest', 'people', 'wealth', 'equal', 'average', 'people']",average,0,0,33
+"['According', 'Oxfam', '85', 'richest', 'people', 'wealth', 'equal', 'average', 'people']",equal,0.044886364,10,33
+"['According', 'Oxfam', '85', 'richest', 'people', 'wealth', 'equal', 'average', 'people']",people,4.48863637,20,33
+"['According', 'Oxfam', '85', 'richest', 'people', 'wealth', 'equal', 'average', 'people']",richest,0.04007711,18,33
+"['According', 'Oxfam', '85', 'richest', 'people', 'wealth', 'equal', 'average', 'people']",wealth,0,0,33
+"['According', 'wealth', 'concentration', 'theory', 'advantage', 'wealthy', 'accumulating', 'new', 'wealth']",According,0,0,33
+"['According', 'wealth', 'concentration', 'theory', 'advantage', 'wealthy', 'accumulating', 'new', 'wealth']",accumulating,0,0,33
+"['According', 'wealth', 'concentration', 'theory', 'advantage', 'wealthy', 'accumulating', 'new', 'wealth']",advantage,0,0,33
+"['According', 'wealth', 'concentration', 'theory', 'advantage', 'wealthy', 'accumulating', 'new', 'wealth']",concentration,0,0,33
+"['According', 'wealth', 'concentration', 'theory', 'advantage', 'wealthy', 'accumulating', 'new', 'wealth']",new,0,0,33
+"['According', 'wealth', 'concentration', 'theory', 'advantage', 'wealthy', 'accumulating', 'new', 'wealth']",theory,0,0,33
+"['According', 'wealth', 'concentration', 'theory', 'advantage', 'wealthy', 'accumulating', 'new', 'wealth']",wealth,0,0,33
+"['According', 'wealth', 'concentration', 'theory', 'advantage', 'wealthy', 'accumulating', 'new', 'wealth']",wealthy,0,0,33
+"['Americans', 'richer', 'half', 'citizen']",Americans,0,0,33
+"['Americans', 'richer', 'half', 'citizen']",citizen,0,0,33
+"['Americans', 'richer', 'half', 'citizen']",half,0,0,33
+"['Americans', 'richer', 'half', 'citizen']",richer,0,0,33
+"['An', 'adobe', 'provides', 'le', 'utility', 'one', 'person', 'another', 'example', 'reduced']",An,0,0,33
+"['An', 'adobe', 'provides', 'le', 'utility', 'one', 'person', 'another', 'example', 'reduced']",adobe,0,0,33
+"['An', 'adobe', 'provides', 'le', 'utility', 'one', 'person', 'another', 'example', 'reduced']",another,0,0,33
+"['An', 'adobe', 'provides', 'le', 'utility', 'one', 'person', 'another', 'example', 'reduced']",example,0,0,33
+"['An', 'adobe', 'provides', 'le', 'utility', 'one', 'person', 'another', 'example', 'reduced']",le,0,0,33
+"['An', 'adobe', 'provides', 'le', 'utility', 'one', 'person', 'another', 'example', 'reduced']",one,0,0,33
+"['An', 'adobe', 'provides', 'le', 'utility', 'one', 'person', 'another', 'example', 'reduced']",person,0,0,33
+"['An', 'adobe', 'provides', 'le', 'utility', 'one', 'person', 'another', 'example', 'reduced']",provides,0,0,33
+"['An', 'adobe', 'provides', 'le', 'utility', 'one', 'person', 'another', 'example', 'reduced']",reduced,0,0,33
+"['An', 'adobe', 'provides', 'le', 'utility', 'one', 'person', 'another', 'example', 'reduced']",utility,0,0,33
+"['Ban', 'Ki-Moon', 'Secretary', 'General']",Ban,0,0,33
+"['Ban', 'Ki-Moon', 'Secretary', 'General']",General,0,0,33
+"['Ban', 'Ki-Moon', 'Secretary', 'General']",Ki-Moon,0,0,33
+"['Ban', 'Ki-Moon', 'Secretary', 'General']",Secretary,0,0,33
+"['Barro', 'found', 'little', 'relation', 'income', 'inequality', 'rate']",Barro,0,0,33
+"['Barro', 'found', 'little', 'relation', 'income', 'inequality', 'rate']",found,0,0,33
+"['Barro', 'found', 'little', 'relation', 'income', 'inequality', 'rate']",income,0,0,33
+"['Barro', 'found', 'little', 'relation', 'income', 'inequality', 'rate']",inequality,0,0,33
+"['Barro', 'found', 'little', 'relation', 'income', 'inequality', 'rate']",little,0,0,33
+"['Barro', 'found', 'little', 'relation', 'income', 'inequality', 'rate']",rate,0,0,33
+"['Barro', 'found', 'little', 'relation', 'income', 'inequality', 'rate']",relation,0,0,33
+"['Branko', 'Milanovic', 'Joseph', 'Stiglitz']",Branko,0,0,33
+"['Branko', 'Milanovic', 'Joseph', 'Stiglitz']",Joseph,0,0,33
+"['Branko', 'Milanovic', 'Joseph', 'Stiglitz']",Milanovic,0,0,33
+"['Branko', 'Milanovic', 'Joseph', 'Stiglitz']",Stiglitz,0,0,33
+"['Compared', 'cause', 'effect', 'trade', 'inequality', 'America']",America,0,0,33
+"['Compared', 'cause', 'effect', 'trade', 'inequality', 'America']",Compared,0,0,33
+"['Compared', 'cause', 'effect', 'trade', 'inequality', 'America']",cause,0,0,33
+"['Compared', 'cause', 'effect', 'trade', 'inequality', 'America']",effect,0,0,33
+"['Compared', 'cause', 'effect', 'trade', 'inequality', 'America']",inequality,0,0,33
+"['Compared', 'cause', 'effect', 'trade', 'inequality', 'America']",trade,0,0,33
+"['David', 'Castlles-Quintana', 'Vicente', 'Royuela', 'living']",Castlles-Quintana,0,0,33
+"['David', 'Castlles-Quintana', 'Vicente', 'Royuela', 'living']",David,0,0,33
+"['David', 'Castlles-Quintana', 'Vicente', 'Royuela', 'living']",Royuela,0,0,33
+"['David', 'Castlles-Quintana', 'Vicente', 'Royuela', 'living']",Vicente,0,0,33
+"['David', 'Castlles-Quintana', 'Vicente', 'Royuela', 'living']",living,0,0,33
+"['During', 'time', 'period', 'income', 'inequality', 'decrease', 'United', 'States']",During,0,0,33
+"['During', 'time', 'period', 'income', 'inequality', 'decrease', 'United', 'States']",States,0,0,33
+"['During', 'time', 'period', 'income', 'inequality', 'decrease', 'United', 'States']",United,0,0,33
+"['During', 'time', 'period', 'income', 'inequality', 'decrease', 'United', 'States']",decrease,0,0,33
+"['During', 'time', 'period', 'income', 'inequality', 'decrease', 'United', 'States']",income,0,0,33
+"['During', 'time', 'period', 'income', 'inequality', 'decrease', 'United', 'States']",inequality,0,0,33
+"['During', 'time', 'period', 'income', 'inequality', 'decrease', 'United', 'States']",period,0,0,33
+"['During', 'time', 'period', 'income', 'inequality', 'decrease', 'United', 'States']",time,0,0,33
+"['Excessive', 'bureaucratic', 'red', 'tape', 'one', 'reason', 'type', 'ownership']",Excessive,0,0,33
+"['Excessive', 'bureaucratic', 'red', 'tape', 'one', 'reason', 'type', 'ownership']",bureaucratic,0,0,33
+"['Excessive', 'bureaucratic', 'red', 'tape', 'one', 'reason', 'type', 'ownership']",one,0,0,33
+"['Excessive', 'bureaucratic', 'red', 'tape', 'one', 'reason', 'type', 'ownership']",ownership,0,0,33
+"['Excessive', 'bureaucratic', 'red', 'tape', 'one', 'reason', 'type', 'ownership']",reason,0,0,33
+"['Excessive', 'bureaucratic', 'red', 'tape', 'one', 'reason', 'type', 'ownership']",red,0,0,33
+"['Excessive', 'bureaucratic', 'red', 'tape', 'one', 'reason', 'type', 'ownership']",tape,0,0,33
+"['Excessive', 'bureaucratic', 'red', 'tape', 'one', 'reason', 'type', 'ownership']",type,0,0,33
+"['Galor', 'Zeria', 'show', 'new', 'information', 'inequality']",Galor,0,0,33
+"['Galor', 'Zeria', 'show', 'new', 'information', 'inequality']",Zeria,0,0,33
+"['Galor', 'Zeria', 'show', 'new', 'information', 'inequality']",inequality,0,0,33
+"['Galor', 'Zeria', 'show', 'new', 'information', 'inequality']",information,0,0,33
+"['Galor', 'Zeria', 'show', 'new', 'information', 'inequality']",new,0,0,33
+"['Galor', 'Zeria', 'show', 'new', 'information', 'inequality']",show,0,0,33
+"['Health', 'problem', 'lower', 'place', 'higher', 'level']",Health,0,0,33
+"['Health', 'problem', 'lower', 'place', 'higher', 'level']",higher,0,0,33
+"['Health', 'problem', 'lower', 'place', 'higher', 'level']",level,0,0,33
+"['Health', 'problem', 'lower', 'place', 'higher', 'level']",lower,0,0,33
+"['Health', 'problem', 'lower', 'place', 'higher', 'level']",place,0,0,33
+"['Health', 'problem', 'lower', 'place', 'higher', 'level']",problem,0,0,33
+"['Higher', 'rate', 'health', 'social', 'problem', 'two', 'example', 'effect']",Higher,0,0,33
+"['Higher', 'rate', 'health', 'social', 'problem', 'two', 'example', 'effect']",effect,0,0,33
+"['Higher', 'rate', 'health', 'social', 'problem', 'two', 'example', 'effect']",example,0,0,33
+"['Higher', 'rate', 'health', 'social', 'problem', 'two', 'example', 'effect']",health,0,0,33
+"['Higher', 'rate', 'health', 'social', 'problem', 'two', 'example', 'effect']",problem,0,0,33
+"['Higher', 'rate', 'health', 'social', 'problem', 'two', 'example', 'effect']",rate,0,0,33
+"['Higher', 'rate', 'health', 'social', 'problem', 'two', 'example', 'effect']",social,0,0,33
+"['Higher', 'rate', 'health', 'social', 'problem', 'two', 'example', 'effect']",two,0,0,33
+"['Income', 'creation', 'wealth', 'grabbing', 'larger', 'share', 'know', 'economist', 'term']",Income,0,0,33
+"['Income', 'creation', 'wealth', 'grabbing', 'larger', 'share', 'know', 'economist', 'term']",creation,0,0,33
+"['Income', 'creation', 'wealth', 'grabbing', 'larger', 'share', 'know', 'economist', 'term']",economist,0,0,33
+"['Income', 'creation', 'wealth', 'grabbing', 'larger', 'share', 'know', 'economist', 'term']",grabbing,0,0,33
+"['Income', 'creation', 'wealth', 'grabbing', 'larger', 'share', 'know', 'economist', 'term']",know,0,0,33
+"['Income', 'creation', 'wealth', 'grabbing', 'larger', 'share', 'know', 'economist', 'term']",larger,0,0,33
+"['Income', 'creation', 'wealth', 'grabbing', 'larger', 'share', 'know', 'economist', 'term']",share,0,0,33
+"['Income', 'creation', 'wealth', 'grabbing', 'larger', 'share', 'know', 'economist', 'term']",term,0,0,33
+"['Income', 'creation', 'wealth', 'grabbing', 'larger', 'share', 'know', 'economist', 'term']",wealth,0,0,33
+"['Inequality', 'presence', 'credit', 'market', 'imperfection', 'kind', 'effect', 'human', 'capital', 'formation']",Inequality,0,0,33
+"['Inequality', 'presence', 'credit', 'market', 'imperfection', 'kind', 'effect', 'human', 'capital', 'formation']",capital,0,0,33
+"['Inequality', 'presence', 'credit', 'market', 'imperfection', 'kind', 'effect', 'human', 'capital', 'formation']",credit,0,0,33
+"['Inequality', 'presence', 'credit', 'market', 'imperfection', 'kind', 'effect', 'human', 'capital', 'formation']",effect,0,0,33
+"['Inequality', 'presence', 'credit', 'market', 'imperfection', 'kind', 'effect', 'human', 'capital', 'formation']",formation,0,0,33
+"['Inequality', 'presence', 'credit', 'market', 'imperfection', 'kind', 'effect', 'human', 'capital', 'formation']",human,0,0,33
+"['Inequality', 'presence', 'credit', 'market', 'imperfection', 'kind', 'effect', 'human', 'capital', 'formation']",imperfection,0,0,33
+"['Inequality', 'presence', 'credit', 'market', 'imperfection', 'kind', 'effect', 'human', 'capital', 'formation']",kind,0,0,33
+"['Inequality', 'presence', 'credit', 'market', 'imperfection', 'kind', 'effect', 'human', 'capital', 'formation']",market,0,0,33
+"['Inequality', 'presence', 'credit', 'market', 'imperfection', 'kind', 'effect', 'human', 'capital', 'formation']",presence,0,0,33
+"['Institute', 'published', 'finding', 'September', '2012', 'regarding', 'Forbes', 'richest', '400', 'Americans']",2012,0,0,33
+"['Institute', 'published', 'finding', 'September', '2012', 'regarding', 'Forbes', 'richest', '400', 'Americans']",400,0,0,33
+"['Institute', 'published', 'finding', 'September', '2012', 'regarding', 'Forbes', 'richest', '400', 'Americans']",Americans,0,0,33
+"['Institute', 'published', 'finding', 'September', '2012', 'regarding', 'Forbes', 'richest', '400', 'Americans']",Forbes,0,0,33
+"['Institute', 'published', 'finding', 'September', '2012', 'regarding', 'Forbes', 'richest', '400', 'Americans']",Institute,0,0,33
+"['Institute', 'published', 'finding', 'September', '2012', 'regarding', 'Forbes', 'richest', '400', 'Americans']",September,0,0,33
+"['Institute', 'published', 'finding', 'September', '2012', 'regarding', 'Forbes', 'richest', '400', 'Americans']",finding,0,0,33
+"['Institute', 'published', 'finding', 'September', '2012', 'regarding', 'Forbes', 'richest', '400', 'Americans']",published,0,0,33
+"['Institute', 'published', 'finding', 'September', '2012', 'regarding', 'Forbes', 'richest', '400', 'Americans']",regarding,0,0,33
+"['Institute', 'published', 'finding', 'September', '2012', 'regarding', 'Forbes', 'richest', '400', 'Americans']",richest,0,0,33
+"['Kuznets', 'argue', 'resulted', 'stage', 'development']",Kuznets,0,0,33
+"['Kuznets', 'argue', 'resulted', 'stage', 'development']",argue,0,0,33
+"['Kuznets', 'argue', 'resulted', 'stage', 'development']",development,0,0,33
+"['Kuznets', 'argue', 'resulted', 'stage', 'development']",resulted,0,0,33
+"['Kuznets', 'argue', 'resulted', 'stage', 'development']",stage,0,0,33
+"['Kuznets', 'curve', 'predict', 'income', 'inequality', 'given', 'time']",Kuznets,0,0,33
+"['Kuznets', 'curve', 'predict', 'income', 'inequality', 'given', 'time']",curve,0,0,33
+"['Kuznets', 'curve', 'predict', 'income', 'inequality', 'given', 'time']",given,0,0,33
+"['Kuznets', 'curve', 'predict', 'income', 'inequality', 'given', 'time']",income,0,0,33
+"['Kuznets', 'curve', 'predict', 'income', 'inequality', 'given', 'time']",inequality,0,0,33
+"['Kuznets', 'curve', 'predict', 'income', 'inequality', 'given', 'time']",predict,0,0,33
+"['Kuznets', 'curve', 'predict', 'income', 'inequality', 'given', 'time']",time,0,0,33
+"['Kuznets', 'curve', 'say', 'economic', 'development', 'inequality', 'decrease']",Kuznets,0,0,33
+"['Kuznets', 'curve', 'say', 'economic', 'development', 'inequality', 'decrease']",curve,0,0,33
+"['Kuznets', 'curve', 'say', 'economic', 'development', 'inequality', 'decrease']",decrease,0,0,33
+"['Kuznets', 'curve', 'say', 'economic', 'development', 'inequality', 'decrease']",development,0,0,33
+"['Kuznets', 'curve', 'say', 'economic', 'development', 'inequality', 'decrease']",economic,0,0,33
+"['Kuznets', 'curve', 'say', 'economic', 'development', 'inequality', 'decrease']",inequality,0,0,33
+"['Kuznets', 'curve', 'say', 'economic', 'development', 'inequality', 'decrease']",say,0,0,33
+"['Neoclassical', 'economics', 'view', 'inequality', 'distribution', 'income']",Neoclassical,0,0,33
+"['Neoclassical', 'economics', 'view', 'inequality', 'distribution', 'income']",distribution,0,0,33
+"['Neoclassical', 'economics', 'view', 'inequality', 'distribution', 'income']",economics,0,0,33
+"['Neoclassical', 'economics', 'view', 'inequality', 'distribution', 'income']",income,0,0,33
+"['Neoclassical', 'economics', 'view', 'inequality', 'distribution', 'income']",inequality,0,0,33
+"['Neoclassical', 'economics', 'view', 'inequality', 'distribution', 'income']",view,0,0,33
+"['Over', 'study', 'shown', 'violence', 'common', 'society', 'income', 'difference']",Over,0,0,33
+"['Over', 'study', 'shown', 'violence', 'common', 'society', 'income', 'difference']",common,0,0,33
+"['Over', 'study', 'shown', 'violence', 'common', 'society', 'income', 'difference']",difference,0,0,33
+"['Over', 'study', 'shown', 'violence', 'common', 'society', 'income', 'difference']",income,0,0,33
+"['Over', 'study', 'shown', 'violence', 'common', 'society', 'income', 'difference']",shown,0,0,33
+"['Over', 'study', 'shown', 'violence', 'common', 'society', 'income', 'difference']",society,0,0,33
+"['Over', 'study', 'shown', 'violence', 'common', 'society', 'income', 'difference']",study,0,0,33
+"['Over', 'study', 'shown', 'violence', 'common', 'society', 'income', 'difference']",violence,0,0,33
+"['Oxfam', 'Credit', 'Suisse', 'believe', 'finding', 'doubted']",Credit,0,0,33
+"['Oxfam', 'Credit', 'Suisse', 'believe', 'finding', 'doubted']",Oxfam,0,0,33
+"['Oxfam', 'Credit', 'Suisse', 'believe', 'finding', 'doubted']",Suisse,0,0,33
+"['Oxfam', 'Credit', 'Suisse', 'believe', 'finding', 'doubted']",believe,0,0,33
+"['Oxfam', 'Credit', 'Suisse', 'believe', 'finding', 'doubted']",doubted,0,0,33
+"['Oxfam', 'Credit', 'Suisse', 'believe', 'finding', 'doubted']",finding,0,0,33
+"['Paul', 'Krugmen', 'think', 'observable', 'effect', 'inequality', 'U.S.']",Krugmen,0,0,33
+"['Paul', 'Krugmen', 'think', 'observable', 'effect', 'inequality', 'U.S.']",Paul,0,0,33
+"['Paul', 'Krugmen', 'think', 'observable', 'effect', 'inequality', 'U.S.']",U.S.,0,0,33
+"['Paul', 'Krugmen', 'think', 'observable', 'effect', 'inequality', 'U.S.']",effect,0,0,33
+"['Paul', 'Krugmen', 'think', 'observable', 'effect', 'inequality', 'U.S.']",inequality,0,0,33
+"['Paul', 'Krugmen', 'think', 'observable', 'effect', 'inequality', 'U.S.']",observable,0,0,33
+"['Paul', 'Krugmen', 'think', 'observable', 'effect', 'inequality', 'U.S.']",think,0,0,33
+"['Persistent', 'unemployment', 'effect', 'long-term', 'economic', 'growth']",Persistent,0,0,33
+"['Persistent', 'unemployment', 'effect', 'long-term', 'economic', 'growth']",economic,0,0,33
+"['Persistent', 'unemployment', 'effect', 'long-term', 'economic', 'growth']",effect,0,0,33
+"['Persistent', 'unemployment', 'effect', 'long-term', 'economic', 'growth']",growth,0,0,33
+"['Persistent', 'unemployment', 'effect', 'long-term', 'economic', 'growth']",long-term,0,0,33
+"['Persistent', 'unemployment', 'effect', 'long-term', 'economic', 'growth']",unemployment,0,0,33
+"['Piketty', 'feel', 'biggest', 'factor', 'reducing', 'inequality', '1914', '1945']",1914,0,0,33
+"['Piketty', 'feel', 'biggest', 'factor', 'reducing', 'inequality', '1914', '1945']",1945,0,0,33
+"['Piketty', 'feel', 'biggest', 'factor', 'reducing', 'inequality', '1914', '1945']",Piketty,0,0,33
+"['Piketty', 'feel', 'biggest', 'factor', 'reducing', 'inequality', '1914', '1945']",biggest,0,0,33
+"['Piketty', 'feel', 'biggest', 'factor', 'reducing', 'inequality', '1914', '1945']",factor,0,0,33
+"['Piketty', 'feel', 'biggest', 'factor', 'reducing', 'inequality', '1914', '1945']",feel,0,0,33
+"['Piketty', 'feel', 'biggest', 'factor', 'reducing', 'inequality', '1914', '1945']",inequality,0,0,33
+"['Piketty', 'feel', 'biggest', 'factor', 'reducing', 'inequality', '1914', '1945']",reducing,0,0,33
+"['Policies', 'reduce', 'inequality', 'associated', 'effect', 'unemployment', 'support', 'type', 'growth']",Policies,0,0,33
+"['Policies', 'reduce', 'inequality', 'associated', 'effect', 'unemployment', 'support', 'type', 'growth']",associated,0,0,33
+"['Policies', 'reduce', 'inequality', 'associated', 'effect', 'unemployment', 'support', 'type', 'growth']",effect,0,0,33
+"['Policies', 'reduce', 'inequality', 'associated', 'effect', 'unemployment', 'support', 'type', 'growth']",growth,0,0,33
+"['Policies', 'reduce', 'inequality', 'associated', 'effect', 'unemployment', 'support', 'type', 'growth']",inequality,0,0,33
+"['Policies', 'reduce', 'inequality', 'associated', 'effect', 'unemployment', 'support', 'type', 'growth']",reduce,0,0,33
+"['Policies', 'reduce', 'inequality', 'associated', 'effect', 'unemployment', 'support', 'type', 'growth']",support,0,0,33
+"['Policies', 'reduce', 'inequality', 'associated', 'effect', 'unemployment', 'support', 'type', 'growth']",type,0,0,33
+"['Policies', 'reduce', 'inequality', 'associated', 'effect', 'unemployment', 'support', 'type', 'growth']",unemployment,0,0,33
+"['Policies', 'try', 'control', 'unemployment', 'support', 'economic', 'growth', 'reduce']",Policies,0,0,33
+"['Policies', 'try', 'control', 'unemployment', 'support', 'economic', 'growth', 'reduce']",control,0,0,33
+"['Policies', 'try', 'control', 'unemployment', 'support', 'economic', 'growth', 'reduce']",economic,0,0,33
+"['Policies', 'try', 'control', 'unemployment', 'support', 'economic', 'growth', 'reduce']",growth,0,0,33
+"['Policies', 'try', 'control', 'unemployment', 'support', 'economic', 'growth', 'reduce']",reduce,0,0,33
+"['Policies', 'try', 'control', 'unemployment', 'support', 'economic', 'growth', 'reduce']",support,0,0,33
+"['Policies', 'try', 'control', 'unemployment', 'support', 'economic', 'growth', 'reduce']",try,0,0,33
+"['Policies', 'try', 'control', 'unemployment', 'support', 'economic', 'growth', 'reduce']",unemployment,0,0,33
+"['Raghuram', 'Rajan', 'career']",Raghuram,0,0,33
+"['Raghuram', 'Rajan', 'career']",Rajan,0,0,33
+"['Raghuram', 'Rajan', 'career']",career,0,0,33
+"['Rajan', 'feel', 'created', 'deep', 'financial', 'fault', 'line']",Rajan,0,0,33
+"['Rajan', 'feel', 'created', 'deep', 'financial', 'fault', 'line']",created,0,0,33
+"['Rajan', 'feel', 'created', 'deep', 'financial', 'fault', 'line']",deep,0,0,33
+"['Rajan', 'feel', 'created', 'deep', 'financial', 'fault', 'line']",fault,0,0,33
+"['Rajan', 'feel', 'created', 'deep', 'financial', 'fault', 'line']",feel,0,0,33
+"['Rajan', 'feel', 'created', 'deep', 'financial', 'fault', 'line']",financial,0,0,33
+"['Rajan', 'feel', 'created', 'deep', 'financial', 'fault', 'line']",line,0,0,33
+"['Rosenfield', 'feel', 'play', 'significant', 'role', 'expanding', 'income', 'gap']",Rosenfield,0,0,33
+"['Rosenfield', 'feel', 'play', 'significant', 'role', 'expanding', 'income', 'gap']",expanding,0,0,33
+"['Rosenfield', 'feel', 'play', 'significant', 'role', 'expanding', 'income', 'gap']",feel,0,0,33
+"['Rosenfield', 'feel', 'play', 'significant', 'role', 'expanding', 'income', 'gap']",gap,0,0,33
+"['Rosenfield', 'feel', 'play', 'significant', 'role', 'expanding', 'income', 'gap']",income,0,0,33
+"['Rosenfield', 'feel', 'play', 'significant', 'role', 'expanding', 'income', 'gap']",play,0,0,33
+"['Rosenfield', 'feel', 'play', 'significant', 'role', 'expanding', 'income', 'gap']",role,0,0,33
+"['Rosenfield', 'feel', 'play', 'significant', 'role', 'expanding', 'income', 'gap']",significant,0,0,33
+"['S', '&', 'P', 'recommend', 'somewhat', 'remedy', 'wealth', 'gap']",&,0,0,33
+"['S', '&', 'P', 'recommend', 'somewhat', 'remedy', 'wealth', 'gap']",P,0,0,33
+"['S', '&', 'P', 'recommend', 'somewhat', 'remedy', 'wealth', 'gap']",S,0,0,33
+"['S', '&', 'P', 'recommend', 'somewhat', 'remedy', 'wealth', 'gap']",gap,0,0,33
+"['S', '&', 'P', 'recommend', 'somewhat', 'remedy', 'wealth', 'gap']",recommend,0,0,33
+"['S', '&', 'P', 'recommend', 'somewhat', 'remedy', 'wealth', 'gap']",remedy,0,0,33
+"['S', '&', 'P', 'recommend', 'somewhat', 'remedy', 'wealth', 'gap']",somewhat,0,0,33
+"['S', '&', 'P', 'recommend', 'somewhat', 'remedy', 'wealth', 'gap']",wealth,0,0,33
+"['Standard', '&', 'Poor', 'recommend', 'speed', 'economy', 'recovery']",&,0,0,33
+"['Standard', '&', 'Poor', 'recommend', 'speed', 'economy', 'recovery']",Poor,0,0,33
+"['Standard', '&', 'Poor', 'recommend', 'speed', 'economy', 'recovery']",Standard,0,0,33
+"['Standard', '&', 'Poor', 'recommend', 'speed', 'economy', 'recovery']",economy,0,0,33
+"['Standard', '&', 'Poor', 'recommend', 'speed', 'economy', 'recovery']",recommend,0,0,33
+"['Standard', '&', 'Poor', 'recommend', 'speed', 'economy', 'recovery']",recovery,0,0,33
+"['Standard', '&', 'Poor', 'recommend', 'speed', 'economy', 'recovery']",speed,0,0,33
+"['Stiglitz', 'present', '2009', 'regarding', 'global', 'inequality']",2009,0,0,33
+"['Stiglitz', 'present', '2009', 'regarding', 'global', 'inequality']",Stiglitz,0,0,33
+"['Stiglitz', 'present', '2009', 'regarding', 'global', 'inequality']",global,0,0,33
+"['Stiglitz', 'present', '2009', 'regarding', 'global', 'inequality']",inequality,0,0,33
+"['Stiglitz', 'present', '2009', 'regarding', 'global', 'inequality']",present,0,0,33
+"['Stiglitz', 'present', '2009', 'regarding', 'global', 'inequality']",regarding,0,0,33
+"['Survival', 'need', 'income', 'food', 'shelter', 'motivates', 'type', 'entrepreneurship']",Survival,0,0,33
+"['Survival', 'need', 'income', 'food', 'shelter', 'motivates', 'type', 'entrepreneurship']",entrepreneurship,0,0,33
+"['Survival', 'need', 'income', 'food', 'shelter', 'motivates', 'type', 'entrepreneurship']",food,0,0,33
+"['Survival', 'need', 'income', 'food', 'shelter', 'motivates', 'type', 'entrepreneurship']",income,0,0,33
+"['Survival', 'need', 'income', 'food', 'shelter', 'motivates', 'type', 'entrepreneurship']",motivates,0,0,33
+"['Survival', 'need', 'income', 'food', 'shelter', 'motivates', 'type', 'entrepreneurship']",need,0,0,33
+"['Survival', 'need', 'income', 'food', 'shelter', 'motivates', 'type', 'entrepreneurship']",shelter,0,0,33
+"['Survival', 'need', 'income', 'food', 'shelter', 'motivates', 'type', 'entrepreneurship']",type,0,0,33
+"['Survivial', 'heart', 'concept', 'worker']",Survivial,0,0,33
+"['Survivial', 'heart', 'concept', 'worker']",concept,0,0,33
+"['Survivial', 'heart', 'concept', 'worker']",heart,0,0,33
+"['Survivial', 'heart', 'concept', 'worker']",worker,0,0,33
+"['Thomas', 'B.', 'Edsall', 'profession']",B.,0,0,33
+"['Thomas', 'B.', 'Edsall', 'profession']",Edsall,0,0,33
+"['Thomas', 'B.', 'Edsall', 'profession']",Thomas,0,0,33
+"['Thomas', 'B.', 'Edsall', 'profession']",profession,0,0,33
+"['Thomas', 'Piketty', 'job']",Piketty,0,0,33
+"['Thomas', 'Piketty', 'job']",Thomas,0,0,33
+"['Thomas', 'Piketty', 'job']",job,0,0,33
+"['U.S.', 'census', 'report', 'state', 'even', 'factor', 'exists', 'earnings', 'men', 'woman']",U.S.,0,0,33
+"['U.S.', 'census', 'report', 'state', 'even', 'factor', 'exists', 'earnings', 'men', 'woman']",census,0,0,33
+"['U.S.', 'census', 'report', 'state', 'even', 'factor', 'exists', 'earnings', 'men', 'woman']",earnings,0,0,33
+"['U.S.', 'census', 'report', 'state', 'even', 'factor', 'exists', 'earnings', 'men', 'woman']",even,0,0,33
+"['U.S.', 'census', 'report', 'state', 'even', 'factor', 'exists', 'earnings', 'men', 'woman']",exists,0,0,33
+"['U.S.', 'census', 'report', 'state', 'even', 'factor', 'exists', 'earnings', 'men', 'woman']",factor,0,0,33
+"['U.S.', 'census', 'report', 'state', 'even', 'factor', 'exists', 'earnings', 'men', 'woman']",men,0,0,33
+"['U.S.', 'census', 'report', 'state', 'even', 'factor', 'exists', 'earnings', 'men', 'woman']",report,0,0,33
+"['U.S.', 'census', 'report', 'state', 'even', 'factor', 'exists', 'earnings', 'men', 'woman']",state,0,0,33
+"['U.S.', 'census', 'report', 'state', 'even', 'factor', 'exists', 'earnings', 'men', 'woman']",woman,0,0,33
+"['U.S.', 'economic', 'social', 'model', 'substantial', 'level']",U.S.,0,0,33
+"['U.S.', 'economic', 'social', 'model', 'substantial', 'level']",economic,0,0,33
+"['U.S.', 'economic', 'social', 'model', 'substantial', 'level']",level,0,0,33
+"['U.S.', 'economic', 'social', 'model', 'substantial', 'level']",model,0,0,33
+"['U.S.', 'economic', 'social', 'model', 'substantial', 'level']",social,0,0,33
+"['U.S.', 'economic', 'social', 'model', 'substantial', 'level']",substantial,0,0,33
+"['U.S.', 'state', 'happens', 'life', 'expectancy', 'le', 'economically', 'equal', 'one']",U.S.,0,0,33
+"['U.S.', 'state', 'happens', 'life', 'expectancy', 'le', 'economically', 'equal', 'one']",economically,0,0,33
+"['U.S.', 'state', 'happens', 'life', 'expectancy', 'le', 'economically', 'equal', 'one']",equal,0,0,33
+"['U.S.', 'state', 'happens', 'life', 'expectancy', 'le', 'economically', 'equal', 'one']",expectancy,0,0,33
+"['U.S.', 'state', 'happens', 'life', 'expectancy', 'le', 'economically', 'equal', 'one']",happens,0,0,33
+"['U.S.', 'state', 'happens', 'life', 'expectancy', 'le', 'economically', 'equal', 'one']",le,0,0,33
+"['U.S.', 'state', 'happens', 'life', 'expectancy', 'le', 'economically', 'equal', 'one']",life,0,0,33
+"['U.S.', 'state', 'happens', 'life', 'expectancy', 'le', 'economically', 'equal', 'one']",one,0,0,33
+"['U.S.', 'state', 'happens', 'life', 'expectancy', 'le', 'economically', 'equal', 'one']",state,0,0,33
+"['Under', 'law', 'value', 'worker', 'determined']",Under,0,0,33
+"['Under', 'law', 'value', 'worker', 'determined']",determined,0,0,33
+"['Under', 'law', 'value', 'worker', 'determined']",law,0,0,33
+"['Under', 'law', 'value', 'worker', 'determined']",value,0,0,33
+"['Under', 'law', 'value', 'worker', 'determined']",worker,0,0,33
+"['Under', 'policy', 'labor', 'union', 'encouraged']",Under,0,0,33
+"['Under', 'policy', 'labor', 'union', 'encouraged']",encouraged,0,0,33
+"['Under', 'policy', 'labor', 'union', 'encouraged']",labor,0,0,33
+"['Under', 'policy', 'labor', 'union', 'encouraged']",policy,0,0,33
+"['Under', 'policy', 'labor', 'union', 'encouraged']",union,0,0,33
+"['United', 'States', 'risk', 'recession', '2008']",2008,0,0,33
+"['United', 'States', 'risk', 'recession', '2008']",States,0,0,33
+"['United', 'States', 'risk', 'recession', '2008']",United,0,0,33
+"['United', 'States', 'risk', 'recession', '2008']",recession,0,0,33
+"['United', 'States', 'risk', 'recession', '2008']",risk,0,0,33
+"['While', 'competition', 'worker', 'drive', 'wage', 'job', 'high', 'supply', 'worker', 'whose', 'competition', 'drive', 'wage', 'inverse']",While,0,0,33
+"['While', 'competition', 'worker', 'drive', 'wage', 'job', 'high', 'supply', 'worker', 'whose', 'competition', 'drive', 'wage', 'inverse']",competition,0,0,33
+"['While', 'competition', 'worker', 'drive', 'wage', 'job', 'high', 'supply', 'worker', 'whose', 'competition', 'drive', 'wage', 'inverse']",drive,0,0,33
+"['While', 'competition', 'worker', 'drive', 'wage', 'job', 'high', 'supply', 'worker', 'whose', 'competition', 'drive', 'wage', 'inverse']",high,0,0,33
+"['While', 'competition', 'worker', 'drive', 'wage', 'job', 'high', 'supply', 'worker', 'whose', 'competition', 'drive', 'wage', 'inverse']",inverse,0,0,33
+"['While', 'competition', 'worker', 'drive', 'wage', 'job', 'high', 'supply', 'worker', 'whose', 'competition', 'drive', 'wage', 'inverse']",job,0,0,33
+"['While', 'competition', 'worker', 'drive', 'wage', 'job', 'high', 'supply', 'worker', 'whose', 'competition', 'drive', 'wage', 'inverse']",supply,0,0,33
+"['While', 'competition', 'worker', 'drive', 'wage', 'job', 'high', 'supply', 'worker', 'whose', 'competition', 'drive', 'wage', 'inverse']",wage,0,0,33
+"['While', 'competition', 'worker', 'drive', 'wage', 'job', 'high', 'supply', 'worker', 'whose', 'competition', 'drive', 'wage', 'inverse']",whose,0,0,33
+"['While', 'competition', 'worker', 'drive', 'wage', 'job', 'high', 'supply', 'worker', 'whose', 'competition', 'drive', 'wage', 'inverse']",worker,0,0,33
+"['almost', 'identical', 'across', 'nation', 'jurisdiction']",across,0,0,33
+"['almost', 'identical', 'across', 'nation', 'jurisdiction']",almost,0,0,33
+"['almost', 'identical', 'across', 'nation', 'jurisdiction']",identical,0,0,33
+"['almost', 'identical', 'across', 'nation', 'jurisdiction']",jurisdiction,0,0,33
+"['almost', 'identical', 'across', 'nation', 'jurisdiction']",nation,0,0,33
+"['argues', 'government', 'redistributes', 'wealth', 'force']",argues,0,0,33
+"['argues', 'government', 'redistributes', 'wealth', 'force']",force,0,0,33
+"['argues', 'government', 'redistributes', 'wealth', 'force']",government,0,0,33
+"['argues', 'government', 'redistributes', 'wealth', 'force']",redistributes,0,0,33
+"['argues', 'government', 'redistributes', 'wealth', 'force']",wealth,0,0,33
+"['attributed', 'income', 'inequality', 'United', 'States']",States,0,0,33
+"['attributed', 'income', 'inequality', 'United', 'States']",United,0,0,33
+"['attributed', 'income', 'inequality', 'United', 'States']",attributed,0,0,33
+"['attributed', 'income', 'inequality', 'United', 'States']",income,0,0,33
+"['attributed', 'income', 'inequality', 'United', 'States']",inequality,0,0,33
+"['author', 'book', 'Knowledge', 'Decisions']",Decisions,0,0,33
+"['author', 'book', 'Knowledge', 'Decisions']",Knowledge,0,0,33
+"['author', 'book', 'Knowledge', 'Decisions']",author,0,0,33
+"['author', 'book', 'Knowledge', 'Decisions']",book,0,0,33
+"['average', 'U.S.', 'worker', 'complete', 'additional', 'year', 'school', 'amount', 'growth', 'would', 'generated', '5', 'year']",5,0,0,33
+"['average', 'U.S.', 'worker', 'complete', 'additional', 'year', 'school', 'amount', 'growth', 'would', 'generated', '5', 'year']",U.S.,0,0,33
+"['average', 'U.S.', 'worker', 'complete', 'additional', 'year', 'school', 'amount', 'growth', 'would', 'generated', '5', 'year']",additional,0,0,33
+"['average', 'U.S.', 'worker', 'complete', 'additional', 'year', 'school', 'amount', 'growth', 'would', 'generated', '5', 'year']",amount,0,0,33
+"['average', 'U.S.', 'worker', 'complete', 'additional', 'year', 'school', 'amount', 'growth', 'would', 'generated', '5', 'year']",average,0,0,33
+"['average', 'U.S.', 'worker', 'complete', 'additional', 'year', 'school', 'amount', 'growth', 'would', 'generated', '5', 'year']",complete,0,0,33
+"['average', 'U.S.', 'worker', 'complete', 'additional', 'year', 'school', 'amount', 'growth', 'would', 'generated', '5', 'year']",generated,0,0,33
+"['average', 'U.S.', 'worker', 'complete', 'additional', 'year', 'school', 'amount', 'growth', 'would', 'generated', '5', 'year']",growth,0,0,33
+"['average', 'U.S.', 'worker', 'complete', 'additional', 'year', 'school', 'amount', 'growth', 'would', 'generated', '5', 'year']",school,0,0,33
+"['average', 'U.S.', 'worker', 'complete', 'additional', 'year', 'school', 'amount', 'growth', 'would', 'generated', '5', 'year']",worker,0,0,33
+"['average', 'U.S.', 'worker', 'complete', 'additional', 'year', 'school', 'amount', 'growth', 'would', 'generated', '5', 'year']",would,0,0,33
+"['average', 'U.S.', 'worker', 'complete', 'additional', 'year', 'school', 'amount', 'growth', 'would', 'generated', '5', 'year']",year,0,0,33
+"['become', 'secret', 'economic', 'growth']",become,0,0,33
+"['become', 'secret', 'economic', 'growth']",economic,0,0,33
+"['become', 'secret', 'economic', 'growth']",growth,0,0,33
+"['become', 'secret', 'economic', 'growth']",secret,0,0,33
+"['best', 'able', 'leverage', 'accumulation', 'wealth']",able,0,0,33
+"['best', 'able', 'leverage', 'accumulation', 'wealth']",accumulation,0,0,33
+"['best', 'able', 'leverage', 'accumulation', 'wealth']",best,0,0,33
+"['best', 'able', 'leverage', 'accumulation', 'wealth']",leverage,0,0,33
+"['best', 'able', 'leverage', 'accumulation', 'wealth']",wealth,0,0,33
+"['bigger', 'impact', 'United', 'States', 'economy', 'trade']",States,0,0,33
+"['bigger', 'impact', 'United', 'States', 'economy', 'trade']",United,0,0,33
+"['bigger', 'impact', 'United', 'States', 'economy', 'trade']",bigger,0,0,33
+"['bigger', 'impact', 'United', 'States', 'economy', 'trade']",economy,0,0,33
+"['bigger', 'impact', 'United', 'States', 'economy', 'trade']",impact,0,0,33
+"['bigger', 'impact', 'United', 'States', 'economy', 'trade']",trade,0,0,33
+"['called', 'tax', 'rate', 'base', 'amount', 'increase', 'simultaneously']",amount,0,0,33
+"['called', 'tax', 'rate', 'base', 'amount', 'increase', 'simultaneously']",base,0,0,33
+"['called', 'tax', 'rate', 'base', 'amount', 'increase', 'simultaneously']",called,0,0,33
+"['called', 'tax', 'rate', 'base', 'amount', 'increase', 'simultaneously']",increase,0,0,33
+"['called', 'tax', 'rate', 'base', 'amount', 'increase', 'simultaneously']",rate,0,0,33
+"['called', 'tax', 'rate', 'base', 'amount', 'increase', 'simultaneously']",simultaneously,0,0,33
+"['called', 'tax', 'rate', 'base', 'amount', 'increase', 'simultaneously']",tax,0,0,33
+"['capability', 'approach', 'grow', 'income', 'considered', 'mean', 'end', 'rather']",approach,0,0,33
+"['capability', 'approach', 'grow', 'income', 'considered', 'mean', 'end', 'rather']",capability,0,0,33
+"['capability', 'approach', 'grow', 'income', 'considered', 'mean', 'end', 'rather']",considered,0,0,33
+"['capability', 'approach', 'grow', 'income', 'considered', 'mean', 'end', 'rather']",end,0,0,33
+"['capability', 'approach', 'grow', 'income', 'considered', 'mean', 'end', 'rather']",grow,0,0,33
+"['capability', 'approach', 'grow', 'income', 'considered', 'mean', 'end', 'rather']",income,0,0,33
+"['capability', 'approach', 'grow', 'income', 'considered', 'mean', 'end', 'rather']",mean,0,0,33
+"['capability', 'approach', 'grow', 'income', 'considered', 'mean', 'end', 'rather']",rather,0,0,33
+"['capability', 'approach', 'look', 'poverty', 'form']",approach,0,0,33
+"['capability', 'approach', 'look', 'poverty', 'form']",capability,0,0,33
+"['capability', 'approach', 'look', 'poverty', 'form']",form,0,0,33
+"['capability', 'approach', 'look', 'poverty', 'form']",look,0,0,33
+"['capability', 'approach', 'look', 'poverty', 'form']",poverty,0,0,33
+"['capitalist', 'firm', 'substitute', 'equipment', 'Marxian', 'analysis']",Marxian,0,0,33
+"['capitalist', 'firm', 'substitute', 'equipment', 'Marxian', 'analysis']",analysis,0,0,33
+"['capitalist', 'firm', 'substitute', 'equipment', 'Marxian', 'analysis']",capitalist,0,0,33
+"['capitalist', 'firm', 'substitute', 'equipment', 'Marxian', 'analysis']",equipment,0,0,33
+"['capitalist', 'firm', 'substitute', 'equipment', 'Marxian', 'analysis']",firm,0,0,33
+"['capitalist', 'firm', 'substitute', 'equipment', 'Marxian', 'analysis']",substitute,0,0,33
+"['career', 'Joseph', 'Stiglitz']",Joseph,0,0,33
+"['career', 'Joseph', 'Stiglitz']",Stiglitz,0,0,33
+"['career', 'Joseph', 'Stiglitz']",career,0,0,33
+"['caused', 'Oxfam', 'finding', 'questioned']",Oxfam,0,0,33
+"['caused', 'Oxfam', 'finding', 'questioned']",caused,0,0,33
+"['caused', 'Oxfam', 'finding', 'questioned']",finding,0,0,33
+"['caused', 'Oxfam', 'finding', 'questioned']",questioned,0,0,33
+"['certain', 'cost', 'difficult', 'avoid', 'shared']",avoid,0,0,33
+"['certain', 'cost', 'difficult', 'avoid', 'shared']",certain,0,0,33
+"['certain', 'cost', 'difficult', 'avoid', 'shared']",cost,0,0,33
+"['certain', 'cost', 'difficult', 'avoid', 'shared']",difficult,0,0,33
+"['certain', 'cost', 'difficult', 'avoid', 'shared']",shared,0,0,33
+"['challenge', 'notion', 'Kuznets', 'curve', 'hypothesis']",Kuznets,0,0,33
+"['challenge', 'notion', 'Kuznets', 'curve', 'hypothesis']",challenge,0,0,33
+"['challenge', 'notion', 'Kuznets', 'curve', 'hypothesis']",curve,0,0,33
+"['challenge', 'notion', 'Kuznets', 'curve', 'hypothesis']",hypothesis,0,0,33
+"['challenge', 'notion', 'Kuznets', 'curve', 'hypothesis']",notion,0,0,33
+"['characteristic', 'recent', 'year', 'strongly', 'tied', 'health', 'developed', 'country']",characteristic,0,0,33
+"['characteristic', 'recent', 'year', 'strongly', 'tied', 'health', 'developed', 'country']",country,0,0,33
+"['characteristic', 'recent', 'year', 'strongly', 'tied', 'health', 'developed', 'country']",developed,0,0,33
+"['characteristic', 'recent', 'year', 'strongly', 'tied', 'health', 'developed', 'country']",health,0,0,33
+"['characteristic', 'recent', 'year', 'strongly', 'tied', 'health', 'developed', 'country']",recent,0,0,33
+"['characteristic', 'recent', 'year', 'strongly', 'tied', 'health', 'developed', 'country']",strongly,0,0,33
+"['characteristic', 'recent', 'year', 'strongly', 'tied', 'health', 'developed', 'country']",tied,0,0,33
+"['characteristic', 'recent', 'year', 'strongly', 'tied', 'health', 'developed', 'country']",year,0,0,33
+"['child', 'well-being', 'rich', 'country', 'correlate']",child,0,0,33
+"['child', 'well-being', 'rich', 'country', 'correlate']",correlate,0,0,33
+"['child', 'well-being', 'rich', 'country', 'correlate']",country,0,0,33
+"['child', 'well-being', 'rich', 'country', 'correlate']",rich,0,0,33
+"['child', 'well-being', 'rich', 'country', 'correlate']",well-being,0,0,33
+"['college', 'Jake', 'Rosenfield', 'associated']",Jake,0,0,33
+"['college', 'Jake', 'Rosenfield', 'associated']",Rosenfield,0,0,33
+"['college', 'Jake', 'Rosenfield', 'associated']",associated,0,0,33
+"['college', 'Jake', 'Rosenfield', 'associated']",college,0,0,33
+"['combined', 'ricing', 'price', 'make', 'difficult', 'impossible', 'poor', 'people', 'keep', 'pace']",combined,0,0,33
+"['combined', 'ricing', 'price', 'make', 'difficult', 'impossible', 'poor', 'people', 'keep', 'pace']",difficult,0,0,33
+"['combined', 'ricing', 'price', 'make', 'difficult', 'impossible', 'poor', 'people', 'keep', 'pace']",impossible,0,0,33
+"['combined', 'ricing', 'price', 'make', 'difficult', 'impossible', 'poor', 'people', 'keep', 'pace']",keep,0,0,33
+"['combined', 'ricing', 'price', 'make', 'difficult', 'impossible', 'poor', 'people', 'keep', 'pace']",make,0,0,33
+"['combined', 'ricing', 'price', 'make', 'difficult', 'impossible', 'poor', 'people', 'keep', 'pace']",pace,0,0,33
+"['combined', 'ricing', 'price', 'make', 'difficult', 'impossible', 'poor', 'people', 'keep', 'pace']",people,0,0,33
+"['combined', 'ricing', 'price', 'make', 'difficult', 'impossible', 'poor', 'people', 'keep', 'pace']",poor,0,0,33
+"['combined', 'ricing', 'price', 'make', 'difficult', 'impossible', 'poor', 'people', 'keep', 'pace']",price,0,0,33
+"['combined', 'ricing', 'price', 'make', 'difficult', 'impossible', 'poor', 'people', 'keep', 'pace']",ricing,0,0,33
+"['competing', 'business', 'attract', 'worker']",attract,0,0,33
+"['competing', 'business', 'attract', 'worker']",business,0,0,33
+"['competing', 'business', 'attract', 'worker']",competing,0,0,33
+"['competing', 'business', 'attract', 'worker']",worker,0,0,33
+"['competition', 'among', 'worker', 'drive', 'wage']",among,0,0,33
+"['competition', 'among', 'worker', 'drive', 'wage']",competition,0,0,33
+"['competition', 'among', 'worker', 'drive', 'wage']",drive,0,0,33
+"['competition', 'among', 'worker', 'drive', 'wage']",wage,0,0,33
+"['competition', 'among', 'worker', 'drive', 'wage']",worker,0,0,33
+"['concentrate', 'wealth', 'pas', 'environmental', 'cost', 'society', 'abuse', 'worker', 'consumer']",abuse,0,0,33
+"['concentrate', 'wealth', 'pas', 'environmental', 'cost', 'society', 'abuse', 'worker', 'consumer']",concentrate,0,0,33
+"['concentrate', 'wealth', 'pas', 'environmental', 'cost', 'society', 'abuse', 'worker', 'consumer']",consumer,0,0,33
+"['concentrate', 'wealth', 'pas', 'environmental', 'cost', 'society', 'abuse', 'worker', 'consumer']",cost,0,0,33
+"['concentrate', 'wealth', 'pas', 'environmental', 'cost', 'society', 'abuse', 'worker', 'consumer']",environmental,0,0,33
+"['concentrate', 'wealth', 'pas', 'environmental', 'cost', 'society', 'abuse', 'worker', 'consumer']",pas,0,0,33
+"['concentrate', 'wealth', 'pas', 'environmental', 'cost', 'society', 'abuse', 'worker', 'consumer']",society,0,0,33
+"['concentrate', 'wealth', 'pas', 'environmental', 'cost', 'society', 'abuse', 'worker', 'consumer']",wealth,0,0,33
+"['concentrate', 'wealth', 'pas', 'environmental', 'cost', 'society', 'abuse', 'worker', 'consumer']",worker,0,0,33
+"['concluded', 'rising', 'income', 'inequality', 'gap', 'getting', 'better']",better,0,0,33
+"['concluded', 'rising', 'income', 'inequality', 'gap', 'getting', 'better']",concluded,0,0,33
+"['concluded', 'rising', 'income', 'inequality', 'gap', 'getting', 'better']",gap,0,0,33
+"['concluded', 'rising', 'income', 'inequality', 'gap', 'getting', 'better']",getting,0,0,33
+"['concluded', 'rising', 'income', 'inequality', 'gap', 'getting', 'better']",income,0,0,33
+"['concluded', 'rising', 'income', 'inequality', 'gap', 'getting', 'better']",inequality,0,0,33
+"['concluded', 'rising', 'income', 'inequality', 'gap', 'getting', 'better']",rising,0,0,33
+"['conservative', 'researcher', 'fell', 'measure', 'inequality']",conservative,0,0,33
+"['conservative', 'researcher', 'fell', 'measure', 'inequality']",fell,0,0,33
+"['conservative', 'researcher', 'fell', 'measure', 'inequality']",inequality,0,0,33
+"['conservative', 'researcher', 'fell', 'measure', 'inequality']",measure,0,0,33
+"['conservative', 'researcher', 'fell', 'measure', 'inequality']",researcher,0,0,33
+"['considered', 'function', 'market', 'price', 'skill']",considered,0,0,33
+"['considered', 'function', 'market', 'price', 'skill']",function,0,0,33
+"['considered', 'function', 'market', 'price', 'skill']",market,0,0,33
+"['considered', 'function', 'market', 'price', 'skill']",price,0,0,33
+"['considered', 'function', 'market', 'price', 'skill']",skill,0,0,33
+"['considered', 'potential', 'advantage', 'wealth', 'Americans']",Americans,0,0,33
+"['considered', 'potential', 'advantage', 'wealth', 'Americans']",advantage,0,0,33
+"['considered', 'potential', 'advantage', 'wealth', 'Americans']",considered,0,0,33
+"['considered', 'potential', 'advantage', 'wealth', 'Americans']",potential,0,0,33
+"['considered', 'potential', 'advantage', 'wealth', 'Americans']",wealth,0,0,33
+"['consumption', 'inequality', 'lower', '1986']",1986,0,0,33
+"['consumption', 'inequality', 'lower', '1986']",consumption,0,0,33
+"['consumption', 'inequality', 'lower', '1986']",inequality,0,0,33
+"['consumption', 'inequality', 'lower', '1986']",lower,0,0,33
+"['contributed', 'decreased', 'inequality', 'trained', 'untrained', 'worker']",contributed,0,0,33
+"['contributed', 'decreased', 'inequality', 'trained', 'untrained', 'worker']",decreased,0,0,33
+"['contributed', 'decreased', 'inequality', 'trained', 'untrained', 'worker']",inequality,0,0,33
+"['contributed', 'decreased', 'inequality', 'trained', 'untrained', 'worker']",trained,0,0,33
+"['contributed', 'decreased', 'inequality', 'trained', 'untrained', 'worker']",untrained,0,0,33
+"['contributed', 'decreased', 'inequality', 'trained', 'untrained', 'worker']",worker,0,0,33
+"['control', 'wage', 'purely', 'capitalist', 'mode', 'production']",capitalist,0,0,33
+"['control', 'wage', 'purely', 'capitalist', 'mode', 'production']",control,0,0,33
+"['control', 'wage', 'purely', 'capitalist', 'mode', 'production']",mode,0,0,33
+"['control', 'wage', 'purely', 'capitalist', 'mode', 'production']",production,0,0,33
+"['control', 'wage', 'purely', 'capitalist', 'mode', 'production']",purely,0,0,33
+"['control', 'wage', 'purely', 'capitalist', 'mode', 'production']",wage,0,0,33
+"['controled', 'market', 'economy']",controled,0,0,33
+"['controled', 'market', 'economy']",economy,0,0,33
+"['controled', 'market', 'economy']",market,0,0,33
+"['country', 'acquire', 'develops']",acquire,0,0,33
+"['country', 'acquire', 'develops']",country,0,0,33
+"['country', 'acquire', 'develops']",develops,0,0,33
+"['country', 'kind', 'pay', 'gap']",country,0,0,33
+"['country', 'kind', 'pay', 'gap']",gap,0,0,33
+"['country', 'kind', 'pay', 'gap']",kind,0,0,33
+"['country', 'kind', 'pay', 'gap']",pay,0,0,33
+"['country', 'low', 'income', 'inequality', 'high', 'presence', 'union']",country,0,0,33
+"['country', 'low', 'income', 'inequality', 'high', 'presence', 'union']",high,0,0,33
+"['country', 'low', 'income', 'inequality', 'high', 'presence', 'union']",income,0,0,33
+"['country', 'low', 'income', 'inequality', 'high', 'presence', 'union']",inequality,0,0,33
+"['country', 'low', 'income', 'inequality', 'high', 'presence', 'union']",low,0,0,33
+"['country', 'low', 'income', 'inequality', 'high', 'presence', 'union']",presence,0,0,33
+"['country', 'low', 'income', 'inequality', 'high', 'presence', 'union']",union,0,0,33
+"['country', 'step', 'take', 'build', 'government', 'land']",build,0,0,33
+"['country', 'step', 'take', 'build', 'government', 'land']",country,0,0,33
+"['country', 'step', 'take', 'build', 'government', 'land']",government,0,0,33
+"['country', 'step', 'take', 'build', 'government', 'land']",land,0,0,33
+"['country', 'step', 'take', 'build', 'government', 'land']",step,0,0,33
+"['country', 'step', 'take', 'build', 'government', 'land']",take,0,0,33
+"['created', 'index', 'health', 'social', 'problem']",created,0,0,33
+"['created', 'index', 'health', 'social', 'problem']",health,0,0,33
+"['created', 'index', 'health', 'social', 'problem']",index,0,0,33
+"['created', 'index', 'health', 'social', 'problem']",problem,0,0,33
+"['created', 'index', 'health', 'social', 'problem']",social,0,0,33
+"['crime', 'rate', 'show', 'correlated', 'society']",correlated,0,0,33
+"['crime', 'rate', 'show', 'correlated', 'society']",crime,0,0,33
+"['crime', 'rate', 'show', 'correlated', 'society']",rate,0,0,33
+"['crime', 'rate', 'show', 'correlated', 'society']",show,0,0,33
+"['crime', 'rate', 'show', 'correlated', 'society']",society,0,0,33
+"['current', 'high', 'level', 'population', 'large', 'impact']",current,0,0,33
+"['current', 'high', 'level', 'population', 'large', 'impact']",high,0,0,33
+"['current', 'high', 'level', 'population', 'large', 'impact']",impact,0,0,33
+"['current', 'high', 'level', 'population', 'large', 'impact']",large,0,0,33
+"['current', 'high', 'level', 'population', 'large', 'impact']",level,0,0,33
+"['current', 'high', 'level', 'population', 'large', 'impact']",population,0,0,33
+"['decreased', 'number', '1984', '1991']",1984,0,0,33
+"['decreased', 'number', '1984', '1991']",1991,0,0,33
+"['decreased', 'number', '1984', '1991']",decreased,0,0,33
+"['decreased', 'number', '1984', '1991']",number,0,0,33
+"['definition', 'agency', 'relates', 'capability']",agency,0,0,33
+"['definition', 'agency', 'relates', 'capability']",capability,0,0,33
+"['definition', 'agency', 'relates', 'capability']",definition,0,0,33
+"['definition', 'agency', 'relates', 'capability']",relates,0,0,33
+"['demand', 'rental', 'decrease']",decrease,0,0,33
+"['demand', 'rental', 'decrease']",demand,0,0,33
+"['demand', 'rental', 'decrease']",rental,0,0,33
+"['developed', 'country', 'British', 'researcher', 'use', 'gather', 'statistic']",British,0,0,33
+"['developed', 'country', 'British', 'researcher', 'use', 'gather', 'statistic']",country,0,0,33
+"['developed', 'country', 'British', 'researcher', 'use', 'gather', 'statistic']",developed,0,0,33
+"['developed', 'country', 'British', 'researcher', 'use', 'gather', 'statistic']",gather,0,0,33
+"['developed', 'country', 'British', 'researcher', 'use', 'gather', 'statistic']",researcher,0,0,33
+"['developed', 'country', 'British', 'researcher', 'use', 'gather', 'statistic']",statistic,0,0,33
+"['developed', 'country', 'British', 'researcher', 'use', 'gather', 'statistic']",use,0,0,33
+"['developing', 'economy', 'level', 'inequality', 'bulging', 'called']",bulging,0,0,33
+"['developing', 'economy', 'level', 'inequality', 'bulging', 'called']",called,0,0,33
+"['developing', 'economy', 'level', 'inequality', 'bulging', 'called']",developing,0,0,33
+"['developing', 'economy', 'level', 'inequality', 'bulging', 'called']",economy,0,0,33
+"['developing', 'economy', 'level', 'inequality', 'bulging', 'called']",inequality,0,0,33
+"['developing', 'economy', 'level', 'inequality', 'bulging', 'called']",level,0,0,33
+"['direct', 'impact', 'inequality', 'system', 'us', 'progressive', 'tax']",direct,0,0,33
+"['direct', 'impact', 'inequality', 'system', 'us', 'progressive', 'tax']",impact,0,0,33
+"['direct', 'impact', 'inequality', 'system', 'us', 'progressive', 'tax']",inequality,0,0,33
+"['direct', 'impact', 'inequality', 'system', 'us', 'progressive', 'tax']",progressive,0,0,33
+"['direct', 'impact', 'inequality', 'system', 'us', 'progressive', 'tax']",system,0,0,33
+"['direct', 'impact', 'inequality', 'system', 'us', 'progressive', 'tax']",tax,0,0,33
+"['direct', 'impact', 'inequality', 'system', 'us', 'progressive', 'tax']",us,0,0,33
+"['distribution', 'income', 'labor', 'due', 'difference']",difference,0,0,33
+"['distribution', 'income', 'labor', 'due', 'difference']",distribution,0,0,33
+"['distribution', 'income', 'labor', 'due', 'difference']",due,0,0,33
+"['distribution', 'income', 'labor', 'due', 'difference']",income,0,0,33
+"['distribution', 'income', 'labor', 'due', 'difference']",labor,0,0,33
+"['dollar', 'spent', 'poor', 'person', 'likely', 'provide']",dollar,0,0,33
+"['dollar', 'spent', 'poor', 'person', 'likely', 'provide']",likely,0,0,33
+"['dollar', 'spent', 'poor', 'person', 'likely', 'provide']",person,0,0,33
+"['dollar', 'spent', 'poor', 'person', 'likely', 'provide']",poor,0,0,33
+"['dollar', 'spent', 'poor', 'person', 'likely', 'provide']",provide,0,0,33
+"['dollar', 'spent', 'poor', 'person', 'likely', 'provide']",spent,0,0,33
+"['drive', 'wage', 'job', 'worker', 'willing', 'work', 'lot']",drive,0,0,33
+"['drive', 'wage', 'job', 'worker', 'willing', 'work', 'lot']",job,0,0,33
+"['drive', 'wage', 'job', 'worker', 'willing', 'work', 'lot']",lot,0,0,33
+"['drive', 'wage', 'job', 'worker', 'willing', 'work', 'lot']",wage,0,0,33
+"['drive', 'wage', 'job', 'worker', 'willing', 'work', 'lot']",willing,0,0,33
+"['drive', 'wage', 'job', 'worker', 'willing', 'work', 'lot']",work,0,0,33
+"['drive', 'wage', 'job', 'worker', 'willing', 'work', 'lot']",worker,0,0,33
+"['drove', 'increased', 'rental', 'price', 'East', 'New', 'York']",East,0,0,33
+"['drove', 'increased', 'rental', 'price', 'East', 'New', 'York']",New,0,0,33
+"['drove', 'increased', 'rental', 'price', 'East', 'New', 'York']",York,0,0,33
+"['drove', 'increased', 'rental', 'price', 'East', 'New', 'York']",drove,0,0,33
+"['drove', 'increased', 'rental', 'price', 'East', 'New', 'York']",increased,0,0,33
+"['drove', 'increased', 'rental', 'price', 'East', 'New', 'York']",price,0,0,33
+"['drove', 'increased', 'rental', 'price', 'East', 'New', 'York']",rental,0,0,33
+"['economic', 'inequality', 'smaller', 'waste', 'pollution']",economic,0,0,33
+"['economic', 'inequality', 'smaller', 'waste', 'pollution']",inequality,0,0,33
+"['economic', 'inequality', 'smaller', 'waste', 'pollution']",pollution,0,0,33
+"['economic', 'inequality', 'smaller', 'waste', 'pollution']",smaller,0,0,33
+"['economic', 'inequality', 'smaller', 'waste', 'pollution']",waste,0,0,33
+"['economic', 'liberalism', 'one', 'cause']",cause,0,0,33
+"['economic', 'liberalism', 'one', 'cause']",economic,0,0,33
+"['economic', 'liberalism', 'one', 'cause']",liberalism,0,0,33
+"['economic', 'liberalism', 'one', 'cause']",one,0,0,33
+"['economist', 'reach', 'conclusion', 'S', '&', 'P', 'rating', 'agency']",&,0,0,33
+"['economist', 'reach', 'conclusion', 'S', '&', 'P', 'rating', 'agency']",P,0,0,33
+"['economist', 'reach', 'conclusion', 'S', '&', 'P', 'rating', 'agency']",S,0,0,33
+"['economist', 'reach', 'conclusion', 'S', '&', 'P', 'rating', 'agency']",agency,0,0,33
+"['economist', 'reach', 'conclusion', 'S', '&', 'P', 'rating', 'agency']",conclusion,0,0,33
+"['economist', 'reach', 'conclusion', 'S', '&', 'P', 'rating', 'agency']",economist,0,0,33
+"['economist', 'reach', 'conclusion', 'S', '&', 'P', 'rating', 'agency']",rating,0,0,33
+"['economist', 'reach', 'conclusion', 'S', '&', 'P', 'rating', 'agency']",reach,0,0,33
+"['education', 'area', 'high', 'demand', 'worker', 'tend', 'create']",area,0,0,33
+"['education', 'area', 'high', 'demand', 'worker', 'tend', 'create']",create,0,0,33
+"['education', 'area', 'high', 'demand', 'worker', 'tend', 'create']",demand,0,0,33
+"['education', 'area', 'high', 'demand', 'worker', 'tend', 'create']",education,0,0,33
+"['education', 'area', 'high', 'demand', 'worker', 'tend', 'create']",high,0,0,33
+"['education', 'area', 'high', 'demand', 'worker', 'tend', 'create']",tend,0,0,33
+"['education', 'area', 'high', 'demand', 'worker', 'tend', 'create']",worker,0,0,33
+"['education', 'high', 'school', 'education', 'movement', 'differ', 'subsequent', 'high', 'school', 'education']",differ,0,0,33
+"['education', 'high', 'school', 'education', 'movement', 'differ', 'subsequent', 'high', 'school', 'education']",education,0,0,33
+"['education', 'high', 'school', 'education', 'movement', 'differ', 'subsequent', 'high', 'school', 'education']",high,0,0,33
+"['education', 'high', 'school', 'education', 'movement', 'differ', 'subsequent', 'high', 'school', 'education']",movement,0,0,33
+"['education', 'high', 'school', 'education', 'movement', 'differ', 'subsequent', 'high', 'school', 'education']",school,0,0,33
+"['education', 'high', 'school', 'education', 'movement', 'differ', 'subsequent', 'high', 'school', 'education']",subsequent,0,0,33
+"['effect', 'trade', 'poorer', 'country', 'worker', 'richer', 'country']",country,0,0,33
+"['effect', 'trade', 'poorer', 'country', 'worker', 'richer', 'country']",effect,0,0,33
+"['effect', 'trade', 'poorer', 'country', 'worker', 'richer', 'country']",poorer,0,0,33
+"['effect', 'trade', 'poorer', 'country', 'worker', 'richer', 'country']",richer,0,0,33
+"['effect', 'trade', 'poorer', 'country', 'worker', 'richer', 'country']",trade,0,0,33
+"['effect', 'trade', 'poorer', 'country', 'worker', 'richer', 'country']",worker,0,0,33
+"['effect', 'trade', 'richer', 'country', 'worker', 'poorer', 'country']",country,0,0,33
+"['effect', 'trade', 'richer', 'country', 'worker', 'poorer', 'country']",effect,0,0,33
+"['effect', 'trade', 'richer', 'country', 'worker', 'poorer', 'country']",poorer,0,0,33
+"['effect', 'trade', 'richer', 'country', 'worker', 'poorer', 'country']",richer,0,0,33
+"['effect', 'trade', 'richer', 'country', 'worker', 'poorer', 'country']",trade,0,0,33
+"['effect', 'trade', 'richer', 'country', 'worker', 'poorer', 'country']",worker,0,0,33
+"['estimated', 'half', 'variation', 'homicide', 'rate', 'accounted']",accounted,0,0,33
+"['estimated', 'half', 'variation', 'homicide', 'rate', 'accounted']",estimated,0,0,33
+"['estimated', 'half', 'variation', 'homicide', 'rate', 'accounted']",half,0,0,33
+"['estimated', 'half', 'variation', 'homicide', 'rate', 'accounted']",homicide,0,0,33
+"['estimated', 'half', 'variation', 'homicide', 'rate', 'accounted']",rate,0,0,33
+"['estimated', 'half', 'variation', 'homicide', 'rate', 'accounted']",variation,0,0,33
+"['example', 'economic', 'actor']",actor,0,0,33
+"['example', 'economic', 'actor']",economic,0,0,33
+"['example', 'economic', 'actor']",example,0,0,33
+"['extremely', 'unequal', 'society', 'tend']",extremely,0,0,33
+"['extremely', 'unequal', 'society', 'tend']",society,0,0,33
+"['extremely', 'unequal', 'society', 'tend']",tend,0,0,33
+"['extremely', 'unequal', 'society', 'tend']",unequal,0,0,33
+"['factor', 'health', 'social', 'problem', 'Wilkinson', 'PIckett', 'identify']",PIckett,0,0,33
+"['factor', 'health', 'social', 'problem', 'Wilkinson', 'PIckett', 'identify']",Wilkinson,0,0,33
+"['factor', 'health', 'social', 'problem', 'Wilkinson', 'PIckett', 'identify']",factor,0,0,33
+"['factor', 'health', 'social', 'problem', 'Wilkinson', 'PIckett', 'identify']",health,0,0,33
+"['factor', 'health', 'social', 'problem', 'Wilkinson', 'PIckett', 'identify']",identify,0,0,33
+"['factor', 'health', 'social', 'problem', 'Wilkinson', 'PIckett', 'identify']",problem,0,0,33
+"['factor', 'health', 'social', 'problem', 'Wilkinson', 'PIckett', 'identify']",social,0,0,33
+"['firm', 'substitute', 'equipment', 'worker']",equipment,0,0,33
+"['firm', 'substitute', 'equipment', 'worker']",firm,0,0,33
+"['firm', 'substitute', 'equipment', 'worker']",substitute,0,0,33
+"['firm', 'substitute', 'equipment', 'worker']",worker,0,0,33
+"['force', 'serve', 'brake', 'wealth', 'concentration']",brake,0,0,33
+"['force', 'serve', 'brake', 'wealth', 'concentration']",concentration,0,0,33
+"['force', 'serve', 'brake', 'wealth', 'concentration']",force,0,0,33
+"['force', 'serve', 'brake', 'wealth', 'concentration']",serve,0,0,33
+"['force', 'serve', 'brake', 'wealth', 'concentration']",wealth,0,0,33
+"['gender', 'income', 'inequality', 'Bahrain']",Bahrain,0,0,33
+"['gender', 'income', 'inequality', 'Bahrain']",gender,0,0,33
+"['gender', 'income', 'inequality', 'Bahrain']",income,0,0,33
+"['gender', 'income', 'inequality', 'Bahrain']",inequality,0,0,33
+"['gender', 'le', 'willing', 'travel', 'relocate', 'work']",gender,0,0,33
+"['gender', 'le', 'willing', 'travel', 'relocate', 'work']",le,0,0,33
+"['gender', 'le', 'willing', 'travel', 'relocate', 'work']",relocate,0,0,33
+"['gender', 'le', 'willing', 'travel', 'relocate', 'work']",travel,0,0,33
+"['gender', 'le', 'willing', 'travel', 'relocate', 'work']",willing,0,0,33
+"['gender', 'le', 'willing', 'travel', 'relocate', 'work']",work,0,0,33
+"['gender', 'pay', 'gap', 'tend', 'favor']",favor,0,0,33
+"['gender', 'pay', 'gap', 'tend', 'favor']",gap,0,0,33
+"['gender', 'pay', 'gap', 'tend', 'favor']",gender,0,0,33
+"['gender', 'pay', 'gap', 'tend', 'favor']",pay,0,0,33
+"['gender', 'pay', 'gap', 'tend', 'favor']",tend,0,0,33
+"['given', 'American', 'economy', 'tendency', 'go', 'bubble', 'bubble']",American,0,0,33
+"['given', 'American', 'economy', 'tendency', 'go', 'bubble', 'bubble']",bubble,0,0,33
+"['given', 'American', 'economy', 'tendency', 'go', 'bubble', 'bubble']",economy,0,0,33
+"['given', 'American', 'economy', 'tendency', 'go', 'bubble', 'bubble']",given,0,0,33
+"['given', 'American', 'economy', 'tendency', 'go', 'bubble', 'bubble']",go,0,0,33
+"['given', 'American', 'economy', 'tendency', 'go', 'bubble', 'bubble']",tendency,0,0,33
+"['goal', 'capability', 'approach']",approach,0,0,33
+"['goal', 'capability', 'approach']",capability,0,0,33
+"['goal', 'capability', 'approach']",goal,0,0,33
+"['growth', 'elasticity', 'poverty', 'depend']",depend,0,0,33
+"['growth', 'elasticity', 'poverty', 'depend']",elasticity,0,0,33
+"['growth', 'elasticity', 'poverty', 'depend']",growth,0,0,33
+"['growth', 'elasticity', 'poverty', 'depend']",poverty,0,0,33
+"['happens', 'GDP', 'growth', 'country', 'income', 'share', 'top', '20', 'percent', 'increase', 'according', 'IMF', 'staff', 'economist']",20,0,0,33
+"['happens', 'GDP', 'growth', 'country', 'income', 'share', 'top', '20', 'percent', 'increase', 'according', 'IMF', 'staff', 'economist']",GDP,0,0,33
+"['happens', 'GDP', 'growth', 'country', 'income', 'share', 'top', '20', 'percent', 'increase', 'according', 'IMF', 'staff', 'economist']",IMF,0,0,33
+"['happens', 'GDP', 'growth', 'country', 'income', 'share', 'top', '20', 'percent', 'increase', 'according', 'IMF', 'staff', 'economist']",according,0,0,33
+"['happens', 'GDP', 'growth', 'country', 'income', 'share', 'top', '20', 'percent', 'increase', 'according', 'IMF', 'staff', 'economist']",country,0,0,33
+"['happens', 'GDP', 'growth', 'country', 'income', 'share', 'top', '20', 'percent', 'increase', 'according', 'IMF', 'staff', 'economist']",economist,0,0,33
+"['happens', 'GDP', 'growth', 'country', 'income', 'share', 'top', '20', 'percent', 'increase', 'according', 'IMF', 'staff', 'economist']",growth,0,0,33
+"['happens', 'GDP', 'growth', 'country', 'income', 'share', 'top', '20', 'percent', 'increase', 'according', 'IMF', 'staff', 'economist']",happens,0,0,33
+"['happens', 'GDP', 'growth', 'country', 'income', 'share', 'top', '20', 'percent', 'increase', 'according', 'IMF', 'staff', 'economist']",income,0,0,33
+"['happens', 'GDP', 'growth', 'country', 'income', 'share', 'top', '20', 'percent', 'increase', 'according', 'IMF', 'staff', 'economist']",increase,0,0,33
+"['happens', 'GDP', 'growth', 'country', 'income', 'share', 'top', '20', 'percent', 'increase', 'according', 'IMF', 'staff', 'economist']",percent,0,0,33
+"['happens', 'GDP', 'growth', 'country', 'income', 'share', 'top', '20', 'percent', 'increase', 'according', 'IMF', 'staff', 'economist']",share,0,0,33
+"['happens', 'GDP', 'growth', 'country', 'income', 'share', 'top', '20', 'percent', 'increase', 'according', 'IMF', 'staff', 'economist']",staff,0,0,33
+"['happens', 'GDP', 'growth', 'country', 'income', 'share', 'top', '20', 'percent', 'increase', 'according', 'IMF', 'staff', 'economist']",top,0,0,33
+"['happens', 'business', 'underpays', 'worker']",business,0,0,33
+"['happens', 'business', 'underpays', 'worker']",happens,0,0,33
+"['happens', 'business', 'underpays', 'worker']",underpays,0,0,33
+"['happens', 'business', 'underpays', 'worker']",worker,0,0,33
+"['happens', 'person', 'capability', 'aer', 'lowered', 'relates', 'income']",aer,0,0,33
+"['happens', 'person', 'capability', 'aer', 'lowered', 'relates', 'income']",capability,0,0,33
+"['happens', 'person', 'capability', 'aer', 'lowered', 'relates', 'income']",happens,0,0,33
+"['happens', 'person', 'capability', 'aer', 'lowered', 'relates', 'income']",income,0,0,33
+"['happens', 'person', 'capability', 'aer', 'lowered', 'relates', 'income']",lowered,0,0,33
+"['happens', 'person', 'capability', 'aer', 'lowered', 'relates', 'income']",person,0,0,33
+"['happens', 'person', 'capability', 'aer', 'lowered', 'relates', 'income']",relates,0,0,33
+"['health', 'social', 'problem', 'common']",common,0,0,33
+"['health', 'social', 'problem', 'common']",health,0,0,33
+"['health', 'social', 'problem', 'common']",problem,0,0,33
+"['health', 'social', 'problem', 'common']",social,0,0,33
+"['held', 'outside', 'formal', 'legal', 'ownership', 'registration', 'system', 'developing', 'country']",country,0,0,33
+"['held', 'outside', 'formal', 'legal', 'ownership', 'registration', 'system', 'developing', 'country']",developing,0,0,33
+"['held', 'outside', 'formal', 'legal', 'ownership', 'registration', 'system', 'developing', 'country']",formal,0,0,33
+"['held', 'outside', 'formal', 'legal', 'ownership', 'registration', 'system', 'developing', 'country']",held,0,0,33
+"['held', 'outside', 'formal', 'legal', 'ownership', 'registration', 'system', 'developing', 'country']",legal,0,0,33
+"['held', 'outside', 'formal', 'legal', 'ownership', 'registration', 'system', 'developing', 'country']",outside,0,0,33
+"['held', 'outside', 'formal', 'legal', 'ownership', 'registration', 'system', 'developing', 'country']",ownership,0,0,33
+"['held', 'outside', 'formal', 'legal', 'ownership', 'registration', 'system', 'developing', 'country']",registration,0,0,33
+"['held', 'outside', 'formal', 'legal', 'ownership', 'registration', 'system', 'developing', 'country']",system,0,0,33
+"['help', 'unleash', 'productivity', 'ability', 'poor']",ability,0,0,33
+"['help', 'unleash', 'productivity', 'ability', 'poor']",help,0,0,33
+"['help', 'unleash', 'productivity', 'ability', 'poor']",poor,0,0,33
+"['help', 'unleash', 'productivity', 'ability', 'poor']",productivity,0,0,33
+"['help', 'unleash', 'productivity', 'ability', 'poor']",unleash,0,0,33
+"['high', 'inequality', 'go', 'hand-in-hand']",go,0,0,33
+"['high', 'inequality', 'go', 'hand-in-hand']",hand-in-hand,0,0,33
+"['high', 'inequality', 'go', 'hand-in-hand']",high,0,0,33
+"['high', 'inequality', 'go', 'hand-in-hand']",inequality,0,0,33
+"['high', 'level', 'inequality', 'economic', 'growth', 'richer', 'country']",country,0,0,33
+"['high', 'level', 'inequality', 'economic', 'growth', 'richer', 'country']",economic,0,0,33
+"['high', 'level', 'inequality', 'economic', 'growth', 'richer', 'country']",growth,0,0,33
+"['high', 'level', 'inequality', 'economic', 'growth', 'richer', 'country']",high,0,0,33
+"['high', 'level', 'inequality', 'economic', 'growth', 'richer', 'country']",inequality,0,0,33
+"['high', 'level', 'inequality', 'economic', 'growth', 'richer', 'country']",level,0,0,33
+"['high', 'level', 'inequality', 'economic', 'growth', 'richer', 'country']",richer,0,0,33
+"['high', 'level', 'inequality', 'growth', 'poor', 'country']",country,0,0,33
+"['high', 'level', 'inequality', 'growth', 'poor', 'country']",growth,0,0,33
+"['high', 'level', 'inequality', 'growth', 'poor', 'country']",high,0,0,33
+"['high', 'level', 'inequality', 'growth', 'poor', 'country']",inequality,0,0,33
+"['high', 'level', 'inequality', 'growth', 'poor', 'country']",level,0,0,33
+"['high', 'level', 'inequality', 'growth', 'poor', 'country']",poor,0,0,33
+"['high', 'level', 'inequality', 'prevent', 'beyond', 'economic', 'prosperity']",beyond,0,0,33
+"['high', 'level', 'inequality', 'prevent', 'beyond', 'economic', 'prosperity']",economic,0,0,33
+"['high', 'level', 'inequality', 'prevent', 'beyond', 'economic', 'prosperity']",high,0,0,33
+"['high', 'level', 'inequality', 'prevent', 'beyond', 'economic', 'prosperity']",inequality,0,0,33
+"['high', 'level', 'inequality', 'prevent', 'beyond', 'economic', 'prosperity']",level,0,0,33
+"['high', 'level', 'inequality', 'prevent', 'beyond', 'economic', 'prosperity']",prevent,0,0,33
+"['high', 'level', 'inequality', 'prevent', 'beyond', 'economic', 'prosperity']",prosperity,0,0,33
+"['high', 'school', 'education', 'movement', 'occur']",education,0,0,33
+"['high', 'school', 'education', 'movement', 'occur']",high,0,0,33
+"['high', 'school', 'education', 'movement', 'occur']",movement,0,0,33
+"['high', 'school', 'education', 'movement', 'occur']",occur,0,0,33
+"['high', 'school', 'education', 'movement', 'occur']",school,0,0,33
+"['higher', 'material', 'living', 'standard', 'lead', 'human', 'history']",higher,0,0,33
+"['higher', 'material', 'living', 'standard', 'lead', 'human', 'history']",history,0,0,33
+"['higher', 'material', 'living', 'standard', 'lead', 'human', 'history']",human,0,0,33
+"['higher', 'material', 'living', 'standard', 'lead', 'human', 'history']",lead,0,0,33
+"['higher', 'material', 'living', 'standard', 'lead', 'human', 'history']",living,0,0,33
+"['higher', 'material', 'living', 'standard', 'lead', 'human', 'history']",material,0,0,33
+"['higher', 'material', 'living', 'standard', 'lead', 'human', 'history']",standard,0,0,33
+"['highest', 'impact', 'wealth', 'accumulation', 'resulting', 'income', 'inequality']",accumulation,0,0,33
+"['highest', 'impact', 'wealth', 'accumulation', 'resulting', 'income', 'inequality']",highest,0,0,33
+"['highest', 'impact', 'wealth', 'accumulation', 'resulting', 'income', 'inequality']",impact,0,0,33
+"['highest', 'impact', 'wealth', 'accumulation', 'resulting', 'income', 'inequality']",income,0,0,33
+"['highest', 'impact', 'wealth', 'accumulation', 'resulting', 'income', 'inequality']",inequality,0,0,33
+"['highest', 'impact', 'wealth', 'accumulation', 'resulting', 'income', 'inequality']",resulting,0,0,33
+"['highest', 'impact', 'wealth', 'accumulation', 'resulting', 'income', 'inequality']",wealth,0,0,33
+"['human', 'inequality', 'addressed', 'without', 'resulting', 'increase', 'environmental', 'damage']",addressed,0,0,33
+"['human', 'inequality', 'addressed', 'without', 'resulting', 'increase', 'environmental', 'damage']",damage,0,0,33
+"['human', 'inequality', 'addressed', 'without', 'resulting', 'increase', 'environmental', 'damage']",environmental,0,0,33
+"['human', 'inequality', 'addressed', 'without', 'resulting', 'increase', 'environmental', 'damage']",human,0,0,33
+"['human', 'inequality', 'addressed', 'without', 'resulting', 'increase', 'environmental', 'damage']",increase,0,0,33
+"['human', 'inequality', 'addressed', 'without', 'resulting', 'increase', 'environmental', 'damage']",inequality,0,0,33
+"['human', 'inequality', 'addressed', 'without', 'resulting', 'increase', 'environmental', 'damage']",resulting,0,0,33
+"['human', 'inequality', 'addressed', 'without', 'resulting', 'increase', 'environmental', 'damage']",without,0,0,33
+"['ideal', 'moral', 'society', 'would', 'citizen', 'free']",citizen,0,0,33
+"['ideal', 'moral', 'society', 'would', 'citizen', 'free']",free,0,0,33
+"['ideal', 'moral', 'society', 'would', 'citizen', 'free']",ideal,0,0,33
+"['ideal', 'moral', 'society', 'would', 'citizen', 'free']",moral,0,0,33
+"['ideal', 'moral', 'society', 'would', 'citizen', 'free']",society,0,0,33
+"['ideal', 'moral', 'society', 'would', 'citizen', 'free']",would,0,0,33
+"['impact', 'distribution', 'wealth', 'evaluating', 'labor']",distribution,0,0,33
+"['impact', 'distribution', 'wealth', 'evaluating', 'labor']",evaluating,0,0,33
+"['impact', 'distribution', 'wealth', 'evaluating', 'labor']",impact,0,0,33
+"['impact', 'distribution', 'wealth', 'evaluating', 'labor']",labor,0,0,33
+"['impact', 'distribution', 'wealth', 'evaluating', 'labor']",wealth,0,0,33
+"['impact', 'gender', 'inequality', 'wage']",gender,0,0,33
+"['impact', 'gender', 'inequality', 'wage']",impact,0,0,33
+"['impact', 'gender', 'inequality', 'wage']",inequality,0,0,33
+"['impact', 'gender', 'inequality', 'wage']",wage,0,0,33
+"['impact', 'high', 'school', 'education', 'movement', 'presence', 'skilled', 'worker']",education,0,0,33
+"['impact', 'high', 'school', 'education', 'movement', 'presence', 'skilled', 'worker']",high,0,0,33
+"['impact', 'high', 'school', 'education', 'movement', 'presence', 'skilled', 'worker']",impact,0,0,33
+"['impact', 'high', 'school', 'education', 'movement', 'presence', 'skilled', 'worker']",movement,0,0,33
+"['impact', 'high', 'school', 'education', 'movement', 'presence', 'skilled', 'worker']",presence,0,0,33
+"['impact', 'high', 'school', 'education', 'movement', 'presence', 'skilled', 'worker']",school,0,0,33
+"['impact', 'high', 'school', 'education', 'movement', 'presence', 'skilled', 'worker']",skilled,0,0,33
+"['impact', 'high', 'school', 'education', 'movement', 'presence', 'skilled', 'worker']",worker,0,0,33
+"['impact', 'high', 'school', 'education', 'movement', 'wage', 'skilled', 'worker']",education,0,0,33
+"['impact', 'high', 'school', 'education', 'movement', 'wage', 'skilled', 'worker']",high,0,0,33
+"['impact', 'high', 'school', 'education', 'movement', 'wage', 'skilled', 'worker']",impact,0,0,33
+"['impact', 'high', 'school', 'education', 'movement', 'wage', 'skilled', 'worker']",movement,0,0,33
+"['impact', 'high', 'school', 'education', 'movement', 'wage', 'skilled', 'worker']",school,0,0,33
+"['impact', 'high', 'school', 'education', 'movement', 'wage', 'skilled', 'worker']",skilled,0,0,33
+"['impact', 'high', 'school', 'education', 'movement', 'wage', 'skilled', 'worker']",wage,0,0,33
+"['impact', 'high', 'school', 'education', 'movement', 'wage', 'skilled', 'worker']",worker,0,0,33
+"['impact', 'higher', 'worker', 'productivity', 'leveled', 'pay', 'higher', 'earner']",earner,0,0,33
+"['impact', 'higher', 'worker', 'productivity', 'leveled', 'pay', 'higher', 'earner']",higher,0,0,33
+"['impact', 'higher', 'worker', 'productivity', 'leveled', 'pay', 'higher', 'earner']",impact,0,0,33
+"['impact', 'higher', 'worker', 'productivity', 'leveled', 'pay', 'higher', 'earner']",leveled,0,0,33
+"['impact', 'higher', 'worker', 'productivity', 'leveled', 'pay', 'higher', 'earner']",pay,0,0,33
+"['impact', 'higher', 'worker', 'productivity', 'leveled', 'pay', 'higher', 'earner']",productivity,0,0,33
+"['impact', 'higher', 'worker', 'productivity', 'leveled', 'pay', 'higher', 'earner']",worker,0,0,33
+"['impact', 'worker', 'working', 'harder', 'productivity', 'business']",business,0,0,33
+"['impact', 'worker', 'working', 'harder', 'productivity', 'business']",harder,0,0,33
+"['impact', 'worker', 'working', 'harder', 'productivity', 'business']",impact,0,0,33
+"['impact', 'worker', 'working', 'harder', 'productivity', 'business']",productivity,0,0,33
+"['impact', 'worker', 'working', 'harder', 'productivity', 'business']",worker,0,0,33
+"['impact', 'worker', 'working', 'harder', 'productivity', 'business']",working,0,0,33
+"['important', 'factor', 'contributing', 'inequality', 'individual']",contributing,0,0,33
+"['important', 'factor', 'contributing', 'inequality', 'individual']",factor,0,0,33
+"['important', 'factor', 'contributing', 'inequality', 'individual']",important,0,0,33
+"['important', 'factor', 'contributing', 'inequality', 'individual']",individual,0,0,33
+"['important', 'factor', 'contributing', 'inequality', 'individual']",inequality,0,0,33
+"['important', 'growth', 'economy']",economy,0,0,33
+"['important', 'growth', 'economy']",growth,0,0,33
+"['important', 'growth', 'economy']",important,0,0,33
+"['important', 'problem', 'United', 'States', 'elsewhere']",States,0,0,33
+"['important', 'problem', 'United', 'States', 'elsewhere']",United,0,0,33
+"['important', 'problem', 'United', 'States', 'elsewhere']",elsewhere,0,0,33
+"['important', 'problem', 'United', 'States', 'elsewhere']",important,0,0,33
+"['important', 'problem', 'United', 'States', 'elsewhere']",problem,0,0,33
+"['income', 'determined', 'market', 'variously', 'skilled', 'worker']",determined,0,0,33
+"['income', 'determined', 'market', 'variously', 'skilled', 'worker']",income,0,0,33
+"['income', 'determined', 'market', 'variously', 'skilled', 'worker']",market,0,0,33
+"['income', 'determined', 'market', 'variously', 'skilled', 'worker']",skilled,0,0,33
+"['income', 'determined', 'market', 'variously', 'skilled', 'worker']",variously,0,0,33
+"['income', 'determined', 'market', 'variously', 'skilled', 'worker']",worker,0,0,33
+"['income', 'distributed', 'Sweden']",Sweden,0,0,33
+"['income', 'distributed', 'Sweden']",distributed,0,0,33
+"['income', 'distributed', 'Sweden']",income,0,0,33
+"['income', 'inequality', 'attributed']",attributed,0,0,33
+"['income', 'inequality', 'attributed']",income,0,0,33
+"['income', 'inequality', 'attributed']",inequality,0,0,33
+"['income', 'inequality', 'begin', 'increase', 'US']",US,0,0,33
+"['income', 'inequality', 'begin', 'increase', 'US']",begin,0,0,33
+"['income', 'inequality', 'begin', 'increase', 'US']",income,0,0,33
+"['income', 'inequality', 'begin', 'increase', 'US']",increase,0,0,33
+"['income', 'inequality', 'begin', 'increase', 'US']",inequality,0,0,33
+"['income', 'inequality', 'gap', 'gender', 'Botswana']",Botswana,0,0,33
+"['income', 'inequality', 'gap', 'gender', 'Botswana']",gap,0,0,33
+"['income', 'inequality', 'gap', 'gender', 'Botswana']",gender,0,0,33
+"['income', 'inequality', 'gap', 'gender', 'Botswana']",income,0,0,33
+"['income', 'inequality', 'gap', 'gender', 'Botswana']",inequality,0,0,33
+"['income', 'inequality', 'generally', 'viewed', 'worker']",generally,0,0,33
+"['income', 'inequality', 'generally', 'viewed', 'worker']",income,0,0,33
+"['income', 'inequality', 'generally', 'viewed', 'worker']",inequality,0,0,33
+"['income', 'inequality', 'generally', 'viewed', 'worker']",viewed,0,0,33
+"['income', 'inequality', 'generally', 'viewed', 'worker']",worker,0,0,33
+"['increase', 'entrepreneurship', 'rate', 'individual', 'level']",entrepreneurship,0,0,33
+"['increase', 'entrepreneurship', 'rate', 'individual', 'level']",increase,0,0,33
+"['increase', 'entrepreneurship', 'rate', 'individual', 'level']",individual,0,0,33
+"['increase', 'entrepreneurship', 'rate', 'individual', 'level']",level,0,0,33
+"['increase', 'entrepreneurship', 'rate', 'individual', 'level']",rate,0,0,33
+"['increase', 'income', 'share', 'bottom', '20', 'percent', 'people', 'society', 'result']",20,0,0,33
+"['increase', 'income', 'share', 'bottom', '20', 'percent', 'people', 'society', 'result']",bottom,0,0,33
+"['increase', 'income', 'share', 'bottom', '20', 'percent', 'people', 'society', 'result']",income,0,0,33
+"['increase', 'income', 'share', 'bottom', '20', 'percent', 'people', 'society', 'result']",increase,0,0,33
+"['increase', 'income', 'share', 'bottom', '20', 'percent', 'people', 'society', 'result']",people,0,0,33
+"['increase', 'income', 'share', 'bottom', '20', 'percent', 'people', 'society', 'result']",percent,0,0,33
+"['increase', 'income', 'share', 'bottom', '20', 'percent', 'people', 'society', 'result']",result,0,0,33
+"['increase', 'income', 'share', 'bottom', '20', 'percent', 'people', 'society', 'result']",share,0,0,33
+"['increase', 'income', 'share', 'bottom', '20', 'percent', 'people', 'society', 'result']",society,0,0,33
+"['increase', 'increase', 'income', 'inequality']",income,0,0,33
+"['increase', 'increase', 'income', 'inequality']",increase,0,0,33
+"['increase', 'increase', 'income', 'inequality']",inequality,0,0,33
+"['increase', 'rapidly', 'per', 'caput', 'income', 'increase']",caput,0,0,33
+"['increase', 'rapidly', 'per', 'caput', 'income', 'increase']",income,0,0,33
+"['increase', 'rapidly', 'per', 'caput', 'income', 'increase']",increase,0,0,33
+"['increase', 'rapidly', 'per', 'caput', 'income', 'increase']",per,0,0,33
+"['increase', 'rapidly', 'per', 'caput', 'income', 'increase']",rapidly,0,0,33
+"['increase', 'skilled', 'worker', 'lead']",increase,0,0,33
+"['increase', 'skilled', 'worker', 'lead']",lead,0,0,33
+"['increase', 'skilled', 'worker', 'lead']",skilled,0,0,33
+"['increase', 'skilled', 'worker', 'lead']",worker,0,0,33
+"['increased', 'rate', 'self-employment', 'based']",based,0,0,33
+"['increased', 'rate', 'self-employment', 'based']",increased,0,0,33
+"['increased', 'rate', 'self-employment', 'based']",rate,0,0,33
+"['increased', 'rate', 'self-employment', 'based']",self-employment,0,0,33
+"['increasing', 'inequality', 'harm']",harm,0,0,33
+"['increasing', 'inequality', 'harm']",increasing,0,0,33
+"['increasing', 'inequality', 'harm']",inequality,0,0,33
+"['index', 'indicator', 'effect', 'tax', 'applied', 'social', 'spending']",applied,0,0,33
+"['index', 'indicator', 'effect', 'tax', 'applied', 'social', 'spending']",effect,0,0,33
+"['index', 'indicator', 'effect', 'tax', 'applied', 'social', 'spending']",index,0,0,33
+"['index', 'indicator', 'effect', 'tax', 'applied', 'social', 'spending']",indicator,0,0,33
+"['index', 'indicator', 'effect', 'tax', 'applied', 'social', 'spending']",social,0,0,33
+"['index', 'indicator', 'effect', 'tax', 'applied', 'social', 'spending']",spending,0,0,33
+"['index', 'indicator', 'effect', 'tax', 'applied', 'social', 'spending']",tax,0,0,33
+"['inequality', 'associated', 'higher', 'level']",associated,0,0,33
+"['inequality', 'associated', 'higher', 'level']",higher,0,0,33
+"['inequality', 'associated', 'higher', 'level']",inequality,0,0,33
+"['inequality', 'associated', 'higher', 'level']",level,0,0,33
+"['inequality', 'prevent', 'growth']",growth,0,0,33
+"['inequality', 'prevent', 'growth']",inequality,0,0,33
+"['inequality', 'prevent', 'growth']",prevent,0,0,33
+"['inequality', 'wealth', 'justified', 'according', 'John', 'Rawls']",John,0,0,33
+"['inequality', 'wealth', 'justified', 'according', 'John', 'Rawls']",Rawls,0,0,33
+"['inequality', 'wealth', 'justified', 'according', 'John', 'Rawls']",according,0,0,33
+"['inequality', 'wealth', 'justified', 'according', 'John', 'Rawls']",inequality,0,0,33
+"['inequality', 'wealth', 'justified', 'according', 'John', 'Rawls']",justified,0,0,33
+"['inequality', 'wealth', 'justified', 'according', 'John', 'Rawls']",wealth,0,0,33
+"['institution', 'Robert', 'Barro', 'hail']",Barro,0,0,33
+"['institution', 'Robert', 'Barro', 'hail']",Robert,0,0,33
+"['institution', 'Robert', 'Barro', 'hail']",hail,0,0,33
+"['institution', 'Robert', 'Barro', 'hail']",institution,0,0,33
+"['introduces', 'inequality', 'country']",country,0,0,33
+"['introduces', 'inequality', 'country']",inequality,0,0,33
+"['introduces', 'inequality', 'country']",introduces,0,0,33
+"['issue', 'may', 'prevent', 'woman', 'working', 'outside', 'home', 'receiving', 'education']",education,0,0,33
+"['issue', 'may', 'prevent', 'woman', 'working', 'outside', 'home', 'receiving', 'education']",home,0,0,33
+"['issue', 'may', 'prevent', 'woman', 'working', 'outside', 'home', 'receiving', 'education']",issue,0,0,33
+"['issue', 'may', 'prevent', 'woman', 'working', 'outside', 'home', 'receiving', 'education']",may,0,0,33
+"['issue', 'may', 'prevent', 'woman', 'working', 'outside', 'home', 'receiving', 'education']",outside,0,0,33
+"['issue', 'may', 'prevent', 'woman', 'working', 'outside', 'home', 'receiving', 'education']",prevent,0,0,33
+"['issue', 'may', 'prevent', 'woman', 'working', 'outside', 'home', 'receiving', 'education']",receiving,0,0,33
+"['issue', 'may', 'prevent', 'woman', 'working', 'outside', 'home', 'receiving', 'education']",woman,0,0,33
+"['issue', 'may', 'prevent', 'woman', 'working', 'outside', 'home', 'receiving', 'education']",working,0,0,33
+"['key', 'getting', 'skill', 'needed', 'high', 'demand', 'job']",demand,0,0,33
+"['key', 'getting', 'skill', 'needed', 'high', 'demand', 'job']",getting,0,0,33
+"['key', 'getting', 'skill', 'needed', 'high', 'demand', 'job']",high,0,0,33
+"['key', 'getting', 'skill', 'needed', 'high', 'demand', 'job']",job,0,0,33
+"['key', 'getting', 'skill', 'needed', 'high', 'demand', 'job']",key,0,0,33
+"['key', 'getting', 'skill', 'needed', 'high', 'demand', 'job']",needed,0,0,33
+"['key', 'getting', 'skill', 'needed', 'high', 'demand', 'job']",skill,0,0,33
+"['lack', 'education', 'lead', 'directly']",directly,0,0,33
+"['lack', 'education', 'lead', 'directly']",education,0,0,33
+"['lack', 'education', 'lead', 'directly']",lack,0,0,33
+"['lack', 'education', 'lead', 'directly']",lead,0,0,33
+"['larger', 'fortune', 'generate']",fortune,0,0,33
+"['larger', 'fortune', 'generate']",generate,0,0,33
+"['larger', 'fortune', 'generate']",larger,0,0,33
+"['le', 'education', 'lead', 'working']",education,0,0,33
+"['le', 'education', 'lead', 'working']",le,0,0,33
+"['le', 'education', 'lead', 'working']",lead,0,0,33
+"['le', 'education', 'lead', 'working']",working,0,0,33
+"['le', 'worker', 'required', 'happens', 'job', 'market']",happens,0,0,33
+"['le', 'worker', 'required', 'happens', 'job', 'market']",job,0,0,33
+"['le', 'worker', 'required', 'happens', 'job', 'market']",le,0,0,33
+"['le', 'worker', 'required', 'happens', 'job', 'market']",market,0,0,33
+"['le', 'worker', 'required', 'happens', 'job', 'market']",required,0,0,33
+"['le', 'worker', 'required', 'happens', 'job', 'market']",worker,0,0,33
+"['lead', 'higher', 'wage', 'member', 'labor', 'organization']",higher,0,0,33
+"['lead', 'higher', 'wage', 'member', 'labor', 'organization']",labor,0,0,33
+"['lead', 'higher', 'wage', 'member', 'labor', 'organization']",lead,0,0,33
+"['lead', 'higher', 'wage', 'member', 'labor', 'organization']",member,0,0,33
+"['lead', 'higher', 'wage', 'member', 'labor', 'organization']",organization,0,0,33
+"['lead', 'higher', 'wage', 'member', 'labor', 'organization']",wage,0,0,33
+"['lead', 'lower', 'income', 'inequality']",income,0,0,33
+"['lead', 'lower', 'income', 'inequality']",inequality,0,0,33
+"['lead', 'lower', 'income', 'inequality']",lead,0,0,33
+"['lead', 'lower', 'income', 'inequality']",lower,0,0,33
+"['level', 'economic', 'mobility', 'U.S.', 'economy', 'compared', 'European', 'country']",European,0,0,33
+"['level', 'economic', 'mobility', 'U.S.', 'economy', 'compared', 'European', 'country']",U.S.,0,0,33
+"['level', 'economic', 'mobility', 'U.S.', 'economy', 'compared', 'European', 'country']",compared,0,0,33
+"['level', 'economic', 'mobility', 'U.S.', 'economy', 'compared', 'European', 'country']",country,0,0,33
+"['level', 'economic', 'mobility', 'U.S.', 'economy', 'compared', 'European', 'country']",economic,0,0,33
+"['level', 'economic', 'mobility', 'U.S.', 'economy', 'compared', 'European', 'country']",economy,0,0,33
+"['level', 'economic', 'mobility', 'U.S.', 'economy', 'compared', 'European', 'country']",level,0,0,33
+"['level', 'economic', 'mobility', 'U.S.', 'economy', 'compared', 'European', 'country']",mobility,0,0,33
+"['level', 'inequality', 'underdeveloped', 'country']",country,0,0,33
+"['level', 'inequality', 'underdeveloped', 'country']",inequality,0,0,33
+"['level', 'inequality', 'underdeveloped', 'country']",level,0,0,33
+"['level', 'inequality', 'underdeveloped', 'country']",underdeveloped,0,0,33
+"['life', 'longer', 'average', 'Greeks', 'New', 'Zealanders']",Greeks,0,0,33
+"['life', 'longer', 'average', 'Greeks', 'New', 'Zealanders']",New,0,0,33
+"['life', 'longer', 'average', 'Greeks', 'New', 'Zealanders']",Zealanders,0,0,33
+"['life', 'longer', 'average', 'Greeks', 'New', 'Zealanders']",average,0,0,33
+"['life', 'longer', 'average', 'Greeks', 'New', 'Zealanders']",life,0,0,33
+"['life', 'longer', 'average', 'Greeks', 'New', 'Zealanders']",longer,0,0,33
+"['limited', 'productive', 'potential', 'faced', 'le', 'access', 'education']",access,0,0,33
+"['limited', 'productive', 'potential', 'faced', 'le', 'access', 'education']",education,0,0,33
+"['limited', 'productive', 'potential', 'faced', 'le', 'access', 'education']",faced,0,0,33
+"['limited', 'productive', 'potential', 'faced', 'le', 'access', 'education']",le,0,0,33
+"['limited', 'productive', 'potential', 'faced', 'le', 'access', 'education']",limited,0,0,33
+"['limited', 'productive', 'potential', 'faced', 'le', 'access', 'education']",potential,0,0,33
+"['limited', 'productive', 'potential', 'faced', 'le', 'access', 'education']",productive,0,0,33
+"['long', 'take', 'effect', 'manifest', 'change', 'economic', 'growth']",change,0,0,33
+"['long', 'take', 'effect', 'manifest', 'change', 'economic', 'growth']",economic,0,0,33
+"['long', 'take', 'effect', 'manifest', 'change', 'economic', 'growth']",effect,0,0,33
+"['long', 'take', 'effect', 'manifest', 'change', 'economic', 'growth']",growth,0,0,33
+"['long', 'take', 'effect', 'manifest', 'change', 'economic', 'growth']",long,0,0,33
+"['long', 'take', 'effect', 'manifest', 'change', 'economic', 'growth']",manifest,0,0,33
+"['long', 'take', 'effect', 'manifest', 'change', 'economic', 'growth']",take,0,0,33
+"['longer', 'growth', 'spell', 'associated']",associated,0,0,33
+"['longer', 'growth', 'spell', 'associated']",growth,0,0,33
+"['longer', 'growth', 'spell', 'associated']",longer,0,0,33
+"['longer', 'growth', 'spell', 'associated']",spell,0,0,33
+"['lower', 'country', 'inequality', 'top', '21', 'industrialized', 'country']",21,0,0,33
+"['lower', 'country', 'inequality', 'top', '21', 'industrialized', 'country']",country,0,0,33
+"['lower', 'country', 'inequality', 'top', '21', 'industrialized', 'country']",industrialized,0,0,33
+"['lower', 'country', 'inequality', 'top', '21', 'industrialized', 'country']",inequality,0,0,33
+"['lower', 'country', 'inequality', 'top', '21', 'industrialized', 'country']",lower,0,0,33
+"['lower', 'country', 'inequality', 'top', '21', 'industrialized', 'country']",top,0,0,33
+"['lower', 'income', 'le', 'likely', 'order', 'prepare', 'future']",future,0,0,33
+"['lower', 'income', 'le', 'likely', 'order', 'prepare', 'future']",income,0,0,33
+"['lower', 'income', 'le', 'likely', 'order', 'prepare', 'future']",le,0,0,33
+"['lower', 'income', 'le', 'likely', 'order', 'prepare', 'future']",likely,0,0,33
+"['lower', 'income', 'le', 'likely', 'order', 'prepare', 'future']",lower,0,0,33
+"['lower', 'income', 'le', 'likely', 'order', 'prepare', 'future']",order,0,0,33
+"['lower', 'income', 'le', 'likely', 'order', 'prepare', 'future']",prepare,0,0,33
+"['lower', 'income', 'often', 'unable', 'manage']",income,0,0,33
+"['lower', 'income', 'often', 'unable', 'manage']",lower,0,0,33
+"['lower', 'income', 'often', 'unable', 'manage']",manage,0,0,33
+"['lower', 'income', 'often', 'unable', 'manage']",often,0,0,33
+"['lower', 'income', 'often', 'unable', 'manage']",unable,0,0,33
+"['lower', 'level', 'economic', 'growth', 'occur', 'due', 'high-end', 'consumption']",consumption,0,0,33
+"['lower', 'level', 'economic', 'growth', 'occur', 'due', 'high-end', 'consumption']",due,0,0,33
+"['lower', 'level', 'economic', 'growth', 'occur', 'due', 'high-end', 'consumption']",economic,0,0,33
+"['lower', 'level', 'economic', 'growth', 'occur', 'due', 'high-end', 'consumption']",growth,0,0,33
+"['lower', 'level', 'economic', 'growth', 'occur', 'due', 'high-end', 'consumption']",high-end,0,0,33
+"['lower', 'level', 'economic', 'growth', 'occur', 'due', 'high-end', 'consumption']",level,0,0,33
+"['lower', 'level', 'economic', 'growth', 'occur', 'due', 'high-end', 'consumption']",lower,0,0,33
+"['lower', 'level', 'economic', 'growth', 'occur', 'due', 'high-end', 'consumption']",occur,0,0,33
+"['lower', 'rate', 'social', 'good', 'effect']",effect,0,0,33
+"['lower', 'rate', 'social', 'good', 'effect']",good,0,0,33
+"['lower', 'rate', 'social', 'good', 'effect']",lower,0,0,33
+"['lower', 'rate', 'social', 'good', 'effect']",rate,0,0,33
+"['lower', 'rate', 'social', 'good', 'effect']",social,0,0,33
+"['main', 'reason', 'shift', 'view', 'income', 'inequality', 'harm', 'growth']",growth,0,0,33
+"['main', 'reason', 'shift', 'view', 'income', 'inequality', 'harm', 'growth']",harm,0,0,33
+"['main', 'reason', 'shift', 'view', 'income', 'inequality', 'harm', 'growth']",income,0,0,33
+"['main', 'reason', 'shift', 'view', 'income', 'inequality', 'harm', 'growth']",inequality,0,0,33
+"['main', 'reason', 'shift', 'view', 'income', 'inequality', 'harm', 'growth']",main,0,0,33
+"['main', 'reason', 'shift', 'view', 'income', 'inequality', 'harm', 'growth']",reason,0,0,33
+"['main', 'reason', 'shift', 'view', 'income', 'inequality', 'harm', 'growth']",shift,0,0,33
+"['main', 'reason', 'shift', 'view', 'income', 'inequality', 'harm', 'growth']",view,0,0,33
+"['marginal', 'utility', 'wealth', 'per', 'income', 'per', 'person', 'person', 'becomes', 'richer']",becomes,0,0,33
+"['marginal', 'utility', 'wealth', 'per', 'income', 'per', 'person', 'person', 'becomes', 'richer']",income,0,0,33
+"['marginal', 'utility', 'wealth', 'per', 'income', 'per', 'person', 'person', 'becomes', 'richer']",marginal,0,0,33
+"['marginal', 'utility', 'wealth', 'per', 'income', 'per', 'person', 'person', 'becomes', 'richer']",per,0,0,33
+"['marginal', 'utility', 'wealth', 'per', 'income', 'per', 'person', 'person', 'becomes', 'richer']",person,0,0,33
+"['marginal', 'utility', 'wealth', 'per', 'income', 'per', 'person', 'person', 'becomes', 'richer']",richer,0,0,33
+"['marginal', 'utility', 'wealth', 'per', 'income', 'per', 'person', 'person', 'becomes', 'richer']",utility,0,0,33
+"['marginal', 'utility', 'wealth', 'per', 'income', 'per', 'person', 'person', 'becomes', 'richer']",wealth,0,0,33
+"['marginal', 'value', 'added', 'economic', 'actor', 'determine']",actor,0,0,33
+"['marginal', 'value', 'added', 'economic', 'actor', 'determine']",added,0,0,33
+"['marginal', 'value', 'added', 'economic', 'actor', 'determine']",determine,0,0,33
+"['marginal', 'value', 'added', 'economic', 'actor', 'determine']",economic,0,0,33
+"['marginal', 'value', 'added', 'economic', 'actor', 'determine']",marginal,0,0,33
+"['marginal', 'value', 'added', 'economic', 'actor', 'determine']",value,0,0,33
+"['market', 'economy', 'inequality', 'reflection']",economy,0,0,33
+"['market', 'economy', 'inequality', 'reflection']",inequality,0,0,33
+"['market', 'economy', 'inequality', 'reflection']",market,0,0,33
+"['market', 'economy', 'inequality', 'reflection']",reflection,0,0,33
+"['mass', 'high', 'school', 'education', 'movement']",education,0,0,33
+"['mass', 'high', 'school', 'education', 'movement']",high,0,0,33
+"['mass', 'high', 'school', 'education', 'movement']",mass,0,0,33
+"['mass', 'high', 'school', 'education', 'movement']",movement,0,0,33
+"['mass', 'high', 'school', 'education', 'movement']",school,0,0,33
+"['matter', 'economic', 'growth']",economic,0,0,33
+"['matter', 'economic', 'growth']",growth,0,0,33
+"['matter', 'economic', 'growth']",matter,0,0,33
+"['may', 'explain', 'Americans', ""'ve"", 'become', 'rich', 'may', 'head', 'start']",'ve,0,0,33
+"['may', 'explain', 'Americans', ""'ve"", 'become', 'rich', 'may', 'head', 'start']",Americans,0,0,33
+"['may', 'explain', 'Americans', ""'ve"", 'become', 'rich', 'may', 'head', 'start']",become,0,0,33
+"['may', 'explain', 'Americans', ""'ve"", 'become', 'rich', 'may', 'head', 'start']",explain,0,0,33
+"['may', 'explain', 'Americans', ""'ve"", 'become', 'rich', 'may', 'head', 'start']",head,0,0,33
+"['may', 'explain', 'Americans', ""'ve"", 'become', 'rich', 'may', 'head', 'start']",may,0,0,33
+"['may', 'explain', 'Americans', ""'ve"", 'become', 'rich', 'may', 'head', 'start']",rich,0,0,33
+"['may', 'explain', 'Americans', ""'ve"", 'become', 'rich', 'may', 'head', 'start']",start,0,0,33
+"['may', 'possible', 'multiple', 'Kuznets', 'cycle', 'given', 'time']",Kuznets,0,0,33
+"['may', 'possible', 'multiple', 'Kuznets', 'cycle', 'given', 'time']",cycle,0,0,33
+"['may', 'possible', 'multiple', 'Kuznets', 'cycle', 'given', 'time']",given,0,0,33
+"['may', 'possible', 'multiple', 'Kuznets', 'cycle', 'given', 'time']",may,0,0,33
+"['may', 'possible', 'multiple', 'Kuznets', 'cycle', 'given', 'time']",multiple,0,0,33
+"['may', 'possible', 'multiple', 'Kuznets', 'cycle', 'given', 'time']",possible,0,0,33
+"['may', 'possible', 'multiple', 'Kuznets', 'cycle', 'given', 'time']",time,0,0,33
+"['modern', 'economic', 'inequality', 'created']",created,0,0,33
+"['modern', 'economic', 'inequality', 'created']",economic,0,0,33
+"['modern', 'economic', 'inequality', 'created']",inequality,0,0,33
+"['modern', 'economic', 'inequality', 'created']",modern,0,0,33
+"['motivation', 'opportunity-based', 'entrepreneurship', 'driven']",driven,0,0,33
+"['motivation', 'opportunity-based', 'entrepreneurship', 'driven']",entrepreneurship,0,0,33
+"['motivation', 'opportunity-based', 'entrepreneurship', 'driven']",motivation,0,0,33
+"['motivation', 'opportunity-based', 'entrepreneurship', 'driven']",opportunity-based,0,0,33
+"['much', 'combined', 'wealth', '10', 'Million', 'dollar', 'millionaire', '2008']",10,0,0,33
+"['much', 'combined', 'wealth', '10', 'Million', 'dollar', 'millionaire', '2008']",2008,0,0,33
+"['much', 'combined', 'wealth', '10', 'Million', 'dollar', 'millionaire', '2008']",Million,0,0,33
+"['much', 'combined', 'wealth', '10', 'Million', 'dollar', 'millionaire', '2008']",combined,0,0,33
+"['much', 'combined', 'wealth', '10', 'Million', 'dollar', 'millionaire', '2008']",dollar,0,0,33
+"['much', 'combined', 'wealth', '10', 'Million', 'dollar', 'millionaire', '2008']",millionaire,0,0,33
+"['much', 'combined', 'wealth', '10', 'Million', 'dollar', 'millionaire', '2008']",much,0,0,33
+"['much', 'combined', 'wealth', '10', 'Million', 'dollar', 'millionaire', '2008']",wealth,0,0,33
+"['much', 'difference', 'homicide', 'rate', 'related', 'inequality']",difference,0,0,33
+"['much', 'difference', 'homicide', 'rate', 'related', 'inequality']",homicide,0,0,33
+"['much', 'difference', 'homicide', 'rate', 'related', 'inequality']",inequality,0,0,33
+"['much', 'difference', 'homicide', 'rate', 'related', 'inequality']",much,0,0,33
+"['much', 'difference', 'homicide', 'rate', 'related', 'inequality']",rate,0,0,33
+"['much', 'difference', 'homicide', 'rate', 'related', 'inequality']",related,0,0,33
+"['much', 'global', 'wealth', 'wealthiest', '1', 'percent', '2016']",1,0,0,33
+"['much', 'global', 'wealth', 'wealthiest', '1', 'percent', '2016']",2016,0,0,33
+"['much', 'global', 'wealth', 'wealthiest', '1', 'percent', '2016']",global,0,0,33
+"['much', 'global', 'wealth', 'wealthiest', '1', 'percent', '2016']",much,0,0,33
+"['much', 'global', 'wealth', 'wealthiest', '1', 'percent', '2016']",percent,0,0,33
+"['much', 'global', 'wealth', 'wealthiest', '1', 'percent', '2016']",wealth,0,0,33
+"['much', 'global', 'wealth', 'wealthiest', '1', 'percent', '2016']",wealthiest,0,0,33
+"['much', 'potential', 'economic', 'growth', 'United', 'States', 'amass', 'everyone', 'went', 'schooling']",States,0,0,33
+"['much', 'potential', 'economic', 'growth', 'United', 'States', 'amass', 'everyone', 'went', 'schooling']",United,0,0,33
+"['much', 'potential', 'economic', 'growth', 'United', 'States', 'amass', 'everyone', 'went', 'schooling']",amass,0,0,33
+"['much', 'potential', 'economic', 'growth', 'United', 'States', 'amass', 'everyone', 'went', 'schooling']",economic,0,0,33
+"['much', 'potential', 'economic', 'growth', 'United', 'States', 'amass', 'everyone', 'went', 'schooling']",everyone,0,0,33
+"['much', 'potential', 'economic', 'growth', 'United', 'States', 'amass', 'everyone', 'went', 'schooling']",growth,0,0,33
+"['much', 'potential', 'economic', 'growth', 'United', 'States', 'amass', 'everyone', 'went', 'schooling']",much,0,0,33
+"['much', 'potential', 'economic', 'growth', 'United', 'States', 'amass', 'everyone', 'went', 'schooling']",potential,0,0,33
+"['much', 'potential', 'economic', 'growth', 'United', 'States', 'amass', 'everyone', 'went', 'schooling']",schooling,0,0,33
+"['much', 'potential', 'economic', 'growth', 'United', 'States', 'amass', 'everyone', 'went', 'schooling']",went,0,0,33
+"['much', 'support', 'US', 'approach', 'economic', 'development']",US,0,0,33
+"['much', 'support', 'US', 'approach', 'economic', 'development']",approach,0,0,33
+"['much', 'support', 'US', 'approach', 'economic', 'development']",development,0,0,33
+"['much', 'support', 'US', 'approach', 'economic', 'development']",economic,0,0,33
+"['much', 'support', 'US', 'approach', 'economic', 'development']",much,0,0,33
+"['much', 'support', 'US', 'approach', 'economic', 'development']",support,0,0,33
+"['much', 'support', 'evidence', 'provide', 'view', 'labor-market', 'flexibility', 'improves', 'labor-market', 'outcome']",evidence,0,0,33
+"['much', 'support', 'evidence', 'provide', 'view', 'labor-market', 'flexibility', 'improves', 'labor-market', 'outcome']",flexibility,0,0,33
+"['much', 'support', 'evidence', 'provide', 'view', 'labor-market', 'flexibility', 'improves', 'labor-market', 'outcome']",improves,0,0,33
+"['much', 'support', 'evidence', 'provide', 'view', 'labor-market', 'flexibility', 'improves', 'labor-market', 'outcome']",labor-market,0,0,33
+"['much', 'support', 'evidence', 'provide', 'view', 'labor-market', 'flexibility', 'improves', 'labor-market', 'outcome']",much,0,0,33
+"['much', 'support', 'evidence', 'provide', 'view', 'labor-market', 'flexibility', 'improves', 'labor-market', 'outcome']",outcome,0,0,33
+"['much', 'support', 'evidence', 'provide', 'view', 'labor-market', 'flexibility', 'improves', 'labor-market', 'outcome']",provide,0,0,33
+"['much', 'support', 'evidence', 'provide', 'view', 'labor-market', 'flexibility', 'improves', 'labor-market', 'outcome']",support,0,0,33
+"['much', 'support', 'evidence', 'provide', 'view', 'labor-market', 'flexibility', 'improves', 'labor-market', 'outcome']",view,0,0,33
+"['nationality', 'researcher', 'Richard', 'G.', 'Wilkinson', 'Kate', 'Pickett']",G.,0,0,33
+"['nationality', 'researcher', 'Richard', 'G.', 'Wilkinson', 'Kate', 'Pickett']",Kate,0,0,33
+"['nationality', 'researcher', 'Richard', 'G.', 'Wilkinson', 'Kate', 'Pickett']",Pickett,0,0,33
+"['nationality', 'researcher', 'Richard', 'G.', 'Wilkinson', 'Kate', 'Pickett']",Richard,0,0,33
+"['nationality', 'researcher', 'Richard', 'G.', 'Wilkinson', 'Kate', 'Pickett']",Wilkinson,0,0,33
+"['nationality', 'researcher', 'Richard', 'G.', 'Wilkinson', 'Kate', 'Pickett']",nationality,0,0,33
+"['nationality', 'researcher', 'Richard', 'G.', 'Wilkinson', 'Kate', 'Pickett']",researcher,0,0,33
+"['need', 'made', 'ensure', 'poorer', 'member', 'society', 'participate', 'economic', 'growth']",economic,0,0,33
+"['need', 'made', 'ensure', 'poorer', 'member', 'society', 'participate', 'economic', 'growth']",ensure,0,0,33
+"['need', 'made', 'ensure', 'poorer', 'member', 'society', 'participate', 'economic', 'growth']",growth,0,0,33
+"['need', 'made', 'ensure', 'poorer', 'member', 'society', 'participate', 'economic', 'growth']",made,0,0,33
+"['need', 'made', 'ensure', 'poorer', 'member', 'society', 'participate', 'economic', 'growth']",member,0,0,33
+"['need', 'made', 'ensure', 'poorer', 'member', 'society', 'participate', 'economic', 'growth']",need,0,0,33
+"['need', 'made', 'ensure', 'poorer', 'member', 'society', 'participate', 'economic', 'growth']",participate,0,0,33
+"['need', 'made', 'ensure', 'poorer', 'member', 'society', 'participate', 'economic', 'growth']",poorer,0,0,33
+"['need', 'made', 'ensure', 'poorer', 'member', 'society', 'participate', 'economic', 'growth']",society,0,0,33
+"['negative', 'impact', 'labor', 'market', 'US']",US,0,0,33
+"['negative', 'impact', 'labor', 'market', 'US']",impact,0,0,33
+"['negative', 'impact', 'labor', 'market', 'US']",labor,0,0,33
+"['negative', 'impact', 'labor', 'market', 'US']",market,0,0,33
+"['negative', 'impact', 'labor', 'market', 'US']",negative,0,0,33
+"['negatively', 'correlated', 'duration', 'economic', 'growth']",correlated,0,0,33
+"['negatively', 'correlated', 'duration', 'economic', 'growth']",duration,0,0,33
+"['negatively', 'correlated', 'duration', 'economic', 'growth']",economic,0,0,33
+"['negatively', 'correlated', 'duration', 'economic', 'growth']",growth,0,0,33
+"['negatively', 'correlated', 'duration', 'economic', 'growth']",negatively,0,0,33
+"['newly', 'created', 'wealth', 'concentrate']",concentrate,0,0,33
+"['newly', 'created', 'wealth', 'concentrate']",created,0,0,33
+"['newly', 'created', 'wealth', 'concentrate']",newly,0,0,33
+"['newly', 'created', 'wealth', 'concentrate']",wealth,0,0,33
+"['number', 'researcher', 'think', 'shortage', 'caused', 'part', 'income', 'inequality']",caused,0,0,33
+"['number', 'researcher', 'think', 'shortage', 'caused', 'part', 'income', 'inequality']",income,0,0,33
+"['number', 'researcher', 'think', 'shortage', 'caused', 'part', 'income', 'inequality']",inequality,0,0,33
+"['number', 'researcher', 'think', 'shortage', 'caused', 'part', 'income', 'inequality']",number,0,0,33
+"['number', 'researcher', 'think', 'shortage', 'caused', 'part', 'income', 'inequality']",part,0,0,33
+"['number', 'researcher', 'think', 'shortage', 'caused', 'part', 'income', 'inequality']",researcher,0,0,33
+"['number', 'researcher', 'think', 'shortage', 'caused', 'part', 'income', 'inequality']",shortage,0,0,33
+"['number', 'researcher', 'think', 'shortage', 'caused', 'part', 'income', 'inequality']",think,0,0,33
+"['old', 'ill', 'man']",ill,0,0,33
+"['old', 'ill', 'man']",man,0,0,33
+"['old', 'ill', 'man']",old,0,0,33
+"['one', 'factor', 'eroding', 'self-esteem']",eroding,0,0,33
+"['one', 'factor', 'eroding', 'self-esteem']",factor,0,0,33
+"['one', 'factor', 'eroding', 'self-esteem']",one,0,0,33
+"['one', 'factor', 'eroding', 'self-esteem']",self-esteem,0,0,33
+"['one', 'method', 'achieving', 'aspirational', 'consumption']",achieving,0,0,33
+"['one', 'method', 'achieving', 'aspirational', 'consumption']",aspirational,0,0,33
+"['one', 'method', 'achieving', 'aspirational', 'consumption']",consumption,0,0,33
+"['one', 'method', 'achieving', 'aspirational', 'consumption']",method,0,0,33
+"['one', 'method', 'achieving', 'aspirational', 'consumption']",one,0,0,33
+"['order', 'considered', 'top', 'percentile', 'person', 'would', 'need', 'amass', 'much', 'money', 'year']",amass,0,0,33
+"['order', 'considered', 'top', 'percentile', 'person', 'would', 'need', 'amass', 'much', 'money', 'year']",considered,0,0,33
+"['order', 'considered', 'top', 'percentile', 'person', 'would', 'need', 'amass', 'much', 'money', 'year']",money,0,0,33
+"['order', 'considered', 'top', 'percentile', 'person', 'would', 'need', 'amass', 'much', 'money', 'year']",much,0,0,33
+"['order', 'considered', 'top', 'percentile', 'person', 'would', 'need', 'amass', 'much', 'money', 'year']",need,0,0,33
+"['order', 'considered', 'top', 'percentile', 'person', 'would', 'need', 'amass', 'much', 'money', 'year']",order,0,0,33
+"['order', 'considered', 'top', 'percentile', 'person', 'would', 'need', 'amass', 'much', 'money', 'year']",percentile,0,0,33
+"['order', 'considered', 'top', 'percentile', 'person', 'would', 'need', 'amass', 'much', 'money', 'year']",person,0,0,33
+"['order', 'considered', 'top', 'percentile', 'person', 'would', 'need', 'amass', 'much', 'money', 'year']",top,0,0,33
+"['order', 'considered', 'top', 'percentile', 'person', 'would', 'need', 'amass', 'much', 'money', 'year']",would,0,0,33
+"['order', 'considered', 'top', 'percentile', 'person', 'would', 'need', 'amass', 'much', 'money', 'year']",year,0,0,33
+"['organization', 'John', 'Schmitt', 'Ben', 'Zipperer', 'member']",Ben,0,0,33
+"['organization', 'John', 'Schmitt', 'Ben', 'Zipperer', 'member']",John,0,0,33
+"['organization', 'John', 'Schmitt', 'Ben', 'Zipperer', 'member']",Schmitt,0,0,33
+"['organization', 'John', 'Schmitt', 'Ben', 'Zipperer', 'member']",Zipperer,0,0,33
+"['organization', 'John', 'Schmitt', 'Ben', 'Zipperer', 'member']",member,0,0,33
+"['organization', 'John', 'Schmitt', 'Ben', 'Zipperer', 'member']",organization,0,0,33
+"['owner', 'capital', 'end']",capital,0,0,33
+"['owner', 'capital', 'end']",end,0,0,33
+"['owner', 'capital', 'end']",owner,0,0,33
+"['owns', 'wealth', 'bottom', '90', 'percent', 'people', 'U.S.']",90,0,0,33
+"['owns', 'wealth', 'bottom', '90', 'percent', 'people', 'U.S.']",U.S.,0,0,33
+"['owns', 'wealth', 'bottom', '90', 'percent', 'people', 'U.S.']",bottom,0,0,33
+"['owns', 'wealth', 'bottom', '90', 'percent', 'people', 'U.S.']",owns,0,0,33
+"['owns', 'wealth', 'bottom', '90', 'percent', 'people', 'U.S.']",people,0,0,33
+"['owns', 'wealth', 'bottom', '90', 'percent', 'people', 'U.S.']",percent,0,0,33
+"['owns', 'wealth', 'bottom', '90', 'percent', 'people', 'U.S.']",wealth,0,0,33
+"['pattern', 'higher', 'income-longer', 'life', 'hold', 'true']",higher,0,0,33
+"['pattern', 'higher', 'income-longer', 'life', 'hold', 'true']",hold,0,0,33
+"['pattern', 'higher', 'income-longer', 'life', 'hold', 'true']",income-longer,0,0,33
+"['pattern', 'higher', 'income-longer', 'life', 'hold', 'true']",life,0,0,33
+"['pattern', 'higher', 'income-longer', 'life', 'hold', 'true']",pattern,0,0,33
+"['pattern', 'higher', 'income-longer', 'life', 'hold', 'true']",TRUE,0,0,33
+"['people', 'lower', 'income', 'le', 'access']",access,0,0,33
+"['people', 'lower', 'income', 'le', 'access']",income,0,0,33
+"['people', 'lower', 'income', 'le', 'access']",le,0,0,33
+"['people', 'lower', 'income', 'le', 'access']",lower,0,0,33
+"['people', 'lower', 'income', 'le', 'access']",people,0,0,33
+"['people', 'take', 'debt', 'lead', 'potentially']",debt,0,0,33
+"['people', 'take', 'debt', 'lead', 'potentially']",lead,0,0,33
+"['people', 'take', 'debt', 'lead', 'potentially']",people,0,0,33
+"['people', 'take', 'debt', 'lead', 'potentially']",potentially,0,0,33
+"['people', 'take', 'debt', 'lead', 'potentially']",take,0,0,33
+"['people', 'work', 'towards', ""n't"", 'denied', 'functioning', 'capability', 'agency']",agency,0,0,33
+"['people', 'work', 'towards', ""n't"", 'denied', 'functioning', 'capability', 'agency']",capability,0,0,33
+"['people', 'work', 'towards', ""n't"", 'denied', 'functioning', 'capability', 'agency']",denied,0,0,33
+"['people', 'work', 'towards', ""n't"", 'denied', 'functioning', 'capability', 'agency']",functioning,0,0,33
+"['people', 'work', 'towards', ""n't"", 'denied', 'functioning', 'capability', 'agency']",n't,0,0,33
+"['people', 'work', 'towards', ""n't"", 'denied', 'functioning', 'capability', 'agency']",people,0,0,33
+"['people', 'work', 'towards', ""n't"", 'denied', 'functioning', 'capability', 'agency']",towards,0,0,33
+"['people', 'work', 'towards', ""n't"", 'denied', 'functioning', 'capability', 'agency']",work,0,0,33
+"['percent', 'global', 'asset', '2000', 'owned', '1', '%', 'adult']",%,0,0,33
+"['percent', 'global', 'asset', '2000', 'owned', '1', '%', 'adult']",1,0,0,33
+"['percent', 'global', 'asset', '2000', 'owned', '1', '%', 'adult']",2000,0,0,33
+"['percent', 'global', 'asset', '2000', 'owned', '1', '%', 'adult']",adult,0,0,33
+"['percent', 'global', 'asset', '2000', 'owned', '1', '%', 'adult']",asset,0,0,33
+"['percent', 'global', 'asset', '2000', 'owned', '1', '%', 'adult']",global,0,0,33
+"['percent', 'global', 'asset', '2000', 'owned', '1', '%', 'adult']",owned,0,0,33
+"['percent', 'global', 'asset', '2000', 'owned', '1', '%', 'adult']",percent,0,0,33
+"['percentage', 'global', 'asset', 'richest', '1', '%', 'people']",%,0,0,33
+"['percentage', 'global', 'asset', 'richest', '1', '%', 'people']",1,0,0,33
+"['percentage', 'global', 'asset', 'richest', '1', '%', 'people']",asset,0,0,33
+"['percentage', 'global', 'asset', 'richest', '1', '%', 'people']",global,0,0,33
+"['percentage', 'global', 'asset', 'richest', '1', '%', 'people']",people,0,0,33
+"['percentage', 'global', 'asset', 'richest', '1', '%', 'people']",percentage,0,0,33
+"['percentage', 'global', 'asset', 'richest', '1', '%', 'people']",richest,0.124684344,17,33
+"['persistent', 'unemployment', 'negative', 'effect']",effect,0,0,33
+"['persistent', 'unemployment', 'negative', 'effect']",negative,0,0,33
+"['persistent', 'unemployment', 'negative', 'effect']",persistent,0,0,33
+"['persistent', 'unemployment', 'negative', 'effect']",unemployment,0,0,33
+"['philosophy', 'thought', 'address', 'wealth', 'inequality']",address,0,0,33
+"['philosophy', 'thought', 'address', 'wealth', 'inequality']",inequality,0,0,33
+"['philosophy', 'thought', 'address', 'wealth', 'inequality']",philosophy,0,0,33
+"['philosophy', 'thought', 'address', 'wealth', 'inequality']",thought,0,0,33
+"['philosophy', 'thought', 'address', 'wealth', 'inequality']",wealth,0,0,33
+"['plotted', 'relationship', 'level', 'income', 'inequality']",income,0,0,33
+"['plotted', 'relationship', 'level', 'income', 'inequality']",inequality,0,0,33
+"['plotted', 'relationship', 'level', 'income', 'inequality']",level,0,0,33
+"['plotted', 'relationship', 'level', 'income', 'inequality']",plotted,0,0,33
+"['plotted', 'relationship', 'level', 'income', 'inequality']",relationship,0,0,33
+"['political', 'leaning', 'Cato', 'Institute']",Cato,0,0,33
+"['political', 'leaning', 'Cato', 'Institute']",Institute,0,0,33
+"['political', 'leaning', 'Cato', 'Institute']",leaning,0,0,33
+"['political', 'leaning', 'Cato', 'Institute']",political,0,0,33
+"['political', 'pressure', 'push', 'extend', 'compensate', 'stagnating', 'purchasing', 'power']",compensate,0,0,33
+"['political', 'pressure', 'push', 'extend', 'compensate', 'stagnating', 'purchasing', 'power']",extend,0,0,33
+"['political', 'pressure', 'push', 'extend', 'compensate', 'stagnating', 'purchasing', 'power']",political,0,0,33
+"['political', 'pressure', 'push', 'extend', 'compensate', 'stagnating', 'purchasing', 'power']",power,0,0,33
+"['political', 'pressure', 'push', 'extend', 'compensate', 'stagnating', 'purchasing', 'power']",pressure,0,0,33
+"['political', 'pressure', 'push', 'extend', 'compensate', 'stagnating', 'purchasing', 'power']",purchasing,0,0,33
+"['political', 'pressure', 'push', 'extend', 'compensate', 'stagnating', 'purchasing', 'power']",push,0,0,33
+"['political', 'pressure', 'push', 'extend', 'compensate', 'stagnating', 'purchasing', 'power']",stagnating,0,0,33
+"['poor', 'people', 'United', 'States', 'Europe', 'China']",China,0,0,33
+"['poor', 'people', 'United', 'States', 'Europe', 'China']",Europe,0,0,33
+"['poor', 'people', 'United', 'States', 'Europe', 'China']",States,0,0,33
+"['poor', 'people', 'United', 'States', 'Europe', 'China']",United,0,0,33
+"['poor', 'people', 'United', 'States', 'Europe', 'China']",people,0,0,33
+"['poor', 'people', 'United', 'States', 'Europe', 'China']",poor,0,0,33
+"['potential', 'earnings', 'job', 'skilled', 'worker', 'available', 'position']",available,0,0,33
+"['potential', 'earnings', 'job', 'skilled', 'worker', 'available', 'position']",earnings,0,0,33
+"['potential', 'earnings', 'job', 'skilled', 'worker', 'available', 'position']",job,0,0,33
+"['potential', 'earnings', 'job', 'skilled', 'worker', 'available', 'position']",position,0,0,33
+"['potential', 'earnings', 'job', 'skilled', 'worker', 'available', 'position']",potential,0,0,33
+"['potential', 'earnings', 'job', 'skilled', 'worker', 'available', 'position']",skilled,0,0,33
+"['potential', 'earnings', 'job', 'skilled', 'worker', 'available', 'position']",worker,0,0,33
+"['presented', 'problem', 'US', 'economy', 'nation']",US,0,0,33
+"['presented', 'problem', 'US', 'economy', 'nation']",economy,0,0,33
+"['presented', 'problem', 'US', 'economy', 'nation']",nation,0,0,33
+"['presented', 'problem', 'US', 'economy', 'nation']",presented,0,0,33
+"['presented', 'problem', 'US', 'economy', 'nation']",problem,0,0,33
+"['private', 'ownership', 'create', 'situation']",create,0,0,33
+"['private', 'ownership', 'create', 'situation']",ownership,0,0,33
+"['private', 'ownership', 'create', 'situation']",private,0,0,33
+"['private', 'ownership', 'create', 'situation']",situation,0,0,33
+"['process', 'attribute', 'new', 'wealth', 'already']",already,0,0,33
+"['process', 'attribute', 'new', 'wealth', 'already']",attribute,0,0,33
+"['process', 'attribute', 'new', 'wealth', 'already']",new,0,0,33
+"['process', 'attribute', 'new', 'wealth', 'already']",process,0,0,33
+"['process', 'attribute', 'new', 'wealth', 'already']",wealth,0,0,33
+"['profession', 'Jake', 'Rosenfield']",Jake,0,0,33
+"['profession', 'Jake', 'Rosenfield']",Rosenfield,0,0,33
+"['profession', 'Jake', 'Rosenfield']",profession,0,0,33
+"['profession', 'Simon', 'Kuznets']",Kuznets,0,0,33
+"['profession', 'Simon', 'Kuznets']",Simon,0,0,33
+"['profession', 'Simon', 'Kuznets']",profession,0,0,33
+"['progressive', 'tax', 'increase', 'taxable', 'base', 'amount', 'increase']",amount,0,0,33
+"['progressive', 'tax', 'increase', 'taxable', 'base', 'amount', 'increase']",base,0,0,33
+"['progressive', 'tax', 'increase', 'taxable', 'base', 'amount', 'increase']",increase,0,0,33
+"['progressive', 'tax', 'increase', 'taxable', 'base', 'amount', 'increase']",progressive,0,0,33
+"['progressive', 'tax', 'increase', 'taxable', 'base', 'amount', 'increase']",tax,0,0,33
+"['progressive', 'tax', 'increase', 'taxable', 'base', 'amount', 'increase']",taxable,0,0,33
+"['publication', 'printed', 'wealthiest', '1', '%', 'money', 'bottom', '90', '%']",%,0,0,33
+"['publication', 'printed', 'wealthiest', '1', '%', 'money', 'bottom', '90', '%']",1,0,0,33
+"['publication', 'printed', 'wealthiest', '1', '%', 'money', 'bottom', '90', '%']",90,0,0,33
+"['publication', 'printed', 'wealthiest', '1', '%', 'money', 'bottom', '90', '%']",bottom,0,0,33
+"['publication', 'printed', 'wealthiest', '1', '%', 'money', 'bottom', '90', '%']",money,0,0,33
+"['publication', 'printed', 'wealthiest', '1', '%', 'money', 'bottom', '90', '%']",printed,0,0,33
+"['publication', 'printed', 'wealthiest', '1', '%', 'money', 'bottom', '90', '%']",publication,0,0,33
+"['publication', 'printed', 'wealthiest', '1', '%', 'money', 'bottom', '90', '%']",wealthiest,0,0,33
+"['push', 'business', 'increase', 'pressure', 'worker']",business,0,0,33
+"['push', 'business', 'increase', 'pressure', 'worker']",increase,0,0,33
+"['push', 'business', 'increase', 'pressure', 'worker']",pressure,0,0,33
+"['push', 'business', 'increase', 'pressure', 'worker']",push,0,0,33
+"['push', 'business', 'increase', 'pressure', 'worker']",worker,0,0,33
+"['rate', 'health', 'social', 'problem', 'country', 'high', 'inequality']",country,0,0,33
+"['rate', 'health', 'social', 'problem', 'country', 'high', 'inequality']",health,0,0,33
+"['rate', 'health', 'social', 'problem', 'country', 'high', 'inequality']",high,0,0,33
+"['rate', 'health', 'social', 'problem', 'country', 'high', 'inequality']",inequality,0,0,33
+"['rate', 'health', 'social', 'problem', 'country', 'high', 'inequality']",problem,0,0,33
+"['rate', 'health', 'social', 'problem', 'country', 'high', 'inequality']",rate,0,0,33
+"['rate', 'health', 'social', 'problem', 'country', 'high', 'inequality']",social,0,0,33
+"['rate', 'social', 'good', 'country', 'higher', 'inequality']",country,0,0,33
+"['rate', 'social', 'good', 'country', 'higher', 'inequality']",good,0,0,33
+"['rate', 'social', 'good', 'country', 'higher', 'inequality']",higher,0,0,33
+"['rate', 'social', 'good', 'country', 'higher', 'inequality']",inequality,0,0,33
+"['rate', 'social', 'good', 'country', 'higher', 'inequality']",rate,0,0,33
+"['rate', 'social', 'good', 'country', 'higher', 'inequality']",social,0,0,33
+"['rate', 'unionization', 'Scandinavian', 'nation']",Scandinavian,0,0,33
+"['rate', 'unionization', 'Scandinavian', 'nation']",nation,0,0,33
+"['rate', 'unionization', 'Scandinavian', 'nation']",rate,0,0,33
+"['rate', 'unionization', 'Scandinavian', 'nation']",unionization,0,0,33
+"['recent', 'example', 'financial', 'fault', 'line']",example,0,0,33
+"['recent', 'example', 'financial', 'fault', 'line']",fault,0,0,33
+"['recent', 'example', 'financial', 'fault', 'line']",financial,0,0,33
+"['recent', 'example', 'financial', 'fault', 'line']",line,0,0,33
+"['recent', 'example', 'financial', 'fault', 'line']",recent,0,0,33
+"['recent', 'testing', 'Kuznets', 'theory', 'superior', 'data', 'show']",Kuznets,0,0,33
+"['recent', 'testing', 'Kuznets', 'theory', 'superior', 'data', 'show']",data,0,0,33
+"['recent', 'testing', 'Kuznets', 'theory', 'superior', 'data', 'show']",recent,0,0,33
+"['recent', 'testing', 'Kuznets', 'theory', 'superior', 'data', 'show']",show,0,0,33
+"['recent', 'testing', 'Kuznets', 'theory', 'superior', 'data', 'show']",superior,0,0,33
+"['recent', 'testing', 'Kuznets', 'theory', 'superior', 'data', 'show']",testing,0,0,33
+"['recent', 'testing', 'Kuznets', 'theory', 'superior', 'data', 'show']",theory,0,0,33
+"['recovery', 'widening', 'gap', 'richest', 'citizen', 'rest', 'nation', 'slow']",citizen,0,0,33
+"['recovery', 'widening', 'gap', 'richest', 'citizen', 'rest', 'nation', 'slow']",gap,0,0,33
+"['recovery', 'widening', 'gap', 'richest', 'citizen', 'rest', 'nation', 'slow']",nation,0,0,33
+"['recovery', 'widening', 'gap', 'richest', 'citizen', 'rest', 'nation', 'slow']",recovery,0,0,33
+"['recovery', 'widening', 'gap', 'richest', 'citizen', 'rest', 'nation', 'slow']",rest,0,0,33
+"['recovery', 'widening', 'gap', 'richest', 'citizen', 'rest', 'nation', 'slow']",richest,0,0,33
+"['recovery', 'widening', 'gap', 'richest', 'citizen', 'rest', 'nation', 'slow']",slow,0,0,33
+"['recovery', 'widening', 'gap', 'richest', 'citizen', 'rest', 'nation', 'slow']",widening,0,0,33
+"['redistribution', 'mechanism', 'lead']",lead,0,0,33
+"['redistribution', 'mechanism', 'lead']",mechanism,0,0,33
+"['redistribution', 'mechanism', 'lead']",redistribution,0,0,33
+"['replaced', 'lower', 'skilled', 'worker', 'United', 'States']",States,0,0,33
+"['replaced', 'lower', 'skilled', 'worker', 'United', 'States']",United,0,0,33
+"['replaced', 'lower', 'skilled', 'worker', 'United', 'States']",lower,0,0,33
+"['replaced', 'lower', 'skilled', 'worker', 'United', 'States']",replaced,0,0,33
+"['replaced', 'lower', 'skilled', 'worker', 'United', 'States']",skilled,0,0,33
+"['replaced', 'lower', 'skilled', 'worker', 'United', 'States']",worker,0,0,33
+"['result', 'creating', 'poverty', 'trap']",creating,0,0,33
+"['result', 'creating', 'poverty', 'trap']",poverty,0,0,33
+"['result', 'creating', 'poverty', 'trap']",result,0,0,33
+"['result', 'creating', 'poverty', 'trap']",trap,0,0,33
+"['result', 'equal', 'distribution', 'income']",distribution,0,0,33
+"['result', 'equal', 'distribution', 'income']",equal,0,0,33
+"['result', 'equal', 'distribution', 'income']",income,0,0,33
+"['result', 'equal', 'distribution', 'income']",result,0,0,33
+"['rich', 'country', 'trade', 'poor', 'country', 'whose', 'wage', 'increase']",country,0,0,33
+"['rich', 'country', 'trade', 'poor', 'country', 'whose', 'wage', 'increase']",increase,0,0,33
+"['rich', 'country', 'trade', 'poor', 'country', 'whose', 'wage', 'increase']",poor,0,0,33
+"['rich', 'country', 'trade', 'poor', 'country', 'whose', 'wage', 'increase']",rich,0,0,33
+"['rich', 'country', 'trade', 'poor', 'country', 'whose', 'wage', 'increase']",trade,0,0,33
+"['rich', 'country', 'trade', 'poor', 'country', 'whose', 'wage', 'increase']",wage,0,0,33
+"['rich', 'country', 'trade', 'poor', 'country', 'whose', 'wage', 'increase']",whose,0,0,33
+"['richest', '400', 'Americans', 'child', 'helped', 'successful', 'adult']",400,0,0,33
+"['richest', '400', 'Americans', 'child', 'helped', 'successful', 'adult']",Americans,0,0,33
+"['richest', '400', 'Americans', 'child', 'helped', 'successful', 'adult']",adult,0,0,33
+"['richest', '400', 'Americans', 'child', 'helped', 'successful', 'adult']",child,0,0,33
+"['richest', '400', 'Americans', 'child', 'helped', 'successful', 'adult']",helped,0,0,33
+"['richest', '400', 'Americans', 'child', 'helped', 'successful', 'adult']",richest,0,0,33
+"['richest', '400', 'Americans', 'child', 'helped', 'successful', 'adult']",successful,0,0,33
+"['richest', '400', 'Americans', 'grew', 'substantial', 'privilege']",400,0,0,33
+"['richest', '400', 'Americans', 'grew', 'substantial', 'privilege']",Americans,0,0,33
+"['richest', '400', 'Americans', 'grew', 'substantial', 'privilege']",grew,0,0,33
+"['richest', '400', 'Americans', 'grew', 'substantial', 'privilege']",privilege,0,0,33
+"['richest', '400', 'Americans', 'grew', 'substantial', 'privilege']",richest,0,0,33
+"['richest', '400', 'Americans', 'grew', 'substantial', 'privilege']",substantial,0,0,33
+"['scale', 'trade', 'liberalization', 'shift', 'economic', 'inequality']",economic,0,0,33
+"['scale', 'trade', 'liberalization', 'shift', 'economic', 'inequality']",inequality,0,0,33
+"['scale', 'trade', 'liberalization', 'shift', 'economic', 'inequality']",liberalization,0,0,33
+"['scale', 'trade', 'liberalization', 'shift', 'economic', 'inequality']",scale,0,0,33
+"['scale', 'trade', 'liberalization', 'shift', 'economic', 'inequality']",shift,0,0,33
+"['scale', 'trade', 'liberalization', 'shift', 'economic', 'inequality']",trade,0,0,33
+"['sector', 'job', 'beginning', 'decrease']",beginning,0,0,33
+"['sector', 'job', 'beginning', 'decrease']",decrease,0,0,33
+"['sector', 'job', 'beginning', 'decrease']",job,0,0,33
+"['sector', 'job', 'beginning', 'decrease']",sector,0,0,33
+"['sector', 'job', 'beginning', 'increase']",beginning,0,0,33
+"['sector', 'job', 'beginning', 'increase']",increase,0,0,33
+"['sector', 'job', 'beginning', 'increase']",job,0,0,33
+"['sector', 'job', 'beginning', 'increase']",sector,0,0,33
+"['set', 'country', 'higher', 'economic', 'mobility', 'United', 'States']",States,0,0,33
+"['set', 'country', 'higher', 'economic', 'mobility', 'United', 'States']",United,0,0,33
+"['set', 'country', 'higher', 'economic', 'mobility', 'United', 'States']",country,0,0,33
+"['set', 'country', 'higher', 'economic', 'mobility', 'United', 'States']",economic,0,0,33
+"['set', 'country', 'higher', 'economic', 'mobility', 'United', 'States']",higher,0,0,33
+"['set', 'country', 'higher', 'economic', 'mobility', 'United', 'States']",mobility,0,0,33
+"['set', 'country', 'higher', 'economic', 'mobility', 'United', 'States']",set,0,0,33
+"['significantly', 'contribute', 'continuing', 'inequality', 'society', 'time']",continuing,0,0,33
+"['significantly', 'contribute', 'continuing', 'inequality', 'society', 'time']",contribute,0,0,33
+"['significantly', 'contribute', 'continuing', 'inequality', 'society', 'time']",inequality,0,0,33
+"['significantly', 'contribute', 'continuing', 'inequality', 'society', 'time']",significantly,0,0,33
+"['significantly', 'contribute', 'continuing', 'inequality', 'society', 'time']",society,0,0,33
+"['significantly', 'contribute', 'continuing', 'inequality', 'society', 'time']",time,0,0,33
+"['socialist', 'think', 'mean', 'production', 'owned']",mean,0,0,33
+"['socialist', 'think', 'mean', 'production', 'owned']",owned,0,0,33
+"['socialist', 'think', 'mean', 'production', 'owned']",production,0,0,33
+"['socialist', 'think', 'mean', 'production', 'owned']",socialist,0,0,33
+"['socialist', 'think', 'mean', 'production', 'owned']",think,0,0,33
+"['society', 'equality']",equality,0,0,33
+"['society', 'equality']",society,0,0,33
+"['sometimes', 'take', '14', 'year', 'get', 'permission', 'build']",14,0,0,33
+"['sometimes', 'take', '14', 'year', 'get', 'permission', 'build']",build,0,0,33
+"['sometimes', 'take', '14', 'year', 'get', 'permission', 'build']",get,0,0,33
+"['sometimes', 'take', '14', 'year', 'get', 'permission', 'build']",permission,0,0,33
+"['sometimes', 'take', '14', 'year', 'get', 'permission', 'build']",sometimes,0,0,33
+"['sometimes', 'take', '14', 'year', 'get', 'permission', 'build']",take,0,0,33
+"['sometimes', 'take', '14', 'year', 'get', 'permission', 'build']",year,0,0,33
+"['study', 'conducted', 'Swedish', 'county']",Swedish,0,0,33
+"['study', 'conducted', 'Swedish', 'county']",conducted,0,0,33
+"['study', 'conducted', 'Swedish', 'county']",county,0,0,33
+"['study', 'conducted', 'Swedish', 'county']",study,0,0,33
+"['study', 'income', 'inequality', 'sometimes', 'found', 'evidence', 'confirming']",confirming,0,0,33
+"['study', 'income', 'inequality', 'sometimes', 'found', 'evidence', 'confirming']",evidence,0,0,33
+"['study', 'income', 'inequality', 'sometimes', 'found', 'evidence', 'confirming']",found,0,0,33
+"['study', 'income', 'inequality', 'sometimes', 'found', 'evidence', 'confirming']",income,0,0,33
+"['study', 'income', 'inequality', 'sometimes', 'found', 'evidence', 'confirming']",inequality,0,0,33
+"['study', 'income', 'inequality', 'sometimes', 'found', 'evidence', 'confirming']",sometimes,0,0,33
+"['study', 'income', 'inequality', 'sometimes', 'found', 'evidence', 'confirming']",study,0,0,33
+"['substitution', 'equipment', 'labor', 'raise', 'worker']",equipment,0,0,33
+"['substitution', 'equipment', 'labor', 'raise', 'worker']",labor,0,0,33
+"['substitution', 'equipment', 'labor', 'raise', 'worker']",raise,0,0,33
+"['substitution', 'equipment', 'labor', 'raise', 'worker']",substitution,0,0,33
+"['substitution', 'equipment', 'labor', 'raise', 'worker']",worker,0,0,33
+"['system', 'impact', 'income', 'inequality']",impact,0,0,33
+"['system', 'impact', 'income', 'inequality']",income,0,0,33
+"['system', 'impact', 'income', 'inequality']",inequality,0,0,33
+"['system', 'impact', 'income', 'inequality']",system,0,0,33
+"['take', 'country', 'high', 'inequality', 'longer', 'achieve']",achieve,0,0,33
+"['take', 'country', 'high', 'inequality', 'longer', 'achieve']",country,0,0,33
+"['take', 'country', 'high', 'inequality', 'longer', 'achieve']",high,0,0,33
+"['take', 'country', 'high', 'inequality', 'longer', 'achieve']",inequality,0,0,33
+"['take', 'country', 'high', 'inequality', 'longer', 'achieve']",longer,0,0,33
+"['take', 'country', 'high', 'inequality', 'longer', 'achieve']",take,0,0,33
+"['tax', 'rate', 'direct', 'relationship', 'income', 'inequality']",direct,0,0,33
+"['tax', 'rate', 'direct', 'relationship', 'income', 'inequality']",income,0,0,33
+"['tax', 'rate', 'direct', 'relationship', 'income', 'inequality']",inequality,0,0,33
+"['tax', 'rate', 'direct', 'relationship', 'income', 'inequality']",rate,0,0,33
+"['tax', 'rate', 'direct', 'relationship', 'income', 'inequality']",relationship,0,0,33
+"['tax', 'rate', 'direct', 'relationship', 'income', 'inequality']",tax,0,0,33
+"['technological', 'innovation', 'automation', 'replaced', 'low-skilled', 'job']",automation,0,0,33
+"['technological', 'innovation', 'automation', 'replaced', 'low-skilled', 'job']",innovation,0,0,33
+"['technological', 'innovation', 'automation', 'replaced', 'low-skilled', 'job']",job,0,0,33
+"['technological', 'innovation', 'automation', 'replaced', 'low-skilled', 'job']",low-skilled,0,0,33
+"['technological', 'innovation', 'automation', 'replaced', 'low-skilled', 'job']",replaced,0,0,33
+"['technological', 'innovation', 'automation', 'replaced', 'low-skilled', 'job']",technological,0,0,33
+"['tendency', 'increase', 'wage', 'field', 'job', 'position']",field,0,0,33
+"['tendency', 'increase', 'wage', 'field', 'job', 'position']",increase,0,0,33
+"['tendency', 'increase', 'wage', 'field', 'job', 'position']",job,0,0,33
+"['tendency', 'increase', 'wage', 'field', 'job', 'position']",position,0,0,33
+"['tendency', 'increase', 'wage', 'field', 'job', 'position']",tendency,0,0,33
+"['tendency', 'increase', 'wage', 'field', 'job', 'position']",wage,0,0,33
+"['tends', 'lead', 'money']",lead,0,0,33
+"['tends', 'lead', 'money']",money,0,0,33
+"['tends', 'lead', 'money']",tends,0,0,33
+"['term', 'describes', 'difference', 'higher', 'paid', 'lower', 'paid', 'professional', 'earn']",describes,0,0,33
+"['term', 'describes', 'difference', 'higher', 'paid', 'lower', 'paid', 'professional', 'earn']",difference,0,0,33
+"['term', 'describes', 'difference', 'higher', 'paid', 'lower', 'paid', 'professional', 'earn']",earn,0,0,33
+"['term', 'describes', 'difference', 'higher', 'paid', 'lower', 'paid', 'professional', 'earn']",higher,0,0,33
+"['term', 'describes', 'difference', 'higher', 'paid', 'lower', 'paid', 'professional', 'earn']",lower,0,0,33
+"['term', 'describes', 'difference', 'higher', 'paid', 'lower', 'paid', 'professional', 'earn']",paid,0,0,33
+"['term', 'describes', 'difference', 'higher', 'paid', 'lower', 'paid', 'professional', 'earn']",professional,0,0,33
+"['term', 'describes', 'difference', 'higher', 'paid', 'lower', 'paid', 'professional', 'earn']",term,0,0,33
+"['term', 'middle', 'income', 'earner', 'aspire', 'obtain', 'standard', 'living', 'people', 'wealthier']",aspire,0,0,33
+"['term', 'middle', 'income', 'earner', 'aspire', 'obtain', 'standard', 'living', 'people', 'wealthier']",earner,0,0,33
+"['term', 'middle', 'income', 'earner', 'aspire', 'obtain', 'standard', 'living', 'people', 'wealthier']",income,0,0,33
+"['term', 'middle', 'income', 'earner', 'aspire', 'obtain', 'standard', 'living', 'people', 'wealthier']",living,0,0,33
+"['term', 'middle', 'income', 'earner', 'aspire', 'obtain', 'standard', 'living', 'people', 'wealthier']",middle,0,0,33
+"['term', 'middle', 'income', 'earner', 'aspire', 'obtain', 'standard', 'living', 'people', 'wealthier']",obtain,0,0,33
+"['term', 'middle', 'income', 'earner', 'aspire', 'obtain', 'standard', 'living', 'people', 'wealthier']",people,0,0,33
+"['term', 'middle', 'income', 'earner', 'aspire', 'obtain', 'standard', 'living', 'people', 'wealthier']",standard,0,0,33
+"['term', 'middle', 'income', 'earner', 'aspire', 'obtain', 'standard', 'living', 'people', 'wealthier']",term,0,0,33
+"['term', 'middle', 'income', 'earner', 'aspire', 'obtain', 'standard', 'living', 'people', 'wealthier']",wealthier,0,0,33
+"['theory', 'developed', 'suggesting', 'inequality', 'may', 'positive', 'effect', 'economic', 'development']",developed,0,0,33
+"['theory', 'developed', 'suggesting', 'inequality', 'may', 'positive', 'effect', 'economic', 'development']",development,0,0,33
+"['theory', 'developed', 'suggesting', 'inequality', 'may', 'positive', 'effect', 'economic', 'development']",economic,0,0,33
+"['theory', 'developed', 'suggesting', 'inequality', 'may', 'positive', 'effect', 'economic', 'development']",effect,0,0,33
+"['theory', 'developed', 'suggesting', 'inequality', 'may', 'positive', 'effect', 'economic', 'development']",inequality,0,0,33
+"['theory', 'developed', 'suggesting', 'inequality', 'may', 'positive', 'effect', 'economic', 'development']",may,0,0,33
+"['theory', 'developed', 'suggesting', 'inequality', 'may', 'positive', 'effect', 'economic', 'development']",positive,0,0,33
+"['theory', 'developed', 'suggesting', 'inequality', 'may', 'positive', 'effect', 'economic', 'development']",suggesting,0,0,33
+"['theory', 'developed', 'suggesting', 'inequality', 'may', 'positive', 'effect', 'economic', 'development']",theory,0,0,33
+"['three', 'richest', 'people', 'world', 'posse', 'lowest', '48', 'nation', 'together']",48,0,0,33
+"['three', 'richest', 'people', 'world', 'posse', 'lowest', '48', 'nation', 'together']",lowest,0,0,33
+"['three', 'richest', 'people', 'world', 'posse', 'lowest', '48', 'nation', 'together']",nation,0,0,33
+"['three', 'richest', 'people', 'world', 'posse', 'lowest', '48', 'nation', 'together']",people,0,0,33
+"['three', 'richest', 'people', 'world', 'posse', 'lowest', '48', 'nation', 'together']",posse,0,0,33
+"['three', 'richest', 'people', 'world', 'posse', 'lowest', '48', 'nation', 'together']",richest,0,0,33
+"['three', 'richest', 'people', 'world', 'posse', 'lowest', '48', 'nation', 'together']",three,0,0,33
+"['three', 'richest', 'people', 'world', 'posse', 'lowest', '48', 'nation', 'together']",together,0,0,33
+"['three', 'richest', 'people', 'world', 'posse', 'lowest', '48', 'nation', 'together']",world,0,0,33
+"['top', '400', 'richest', 'Americans', 'half', 'Americans', 'combined']",400,0,0,33
+"['top', '400', 'richest', 'Americans', 'half', 'Americans', 'combined']",Americans,0,0,33
+"['top', '400', 'richest', 'Americans', 'half', 'Americans', 'combined']",combined,0,0,33
+"['top', '400', 'richest', 'Americans', 'half', 'Americans', 'combined']",half,0,0,33
+"['top', '400', 'richest', 'Americans', 'half', 'Americans', 'combined']",richest,0,0,33
+"['top', '400', 'richest', 'Americans', 'half', 'Americans', 'combined']",top,0,0,33
+"['trend', 'increase', 'organic', 'composition', 'capital', 'long', 'term']",capital,0,0,33
+"['trend', 'increase', 'organic', 'composition', 'capital', 'long', 'term']",composition,0,0,33
+"['trend', 'increase', 'organic', 'composition', 'capital', 'long', 'term']",increase,0,0,33
+"['trend', 'increase', 'organic', 'composition', 'capital', 'long', 'term']",long,0,0,33
+"['trend', 'increase', 'organic', 'composition', 'capital', 'long', 'term']",organic,0,0,33
+"['trend', 'increase', 'organic', 'composition', 'capital', 'long', 'term']",term,0,0,33
+"['trend', 'increase', 'organic', 'composition', 'capital', 'long', 'term']",trend,0,0,33
+"['type', 'entrepreneurship', 'lead', 'advancement', 'technology']",advancement,0,0,33
+"['type', 'entrepreneurship', 'lead', 'advancement', 'technology']",entrepreneurship,0,0,33
+"['type', 'entrepreneurship', 'lead', 'advancement', 'technology']",lead,0,0,33
+"['type', 'entrepreneurship', 'lead', 'advancement', 'technology']",technology,0,0,33
+"['type', 'entrepreneurship', 'lead', 'advancement', 'technology']",type,0,0,33
+"['type', 'impact', 'opportunity-based', 'entrepreneurship', 'tend', 'economic', 'growth']",economic,0,0,33
+"['type', 'impact', 'opportunity-based', 'entrepreneurship', 'tend', 'economic', 'growth']",entrepreneurship,0,0,33
+"['type', 'impact', 'opportunity-based', 'entrepreneurship', 'tend', 'economic', 'growth']",growth,0,0,33
+"['type', 'impact', 'opportunity-based', 'entrepreneurship', 'tend', 'economic', 'growth']",impact,0,0,33
+"['type', 'impact', 'opportunity-based', 'entrepreneurship', 'tend', 'economic', 'growth']",opportunity-based,0,0,33
+"['type', 'impact', 'opportunity-based', 'entrepreneurship', 'tend', 'economic', 'growth']",tend,0,0,33
+"['type', 'impact', 'opportunity-based', 'entrepreneurship', 'tend', 'economic', 'growth']",type,0,0,33
+"['type', 'income', 'vast', 'majority', 'population', 'dependent']",dependent,0,0,33
+"['type', 'income', 'vast', 'majority', 'population', 'dependent']",income,0,0,33
+"['type', 'income', 'vast', 'majority', 'population', 'dependent']",majority,0,0,33
+"['type', 'income', 'vast', 'majority', 'population', 'dependent']",population,0,0,33
+"['type', 'income', 'vast', 'majority', 'population', 'dependent']",type,0,0,33
+"['type', 'income', 'vast', 'majority', 'population', 'dependent']",vast,0,0,33
+"['type', 'motivator', 'achievement', 'self', 'determination', 'considered']",achievement,0,0,33
+"['type', 'motivator', 'achievement', 'self', 'determination', 'considered']",considered,0,0,33
+"['type', 'motivator', 'achievement', 'self', 'determination', 'considered']",determination,0,0,33
+"['type', 'motivator', 'achievement', 'self', 'determination', 'considered']",motivator,0,0,33
+"['type', 'motivator', 'achievement', 'self', 'determination', 'considered']",self,0,0,33
+"['type', 'motivator', 'achievement', 'self', 'determination', 'considered']",type,0,0,33
+"['type', 'motivator', 'food', 'shelter', 'considered']",considered,0,0,33
+"['type', 'motivator', 'food', 'shelter', 'considered']",food,0,0,33
+"['type', 'motivator', 'food', 'shelter', 'considered']",motivator,0,0,33
+"['type', 'motivator', 'food', 'shelter', 'considered']",shelter,0,0,33
+"['type', 'motivator', 'food', 'shelter', 'considered']",type,0,0,33
+"['type', 'organization', 'decline', 'US', 'adversely', 'effect', 'economic', 'mobility']",US,0,0,33
+"['type', 'organization', 'decline', 'US', 'adversely', 'effect', 'economic', 'mobility']",adversely,0,0,33
+"['type', 'organization', 'decline', 'US', 'adversely', 'effect', 'economic', 'mobility']",decline,0,0,33
+"['type', 'organization', 'decline', 'US', 'adversely', 'effect', 'economic', 'mobility']",economic,0,0,33
+"['type', 'organization', 'decline', 'US', 'adversely', 'effect', 'economic', 'mobility']",effect,0,0,33
+"['type', 'organization', 'decline', 'US', 'adversely', 'effect', 'economic', 'mobility']",mobility,0,0,33
+"['type', 'organization', 'decline', 'US', 'adversely', 'effect', 'economic', 'mobility']",organization,0,0,33
+"['type', 'organization', 'decline', 'US', 'adversely', 'effect', 'economic', 'mobility']",type,0,0,33
+"['type', 'outcome', 'even', 'stable', 'market', 'lead']",even,0,0,33
+"['type', 'outcome', 'even', 'stable', 'market', 'lead']",lead,0,0,33
+"['type', 'outcome', 'even', 'stable', 'market', 'lead']",market,0,0,33
+"['type', 'outcome', 'even', 'stable', 'market', 'lead']",outcome,0,0,33
+"['type', 'outcome', 'even', 'stable', 'market', 'lead']",stable,0,0,33
+"['type', 'outcome', 'even', 'stable', 'market', 'lead']",type,0,0,33
+"['type', 'program', 'help', 'redistribute', 'wealth']",help,0,0,33
+"['type', 'program', 'help', 'redistribute', 'wealth']",program,0,0,33
+"['type', 'program', 'help', 'redistribute', 'wealth']",redistribute,0,0,33
+"['type', 'program', 'help', 'redistribute', 'wealth']",type,0,0,33
+"['type', 'program', 'help', 'redistribute', 'wealth']",wealth,0,0,33
+"['type', 'skill', 'market', 'bid', 'compensation']",bid,0,0,33
+"['type', 'skill', 'market', 'bid', 'compensation']",compensation,0,0,33
+"['type', 'skill', 'market', 'bid', 'compensation']",market,0,0,33
+"['type', 'skill', 'market', 'bid', 'compensation']",skill,0,0,33
+"['type', 'skill', 'market', 'bid', 'compensation']",type,0,0,33
+"['type', 'wage', 'mechanization', 'automation', 'lead']",automation,0,0,33
+"['type', 'wage', 'mechanization', 'automation', 'lead']",lead,0,0,33
+"['type', 'wage', 'mechanization', 'automation', 'lead']",mechanization,0,0,33
+"['type', 'wage', 'mechanization', 'automation', 'lead']",type,0,0,33
+"['type', 'wage', 'mechanization', 'automation', 'lead']",wage,0,0,33
+"['type', 'wage', 'people', 'unable', 'afford', 'education', 'receive']",afford,0,0,33
+"['type', 'wage', 'people', 'unable', 'afford', 'education', 'receive']",education,0,0,33
+"['type', 'wage', 'people', 'unable', 'afford', 'education', 'receive']",people,0,0,33
+"['type', 'wage', 'people', 'unable', 'afford', 'education', 'receive']",receive,0,0,33
+"['type', 'wage', 'people', 'unable', 'afford', 'education', 'receive']",type,0,0,33
+"['type', 'wage', 'people', 'unable', 'afford', 'education', 'receive']",unable,0,0,33
+"['type', 'wage', 'people', 'unable', 'afford', 'education', 'receive']",wage,0,0,33
+"['type', 'wage', 'result', 'job', 'low', 'supply', 'high', 'demand']",demand,0,0,33
+"['type', 'wage', 'result', 'job', 'low', 'supply', 'high', 'demand']",high,0,0,33
+"['type', 'wage', 'result', 'job', 'low', 'supply', 'high', 'demand']",job,0,0,33
+"['type', 'wage', 'result', 'job', 'low', 'supply', 'high', 'demand']",low,0,0,33
+"['type', 'wage', 'result', 'job', 'low', 'supply', 'high', 'demand']",result,0,0,33
+"['type', 'wage', 'result', 'job', 'low', 'supply', 'high', 'demand']",supply,0,0,33
+"['type', 'wage', 'result', 'job', 'low', 'supply', 'high', 'demand']",type,0,0,33
+"['type', 'wage', 'result', 'job', 'low', 'supply', 'high', 'demand']",wage,0,0,33
+"['unemployment', 'harm', 'growth']",growth,0,0,33
+"['unemployment', 'harm', 'growth']",harm,0,0,33
+"['unemployment', 'harm', 'growth']",unemployment,0,0,33
+"['unregistered', 'property', 'held', 'informal', 'form']",form,0,0,33
+"['unregistered', 'property', 'held', 'informal', 'form']",held,0,0,33
+"['unregistered', 'property', 'held', 'informal', 'form']",informal,0,0,33
+"['unregistered', 'property', 'held', 'informal', 'form']",property,0,0,33
+"['unregistered', 'property', 'held', 'informal', 'form']",unregistered,0,0,33
+"['used', 'certain', 'wealthy', 'group', 'obtain', 'policy', 'financially', 'beneficial']",beneficial,0,0,33
+"['used', 'certain', 'wealthy', 'group', 'obtain', 'policy', 'financially', 'beneficial']",certain,0,0,33
+"['used', 'certain', 'wealthy', 'group', 'obtain', 'policy', 'financially', 'beneficial']",financially,0,0,33
+"['used', 'certain', 'wealthy', 'group', 'obtain', 'policy', 'financially', 'beneficial']",group,0,0,33
+"['used', 'certain', 'wealthy', 'group', 'obtain', 'policy', 'financially', 'beneficial']",obtain,0,0,33
+"['used', 'certain', 'wealthy', 'group', 'obtain', 'policy', 'financially', 'beneficial']",policy,0,0,33
+"['used', 'certain', 'wealthy', 'group', 'obtain', 'policy', 'financially', 'beneficial']",used,0,0,33
+"['used', 'certain', 'wealthy', 'group', 'obtain', 'policy', 'financially', 'beneficial']",wealthy,0,0,33
+"['usual', 'form', 'government', 'wealth', 'redistribution']",form,0,0,33
+"['usual', 'form', 'government', 'wealth', 'redistribution']",government,0,0,33
+"['usual', 'form', 'government', 'wealth', 'redistribution']",redistribution,0,0,33
+"['usual', 'form', 'government', 'wealth', 'redistribution']",usual,0,0,33
+"['usual', 'form', 'government', 'wealth', 'redistribution']",wealth,0,0,33
+"['utilitarian', 'principle', 'seek', 'greatest', 'number', 'people']",greatest,0,0,33
+"['utilitarian', 'principle', 'seek', 'greatest', 'number', 'people']",number,0,0,33
+"['utilitarian', 'principle', 'seek', 'greatest', 'number', 'people']",people,0,0,33
+"['utilitarian', 'principle', 'seek', 'greatest', 'number', 'people']",principle,0,0,33
+"['utilitarian', 'principle', 'seek', 'greatest', 'number', 'people']",seek,0,0,33
+"['utilitarian', 'principle', 'seek', 'greatest', 'number', 'people']",utilitarian,0,0,33
+"['vast', 'disparity', 'wealth', 'attributed', 'Socialists']",Socialists,0,0,33
+"['vast', 'disparity', 'wealth', 'attributed', 'Socialists']",attributed,0,0,33
+"['vast', 'disparity', 'wealth', 'attributed', 'Socialists']",disparity,0,0,33
+"['vast', 'disparity', 'wealth', 'attributed', 'Socialists']",vast,0,0,33
+"['vast', 'disparity', 'wealth', 'attributed', 'Socialists']",wealth,0,0,33
+"['wage', 'gap', 'gender', 'provide', 'advantage']",advantage,0,0,33
+"['wage', 'gap', 'gender', 'provide', 'advantage']",gap,0,0,33
+"['wage', 'gap', 'gender', 'provide', 'advantage']",gender,0,0,33
+"['wage', 'gap', 'gender', 'provide', 'advantage']",provide,0,0,33
+"['wage', 'gap', 'gender', 'provide', 'advantage']",wage,0,0,33
+"['wage', 'work', 'way', 'good']",good,0,0,33
+"['wage', 'work', 'way', 'good']",wage,0,0,33
+"['wage', 'work', 'way', 'good']",way,0,0,33
+"['wage', 'work', 'way', 'good']",work,0,0,33
+"['weak', 'labor', 'movement', 'correlate']",correlate,0,0,33
+"['weak', 'labor', 'movement', 'correlate']",labor,0,0,33
+"['weak', 'labor', 'movement', 'correlate']",movement,0,0,33
+"['weak', 'labor', 'movement', 'correlate']",weak,0,0,33
+"['wealth', 'disparity', 'make', 'economy', 'prone']",disparity,0,0,33
+"['wealth', 'disparity', 'make', 'economy', 'prone']",economy,0,0,33
+"['wealth', 'disparity', 'make', 'economy', 'prone']",make,0,0,33
+"['wealth', 'disparity', 'make', 'economy', 'prone']",prone,0,0,33
+"['wealth', 'disparity', 'make', 'economy', 'prone']",wealth,0,0,33
+"['work', 'even', 'distribution', 'wealth']",distribution,0,0,33
+"['work', 'even', 'distribution', 'wealth']",even,0,0,33
+"['work', 'even', 'distribution', 'wealth']",wealth,0,0,33
+"['work', 'even', 'distribution', 'wealth']",work,0,0,33
+"['work', 'get', 'worker', 'higher', 'compensation']",compensation,0,0,33
+"['work', 'get', 'worker', 'higher', 'compensation']",get,0,0,33
+"['work', 'get', 'worker', 'higher', 'compensation']",higher,0,0,33
+"['work', 'get', 'worker', 'higher', 'compensation']",work,0,0,33
+"['work', 'get', 'worker', 'higher', 'compensation']",worker,0,0,33
+"['worker', 'competing', 'job', 'considered']",competing,0,0,33
+"['worker', 'competing', 'job', 'considered']",considered,0,0,33
+"['worker', 'competing', 'job', 'considered']",job,0,0,33
+"['worker', 'competing', 'job', 'considered']",worker,0,0,33
+"['worker', 'willing', 'work', 'lot', 'time', 'competing', 'job', 'requires', 'worker', 'result']",competing,0,0,33
+"['worker', 'willing', 'work', 'lot', 'time', 'competing', 'job', 'requires', 'worker', 'result']",job,0,0,33
+"['worker', 'willing', 'work', 'lot', 'time', 'competing', 'job', 'requires', 'worker', 'result']",lot,0,0,33
+"['worker', 'willing', 'work', 'lot', 'time', 'competing', 'job', 'requires', 'worker', 'result']",requires,0,0,33
+"['worker', 'willing', 'work', 'lot', 'time', 'competing', 'job', 'requires', 'worker', 'result']",result,0,0,33
+"['worker', 'willing', 'work', 'lot', 'time', 'competing', 'job', 'requires', 'worker', 'result']",time,0,0,33
+"['worker', 'willing', 'work', 'lot', 'time', 'competing', 'job', 'requires', 'worker', 'result']",willing,0,0,33
+"['worker', 'willing', 'work', 'lot', 'time', 'competing', 'job', 'requires', 'worker', 'result']",work,0,0,33
+"['worker', 'willing', 'work', 'lot', 'time', 'competing', 'job', 'requires', 'worker', 'result']",worker,0,0,33
+"['would', 'capability', 'approach', 'achieve', 'goal']",achieve,0,0,33
+"['would', 'capability', 'approach', 'achieve', 'goal']",approach,0,0,33
+"['would', 'capability', 'approach', 'achieve', 'goal']",capability,0,0,33
+"['would', 'capability', 'approach', 'achieve', 'goal']",goal,0,0,33
+"['would', 'capability', 'approach', 'achieve', 'goal']",would,0,0,33
+"['would', 'income', 'differential', 'individual', 'contribution', 'relevant', 'social', 'product']",contribution,0,0,33
+"['would', 'income', 'differential', 'individual', 'contribution', 'relevant', 'social', 'product']",differential,0,0,33
+"['would', 'income', 'differential', 'individual', 'contribution', 'relevant', 'social', 'product']",income,0,0,33
+"['would', 'income', 'differential', 'individual', 'contribution', 'relevant', 'social', 'product']",individual,0,0,33
+"['would', 'income', 'differential', 'individual', 'contribution', 'relevant', 'social', 'product']",product,0,0,33
+"['would', 'income', 'differential', 'individual', 'contribution', 'relevant', 'social', 'product']",relevant,0,0,33
+"['would', 'income', 'differential', 'individual', 'contribution', 'relevant', 'social', 'product']",social,0,0,33
+"['would', 'income', 'differential', 'individual', 'contribution', 'relevant', 'social', 'product']",would,0,0,33
+"['would', 'lower', 'fewer', 'people']",fewer,0,0,33
+"['would', 'lower', 'fewer', 'people']",lower,0,0,33
+"['would', 'lower', 'fewer', 'people']",people,0,0,33
+"['would', 'lower', 'fewer', 'people']",would,0,0,33
+"['would', 'rampant', 'violence', 'prevent', 'people', 'going', 'work']",going,0,0,33
+"['would', 'rampant', 'violence', 'prevent', 'people', 'going', 'work']",people,0,0,33
+"['would', 'rampant', 'violence', 'prevent', 'people', 'going', 'work']",prevent,0,0,33
+"['would', 'rampant', 'violence', 'prevent', 'people', 'going', 'work']",rampant,0,0,33
+"['would', 'rampant', 'violence', 'prevent', 'people', 'going', 'work']",violence,0,0,33
+"['would', 'rampant', 'violence', 'prevent', 'people', 'going', 'work']",work,0,0,33
+"['would', 'rampant', 'violence', 'prevent', 'people', 'going', 'work']",would,0,0,33
+"['wrote', 'Hidden', 'Prosperity', 'Poor']",Hidden,0,0,33
+"['wrote', 'Hidden', 'Prosperity', 'Poor']",Poor,0,0,33
+"['wrote', 'Hidden', 'Prosperity', 'Poor']",Prosperity,0,0,33
+"['wrote', 'Hidden', 'Prosperity', 'Poor']",wrote,0,0,33
+"['wrote', 'book', 'Capital', 'Twenty-First', 'Century']",Capital,0,0,33
+"['wrote', 'book', 'Capital', 'Twenty-First', 'Century']",Century,0,0,33
+"['wrote', 'book', 'Capital', 'Twenty-First', 'Century']",Twenty-First,0,0,33
+"['wrote', 'book', 'Capital', 'Twenty-First', 'Century']",book,0,0,33
+"['wrote', 'book', 'Capital', 'Twenty-First', 'Century']",wrote,0,0,33
+"['year', 'Robert', 'J.', 'Shiller', 'win', 'Economics', 'Nobel', 'prize']",Economics,0,0,33
+"['year', 'Robert', 'J.', 'Shiller', 'win', 'Economics', 'Nobel', 'prize']",J.,0,0,33
+"['year', 'Robert', 'J.', 'Shiller', 'win', 'Economics', 'Nobel', 'prize']",Nobel,0,0,33
+"['year', 'Robert', 'J.', 'Shiller', 'win', 'Economics', 'Nobel', 'prize']",Robert,0,0,33
+"['year', 'Robert', 'J.', 'Shiller', 'win', 'Economics', 'Nobel', 'prize']",Shiller,0,0,33
+"['year', 'Robert', 'J.', 'Shiller', 'win', 'Economics', 'Nobel', 'prize']",prize,0,0,33
+"['year', 'Robert', 'J.', 'Shiller', 'win', 'Economics', 'Nobel', 'prize']",win,0,0,33
+"['year', 'Robert', 'J.', 'Shiller', 'win', 'Economics', 'Nobel', 'prize']",year,0,0,33

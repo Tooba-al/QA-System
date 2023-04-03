@@ -1,0 +1,1041 @@
+0,1,2,3,4
+"['An', 'MSP', 'may', 'introduce', 'bill']",An,0,0,42
+"['An', 'MSP', 'may', 'introduce', 'bill']",MSP,0,0,42
+"['An', 'MSP', 'may', 'introduce', 'bill']",bill,0,0,42
+"['An', 'MSP', 'may', 'introduce', 'bill']",introduce,0,0,42
+"['An', 'MSP', 'may', 'introduce', 'bill']",may,0,0,42
+"['Because', 'speaker', 'drawn', 'across', 'Scotland', 'represent', 'balance']",Because,0,0,42
+"['Because', 'speaker', 'drawn', 'across', 'Scotland', 'represent', 'balance']",Scotland,0,0,42
+"['Because', 'speaker', 'drawn', 'across', 'Scotland', 'represent', 'balance']",across,0,0,42
+"['Because', 'speaker', 'drawn', 'across', 'Scotland', 'represent', 'balance']",balance,0,0,42
+"['Because', 'speaker', 'drawn', 'across', 'Scotland', 'represent', 'balance']",drawn,0,0,42
+"['Because', 'speaker', 'drawn', 'across', 'Scotland', 'represent', 'balance']",represent,0,0,42
+"['Because', 'speaker', 'drawn', 'across', 'Scotland', 'represent', 'balance']",speaker,0,0,42
+"['British', 'Nationality', 'Act', 'passed']",Act,0,0,42
+"['British', 'Nationality', 'Act', 'passed']",British,0,0,42
+"['British', 'Nationality', 'Act', 'passed']",Nationality,0,0,42
+"['British', 'Nationality', 'Act', 'passed']",passed,0,0,42
+"['Different', 'committee', 'set', 'different', 'way']",Different,0,0,42
+"['Different', 'committee', 'set', 'different', 'way']",committee,0,0,42
+"['Different', 'committee', 'set', 'different', 'way']",different,0,0,42
+"['Different', 'committee', 'set', 'different', 'way']",set,0,0,42
+"['Different', 'committee', 'set', 'different', 'way']",way,0,0,42
+"['Economy', 'Energy', 'Tourism', 'one']",Economy,0,0,42
+"['Economy', 'Energy', 'Tourism', 'one']",Energy,0,0,42
+"['Economy', 'Energy', 'Tourism', 'one']",Tourism,0,0,42
+"['Economy', 'Energy', 'Tourism', 'one']",one,0,0,42
+"['First', 'Minister', 'deliver', 'beginning', 'parliamentary', 'year']",First,0,0,42
+"['First', 'Minister', 'deliver', 'beginning', 'parliamentary', 'year']",Minister,0,0,42
+"['First', 'Minister', 'deliver', 'beginning', 'parliamentary', 'year']",beginning,0,0,42
+"['First', 'Minister', 'deliver', 'beginning', 'parliamentary', 'year']",deliver,0,0,42
+"['First', 'Minister', 'deliver', 'beginning', 'parliamentary', 'year']",parliamentary,0,0,42
+"['First', 'Minister', 'deliver', 'beginning', 'parliamentary', 'year']",year,0,0,42
+"['Issues', 'dealt', 'Westminster', 'one', 'able', 'deal']",Issues,0,0,42
+"['Issues', 'dealt', 'Westminster', 'one', 'able', 'deal']",Westminster,0,0,42
+"['Issues', 'dealt', 'Westminster', 'one', 'able', 'deal']",able,0,0,42
+"['Issues', 'dealt', 'Westminster', 'one', 'able', 'deal']",deal,0,0,42
+"['Issues', 'dealt', 'Westminster', 'one', 'able', 'deal']",dealt,0,0,42
+"['Issues', 'dealt', 'Westminster', 'one', 'able', 'deal']",one,0,0,42
+"['Kllbrandon', 'report', '1973', 'recommend', 'establishing']",1973,0,0,42
+"['Kllbrandon', 'report', '1973', 'recommend', 'establishing']",Kllbrandon,0,0,42
+"['Kllbrandon', 'report', '1973', 'recommend', 'establishing']",establishing,0,0,42
+"['Kllbrandon', 'report', '1973', 'recommend', 'establishing']",recommend,0,0,42
+"['Kllbrandon', 'report', '1973', 'recommend', 'establishing']",report,0,0,42
+"['MPs', 'representing', 'English', 'constituency', 'veto', 'law', 'affecting', 'country']",English,0,0,42
+"['MPs', 'representing', 'English', 'constituency', 'veto', 'law', 'affecting', 'country']",MPs,0,0,42
+"['MPs', 'representing', 'English', 'constituency', 'veto', 'law', 'affecting', 'country']",affecting,0,0,42
+"['MPs', 'representing', 'English', 'constituency', 'veto', 'law', 'affecting', 'country']",constituency,0,0,42
+"['MPs', 'representing', 'English', 'constituency', 'veto', 'law', 'affecting', 'country']",country,0,0,42
+"['MPs', 'representing', 'English', 'constituency', 'veto', 'law', 'affecting', 'country']",law,0,0,42
+"['MPs', 'representing', 'English', 'constituency', 'veto', 'law', 'affecting', 'country']",representing,0,0,42
+"['MPs', 'representing', 'English', 'constituency', 'veto', 'law', 'affecting', 'country']",veto,0,0,42
+"['MPs', 'unable', 'vote', 'upon']",MPs,0,0,42
+"['MPs', 'unable', 'vote', 'upon']",unable,0,0,42
+"['MPs', 'unable', 'vote', 'upon']",upon,0,0,42
+"['MPs', 'unable', 'vote', 'upon']",vote,0,0,42
+"['MSP', 'share', 'House', 'Commons']",Commons,0,0,42
+"['MSP', 'share', 'House', 'Commons']",House,0,0,42
+"['MSP', 'share', 'House', 'Commons']",MSP,0,0,42
+"['MSP', 'share', 'House', 'Commons']",share,0,0,42
+"['MSPs', 'chamber', 'division', 'bell', 'ring', 'return']",MSPs,0,0,42
+"['MSPs', 'chamber', 'division', 'bell', 'ring', 'return']",bell,0,0,42
+"['MSPs', 'chamber', 'division', 'bell', 'ring', 'return']",chamber,0,0,42
+"['MSPs', 'chamber', 'division', 'bell', 'ring', 'return']",division,0,0,42
+"['MSPs', 'chamber', 'division', 'bell', 'ring', 'return']",return,0,0,42
+"['MSPs', 'chamber', 'division', 'bell', 'ring', 'return']",ring,0,0,42
+['MSPs'],MSPs,0,0,42
+"['May', '2002', 'would', 'go', 'address', 'Parliament']",2002,0,0,42
+"['May', '2002', 'would', 'go', 'address', 'Parliament']",May,0,0,42
+"['May', '2002', 'would', 'go', 'address', 'Parliament']",Parliament,0,0,42
+"['May', '2002', 'would', 'go', 'address', 'Parliament']",address,0,0,42
+"['May', '2002', 'would', 'go', 'address', 'Parliament']",go,0,0,42
+"['May', '2002', 'would', 'go', 'address', 'Parliament']",would,0,0,42
+"['Members', 'Debate', 'held']",Debate,0,0,42
+"['Members', 'Debate', 'held']",Members,0,0,42
+"['Members', 'Debate', 'held']",held,0,0,42
+"['Members', 'organization', 'disqualified', 'sitting', 'SP', 'elected', 'MSPs']",MSPs,0,0,42
+"['Members', 'organization', 'disqualified', 'sitting', 'SP', 'elected', 'MSPs']",Members,0,0,42
+"['Members', 'organization', 'disqualified', 'sitting', 'SP', 'elected', 'MSPs']",SP,0,0,42
+"['Members', 'organization', 'disqualified', 'sitting', 'SP', 'elected', 'MSPs']",disqualified,0,0,42
+"['Members', 'organization', 'disqualified', 'sitting', 'SP', 'elected', 'MSPs']",elected,0,0,42
+"['Members', 'organization', 'disqualified', 'sitting', 'SP', 'elected', 'MSPs']",organization,0,0,42
+"['Members', 'organization', 'disqualified', 'sitting', 'SP', 'elected', 'MSPs']",sitting,0,0,42
+"['Most', 'aspect', 'transport', 'safety', 'subject', 'dealt']",Most,0,0,42
+"['Most', 'aspect', 'transport', 'safety', 'subject', 'dealt']",aspect,0,0,42
+"['Most', 'aspect', 'transport', 'safety', 'subject', 'dealt']",dealt,0,0,42
+"['Most', 'aspect', 'transport', 'safety', 'subject', 'dealt']",safety,0,0,42
+"['Most', 'aspect', 'transport', 'safety', 'subject', 'dealt']",subject,0,0,42
+"['Most', 'aspect', 'transport', 'safety', 'subject', 'dealt']",transport,0,0,42
+"['On', 'day', 'General', 'Question', 'Time', 'take', 'place']",General,0,0,42
+"['On', 'day', 'General', 'Question', 'Time', 'take', 'place']",On,0,0,42
+"['On', 'day', 'General', 'Question', 'Time', 'take', 'place']",Question,0,0,42
+"['On', 'day', 'General', 'Question', 'Time', 'take', 'place']",Time,0,0,42
+"['On', 'day', 'General', 'Question', 'Time', 'take', 'place']",day,0,0,42
+"['On', 'day', 'General', 'Question', 'Time', 'take', 'place']",place,0,0,42
+"['On', 'day', 'General', 'Question', 'Time', 'take', 'place']",take,0,0,42
+"['Parliament', 'agrees', 'vote', 'general', 'principle', 'bill', 'proceed']",Parliament,0,0,42
+"['Parliament', 'agrees', 'vote', 'general', 'principle', 'bill', 'proceed']",agrees,0,0,42
+"['Parliament', 'agrees', 'vote', 'general', 'principle', 'bill', 'proceed']",bill,0,0,42
+"['Parliament', 'agrees', 'vote', 'general', 'principle', 'bill', 'proceed']",general,0,0,42
+"['Parliament', 'agrees', 'vote', 'general', 'principle', 'bill', 'proceed']",principle,0,0,42
+"['Parliament', 'agrees', 'vote', 'general', 'principle', 'bill', 'proceed']",proceed,0,0,42
+"['Parliament', 'agrees', 'vote', 'general', 'principle', 'bill', 'proceed']",vote,0,0,42
+"['Parliament', 'rent', 'additional', 'building']",Parliament,0,0,42
+"['Parliament', 'rent', 'additional', 'building']",additional,0,0,42
+"['Parliament', 'rent', 'additional', 'building']",building,0,0,42
+"['Parliament', 'rent', 'additional', 'building']",rent,0,0,42
+"['Parliament', 'temporarily', 'relocated', 'May', '2000']",2000,0,0,42
+"['Parliament', 'temporarily', 'relocated', 'May', '2000']",May,0,0,42
+"['Parliament', 'temporarily', 'relocated', 'May', '2000']",Parliament,0,0,42
+"['Parliament', 'temporarily', 'relocated', 'May', '2000']",relocated,0,0,42
+"['Parliament', 'temporarily', 'relocated', 'May', '2000']",temporarily,0,0,42
+"['Parliament', 'temporary', 'home', 'whilst', 'permanent', 'building', 'built']",Parliament,0,0,42
+"['Parliament', 'temporary', 'home', 'whilst', 'permanent', 'building', 'built']",building,0,0,42
+"['Parliament', 'temporary', 'home', 'whilst', 'permanent', 'building', 'built']",built,0,0,42
+"['Parliament', 'temporary', 'home', 'whilst', 'permanent', 'building', 'built']",home,0,0,42
+"['Parliament', 'temporary', 'home', 'whilst', 'permanent', 'building', 'built']",permanent,0,0,42
+"['Parliament', 'temporary', 'home', 'whilst', 'permanent', 'building', 'built']",temporary,0,0,42
+"['Parliament', 'temporary', 'home', 'whilst', 'permanent', 'building', 'built']",whilst,0,0,42
+"['Presiding', 'Officer', 'submit', 'final', 'bill']",Officer,0,0,42
+"['Presiding', 'Officer', 'submit', 'final', 'bill']",Presiding,0,0,42
+"['Presiding', 'Officer', 'submit', 'final', 'bill']",bill,0,0,42
+"['Presiding', 'Officer', 'submit', 'final', 'bill']",final,0,0,42
+"['Presiding', 'Officer', 'submit', 'final', 'bill']",submit,0,0,42
+"['Presiding', 'Officer', 'try', 'achieve', 'balance', 'speaker']",Officer,0,0,42
+"['Presiding', 'Officer', 'try', 'achieve', 'balance', 'speaker']",Presiding,0,0,42
+"['Presiding', 'Officer', 'try', 'achieve', 'balance', 'speaker']",achieve,0,0,42
+"['Presiding', 'Officer', 'try', 'achieve', 'balance', 'speaker']",balance,0,0,42
+"['Presiding', 'Officer', 'try', 'achieve', 'balance', 'speaker']",speaker,0,0,42
+"['Presiding', 'Officer', 'try', 'achieve', 'balance', 'speaker']",try,0,0,42
+"['Prime', 'Minister', 'Wilson', 'commit', 'form', 'devolved', 'legislature']",Minister,0,0,42
+"['Prime', 'Minister', 'Wilson', 'commit', 'form', 'devolved', 'legislature']",Prime,0,0,42
+"['Prime', 'Minister', 'Wilson', 'commit', 'form', 'devolved', 'legislature']",Wilson,0,0,42
+"['Prime', 'Minister', 'Wilson', 'commit', 'form', 'devolved', 'legislature']",commit,0,0,42
+"['Prime', 'Minister', 'Wilson', 'commit', 'form', 'devolved', 'legislature']",devolved,0,0,42
+"['Prime', 'Minister', 'Wilson', 'commit', 'form', 'devolved', 'legislature']",form,0,0,42
+"['Prime', 'Minister', 'Wilson', 'commit', 'form', 'devolved', 'legislature']",legislature,0,0,42
+"['SNP', 'obtain', '16', 'seat']",16,0,0,42
+"['SNP', 'obtain', '16', 'seat']",SNP,0,0,42
+"['SNP', 'obtain', '16', 'seat']",obtain,0,0,42
+"['SNP', 'obtain', '16', 'seat']",seat,0,0,42
+"['SNP', 'publicly', 'opine', 'oil', 'revenue']",SNP,0,0,42
+"['SNP', 'publicly', 'opine', 'oil', 'revenue']",oil,0,0,42
+"['SNP', 'publicly', 'opine', 'oil', 'revenue']",opine,0,0,42
+"['SNP', 'publicly', 'opine', 'oil', 'revenue']",publicly,0,0,42
+"['SNP', 'publicly', 'opine', 'oil', 'revenue']",revenue,0,0,42
+"['Scotland', 'Act', '2012', 'extend']",2012,0,0,42
+"['Scotland', 'Act', '2012', 'extend']",Act,0,0,42
+"['Scotland', 'Act', '2012', 'extend']",Scotland,0,0,42
+"['Scotland', 'Act', '2012', 'extend']",extend,0,0,42
+"['Scotland', 'Chief', 'Law', 'Officer', 'whence', 'minister', 'drawn', 'amongst']",Chief,0,0,42
+"['Scotland', 'Chief', 'Law', 'Officer', 'whence', 'minister', 'drawn', 'amongst']",Law,0,0,42
+"['Scotland', 'Chief', 'Law', 'Officer', 'whence', 'minister', 'drawn', 'amongst']",Officer,0,0,42
+"['Scotland', 'Chief', 'Law', 'Officer', 'whence', 'minister', 'drawn', 'amongst']",Scotland,0,0,42
+"['Scotland', 'Chief', 'Law', 'Officer', 'whence', 'minister', 'drawn', 'amongst']",amongst,0,0,42
+"['Scotland', 'Chief', 'Law', 'Officer', 'whence', 'minister', 'drawn', 'amongst']",drawn,0,0,42
+"['Scotland', 'Chief', 'Law', 'Officer', 'whence', 'minister', 'drawn', 'amongst']",minister,0,0,42
+"['Scotland', 'Chief', 'Law', 'Officer', 'whence', 'minister', 'drawn', 'amongst']",whence,0,0,42
+"['Scottish', 'Constitutional', 'Convention', 'held']",Constitutional,0,0,42
+"['Scottish', 'Constitutional', 'Convention', 'held']",Convention,0,0,42
+"['Scottish', 'Constitutional', 'Convention', 'held']",Scottish,0,0,42
+"['Scottish', 'Constitutional', 'Convention', 'held']",held,0,0,42
+"['Scottish', 'Parliament', 'currently', 'fourth']",Parliament,0,0,42
+"['Scottish', 'Parliament', 'currently', 'fourth']",Scottish,0,0,42
+"['Scottish', 'Parliament', 'currently', 'fourth']",currently,0,0,42
+"['Scottish', 'Parliament', 'currently', 'fourth']",fourth,0,0,42
+"['Scottish', 'Parliament', 'may', 'legislate', 'plea', 'long', 'power', ""n't"", 'already', 'reserved']",Parliament,0,0,42
+"['Scottish', 'Parliament', 'may', 'legislate', 'plea', 'long', 'power', ""n't"", 'already', 'reserved']",Scottish,0,0,42
+"['Scottish', 'Parliament', 'may', 'legislate', 'plea', 'long', 'power', ""n't"", 'already', 'reserved']",already,0,0,42
+"['Scottish', 'Parliament', 'may', 'legislate', 'plea', 'long', 'power', ""n't"", 'already', 'reserved']",legislate,0,0,42
+"['Scottish', 'Parliament', 'may', 'legislate', 'plea', 'long', 'power', ""n't"", 'already', 'reserved']",long,0,0,42
+"['Scottish', 'Parliament', 'may', 'legislate', 'plea', 'long', 'power', ""n't"", 'already', 'reserved']",may,0,0,42
+"['Scottish', 'Parliament', 'may', 'legislate', 'plea', 'long', 'power', ""n't"", 'already', 'reserved']",n't,0,0,42
+"['Scottish', 'Parliament', 'may', 'legislate', 'plea', 'long', 'power', ""n't"", 'already', 'reserved']",plea,0,0,42
+"['Scottish', 'Parliament', 'may', 'legislate', 'plea', 'long', 'power', ""n't"", 'already', 'reserved']",power,0,0,42
+"['Scottish', 'Parliament', 'may', 'legislate', 'plea', 'long', 'power', ""n't"", 'already', 'reserved']",reserved,0,0,42
+"['Scottish', 'electorate', 'would', 'need', 'referendum']",Scottish,0,0,42
+"['Scottish', 'electorate', 'would', 'need', 'referendum']",electorate,0,0,42
+"['Scottish', 'electorate', 'would', 'need', 'referendum']",need,0,0,42
+"['Scottish', 'electorate', 'would', 'need', 'referendum']",referendum,0,0,42
+"['Scottish', 'electorate', 'would', 'need', 'referendum']",would,0,0,42
+"['Setting', 'speed', 'limit', 'one', 'devolution', 'conferred', 'act']",Setting,0,0,42
+"['Setting', 'speed', 'limit', 'one', 'devolution', 'conferred', 'act']",act,0,0,42
+"['Setting', 'speed', 'limit', 'one', 'devolution', 'conferred', 'act']",conferred,0,0,42
+"['Setting', 'speed', 'limit', 'one', 'devolution', 'conferred', 'act']",devolution,0,0,42
+"['Setting', 'speed', 'limit', 'one', 'devolution', 'conferred', 'act']",limit,0,0,42
+"['Setting', 'speed', 'limit', 'one', 'devolution', 'conferred', 'act']",one,0,0,42
+"['Setting', 'speed', 'limit', 'one', 'devolution', 'conferred', 'act']",speed,0,0,42
+"['Taking', 'evidence', 'witness', 'one', 'committee']",Taking,0,0,42
+"['Taking', 'evidence', 'witness', 'one', 'committee']",committee,0,0,42
+"['Taking', 'evidence', 'witness', 'one', 'committee']",evidence,0,0,42
+"['Taking', 'evidence', 'witness', 'one', 'committee']",one,0,0,42
+"['Taking', 'evidence', 'witness', 'one', 'committee']",witness,0,0,42
+"['To', 'body', 'certain', 'power', 'explicitly', 'specified', 'reserved']",To,0,0,42
+"['To', 'body', 'certain', 'power', 'explicitly', 'specified', 'reserved']",body,0,0,42
+"['To', 'body', 'certain', 'power', 'explicitly', 'specified', 'reserved']",certain,0,0,42
+"['To', 'body', 'certain', 'power', 'explicitly', 'specified', 'reserved']",explicitly,0,0,42
+"['To', 'body', 'certain', 'power', 'explicitly', 'specified', 'reserved']",power,0,0,42
+"['To', 'body', 'certain', 'power', 'explicitly', 'specified', 'reserved']",reserved,0,0,42
+"['To', 'body', 'certain', 'power', 'explicitly', 'specified', 'reserved']",specified,0,0,42
+"['Whose', 'control', 'UK', 'government', 'helped', 'fuel', 'desire', 'Scottish', 'Parliament']",Parliament,0,0,42
+"['Whose', 'control', 'UK', 'government', 'helped', 'fuel', 'desire', 'Scottish', 'Parliament']",Scottish,0,0,42
+"['Whose', 'control', 'UK', 'government', 'helped', 'fuel', 'desire', 'Scottish', 'Parliament']",UK,0,0,42
+"['Whose', 'control', 'UK', 'government', 'helped', 'fuel', 'desire', 'Scottish', 'Parliament']",Whose,0,0,42
+"['Whose', 'control', 'UK', 'government', 'helped', 'fuel', 'desire', 'Scottish', 'Parliament']",control,0,0,42
+"['Whose', 'control', 'UK', 'government', 'helped', 'fuel', 'desire', 'Scottish', 'Parliament']",desire,0,0,42
+"['Whose', 'control', 'UK', 'government', 'helped', 'fuel', 'desire', 'Scottish', 'Parliament']",fuel,0,0,42
+"['Whose', 'control', 'UK', 'government', 'helped', 'fuel', 'desire', 'Scottish', 'Parliament']",government,0,0,42
+"['Whose', 'control', 'UK', 'government', 'helped', 'fuel', 'desire', 'Scottish', 'Parliament']",helped,0,0,42
+"['act', 'set', 'Parliament', 'power', 'devolved', 'legislature']",Parliament,0,0,42
+"['act', 'set', 'Parliament', 'power', 'devolved', 'legislature']",act,0,0,42
+"['act', 'set', 'Parliament', 'power', 'devolved', 'legislature']",devolved,0,0,42
+"['act', 'set', 'Parliament', 'power', 'devolved', 'legislature']",legislature,0,0,42
+"['act', 'set', 'Parliament', 'power', 'devolved', 'legislature']",power,1.386294361,26,42
+"['act', 'set', 'Parliament', 'power', 'devolved', 'legislature']",set,4.158883083,37,42
+"['act', 'set', 'forth', 'function', 'Scottish', 'Parliament']",Parliament,0,0,42
+"['act', 'set', 'forth', 'function', 'Scottish', 'Parliament']",Scottish,0,0,42
+"['act', 'set', 'forth', 'function', 'Scottish', 'Parliament']",act,0,0,42
+"['act', 'set', 'forth', 'function', 'Scottish', 'Parliament']",forth,0,0,42
+"['act', 'set', 'forth', 'function', 'Scottish', 'Parliament']",function,0,0,42
+"['act', 'set', 'forth', 'function', 'Scottish', 'Parliament']",set,0,0,42
+"['act', 'set', 'term', 'judging', 'boundary', 'sanity', 'individual', 'wishing', 'sit', 'SP', 'must', 'adhere']",SP,0,0,42
+"['act', 'set', 'term', 'judging', 'boundary', 'sanity', 'individual', 'wishing', 'sit', 'SP', 'must', 'adhere']",act,0,0,42
+"['act', 'set', 'term', 'judging', 'boundary', 'sanity', 'individual', 'wishing', 'sit', 'SP', 'must', 'adhere']",adhere,0,0,42
+"['act', 'set', 'term', 'judging', 'boundary', 'sanity', 'individual', 'wishing', 'sit', 'SP', 'must', 'adhere']",boundary,0,0,42
+"['act', 'set', 'term', 'judging', 'boundary', 'sanity', 'individual', 'wishing', 'sit', 'SP', 'must', 'adhere']",individual,0,0,42
+"['act', 'set', 'term', 'judging', 'boundary', 'sanity', 'individual', 'wishing', 'sit', 'SP', 'must', 'adhere']",judging,0,0,42
+"['act', 'set', 'term', 'judging', 'boundary', 'sanity', 'individual', 'wishing', 'sit', 'SP', 'must', 'adhere']",must,0,0,42
+"['act', 'set', 'term', 'judging', 'boundary', 'sanity', 'individual', 'wishing', 'sit', 'SP', 'must', 'adhere']",sanity,0,0,42
+"['act', 'set', 'term', 'judging', 'boundary', 'sanity', 'individual', 'wishing', 'sit', 'SP', 'must', 'adhere']",set,0,0,42
+"['act', 'set', 'term', 'judging', 'boundary', 'sanity', 'individual', 'wishing', 'sit', 'SP', 'must', 'adhere']",sit,0,0,42
+"['act', 'set', 'term', 'judging', 'boundary', 'sanity', 'individual', 'wishing', 'sit', 'SP', 'must', 'adhere']",term,0,0,42
+"['act', 'set', 'term', 'judging', 'boundary', 'sanity', 'individual', 'wishing', 'sit', 'SP', 'must', 'adhere']",wishing,0,0,42
+"['announced', 'would', 'step', 'leader', 'Conservatives']",Conservatives,0,0,42
+"['announced', 'would', 'step', 'leader', 'Conservatives']",announced,0,0,42
+"['announced', 'would', 'step', 'leader', 'Conservatives']",leader,0,0,42
+"['announced', 'would', 'step', 'leader', 'Conservatives']",step,0,0,42
+"['announced', 'would', 'step', 'leader', 'Conservatives']",would,0,0,42
+"['bill', 'pas', 'Parliament']",Parliament,0,0,42
+"['bill', 'pas', 'Parliament']",bill,0,0,42
+"['bill', 'pas', 'Parliament']",pas,0,0,42
+"['bill', 'referred', 'ruling', 'whether', 'within', 'power', 'Parliament']",Parliament,0,0,42
+"['bill', 'referred', 'ruling', 'whether', 'within', 'power', 'Parliament']",bill,0,0,42
+"['bill', 'referred', 'ruling', 'whether', 'within', 'power', 'Parliament']",power,0,0,42
+"['bill', 'referred', 'ruling', 'whether', 'within', 'power', 'Parliament']",referred,0,0,42
+"['bill', 'referred', 'ruling', 'whether', 'within', 'power', 'Parliament']",ruling,0,0,42
+"['bill', 'referred', 'ruling', 'whether', 'within', 'power', 'Parliament']",whether,0,0,42
+"['bill', 'referred', 'ruling', 'whether', 'within', 'power', 'Parliament']",within,0,0,42
+"['bill', 'typically', 'gestated', 'Stage', '1']",1,0,0,42
+"['bill', 'typically', 'gestated', 'Stage', '1']",Stage,0,0,42
+"['bill', 'typically', 'gestated', 'Stage', '1']",bill,0,0,42
+"['bill', 'typically', 'gestated', 'Stage', '1']",gestated,0,0,42
+"['bill', 'typically', 'gestated', 'Stage', '1']",typically,0,0,42
+"['body', 'constitutes', 'supreme', 'legislature', 'Scotland']",Scotland,0,0,42
+"['body', 'constitutes', 'supreme', 'legislature', 'Scotland']",body,0,0,42
+"['body', 'constitutes', 'supreme', 'legislature', 'Scotland']",constitutes,0,0,42
+"['body', 'constitutes', 'supreme', 'legislature', 'Scotland']",legislature,0,0,42
+"['body', 'constitutes', 'supreme', 'legislature', 'Scotland']",supreme,0,0,42
+"['building', 'vacated', 'twice', 'allow']",allow,0,0,42
+"['building', 'vacated', 'twice', 'allow']",building,0,0,42
+"['building', 'vacated', 'twice', 'allow']",twice,0,0,42
+"['building', 'vacated', 'twice', 'allow']",vacated,0,0,42
+"['campaigh', 'Scottish', 'National', 'Party', 'SNP', 'run']",National,0,0,42
+"['campaigh', 'Scottish', 'National', 'Party', 'SNP', 'run']",Party,0,0,42
+"['campaigh', 'Scottish', 'National', 'Party', 'SNP', 'run']",SNP,0,0,42
+"['campaigh', 'Scottish', 'National', 'Party', 'SNP', 'run']",Scottish,0,0,42
+"['campaigh', 'Scottish', 'National', 'Party', 'SNP', 'run']",campaigh,0,0,42
+"['campaigh', 'Scottish', 'National', 'Party', 'SNP', 'run']",run,0,0,42
+"['committee', 'Scottish', 'Parliament', 'compared', 'system']",Parliament,0,0,42
+"['committee', 'Scottish', 'Parliament', 'compared', 'system']",Scottish,0,0,42
+"['committee', 'Scottish', 'Parliament', 'compared', 'system']",committee,0,0,42
+"['committee', 'Scottish', 'Parliament', 'compared', 'system']",compared,0,0,42
+"['committee', 'Scottish', 'Parliament', 'compared', 'system']",system,0,0,42
+"['committee', 'comprised']",committee,0,0,42
+"['committee', 'comprised']",comprised,0,0,42
+"['congratulated', 'SNP', 'vowing', 'campaign', 'referendum']",SNP,0,0,42
+"['congratulated', 'SNP', 'vowing', 'campaign', 'referendum']",campaign,0,0,42
+"['congratulated', 'SNP', 'vowing', 'campaign', 'referendum']",congratulated,0,0,42
+"['congratulated', 'SNP', 'vowing', 'campaign', 'referendum']",referendum,0,0,42
+"['congratulated', 'SNP', 'vowing', 'campaign', 'referendum']",vowing,0,0,42
+"['consequence', 'establishing', 'Scottish', 'Parliament', 'applies', 'Scottish', 'MPs', 'sitting', 'UK', 'House', 'Commons']",Commons,0,0,42
+"['consequence', 'establishing', 'Scottish', 'Parliament', 'applies', 'Scottish', 'MPs', 'sitting', 'UK', 'House', 'Commons']",House,0,0,42
+"['consequence', 'establishing', 'Scottish', 'Parliament', 'applies', 'Scottish', 'MPs', 'sitting', 'UK', 'House', 'Commons']",MPs,0,0,42
+"['consequence', 'establishing', 'Scottish', 'Parliament', 'applies', 'Scottish', 'MPs', 'sitting', 'UK', 'House', 'Commons']",Parliament,0,0,42
+"['consequence', 'establishing', 'Scottish', 'Parliament', 'applies', 'Scottish', 'MPs', 'sitting', 'UK', 'House', 'Commons']",Scottish,0,0,42
+"['consequence', 'establishing', 'Scottish', 'Parliament', 'applies', 'Scottish', 'MPs', 'sitting', 'UK', 'House', 'Commons']",UK,0,0,42
+"['consequence', 'establishing', 'Scottish', 'Parliament', 'applies', 'Scottish', 'MPs', 'sitting', 'UK', 'House', 'Commons']",applies,0,0,42
+"['consequence', 'establishing', 'Scottish', 'Parliament', 'applies', 'Scottish', 'MPs', 'sitting', 'UK', 'House', 'Commons']",consequence,0,0,42
+"['consequence', 'establishing', 'Scottish', 'Parliament', 'applies', 'Scottish', 'MPs', 'sitting', 'UK', 'House', 'Commons']",establishing,0,0,42
+"['consequence', 'establishing', 'Scottish', 'Parliament', 'applies', 'Scottish', 'MPs', 'sitting', 'UK', 'House', 'Commons']",sitting,0,0,42
+"['contains', 'nearly', 'verbatim', 'parliamentary', 'debate']",contains,0,0,42
+"['contains', 'nearly', 'verbatim', 'parliamentary', 'debate']",debate,0,0,42
+"['contains', 'nearly', 'verbatim', 'parliamentary', 'debate']",nearly,0,0,42
+"['contains', 'nearly', 'verbatim', 'parliamentary', 'debate']",parliamentary,0,0,42
+"['contains', 'nearly', 'verbatim', 'parliamentary', 'debate']",verbatim,0,0,42
+"['contributes', 'Members', 'Business', 'addition', 'proposer']",Business,0,0,42
+"['contributes', 'Members', 'Business', 'addition', 'proposer']",Members,0,0,42
+"['contributes', 'Members', 'Business', 'addition', 'proposer']",addition,0,0,42
+"['contributes', 'Members', 'Business', 'addition', 'proposer']",contributes,0,0,42
+"['contributes', 'Members', 'Business', 'addition', 'proposer']",proposer,0,0,42
+"['current', 'number', 'elector', 'currently', 'Scottish', 'Parliament', 'constituency']",Parliament,0,0,42
+"['current', 'number', 'elector', 'currently', 'Scottish', 'Parliament', 'constituency']",Scottish,0,0,42
+"['current', 'number', 'elector', 'currently', 'Scottish', 'Parliament', 'constituency']",constituency,0,0,42
+"['current', 'number', 'elector', 'currently', 'Scottish', 'Parliament', 'constituency']",current,0,0,42
+"['current', 'number', 'elector', 'currently', 'Scottish', 'Parliament', 'constituency']",currently,0,0,42
+"['current', 'number', 'elector', 'currently', 'Scottish', 'Parliament', 'constituency']",elector,0,0,42
+"['current', 'number', 'elector', 'currently', 'Scottish', 'Parliament', 'constituency']",number,0,0,42
+"['current', 'parliament', 'Scotland', 'convened']",Scotland,0.34657359,31,42
+"['current', 'parliament', 'Scotland', 'convened']",convened,0,0,42
+"['current', 'parliament', 'Scotland', 'convened']",current,0,0,42
+"['current', 'parliament', 'Scotland', 'convened']",parliament,0.46209812,22,42
+"['currently', 'speaker', 'Scottish', 'Parliament']",Parliament,0,0,42
+"['currently', 'speaker', 'Scottish', 'Parliament']",Scottish,0,0,42
+"['currently', 'speaker', 'Scottish', 'Parliament']",currently,0,0,42
+"['currently', 'speaker', 'Scottish', 'Parliament']",speaker,0,0,42
+"['day', 'Parliament', 'nominate', 'First', 'Minister', 'General', 'Election']",Election,0,0,42
+"['day', 'Parliament', 'nominate', 'First', 'Minister', 'General', 'Election']",First,0,0,42
+"['day', 'Parliament', 'nominate', 'First', 'Minister', 'General', 'Election']",General,0,0,42
+"['day', 'Parliament', 'nominate', 'First', 'Minister', 'General', 'Election']",Minister,0,0,42
+"['day', 'Parliament', 'nominate', 'First', 'Minister', 'General', 'Election']",Parliament,0,0,42
+"['day', 'Parliament', 'nominate', 'First', 'Minister', 'General', 'Election']",day,0,0,42
+"['day', 'Parliament', 'nominate', 'First', 'Minister', 'General', 'Election']",nominate,0,0,42
+"['day', 'week', 'Time', 'Reflection', 'take', 'place']",Reflection,0,0,42
+"['day', 'week', 'Time', 'Reflection', 'take', 'place']",Time,0,0,42
+"['day', 'week', 'Time', 'Reflection', 'take', 'place']",day,0,0,42
+"['day', 'week', 'Time', 'Reflection', 'take', 'place']",place,0,0,42
+"['day', 'week', 'Time', 'Reflection', 'take', 'place']",take,0,0,42
+"['day', 'week', 'Time', 'Reflection', 'take', 'place']",week,0,0,42
+"['day', 'week', 'general', 'election', 'held']",day,0,0,42
+"['day', 'week', 'general', 'election', 'held']",election,0,0,42
+"['day', 'week', 'general', 'election', 'held']",general,0,0,42
+"['day', 'week', 'general', 'election', 'held']",held,0,0,42
+"['day', 'week', 'general', 'election', 'held']",week,0,0,42
+"['debate', 'meeting', 'open']",debate,0,0,42
+"['debate', 'meeting', 'open']",meeting,0,0,42
+"['debate', 'meeting', 'open']",open,0,0,42
+"['debate', 'proposed', 'motion', 'MSP', 'conducted']",MSP,0,0,42
+"['debate', 'proposed', 'motion', 'MSP', 'conducted']",conducted,0,0,42
+"['debate', 'proposed', 'motion', 'MSP', 'conducted']",debate,0,0,42
+"['debate', 'proposed', 'motion', 'MSP', 'conducted']",motion,0,0,42
+"['debate', 'proposed', 'motion', 'MSP', 'conducted']",proposed,0,0,42
+"['decided', 'Presiding', 'Officer']",Officer,0,0,42
+"['decided', 'Presiding', 'Officer']",Presiding,0,0,42
+"['decided', 'Presiding', 'Officer']",decided,0,0,42
+"['decides', 'get', 'address', 'member', 'Parliament', 'share', 'thought', 'issue', 'faith']",Parliament,0,0,42
+"['decides', 'get', 'address', 'member', 'Parliament', 'share', 'thought', 'issue', 'faith']",address,0,0,42
+"['decides', 'get', 'address', 'member', 'Parliament', 'share', 'thought', 'issue', 'faith']",decides,0,0,42
+"['decides', 'get', 'address', 'member', 'Parliament', 'share', 'thought', 'issue', 'faith']",faith,0,0,42
+"['decides', 'get', 'address', 'member', 'Parliament', 'share', 'thought', 'issue', 'faith']",get,0,0,42
+"['decides', 'get', 'address', 'member', 'Parliament', 'share', 'thought', 'issue', 'faith']",issue,0,0,42
+"['decides', 'get', 'address', 'member', 'Parliament', 'share', 'thought', 'issue', 'faith']",member,0,0,42
+"['decides', 'get', 'address', 'member', 'Parliament', 'share', 'thought', 'issue', 'faith']",share,0,0,42
+"['decides', 'get', 'address', 'member', 'Parliament', 'share', 'thought', 'issue', 'faith']",thought,0,0,42
+"['decides', 'get', 'speak', 'chamber', 'debate']",chamber,0,0,42
+"['decides', 'get', 'speak', 'chamber', 'debate']",debate,0,0,42
+"['decides', 'get', 'speak', 'chamber', 'debate']",decides,0,0,42
+"['decides', 'get', 'speak', 'chamber', 'debate']",get,0,0,42
+"['decides', 'get', 'speak', 'chamber', 'debate']",speak,0,0,42
+"['decides', 'land', 'property', 'allowed', 'used']",allowed,0,0,42
+"['decides', 'land', 'property', 'allowed', 'used']",decides,0,0,42
+"['decides', 'land', 'property', 'allowed', 'used']",land,0,0,42
+"['decides', 'land', 'property', 'allowed', 'used']",property,0,0,42
+"['decides', 'land', 'property', 'allowed', 'used']",used,0,0,42
+"['designed', 'Scottish', 'Parliament', 'building']",Parliament,0,0,42
+"['designed', 'Scottish', 'Parliament', 'building']",Scottish,0,0,42
+"['designed', 'Scottish', 'Parliament', 'building']",building,0,0,42
+"['designed', 'Scottish', 'Parliament', 'building']",designed,0,0,42
+"['elected', 'assembly', 'set', 'term', 'Scotland', 'Act', '1978']",1978,0,0,42
+"['elected', 'assembly', 'set', 'term', 'Scotland', 'Act', '1978']",Act,0,0,42
+"['elected', 'assembly', 'set', 'term', 'Scotland', 'Act', '1978']",Scotland,0,0,42
+"['elected', 'assembly', 'set', 'term', 'Scotland', 'Act', '1978']",assembly,0,0,42
+"['elected', 'assembly', 'set', 'term', 'Scotland', 'Act', '1978']",elected,0,0,42
+"['elected', 'assembly', 'set', 'term', 'Scotland', 'Act', '1978']",set,0,0,42
+"['elected', 'assembly', 'set', 'term', 'Scotland', 'Act', '1978']",term,0,0,42
+"['elected', 'beginning', 'term']",beginning,0,0,42
+"['elected', 'beginning', 'term']",elected,0,0,42
+"['elected', 'beginning', 'term']",term,0,0,42
+"['elected', 'serve', 'Presiding', 'Officer', 'beginning', 'parliamentary', 'session']",Officer,0,0,42
+"['elected', 'serve', 'Presiding', 'Officer', 'beginning', 'parliamentary', 'session']",Presiding,0,0,42
+"['elected', 'serve', 'Presiding', 'Officer', 'beginning', 'parliamentary', 'session']",beginning,0,0,42
+"['elected', 'serve', 'Presiding', 'Officer', 'beginning', 'parliamentary', 'session']",elected,0,0,42
+"['elected', 'serve', 'Presiding', 'Officer', 'beginning', 'parliamentary', 'session']",parliamentary,0,0,42
+"['elected', 'serve', 'Presiding', 'Officer', 'beginning', 'parliamentary', 'session']",serve,0,0,42
+"['elected', 'serve', 'Presiding', 'Officer', 'beginning', 'parliamentary', 'session']",session,0,0,42
+"['election', 'produced', 'SNP', 'majority', 'government', 'first', 'occurrence']",SNP,0,0,42
+"['election', 'produced', 'SNP', 'majority', 'government', 'first', 'occurrence']",election,0,0,42
+"['election', 'produced', 'SNP', 'majority', 'government', 'first', 'occurrence']",first,0,0,42
+"['election', 'produced', 'SNP', 'majority', 'government', 'first', 'occurrence']",government,0,0,42
+"['election', 'produced', 'SNP', 'majority', 'government', 'first', 'occurrence']",majority,0,0,42
+"['election', 'produced', 'SNP', 'majority', 'government', 'first', 'occurrence']",occurrence,0,0,42
+"['election', 'produced', 'SNP', 'majority', 'government', 'first', 'occurrence']",produced,0,0,42
+"['eligible', 'toss', 'name', 'hat', 'First', 'Minister']",First,0,0,42
+"['eligible', 'toss', 'name', 'hat', 'First', 'Minister']",Minister,0,0,42
+"['eligible', 'toss', 'name', 'hat', 'First', 'Minister']",eligible,0,0,42
+"['eligible', 'toss', 'name', 'hat', 'First', 'Minister']",hat,0,0,42
+"['eligible', 'toss', 'name', 'hat', 'First', 'Minister']",name,0,0,42
+"['eligible', 'toss', 'name', 'hat', 'First', 'Minister']",toss,0,0,42
+"['enables', 'Scottish', 'Parliament', 'scrutinize', 'government']",Parliament,0,0,42
+"['enables', 'Scottish', 'Parliament', 'scrutinize', 'government']",Scottish,0,0,42
+"['enables', 'Scottish', 'Parliament', 'scrutinize', 'government']",enables,0,0,42
+"['enables', 'Scottish', 'Parliament', 'scrutinize', 'government']",government,0,0,42
+"['enables', 'Scottish', 'Parliament', 'scrutinize', 'government']",scrutinize,0,0,42
+"['extraordinary', 'election', 'held', 'within', 'le', 'six', 'month', 'date', 'ordinary', 'election', 'ordinary', 'election']",date,0,0,42
+"['extraordinary', 'election', 'held', 'within', 'le', 'six', 'month', 'date', 'ordinary', 'election', 'ordinary', 'election']",election,0,0,42
+"['extraordinary', 'election', 'held', 'within', 'le', 'six', 'month', 'date', 'ordinary', 'election', 'ordinary', 'election']",extraordinary,0,0,42
+"['extraordinary', 'election', 'held', 'within', 'le', 'six', 'month', 'date', 'ordinary', 'election', 'ordinary', 'election']",held,0,0,42
+"['extraordinary', 'election', 'held', 'within', 'le', 'six', 'month', 'date', 'ordinary', 'election', 'ordinary', 'election']",le,0,0,42
+"['extraordinary', 'election', 'held', 'within', 'le', 'six', 'month', 'date', 'ordinary', 'election', 'ordinary', 'election']",month,0,0,42
+"['extraordinary', 'election', 'held', 'within', 'le', 'six', 'month', 'date', 'ordinary', 'election', 'ordinary', 'election']",ordinary,0,0,42
+"['extraordinary', 'election', 'held', 'within', 'le', 'six', 'month', 'date', 'ordinary', 'election', 'ordinary', 'election']",six,0,0,42
+"['extraordinary', 'election', 'held', 'within', 'le', 'six', 'month', 'date', 'ordinary', 'election', 'ordinary', 'election']",within,0,0,42
+"['faith', 'group', 'ask', 'Presiding', 'Officer']",Officer,0,0,42
+"['faith', 'group', 'ask', 'Presiding', 'Officer']",Presiding,0,0,42
+"['faith', 'group', 'ask', 'Presiding', 'Officer']",ask,0,0,42
+"['faith', 'group', 'ask', 'Presiding', 'Officer']",faith,0,0,42
+"['faith', 'group', 'ask', 'Presiding', 'Officer']",group,0,0,42
+"['final', 'bill', 'passed', 'Monarch']",Monarch,0,0,42
+"['final', 'bill', 'passed', 'Monarch']",bill,0,0,42
+"['final', 'bill', 'passed', 'Monarch']",final,0,0,42
+"['final', 'bill', 'passed', 'Monarch']",passed,0,0,42
+"['final', 'legislative', 'proposal', 'Scottish', 'Assembly', 'passed']",Assembly,0,0,42
+"['final', 'legislative', 'proposal', 'Scottish', 'Assembly', 'passed']",Scottish,0,0,42
+"['final', 'legislative', 'proposal', 'Scottish', 'Assembly', 'passed']",final,0,0,42
+"['final', 'legislative', 'proposal', 'Scottish', 'Assembly', 'passed']",legislative,0,0,42
+"['final', 'legislative', 'proposal', 'Scottish', 'Assembly', 'passed']",passed,0,0,42
+"['final', 'legislative', 'proposal', 'Scottish', 'Assembly', 'passed']",proposal,0,0,42
+"['final', 'stage', 'bill', 'Scottish', 'Parliament']",Parliament,0,0,42
+"['final', 'stage', 'bill', 'Scottish', 'Parliament']",Scottish,0,0,42
+"['final', 'stage', 'bill', 'Scottish', 'Parliament']",bill,0,0,42
+"['final', 'stage', 'bill', 'Scottish', 'Parliament']",final,0,0,42
+"['final', 'stage', 'bill', 'Scottish', 'Parliament']",stage,0,0,42
+"['former', 'Midlothian', 'County', 'Buildings', 'face']",Buildings,0,0,42
+"['former', 'Midlothian', 'County', 'Buildings', 'face']",County,0,0,42
+"['former', 'Midlothian', 'County', 'Buildings', 'face']",Midlothian,0,0,42
+"['former', 'Midlothian', 'County', 'Buildings', 'face']",face,0,0,42
+"['former', 'Midlothian', 'County', 'Buildings', 'face']",former,0,0,42
+"['former', 'administrative', 'building', 'used', 'MSP', 'office']",MSP,0,0,42
+"['former', 'administrative', 'building', 'used', 'MSP', 'office']",administrative,0,0,42
+"['former', 'administrative', 'building', 'used', 'MSP', 'office']",building,0,0,42
+"['former', 'administrative', 'building', 'used', 'MSP', 'office']",former,0,0,42
+"['former', 'administrative', 'building', 'used', 'MSP', 'office']",office,0,0,42
+"['former', 'administrative', 'building', 'used', 'MSP', 'office']",used,0,0,42
+"['gave', 'royal', 'assent', 'Scotland', 'Act', '1998']",1998,0,0,42
+"['gave', 'royal', 'assent', 'Scotland', 'Act', '1998']",Act,0,0,42
+"['gave', 'royal', 'assent', 'Scotland', 'Act', '1998']",Scotland,0,0,42
+"['gave', 'royal', 'assent', 'Scotland', 'Act', '1998']",assent,0,0,42
+"['gave', 'royal', 'assent', 'Scotland', 'Act', '1998']",gave,0,0,42
+"['gave', 'royal', 'assent', 'Scotland', 'Act', '1998']",royal,0,0,42
+"['general', 'question', 'available', 'opposition', 'leader']",available,0,0,42
+"['general', 'question', 'available', 'opposition', 'leader']",general,0,0,42
+"['general', 'question', 'available', 'opposition', 'leader']",leader,0,0,42
+"['general', 'question', 'available', 'opposition', 'leader']",opposition,0,0,42
+"['general', 'question', 'available', 'opposition', 'leader']",question,0,0,42
+"['gold', 'parliamentary', 'mace', 'come']",come,0,0,42
+"['gold', 'parliamentary', 'mace', 'come']",gold,0,0,42
+"['gold', 'parliamentary', 'mace', 'come']",mace,0,0,42
+"['gold', 'parliamentary', 'mace', 'come']",parliamentary,0,0,42
+"['hall', 'used', 'Parliament', 'principle', 'committee', 'room']",Parliament,0,0,42
+"['hall', 'used', 'Parliament', 'principle', 'committee', 'room']",committee,0,0,42
+"['hall', 'used', 'Parliament', 'principle', 'committee', 'room']",hall,0,0,42
+"['hall', 'used', 'Parliament', 'principle', 'committee', 'room']",principle,0,0,42
+"['hall', 'used', 'Parliament', 'principle', 'committee', 'room']",room,0,0,42
+"['hall', 'used', 'Parliament', 'principle', 'committee', 'room']",used,0,0,42
+"['happened', 'building', 'George', 'IV', 'Bridge', 'Parliament', 'done']",Bridge,0,0,42
+"['happened', 'building', 'George', 'IV', 'Bridge', 'Parliament', 'done']",George,0,0,42
+"['happened', 'building', 'George', 'IV', 'Bridge', 'Parliament', 'done']",IV,0,0,42
+"['happened', 'building', 'George', 'IV', 'Bridge', 'Parliament', 'done']",Parliament,0,0,42
+"['happened', 'building', 'George', 'IV', 'Bridge', 'Parliament', 'done']",building,0,0,42
+"['happened', 'building', 'George', 'IV', 'Bridge', 'Parliament', 'done']",done,0,0,42
+"['happened', 'building', 'George', 'IV', 'Bridge', 'Parliament', 'done']",happened,0,0,42
+"['happens', 'member', ""n't"", 'vote', 'party', 'line']",happens,0,0,42
+"['happens', 'member', ""n't"", 'vote', 'party', 'line']",line,0,0,42
+"['happens', 'member', ""n't"", 'vote', 'party', 'line']",member,0,0,42
+"['happens', 'member', ""n't"", 'vote', 'party', 'line']",n't,0,0,42
+"['happens', 'member', ""n't"", 'vote', 'party', 'line']",party,0,0,42
+"['happens', 'member', ""n't"", 'vote', 'party', 'line']",vote,0,0,42
+"['heralded', 'sounding', 'division', 'bell']",bell,0,0,42
+"['heralded', 'sounding', 'division', 'bell']",division,0,0,42
+"['heralded', 'sounding', 'division', 'bell']",heralded,0,0,42
+"['heralded', 'sounding', 'division', 'bell']",sounding,0,0,42
+"['hundred', 'year', 'Scotland', 'directly', 'governed', 'parliament', 'Great', 'Britain']",Britain,0,0,42
+"['hundred', 'year', 'Scotland', 'directly', 'governed', 'parliament', 'Great', 'Britain']",Great,0,0,42
+"['hundred', 'year', 'Scotland', 'directly', 'governed', 'parliament', 'Great', 'Britain']",Scotland,0,0,42
+"['hundred', 'year', 'Scotland', 'directly', 'governed', 'parliament', 'Great', 'Britain']",directly,0,0,42
+"['hundred', 'year', 'Scotland', 'directly', 'governed', 'parliament', 'Great', 'Britain']",governed,0,0,42
+"['hundred', 'year', 'Scotland', 'directly', 'governed', 'parliament', 'Great', 'Britain']",hundred,0,0,42
+"['hundred', 'year', 'Scotland', 'directly', 'governed', 'parliament', 'Great', 'Britain']",parliament,0,0,42
+"['hundred', 'year', 'Scotland', 'directly', 'governed', 'parliament', 'Great', 'Britain']",year,0,0,42
+"['initial', 'suggestion', 'devolved', 'parliament', '1914', 'shelved']",1914,0,0,42
+"['initial', 'suggestion', 'devolved', 'parliament', '1914', 'shelved']",devolved,0,0,42
+"['initial', 'suggestion', 'devolved', 'parliament', '1914', 'shelved']",initial,0,0,42
+"['initial', 'suggestion', 'devolved', 'parliament', '1914', 'shelved']",parliament,0,0,42
+"['initial', 'suggestion', 'devolved', 'parliament', '1914', 'shelved']",shelved,0,0,42
+"['initial', 'suggestion', 'devolved', 'parliament', '1914', 'shelved']",suggestion,0,0,42
+"['interview', 'held', 'parliament', 'temporary', 'building']",building,0,0,42
+"['interview', 'held', 'parliament', 'temporary', 'building']",held,0,0,42
+"['interview', 'held', 'parliament', 'temporary', 'building']",interview,0,0,42
+"['interview', 'held', 'parliament', 'temporary', 'building']",parliament,0,0,42
+"['interview', 'held', 'parliament', 'temporary', 'building']",temporary,0,0,42
+"['island', 'archipelago', 'comprise', 'smaller', 'number', 'elector']",archipelago,0,0,42
+"['island', 'archipelago', 'comprise', 'smaller', 'number', 'elector']",comprise,0,0,42
+"['island', 'archipelago', 'comprise', 'smaller', 'number', 'elector']",elector,0,0,42
+"['island', 'archipelago', 'comprise', 'smaller', 'number', 'elector']",island,0,0,42
+"['island', 'archipelago', 'comprise', 'smaller', 'number', 'elector']",number,0,0,42
+"['island', 'archipelago', 'comprise', 'smaller', 'number', 'elector']",smaller,0,0,42
+"['issue', 'like', 'abortion', 'drug', 'policy', 'legislated']",abortion,0,0,42
+"['issue', 'like', 'abortion', 'drug', 'policy', 'legislated']",drug,0,0,42
+"['issue', 'like', 'abortion', 'drug', 'policy', 'legislated']",issue,0,0,42
+"['issue', 'like', 'abortion', 'drug', 'policy', 'legislated']",legislated,0,0,42
+"['issue', 'like', 'abortion', 'drug', 'policy', 'legislated']",like,0,0,42
+"['issue', 'like', 'abortion', 'drug', 'policy', 'legislated']",policy,0,0,42
+"['kind', 'committee', 'considered', 'legislation', 'development', 'Edinburgh', 'Tram', 'Network']",Edinburgh,0,0,42
+"['kind', 'committee', 'considered', 'legislation', 'development', 'Edinburgh', 'Tram', 'Network']",Network,0,0,42
+"['kind', 'committee', 'considered', 'legislation', 'development', 'Edinburgh', 'Tram', 'Network']",Tram,0,0,42
+"['kind', 'committee', 'considered', 'legislation', 'development', 'Edinburgh', 'Tram', 'Network']",committee,0,0,42
+"['kind', 'committee', 'considered', 'legislation', 'development', 'Edinburgh', 'Tram', 'Network']",considered,0,0,42
+"['kind', 'committee', 'considered', 'legislation', 'development', 'Edinburgh', 'Tram', 'Network']",development,0,0,42
+"['kind', 'committee', 'considered', 'legislation', 'development', 'Edinburgh', 'Tram', 'Network']",kind,0,0,42
+"['kind', 'committee', 'considered', 'legislation', 'development', 'Edinburgh', 'Tram', 'Network']",legislation,0,0,42
+"['language', 'English', 'Scottish', 'Parliament', 'meeting']",English,0,0,42
+"['language', 'English', 'Scottish', 'Parliament', 'meeting']",Parliament,0,0,42
+"['language', 'English', 'Scottish', 'Parliament', 'meeting']",Scottish,0,0,42
+"['language', 'English', 'Scottish', 'Parliament', 'meeting']",language,0,0,42
+"['language', 'English', 'Scottish', 'Parliament', 'meeting']",meeting,0,0,42
+"['leader', 'opposition', 'party', 'MSPs', 'question', 'First', 'Minister']",First,0,0,42
+"['leader', 'opposition', 'party', 'MSPs', 'question', 'First', 'Minister']",MSPs,0,0,42
+"['leader', 'opposition', 'party', 'MSPs', 'question', 'First', 'Minister']",Minister,0,0,42
+"['leader', 'opposition', 'party', 'MSPs', 'question', 'First', 'Minister']",leader,0,0,42
+"['leader', 'opposition', 'party', 'MSPs', 'question', 'First', 'Minister']",opposition,0,0,42
+"['leader', 'opposition', 'party', 'MSPs', 'question', 'First', 'Minister']",party,0,0,42
+"['leader', 'opposition', 'party', 'MSPs', 'question', 'First', 'Minister']",question,0,0,42
+"['legislative', 'competence', 'Parliament', 'specie', 'area']",Parliament,0,0,42
+"['legislative', 'competence', 'Parliament', 'specie', 'area']",area,0,0,42
+"['legislative', 'competence', 'Parliament', 'specie', 'area']",competence,0,0,42
+"['legislative', 'competence', 'Parliament', 'specie', 'area']",legislative,0.34657359,5,42
+"['legislative', 'competence', 'Parliament', 'specie', 'area']",specie,0.084875165,0,42
+"['long', 'Members', 'Debate', 'last']",Debate,0,0,42
+"['long', 'Members', 'Debate', 'last']",Members,0,0,42
+"['long', 'Members', 'Debate', 'last']",last,0,0,42
+"['long', 'Members', 'Debate', 'last']",long,0,0,42
+"['long', 'might', 'speaker', 'address', 'member', 'Time', 'Reflection']",Reflection,0,0,42
+"['long', 'might', 'speaker', 'address', 'member', 'Time', 'Reflection']",Time,0,0,42
+"['long', 'might', 'speaker', 'address', 'member', 'Time', 'Reflection']",address,0,0,42
+"['long', 'might', 'speaker', 'address', 'member', 'Time', 'Reflection']",long,0,0,42
+"['long', 'might', 'speaker', 'address', 'member', 'Time', 'Reflection']",member,0,0,42
+"['long', 'might', 'speaker', 'address', 'member', 'Time', 'Reflection']",might,0,0,42
+"['long', 'might', 'speaker', 'address', 'member', 'Time', 'Reflection']",speaker,0,0,42
+"['long', 'take', 'know', 'outcome', 'division']",division,0,0,42
+"['long', 'take', 'know', 'outcome', 'division']",know,0,0,42
+"['long', 'take', 'know', 'outcome', 'division']",long,0,0,42
+"['long', 'take', 'know', 'outcome', 'division']",outcome,0,0,42
+"['long', 'take', 'know', 'outcome', 'division']",take,0,0,42
+"['loss', 'Edinburgh', 'Pentlands', 'really', 'disappointed']",Edinburgh,0,0,42
+"['loss', 'Edinburgh', 'Pentlands', 'really', 'disappointed']",Pentlands,0,0,42
+"['loss', 'Edinburgh', 'Pentlands', 'really', 'disappointed']",disappointed,0,0,42
+"['loss', 'Edinburgh', 'Pentlands', 'really', 'disappointed']",loss,0,0,42
+"['loss', 'Edinburgh', 'Pentlands', 'really', 'disappointed']",really,0,0,42
+"['mace', 'displayed']",displayed,0,0,42
+"['mace', 'displayed']",mace,0,0,42
+"['make', 'formal', 'appointment', 'dismissal', 'decision']",appointment,0,0,42
+"['make', 'formal', 'appointment', 'dismissal', 'decision']",decision,0,0,42
+"['make', 'formal', 'appointment', 'dismissal', 'decision']",dismissal,0,0,42
+"['make', 'formal', 'appointment', 'dismissal', 'decision']",formal,0,0,42
+"['make', 'formal', 'appointment', 'dismissal', 'decision']",make,0,0,42
+"['matter', 'specifically', 'reserved', 'devolved']",devolved,0,0,42
+"['matter', 'specifically', 'reserved', 'devolved']",matter,0,0,42
+"['matter', 'specifically', 'reserved', 'devolved']",reserved,0,0,42
+"['matter', 'specifically', 'reserved', 'devolved']",specifically,0,0,42
+"['may', 'change', 'date', 'month', 'proposal', 'PO']",PO,0,0,42
+"['may', 'change', 'date', 'month', 'proposal', 'PO']",change,0,0,42
+"['may', 'change', 'date', 'month', 'proposal', 'PO']",date,0,0,42
+"['may', 'change', 'date', 'month', 'proposal', 'PO']",may,0,0,42
+"['may', 'change', 'date', 'month', 'proposal', 'PO']",month,0,0,42
+"['may', 'change', 'date', 'month', 'proposal', 'PO']",proposal,0,0,42
+"['may', 'introduce', 'new', 'law', 'amendment', 'law', 'already', 'book', 'bill']",already,0,0,42
+"['may', 'introduce', 'new', 'law', 'amendment', 'law', 'already', 'book', 'bill']",amendment,0,0,42
+"['may', 'introduce', 'new', 'law', 'amendment', 'law', 'already', 'book', 'bill']",bill,0,0,42
+"['may', 'introduce', 'new', 'law', 'amendment', 'law', 'already', 'book', 'bill']",book,0,0,42
+"['may', 'introduce', 'new', 'law', 'amendment', 'law', 'already', 'book', 'bill']",introduce,0,0,42
+"['may', 'introduce', 'new', 'law', 'amendment', 'law', 'already', 'book', 'bill']",law,0,0,42
+"['may', 'introduce', 'new', 'law', 'amendment', 'law', 'already', 'book', 'bill']",may,0,0,42
+"['may', 'introduce', 'new', 'law', 'amendment', 'law', 'already', 'book', 'bill']",new,0,0,42
+"['may', 'member', 'direct', 'question', 'towards', 'General', 'Question', 'Time']",General,0,0,42
+"['may', 'member', 'direct', 'question', 'towards', 'General', 'Question', 'Time']",Question,0,0,42
+"['may', 'member', 'direct', 'question', 'towards', 'General', 'Question', 'Time']",Time,0,0,42
+"['may', 'member', 'direct', 'question', 'towards', 'General', 'Question', 'Time']",direct,0,0,42
+"['may', 'member', 'direct', 'question', 'towards', 'General', 'Question', 'Time']",may,0,0,42
+"['may', 'member', 'direct', 'question', 'towards', 'General', 'Question', 'Time']",member,0,0,42
+"['may', 'member', 'direct', 'question', 'towards', 'General', 'Question', 'Time']",question,0,0,42
+"['may', 'member', 'direct', 'question', 'towards', 'General', 'Question', 'Time']",towards,0,0,42
+"['may', 'member', 'question', 'First', 'Minister', 'directly', 'First', 'Minister', 'Question', 'Time']",First,0,0,42
+"['may', 'member', 'question', 'First', 'Minister', 'directly', 'First', 'Minister', 'Question', 'Time']",Minister,0,0,42
+"['may', 'member', 'question', 'First', 'Minister', 'directly', 'First', 'Minister', 'Question', 'Time']",Question,0,0,42
+"['may', 'member', 'question', 'First', 'Minister', 'directly', 'First', 'Minister', 'Question', 'Time']",Time,0,0,42
+"['may', 'member', 'question', 'First', 'Minister', 'directly', 'First', 'Minister', 'Question', 'Time']",directly,0,0,42
+"['may', 'member', 'question', 'First', 'Minister', 'directly', 'First', 'Minister', 'Question', 'Time']",may,0,0,42
+"['may', 'member', 'question', 'First', 'Minister', 'directly', 'First', 'Minister', 'Question', 'Time']",member,0,0,42
+"['may', 'member', 'question', 'First', 'Minister', 'directly', 'First', 'Minister', 'Question', 'Time']",question,0,0,42
+"['may', 'presented', 'Parliament', 'various', 'way']",Parliament,0,0,42
+"['may', 'presented', 'Parliament', 'various', 'way']",may,0,0,42
+"['may', 'presented', 'Parliament', 'various', 'way']",presented,0,0,42
+"['may', 'presented', 'Parliament', 'various', 'way']",various,0,0,42
+"['may', 'presented', 'Parliament', 'various', 'way']",way,0,0,42
+"['may', 'submit', 'private', 'bill', 'Parliament']",Parliament,0,0,42
+"['may', 'submit', 'private', 'bill', 'Parliament']",bill,0,0,42
+"['may', 'submit', 'private', 'bill', 'Parliament']",may,0,0,42
+"['may', 'submit', 'private', 'bill', 'Parliament']",private,0,0,42
+"['may', 'submit', 'private', 'bill', 'Parliament']",submit,0,0,42
+"['member', 'proceed', 'vote', 'whether', 'agree', 'principle', 'final', 'bill']",agree,0,0,42
+"['member', 'proceed', 'vote', 'whether', 'agree', 'principle', 'final', 'bill']",bill,0,0,42
+"['member', 'proceed', 'vote', 'whether', 'agree', 'principle', 'final', 'bill']",final,0,0,42
+"['member', 'proceed', 'vote', 'whether', 'agree', 'principle', 'final', 'bill']",member,0,0,42
+"['member', 'proceed', 'vote', 'whether', 'agree', 'principle', 'final', 'bill']",principle,0,0,42
+"['member', 'proceed', 'vote', 'whether', 'agree', 'principle', 'final', 'bill']",proceed,0,0,42
+"['member', 'proceed', 'vote', 'whether', 'agree', 'principle', 'final', 'bill']",vote,0,0,42
+"['member', 'proceed', 'vote', 'whether', 'agree', 'principle', 'final', 'bill']",whether,0,0,42
+"['member', 'seat', 'Scottish', 'Parliament', 'member', 'Scottish', 'Government']",Government,0,0,42
+"['member', 'seat', 'Scottish', 'Parliament', 'member', 'Scottish', 'Government']",Parliament,0,0,42
+"['member', 'seat', 'Scottish', 'Parliament', 'member', 'Scottish', 'Government']",Scottish,0,0,42
+"['member', 'seat', 'Scottish', 'Parliament', 'member', 'Scottish', 'Government']",member,0,0,42
+"['member', 'seat', 'Scottish', 'Parliament', 'member', 'Scottish', 'Government']",seat,0,0,42
+"['member', 'typically', 'open', 'debate']",debate,0,0,42
+"['member', 'typically', 'open', 'debate']",member,0,0,42
+"['member', 'typically', 'open', 'debate']",open,0,0,42
+"['member', 'typically', 'open', 'debate']",typically,0,0,42
+"['member', 'vote', 'division']",division,0,0,42
+"['member', 'vote', 'division']",member,0,0,42
+"['member', 'vote', 'division']",vote,0,0,42
+"['member', 'voter', 'choose', 'represent', 'constituency']",choose,0,0,42
+"['member', 'voter', 'choose', 'represent', 'constituency']",constituency,0,0,42
+"['member', 'voter', 'choose', 'represent', 'constituency']",member,0,0,42
+"['member', 'voter', 'choose', 'represent', 'constituency']",represent,0,0,42
+"['member', 'voter', 'choose', 'represent', 'constituency']",voter,0,0,42
+"['membership', 'committee', 'reflect']",committee,0,0,42
+"['membership', 'committee', 'reflect']",membership,0,0,42
+"['membership', 'committee', 'reflect']",reflect,0,0,42
+"['method', 'used', 'tallying', 'vote', 'second', 'vote', 'ballot']",ballot,0,0,42
+"['method', 'used', 'tallying', 'vote', 'second', 'vote', 'ballot']",method,0,0,42
+"['method', 'used', 'tallying', 'vote', 'second', 'vote', 'ballot']",second,0,0,42
+"['method', 'used', 'tallying', 'vote', 'second', 'vote', 'ballot']",tallying,0,0,42
+"['method', 'used', 'tallying', 'vote', 'second', 'vote', 'ballot']",used,0,0,42
+"['method', 'used', 'tallying', 'vote', 'second', 'vote', 'ballot']",vote,0,0,42
+"['might', 'committee', 'meet', 'outside', 'Parliament']",Parliament,0,0,42
+"['might', 'committee', 'meet', 'outside', 'Parliament']",committee,0,0,42
+"['might', 'committee', 'meet', 'outside', 'Parliament']",meet,0,0,42
+"['might', 'committee', 'meet', 'outside', 'Parliament']",might,0,0,42
+"['might', 'committee', 'meet', 'outside', 'Parliament']",outside,0,0,42
+"['minimum', 'amount', 'time', 'bill', 'go', 'law']",amount,0,0,42
+"['minimum', 'amount', 'time', 'bill', 'go', 'law']",bill,0,0,42
+"['minimum', 'amount', 'time', 'bill', 'go', 'law']",go,0,0,42
+"['minimum', 'amount', 'time', 'bill', 'go', 'law']",law,0,0,42
+"['minimum', 'amount', 'time', 'bill', 'go', 'law']",minimum,0,0,42
+"['minimum', 'amount', 'time', 'bill', 'go', 'law']",time,0,0,42
+"['minister', 'catalyst', 'Members', 'Business', 'speaking', 'everyone', 'else']",Business,0,0,42
+"['minister', 'catalyst', 'Members', 'Business', 'speaking', 'everyone', 'else']",Members,0,0,42
+"['minister', 'catalyst', 'Members', 'Business', 'speaking', 'everyone', 'else']",catalyst,0,0,42
+"['minister', 'catalyst', 'Members', 'Business', 'speaking', 'everyone', 'else']",else,0,0,42
+"['minister', 'catalyst', 'Members', 'Business', 'speaking', 'everyone', 'else']",everyone,0,0,42
+"['minister', 'catalyst', 'Members', 'Business', 'speaking', 'everyone', 'else']",minister,0,0,42
+"['minister', 'catalyst', 'Members', 'Business', 'speaking', 'everyone', 'else']",speaking,0,0,42
+"['ministry', 'Scottish', 'government', 'committee', 'typically', 'correspond']",Scottish,0,0,42
+"['ministry', 'Scottish', 'government', 'committee', 'typically', 'correspond']",committee,0,0,42
+"['ministry', 'Scottish', 'government', 'committee', 'typically', 'correspond']",correspond,0,0,42
+"['ministry', 'Scottish', 'government', 'committee', 'typically', 'correspond']",government,0,0,42
+"['ministry', 'Scottish', 'government', 'committee', 'typically', 'correspond']",ministry,0,0,42
+"['ministry', 'Scottish', 'government', 'committee', 'typically', 'correspond']",typically,0,0,42
+"['month', 'every', 'four', 'year', 'ordinary', 'general', 'election', 'held']",election,0,0,42
+"['month', 'every', 'four', 'year', 'ordinary', 'general', 'election', 'held']",every,0,0,42
+"['month', 'every', 'four', 'year', 'ordinary', 'general', 'election', 'held']",four,0,0,42
+"['month', 'every', 'four', 'year', 'ordinary', 'general', 'election', 'held']",general,0,0,42
+"['month', 'every', 'four', 'year', 'ordinary', 'general', 'election', 'held']",held,0,0,42
+"['month', 'every', 'four', 'year', 'ordinary', 'general', 'election', 'held']",month,0,0,42
+"['month', 'every', 'four', 'year', 'ordinary', 'general', 'election', 'held']",ordinary,0,0,42
+"['month', 'every', 'four', 'year', 'ordinary', 'general', 'election', 'held']",year,0,0,42
+"['month', 'first', 'year', 'Parliament', 'take', 'two', 'week', 'vacation']",Parliament,0,0,42
+"['month', 'first', 'year', 'Parliament', 'take', 'two', 'week', 'vacation']",first,0,0,42
+"['month', 'first', 'year', 'Parliament', 'take', 'two', 'week', 'vacation']",month,0,0,42
+"['month', 'first', 'year', 'Parliament', 'take', 'two', 'week', 'vacation']",take,0,0,42
+"['month', 'first', 'year', 'Parliament', 'take', 'two', 'week', 'vacation']",two,0,0,42
+"['month', 'first', 'year', 'Parliament', 'take', 'two', 'week', 'vacation']",vacation,0,0,42
+"['month', 'first', 'year', 'Parliament', 'take', 'two', 'week', 'vacation']",week,0,0,42
+"['month', 'first', 'year', 'Parliament', 'take', 'two', 'week', 'vacation']",year,0,0,42
+"['much', 'Labour', 'lead', 'Lain', 'Gray', 'retain', 'East', 'Lothian']",East,0,0,42
+"['much', 'Labour', 'lead', 'Lain', 'Gray', 'retain', 'East', 'Lothian']",Gray,0,0,42
+"['much', 'Labour', 'lead', 'Lain', 'Gray', 'retain', 'East', 'Lothian']",Labour,0,0,42
+"['much', 'Labour', 'lead', 'Lain', 'Gray', 'retain', 'East', 'Lothian']",Lain,0,0,42
+"['much', 'Labour', 'lead', 'Lain', 'Gray', 'retain', 'East', 'Lothian']",Lothian,0,0,42
+"['much', 'Labour', 'lead', 'Lain', 'Gray', 'retain', 'East', 'Lothian']",lead,0,0,42
+"['much', 'Labour', 'lead', 'Lain', 'Gray', 'retain', 'East', 'Lothian']",much,0,0,42
+"['much', 'Labour', 'lead', 'Lain', 'Gray', 'retain', 'East', 'Lothian']",retain,0,0,42
+"['much', 'SP', 'alter', 'income', 'tax', 'Scotland']",SP,0,0,42
+"['much', 'SP', 'alter', 'income', 'tax', 'Scotland']",Scotland,0,0,42
+"['much', 'SP', 'alter', 'income', 'tax', 'Scotland']",alter,0,0,42
+"['much', 'SP', 'alter', 'income', 'tax', 'Scotland']",income,0,0,42
+"['much', 'SP', 'alter', 'income', 'tax', 'Scotland']",much,0,0,42
+"['much', 'SP', 'alter', 'income', 'tax', 'Scotland']",tax,0,0,42
+"['much', 'cost', 'gain', 'entry', 'parliament', 'meeting']",cost,0,0,42
+"['much', 'cost', 'gain', 'entry', 'parliament', 'meeting']",entry,0,0,42
+"['much', 'cost', 'gain', 'entry', 'parliament', 'meeting']",gain,0,0,42
+"['much', 'cost', 'gain', 'entry', 'parliament', 'meeting']",meeting,0,0,42
+"['much', 'cost', 'gain', 'entry', 'parliament', 'meeting']",much,0,0,42
+"['much', 'cost', 'gain', 'entry', 'parliament', 'meeting']",parliament,0,0,42
+"['much', 'work', 'Scottish', 'Parliament', 'done']",Parliament,0,0,42
+"['much', 'work', 'Scottish', 'Parliament', 'done']",Scottish,0,0,42
+"['much', 'work', 'Scottish', 'Parliament', 'done']",done,0,0,42
+"['much', 'work', 'Scottish', 'Parliament', 'done']",much,0,0,42
+"['much', 'work', 'Scottish', 'Parliament', 'done']",work,0,0,42
+"['name', 'matter', 'outside', 'legislative', 'ability', 'Scottish', 'Parliament']",Parliament,0,0,42
+"['name', 'matter', 'outside', 'legislative', 'ability', 'Scottish', 'Parliament']",Scottish,0,0,42
+"['name', 'matter', 'outside', 'legislative', 'ability', 'Scottish', 'Parliament']",ability,0,0,42
+"['name', 'matter', 'outside', 'legislative', 'ability', 'Scottish', 'Parliament']",legislative,0,0,42
+"['name', 'matter', 'outside', 'legislative', 'ability', 'Scottish', 'Parliament']",matter,0,0,42
+"['name', 'matter', 'outside', 'legislative', 'ability', 'Scottish', 'Parliament']",name,0,0,42
+"['name', 'matter', 'outside', 'legislative', 'ability', 'Scottish', 'Parliament']",outside,0,0,42
+"['nationality', 'architect', 'Enric', 'Miralles']",Enric,0,0,42
+"['nationality', 'architect', 'Enric', 'Miralles']",Miralles,0,0,42
+"['nationality', 'architect', 'Enric', 'Miralles']",architect,0,0,42
+"['nationality', 'architect', 'Enric', 'Miralles']",nationality,0,0,42
+"['net', 'loss', 'Conservatives', 'suffer']",Conservatives,0,0,42
+"['net', 'loss', 'Conservatives', 'suffer']",loss,0,0,42
+"['net', 'loss', 'Conservatives', 'suffer']",net,0,0,42
+"['net', 'loss', 'Conservatives', 'suffer']",suffer,0,0,42
+"['non-elected', 'member', 'Scottish', 'Government']",Government,0,0,42
+"['non-elected', 'member', 'Scottish', 'Government']",Scottish,0,0,42
+"['non-elected', 'member', 'Scottish', 'Government']",member,0,0,42
+"['non-elected', 'member', 'Scottish', 'Government']",non-elected,0,0,42
+"['normally', 'instructs', 'member', 'vote']",instructs,0,0,42
+"['normally', 'instructs', 'member', 'vote']",member,0,0,42
+"['normally', 'instructs', 'member', 'vote']",normally,0,0,42
+"['normally', 'instructs', 'member', 'vote']",vote,0,0,42
+"['number', 'Constituency', 'MSPs']",Constituency,0,0,42
+"['number', 'Constituency', 'MSPs']",MSPs,0,0,42
+"['number', 'Constituency', 'MSPs']",number,0,0,42
+"['official', 'home', 'Scottish', 'Parliament', 'since', '2004']",2004,0,0,42
+"['official', 'home', 'Scottish', 'Parliament', 'since', '2004']",Parliament,0,0,42
+"['official', 'home', 'Scottish', 'Parliament', 'since', '2004']",Scottish,0,0,42
+"['official', 'home', 'Scottish', 'Parliament', 'since', '2004']",home,0,0,42
+"['official', 'home', 'Scottish', 'Parliament', 'since', '2004']",official,0,0,42
+"['official', 'home', 'Scottish', 'Parliament', 'since', '2004']",since,0,0,42
+"['often', 'predicted', 'beforehand']",beforehand,0,0,42
+"['often', 'predicted', 'beforehand']",often,0,0,42
+"['often', 'predicted', 'beforehand']",predicted,0,0,42
+"['old', 'person', 'apply', 'MSP']",MSP,0,0,42
+"['old', 'person', 'apply', 'MSP']",apply,0,0,42
+"['old', 'person', 'apply', 'MSP']",old,0,0,42
+"['old', 'person', 'apply', 'MSP']",person,0,0,42
+"['one', 'avenue', 'compensated', 'committee', 'serve', 'large', 'role']",avenue,0,0,42
+"['one', 'avenue', 'compensated', 'committee', 'serve', 'large', 'role']",committee,0,0,42
+"['one', 'avenue', 'compensated', 'committee', 'serve', 'large', 'role']",compensated,0,0,42
+"['one', 'avenue', 'compensated', 'committee', 'serve', 'large', 'role']",large,0,0,42
+"['one', 'avenue', 'compensated', 'committee', 'serve', 'large', 'role']",one,0,0,42
+"['one', 'avenue', 'compensated', 'committee', 'serve', 'large', 'role']",role,0,0,42
+"['one', 'avenue', 'compensated', 'committee', 'serve', 'large', 'role']",serve,0,0,42
+"['opened', 'new', 'Parliament', 'building', 'October', '9', '2004']",2004,0,0,42
+"['opened', 'new', 'Parliament', 'building', 'October', '9', '2004']",9,0,0,42
+"['opened', 'new', 'Parliament', 'building', 'October', '9', '2004']",October,0,0,42
+"['opened', 'new', 'Parliament', 'building', 'October', '9', '2004']",Parliament,0,0,42
+"['opened', 'new', 'Parliament', 'building', 'October', '9', '2004']",building,0,0,42
+"['opened', 'new', 'Parliament', 'building', 'October', '9', '2004']",new,0,0,42
+"['opened', 'new', 'Parliament', 'building', 'October', '9', '2004']",opened,0,0,42
+"['parliamentary', 'mace', 'made']",mace,0,0,42
+"['parliamentary', 'mace', 'made']",made,0,0,42
+"['parliamentary', 'mace', 'made']",parliamentary,0,0,42
+"['part', 'consideration', 'bill', 'Stage', '3']",3,0,0,42
+"['part', 'consideration', 'bill', 'Stage', '3']",Stage,0,0,42
+"['part', 'consideration', 'bill', 'Stage', '3']",bill,0,0,42
+"['part', 'consideration', 'bill', 'Stage', '3']",consideration,0,0,42
+"['part', 'consideration', 'bill', 'Stage', '3']",part,0,0,42
+"['party', 'awarded', 'seat', 'one', 'highest']",awarded,0,0,42
+"['party', 'awarded', 'seat', 'one', 'highest']",highest,0,0,42
+"['party', 'awarded', 'seat', 'one', 'highest']",one,0,0,42
+"['party', 'awarded', 'seat', 'one', 'highest']",party,0,0,42
+"['party', 'awarded', 'seat', 'one', 'highest']",seat,0,0,42
+"['party', 'form', 'Scottish', 'Parliament']",Parliament,0,0,42
+"['party', 'form', 'Scottish', 'Parliament']",Scottish,0,0,42
+"['party', 'form', 'Scottish', 'Parliament']",form,0,0,42
+"['party', 'form', 'Scottish', 'Parliament']",party,0,0,42
+"['party', 'victory', '2015', 'UK', 'election']",2015,0,0,42
+"['party', 'victory', '2015', 'UK', 'election']",UK,0,0,42
+"['party', 'victory', '2015', 'UK', 'election']",election,0,0,42
+"['party', 'victory', '2015', 'UK', 'election']",party,0,0,42
+"['party', 'victory', '2015', 'UK', 'election']",victory,0,0,42
+"['percentage', 'Scotland', 'voting', 'population', 'failed', 'actually', 'vote']",Scotland,0,0,42
+"['percentage', 'Scotland', 'voting', 'population', 'failed', 'actually', 'vote']",actually,0,0,42
+"['percentage', 'Scotland', 'voting', 'population', 'failed', 'actually', 'vote']",failed,0,0,42
+"['percentage', 'Scotland', 'voting', 'population', 'failed', 'actually', 'vote']",percentage,0,0,42
+"['percentage', 'Scotland', 'voting', 'population', 'failed', 'actually', 'vote']",population,0,0,42
+"['percentage', 'Scotland', 'voting', 'population', 'failed', 'actually', 'vote']",vote,0,0,42
+"['percentage', 'Scotland', 'voting', 'population', 'failed', 'actually', 'vote']",voting,0,0,42
+"['percentage', 'vote', 'Scottish', 'Assembly', 'favor']",Assembly,0,0,42
+"['percentage', 'vote', 'Scottish', 'Assembly', 'favor']",Scottish,0,0,42
+"['percentage', 'vote', 'Scottish', 'Assembly', 'favor']",favor,0,0,42
+"['percentage', 'vote', 'Scottish', 'Assembly', 'favor']",percentage,0,0,42
+"['percentage', 'vote', 'Scottish', 'Assembly', 'favor']",vote,0,0,42
+"['phenomenon', 'led', 'criticism']",criticism,0,0,42
+"['phenomenon', 'led', 'criticism']",led,0,0,42
+"['phenomenon', 'led', 'criticism']",phenomenon,0,0,42
+"['plenary', 'meeting', 'take', 'place']",meeting,0,0,42
+"['plenary', 'meeting', 'take', 'place']",place,0,0,42
+"['plenary', 'meeting', 'take', 'place']",plenary,0,0,42
+"['plenary', 'meeting', 'take', 'place']",take,0,0,42
+"['police', 'fire', 'service', 'fall', 'purview', 'Scottish', 'Parliament']",Parliament,0,0,42
+"['police', 'fire', 'service', 'fall', 'purview', 'Scottish', 'Parliament']",Scottish,0,0,42
+"['police', 'fire', 'service', 'fall', 'purview', 'Scottish', 'Parliament']",fall,0,0,42
+"['police', 'fire', 'service', 'fall', 'purview', 'Scottish', 'Parliament']",fire,0,0,42
+"['police', 'fire', 'service', 'fall', 'purview', 'Scottish', 'Parliament']",police,0,0,42
+"['police', 'fire', 'service', 'fall', 'purview', 'Scottish', 'Parliament']",purview,0,0,42
+"['police', 'fire', 'service', 'fall', 'purview', 'Scottish', 'Parliament']",service,0,0,42
+"['presented', 'mac', 'Scottish', 'Parliament', 'initially', 'opened']",Parliament,0,0,42
+"['presented', 'mac', 'Scottish', 'Parliament', 'initially', 'opened']",Scottish,0,0,42
+"['presented', 'mac', 'Scottish', 'Parliament', 'initially', 'opened']",initially,0,0,42
+"['presented', 'mac', 'Scottish', 'Parliament', 'initially', 'opened']",mac,0,0,42
+"['presented', 'mac', 'Scottish', 'Parliament', 'initially', 'opened']",opened,0,0,42
+"['presented', 'mac', 'Scottish', 'Parliament', 'initially', 'opened']",presented,0,0,42
+"['presented', 'parliament', 'addition', 'bill']",addition,0,0,42
+"['presented', 'parliament', 'addition', 'bill']",bill,0,0,42
+"['presented', 'parliament', 'addition', 'bill']",parliament,0,0,42
+"['presented', 'parliament', 'addition', 'bill']",presented,0,0,42
+"['process', 'allocating', 'seat', 'repeated', 'available', 'seat', 'determined']",allocating,0,0,42
+"['process', 'allocating', 'seat', 'repeated', 'available', 'seat', 'determined']",available,0,0,42
+"['process', 'allocating', 'seat', 'repeated', 'available', 'seat', 'determined']",determined,0,0,42
+"['process', 'allocating', 'seat', 'repeated', 'available', 'seat', 'determined']",process,0,0,42
+"['process', 'allocating', 'seat', 'repeated', 'available', 'seat', 'determined']",repeated,0,0,42
+"['process', 'allocating', 'seat', 'repeated', 'available', 'seat', 'determined']",seat,0,0,42
+"['provided', 'much', 'basis', 'structure', 'Parliament', '1995']",1995,0,0,42
+"['provided', 'much', 'basis', 'structure', 'Parliament', '1995']",Parliament,0,0,42
+"['provided', 'much', 'basis', 'structure', 'Parliament', '1995']",basis,0,0,42
+"['provided', 'much', 'basis', 'structure', 'Parliament', '1995']",much,0,0,42
+"['provided', 'much', 'basis', 'structure', 'Parliament', '1995']",provided,0,0,42
+"['provided', 'much', 'basis', 'structure', 'Parliament', '1995']",structure,0,0,42
+"['question', 'statement', 'First', 'Minister', 'member', 'cabinet', 'make']",First,0,0,42
+"['question', 'statement', 'First', 'Minister', 'member', 'cabinet', 'make']",Minister,0,0,42
+"['question', 'statement', 'First', 'Minister', 'member', 'cabinet', 'make']",cabinet,0,0,42
+"['question', 'statement', 'First', 'Minister', 'member', 'cabinet', 'make']",make,0,0,42
+"['question', 'statement', 'First', 'Minister', 'member', 'cabinet', 'make']",member,0,0,42
+"['question', 'statement', 'First', 'Minister', 'member', 'cabinet', 'make']",question,0,0,42
+"['question', 'statement', 'First', 'Minister', 'member', 'cabinet', 'make']",statement,0,0,42
+"['range', '1980', '1990', 'demand', 'grow']",1980,0,0,42
+"['range', '1980', '1990', 'demand', 'grow']",1990,0,0,42
+"['range', '1980', '1990', 'demand', 'grow']",demand,0,0,42
+"['range', '1980', '1990', 'demand', 'grow']",grow,0,0,42
+"['range', '1980', '1990', 'demand', 'grow']",range,0,0,42
+"['reduction', 'number', 'Scottish', 'MPs']",MPs,0,0,42
+"['reduction', 'number', 'Scottish', 'MPs']",Scottish,0,0,42
+"['reduction', 'number', 'Scottish', 'MPs']",number,0,0,42
+"['reduction', 'number', 'Scottish', 'MPs']",reduction,0,0,42
+"['remained', 'important', 'issue', 'Scottish', 'national', 'identity', 'year']",Scottish,0,0,42
+"['remained', 'important', 'issue', 'Scottish', 'national', 'identity', 'year']",identity,0,0,42
+"['remained', 'important', 'issue', 'Scottish', 'national', 'identity', 'year']",important,0,0,42
+"['remained', 'important', 'issue', 'Scottish', 'national', 'identity', 'year']",issue,0,0,42
+"['remained', 'important', 'issue', 'Scottish', 'national', 'identity', 'year']",national,0,0,42
+"['remained', 'important', 'issue', 'Scottish', 'national', 'identity', 'year']",remained,0,0,42
+"['remained', 'important', 'issue', 'Scottish', 'national', 'identity', 'year']",year,0,0,42
+"['represents', 'Scottish', 'Parliament', 'home', 'abroad', 'official', 'capacity']",Parliament,0,0,42
+"['represents', 'Scottish', 'Parliament', 'home', 'abroad', 'official', 'capacity']",Scottish,0,0,42
+"['represents', 'Scottish', 'Parliament', 'home', 'abroad', 'official', 'capacity']",abroad,0,0,42
+"['represents', 'Scottish', 'Parliament', 'home', 'abroad', 'official', 'capacity']",capacity,0,0,42
+"['represents', 'Scottish', 'Parliament', 'home', 'abroad', 'official', 'capacity']",home,0,0,42
+"['represents', 'Scottish', 'Parliament', 'home', 'abroad', 'official', 'capacity']",official,0,0,42
+"['represents', 'Scottish', 'Parliament', 'home', 'abroad', 'official', 'capacity']",represents,0,0,42
+"['reserved', 'matter', 'stated', 'Scotland', 'Act']",Act,0,0,42
+"['reserved', 'matter', 'stated', 'Scotland', 'Act']",Scotland,0,0,42
+"['reserved', 'matter', 'stated', 'Scotland', 'Act']",matter,0,0,42
+"['reserved', 'matter', 'stated', 'Scotland', 'Act']",reserved,0,0,42
+"['reserved', 'matter', 'stated', 'Scotland', 'Act']",stated,0,0,42
+"['responsible', 'ensuring', 'Parliament', 'work', 'smoothly']",Parliament,0,0,42
+"['responsible', 'ensuring', 'Parliament', 'work', 'smoothly']",ensuring,0,0,42
+"['responsible', 'ensuring', 'Parliament', 'work', 'smoothly']",responsible,0,0,42
+"['responsible', 'ensuring', 'Parliament', 'work', 'smoothly']",smoothly,0,0,42
+"['responsible', 'ensuring', 'Parliament', 'work', 'smoothly']",work,0,0,42
+"['responsible', 'operating', 'electronic', 'voting', 'equipment', 'chamber', 'clock']",chamber,0,0,42
+"['responsible', 'operating', 'electronic', 'voting', 'equipment', 'chamber', 'clock']",clock,0,0,42
+"['responsible', 'operating', 'electronic', 'voting', 'equipment', 'chamber', 'clock']",electronic,0,0,42
+"['responsible', 'operating', 'electronic', 'voting', 'equipment', 'chamber', 'clock']",equipment,0,0,42
+"['responsible', 'operating', 'electronic', 'voting', 'equipment', 'chamber', 'clock']",operating,0,0,42
+"['responsible', 'operating', 'electronic', 'voting', 'equipment', 'chamber', 'clock']",responsible,0,0,42
+"['responsible', 'operating', 'electronic', 'voting', 'equipment', 'chamber', 'clock']",voting,0,0,42
+"['result', 'SNP', 'majority', 'allow', 'referendum', 'held']",SNP,0,0,42
+"['result', 'SNP', 'majority', 'allow', 'referendum', 'held']",allow,0,0,42
+"['result', 'SNP', 'majority', 'allow', 'referendum', 'held']",held,0,0,42
+"['result', 'SNP', 'majority', 'allow', 'referendum', 'held']",majority,0,0,42
+"['result', 'SNP', 'majority', 'allow', 'referendum', 'held']",referendum,0,0,42
+"['result', 'SNP', 'majority', 'allow', 'referendum', 'held']",result,0,0,42
+"['role', 'holding', 'Scottish', 'Government', 'account']",Government,0,0,42
+"['role', 'holding', 'Scottish', 'Government', 'account']",Scottish,0,0,42
+"['role', 'holding', 'Scottish', 'Government', 'account']",account,0,0,42
+"['role', 'holding', 'Scottish', 'Government', 'account']",holding,0,0,42
+"['role', 'holding', 'Scottish', 'Government', 'account']",role,0,0,42
+"['sea', 'oil', 'discovered']",discovered,0,0,42
+"['sea', 'oil', 'discovered']",oil,0,0,42
+"['sea', 'oil', 'discovered']",sea,0,0,42
+"['seat', 'SNP', 'take', 'Liberal', 'Democrats']",Democrats,0,0,42
+"['seat', 'SNP', 'take', 'Liberal', 'Democrats']",Liberal,0,0,42
+"['seat', 'SNP', 'take', 'Liberal', 'Democrats']",SNP,0,0,42
+"['seat', 'SNP', 'take', 'Liberal', 'Democrats']",seat,0,0,42
+"['seat', 'SNP', 'take', 'Liberal', 'Democrats']",take,0,0,42
+"['seat', 'debating', 'chamber']",chamber,0,0,42
+"['seat', 'debating', 'chamber']",debating,0,0,42
+"['seat', 'debating', 'chamber']",seat,0,0,42
+"['seat', 'former', 'party', 'leader', 'David', 'McLetchie']",David,0,0,42
+"['seat', 'former', 'party', 'leader', 'David', 'McLetchie']",McLetchie,0,0,42
+"['seat', 'former', 'party', 'leader', 'David', 'McLetchie']",former,0,0,42
+"['seat', 'former', 'party', 'leader', 'David', 'McLetchie']",leader,0,0,42
+"['seat', 'former', 'party', 'leader', 'David', 'McLetchie']",party,0,0,42
+"['seat', 'former', 'party', 'leader', 'David', 'McLetchie']",seat,0,0,42
+"['seat', 'must', 'political', 'party', 'represented', 'Parliamentary', 'Bureau']",Bureau,0,0,42
+"['seat', 'must', 'political', 'party', 'represented', 'Parliamentary', 'Bureau']",Parliamentary,0,0,42
+"['seat', 'must', 'political', 'party', 'represented', 'Parliamentary', 'Bureau']",must,0,0,42
+"['seat', 'must', 'political', 'party', 'represented', 'Parliamentary', 'Bureau']",party,0,0,42
+"['seat', 'must', 'political', 'party', 'represented', 'Parliamentary', 'Bureau']",political,0,0,42
+"['seat', 'must', 'political', 'party', 'represented', 'Parliamentary', 'Bureau']",represented,0,0,42
+"['seat', 'must', 'political', 'party', 'represented', 'Parliamentary', 'Bureau']",seat,0,0,42
+"['seating', 'arrangement', 'debating', 'chamber']",arrangement,0,0,42
+"['seating', 'arrangement', 'debating', 'chamber']",chamber,0,0,42
+"['seating', 'arrangement', 'debating', 'chamber']",debating,0,0,42
+"['seating', 'arrangement', 'debating', 'chamber']",seating,0,0,42
+"['seating', 'debating', 'chamber', 'arranged']",arranged,0,0,42
+"['seating', 'debating', 'chamber', 'arranged']",chamber,0,0,42
+"['seating', 'debating', 'chamber', 'arranged']",debating,0,0,42
+"['seating', 'debating', 'chamber', 'arranged']",seating,0,0,42
+"['session', 'Scottish', 'Parliament']",Parliament,0,0,42
+"['session', 'Scottish', 'Parliament']",Scottish,0,0,42
+"['session', 'Scottish', 'Parliament']",session,0,0,42
+"['set', 'aside', 'question', 'period', 'debating', 'chamber']",aside,0,0,42
+"['set', 'aside', 'question', 'period', 'debating', 'chamber']",chamber,0,0,42
+"['set', 'aside', 'question', 'period', 'debating', 'chamber']",debating,0,0,42
+"['set', 'aside', 'question', 'period', 'debating', 'chamber']",period,0,0,42
+"['set', 'aside', 'question', 'period', 'debating', 'chamber']",question,0,0,42
+"['set', 'aside', 'question', 'period', 'debating', 'chamber']",set,0,0,42
+"['set', 'scrutinize', 'private', 'bill', 'submitted', 'party', 'outsider']",bill,0,0,42
+"['set', 'scrutinize', 'private', 'bill', 'submitted', 'party', 'outsider']",outsider,0,0,42
+"['set', 'scrutinize', 'private', 'bill', 'submitted', 'party', 'outsider']",party,0,0,42
+"['set', 'scrutinize', 'private', 'bill', 'submitted', 'party', 'outsider']",private,0,0,42
+"['set', 'scrutinize', 'private', 'bill', 'submitted', 'party', 'outsider']",scrutinize,0,0,42
+"['set', 'scrutinize', 'private', 'bill', 'submitted', 'party', 'outsider']",set,0,0,42
+"['set', 'scrutinize', 'private', 'bill', 'submitted', 'party', 'outsider']",submitted,0,0,42
+"['set', 'seat', 'added', 'allocated']",added,0,0,42
+"['set', 'seat', 'added', 'allocated']",allocated,0,0,42
+"['set', 'seat', 'added', 'allocated']",seat,0,0,42
+"['set', 'seat', 'added', 'allocated']",set,0,0,42
+"['set', 'work', 'agenda', 'allocates', 'time', 'chamber']",agenda,0,0,42
+"['set', 'work', 'agenda', 'allocates', 'time', 'chamber']",allocates,0,0,42
+"['set', 'work', 'agenda', 'allocates', 'time', 'chamber']",chamber,0,0,42
+"['set', 'work', 'agenda', 'allocates', 'time', 'chamber']",set,0,0,42
+"['set', 'work', 'agenda', 'allocates', 'time', 'chamber']",time,0,0,42
+"['set', 'work', 'agenda', 'allocates', 'time', 'chamber']",work,0,0,42
+"['shape', 'building', 'Parliament', 'complex']",Parliament,0,0,42
+"['shape', 'building', 'Parliament', 'complex']",building,0,0,42
+"['shape', 'building', 'Parliament', 'complex']",complex,0,0,42
+"['shape', 'building', 'Parliament', 'complex']",shape,0,0,42
+"['sharp', 'rise', 'nationalism', 'Scotland']",Scotland,0,0,42
+"['sharp', 'rise', 'nationalism', 'Scotland']",nationalism,0,0,42
+"['sharp', 'rise', 'nationalism', 'Scotland']",rise,0,0,42
+"['sharp', 'rise', 'nationalism', 'Scotland']",sharp,0,0,42
+"['stage', '1', 'life', 'bill']",1,0,0,42
+"['stage', '1', 'life', 'bill']",bill,0,0,42
+"['stage', '1', 'life', 'bill']",life,0,0,42
+"['stage', '1', 'life', 'bill']",stage,0,0,42
+"['statement', 'PO', 'member', 'charge', 'bill', 'indicate']",PO,0,0,42
+"['statement', 'PO', 'member', 'charge', 'bill', 'indicate']",bill,0,0,42
+"['statement', 'PO', 'member', 'charge', 'bill', 'indicate']",charge,0,0,42
+"['statement', 'PO', 'member', 'charge', 'bill', 'indicate']",indicate,0,0,42
+"['statement', 'PO', 'member', 'charge', 'bill', 'indicate']",member,0,0,42
+"['statement', 'PO', 'member', 'charge', 'bill', 'indicate']",statement,0,0,42
+"['subject', 'committee', 'established']",committee,0,0,42
+"['subject', 'committee', 'established']",established,0,0,42
+"['subject', 'committee', 'established']",subject,0,0,42
+"['task', 'ensuring', 'party', 'member', 'vote', 'according', 'party', 'line']",according,0,0,42
+"['task', 'ensuring', 'party', 'member', 'vote', 'according', 'party', 'line']",ensuring,0,0,42
+"['task', 'ensuring', 'party', 'member', 'vote', 'according', 'party', 'line']",line,0,0,42
+"['task', 'ensuring', 'party', 'member', 'vote', 'according', 'party', 'line']",member,0,0,42
+"['task', 'ensuring', 'party', 'member', 'vote', 'according', 'party', 'line']",party,0,0,42
+"['task', 'ensuring', 'party', 'member', 'vote', 'according', 'party', 'line']",task,0,0,42
+"['task', 'ensuring', 'party', 'member', 'vote', 'according', 'party', 'line']",vote,0,0,42
+"['template', 'bill', 'passed', 'Scottish', 'Parliament', 'include']",Parliament,0,0,42
+"['template', 'bill', 'passed', 'Scottish', 'Parliament', 'include']",Scottish,0,0,42
+"['template', 'bill', 'passed', 'Scottish', 'Parliament', 'include']",bill,0,0,42
+"['template', 'bill', 'passed', 'Scottish', 'Parliament', 'include']",include,0,0,42
+"['template', 'bill', 'passed', 'Scottish', 'Parliament', 'include']",passed,0,0,42
+"['template', 'bill', 'passed', 'Scottish', 'Parliament', 'include']",template,0,0,42
+"['time', 'MSPs', 'normally', 'decide', 'motion', 'amendment', 'day']",MSPs,0,0,42
+"['time', 'MSPs', 'normally', 'decide', 'motion', 'amendment', 'day']",amendment,0,0,42
+"['time', 'MSPs', 'normally', 'decide', 'motion', 'amendment', 'day']",day,0,0,42
+"['time', 'MSPs', 'normally', 'decide', 'motion', 'amendment', 'day']",decide,0,0,42
+"['time', 'MSPs', 'normally', 'decide', 'motion', 'amendment', 'day']",motion,0,0,42
+"['time', 'MSPs', 'normally', 'decide', 'motion', 'amendment', 'day']",normally,0,0,42
+"['time', 'MSPs', 'normally', 'decide', 'motion', 'amendment', 'day']",time,0,0,42
+"['topic', 'private', 'bill', 'typically']",bill,0,0,42
+"['topic', 'private', 'bill', 'typically']",private,0,0,42
+"['topic', 'private', 'bill', 'typically']",topic,0,0,42
+"['topic', 'private', 'bill', 'typically']",typically,0,0,42
+"['total', 'number', 'seat', 'allocated', 'party']",allocated,0,0,42
+"['total', 'number', 'seat', 'allocated', 'party']",number,0,0,42
+"['total', 'number', 'seat', 'allocated', 'party']",party,0,0,42
+"['total', 'number', 'seat', 'allocated', 'party']",seat,0,0,42
+"['total', 'number', 'seat', 'allocated', 'party']",total,0,0,42
+"['trying', 'establish', 'devolved', 'Scottish', 'Assembly', 'go', '1979']",1979,0,0,42
+"['trying', 'establish', 'devolved', 'Scottish', 'Assembly', 'go', '1979']",Assembly,0,0,42
+"['trying', 'establish', 'devolved', 'Scottish', 'Assembly', 'go', '1979']",Scottish,0,0,42
+"['trying', 'establish', 'devolved', 'Scottish', 'Assembly', 'go', '1979']",devolved,0,0,42
+"['trying', 'establish', 'devolved', 'Scottish', 'Assembly', 'go', '1979']",establish,0,0,42
+"['trying', 'establish', 'devolved', 'Scottish', 'Assembly', 'go', '1979']",go,0,0,42
+"['trying', 'establish', 'devolved', 'Scottish', 'Assembly', 'go', '1979']",trying,0,0,42
+"['type', 'amendment', 'might', 'member', 'opposed', 'bill', 'put', 'table']",amendment,0,0,42
+"['type', 'amendment', 'might', 'member', 'opposed', 'bill', 'put', 'table']",bill,0,0,42
+"['type', 'amendment', 'might', 'member', 'opposed', 'bill', 'put', 'table']",member,0,0,42
+"['type', 'amendment', 'might', 'member', 'opposed', 'bill', 'put', 'table']",might,0,0,42
+"['type', 'amendment', 'might', 'member', 'opposed', 'bill', 'put', 'table']",opposed,0,0,42
+"['type', 'amendment', 'might', 'member', 'opposed', 'bill', 'put', 'table']",put,0,0,42
+"['type', 'amendment', 'might', 'member', 'opposed', 'bill', 'put', 'table']",table,0,0,42
+"['type', 'amendment', 'might', 'member', 'opposed', 'bill', 'put', 'table']",type,0,0,42
+"['type', 'ballot', 'used', 'elect', 'Presiding', 'Officer', 'deputy', 'Parliament']",Officer,0,0,42
+"['type', 'ballot', 'used', 'elect', 'Presiding', 'Officer', 'deputy', 'Parliament']",Parliament,0,0,42
+"['type', 'ballot', 'used', 'elect', 'Presiding', 'Officer', 'deputy', 'Parliament']",Presiding,0,0,42
+"['type', 'ballot', 'used', 'elect', 'Presiding', 'Officer', 'deputy', 'Parliament']",ballot,0,0,42
+"['type', 'ballot', 'used', 'elect', 'Presiding', 'Officer', 'deputy', 'Parliament']",deputy,0,0,42
+"['type', 'ballot', 'used', 'elect', 'Presiding', 'Officer', 'deputy', 'Parliament']",elect,0,0,42
+"['type', 'ballot', 'used', 'elect', 'Presiding', 'Officer', 'deputy', 'Parliament']",type,0,0,42
+"['type', 'ballot', 'used', 'elect', 'Presiding', 'Officer', 'deputy', 'Parliament']",used,0,0,42
+"['type', 'committee', 'set', 'SP', 'standing', 'order']",SP,0,0,42
+"['type', 'committee', 'set', 'SP', 'standing', 'order']",committee,0,0,42
+"['type', 'committee', 'set', 'SP', 'standing', 'order']",order,0,0,42
+"['type', 'committee', 'set', 'SP', 'standing', 'order']",set,0,0,42
+"['type', 'committee', 'set', 'SP', 'standing', 'order']",standing,0,0,42
+"['type', 'committee', 'set', 'SP', 'standing', 'order']",type,0,0,42
+"['type', 'issue', 'member', 'typically', 'allowed', 'vote', 'please']",allowed,0,0,42
+"['type', 'issue', 'member', 'typically', 'allowed', 'vote', 'please']",issue,0,0,42
+"['type', 'issue', 'member', 'typically', 'allowed', 'vote', 'please']",member,0,0,42
+"['type', 'issue', 'member', 'typically', 'allowed', 'vote', 'please']",please,0,0,42
+"['type', 'issue', 'member', 'typically', 'allowed', 'vote', 'please']",type,0,0,42
+"['type', 'issue', 'member', 'typically', 'allowed', 'vote', 'please']",typically,0,0,42
+"['type', 'issue', 'member', 'typically', 'allowed', 'vote', 'please']",vote,0,0,42
+"['vote', 'bill', 'take', 'place', 'Stage', '3']",3,0,0,42
+"['vote', 'bill', 'take', 'place', 'Stage', '3']",Stage,0,0,42
+"['vote', 'bill', 'take', 'place', 'Stage', '3']",bill,0,0,42
+"['vote', 'bill', 'take', 'place', 'Stage', '3']",place,0,0,42
+"['vote', 'bill', 'take', 'place', 'Stage', '3']",take,0,0,42
+"['vote', 'bill', 'take', 'place', 'Stage', '3']",vote,0,0,42
+"['word', 'inscribed', 'mace', 'parliament']",inscribed,0,0,42
+"['word', 'inscribed', 'mace', 'parliament']",mace,0,0,42
+"['word', 'inscribed', 'mace', 'parliament']",parliament,0,0,42
+"['word', 'inscribed', 'mace', 'parliament']",word,0,0,42

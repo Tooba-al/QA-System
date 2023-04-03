@@ -1,0 +1,2355 @@
+0,1,2,3,4
+"['1517', 'Luther', 'bishop']",1517,0,0,6
+"['1517', 'Luther', 'bishop']",Luther,0,0,6
+"['1517', 'Luther', 'bishop']",bishop,0,0,6
+"['1544', 'Luther', 'deal', 'health']",1544,0,0,6
+"['1544', 'Luther', 'deal', 'health']",Luther,0,0,6
+"['1544', 'Luther', 'deal', 'health']",deal,0,0,6
+"['1544', 'Luther', 'deal', 'health']",health,0,0,6
+"['According', 'Luther', 'justifies', 'u']",According,0,0,6
+"['According', 'Luther', 'justifies', 'u']",Luther,0,0,6
+"['According', 'Luther', 'justifies', 'u']",justifies,0,0,6
+"['According', 'Luther', 'justifies', 'u']",u,0,0,6
+"['After', 'Archbishop', 'Albrecht', 'reviewed', 'Theses', 'send']",After,0,0,6
+"['After', 'Archbishop', 'Albrecht', 'reviewed', 'Theses', 'send']",Albrecht,0,0,6
+"['After', 'Archbishop', 'Albrecht', 'reviewed', 'Theses', 'send']",Archbishop,0,0,6
+"['After', 'Archbishop', 'Albrecht', 'reviewed', 'Theses', 'send']",Theses,0,0,6
+"['After', 'Archbishop', 'Albrecht', 'reviewed', 'Theses', 'send']",reviewed,0,0,6
+"['After', 'Archbishop', 'Albrecht', 'reviewed', 'Theses', 'send']",send,0,0,6
+"['After', 'asking', 'book', 'else', 'Eck', 'ask', 'Luther']",After,0,0,6
+"['After', 'asking', 'book', 'else', 'Eck', 'ask', 'Luther']",Eck,0,0,6
+"['After', 'asking', 'book', 'else', 'Eck', 'ask', 'Luther']",Luther,0,0,6
+"['After', 'asking', 'book', 'else', 'Eck', 'ask', 'Luther']",ask,0,0,6
+"['After', 'asking', 'book', 'else', 'Eck', 'ask', 'Luther']",asking,0,0,6
+"['After', 'asking', 'book', 'else', 'Eck', 'ask', 'Luther']",book,0,0,6
+"['After', 'asking', 'book', 'else', 'Eck', 'ask', 'Luther']",else,0,0,6
+"['After', 'negotiation', 'done', 'Luther', 'experience']",After,0,0,6
+"['After', 'negotiation', 'done', 'Luther', 'experience']",Luther,0,0,6
+"['After', 'negotiation', 'done', 'Luther', 'experience']",done,0,0,6
+"['After', 'negotiation', 'done', 'Luther', 'experience']",experience,0,0,6
+"['After', 'negotiation', 'done', 'Luther', 'experience']",negotiation,0,0,6
+"['After', 'rejecting', 'compulsory', 'confession', 'Luther', 'call']",After,0,0,6
+"['After', 'rejecting', 'compulsory', 'confession', 'Luther', 'call']",Luther,0,0,6
+"['After', 'rejecting', 'compulsory', 'confession', 'Luther', 'call']",call,0,0,6
+"['After', 'rejecting', 'compulsory', 'confession', 'Luther', 'call']",compulsory,0,0,6
+"['After', 'rejecting', 'compulsory', 'confession', 'Luther', 'call']",confession,0,0,6
+"['After', 'rejecting', 'compulsory', 'confession', 'Luther', 'call']",rejecting,0,0,6
+"['Agricola', 'apparently', 'believe', 'control', 'law']",Agricola,0,0,6
+"['Agricola', 'apparently', 'believe', 'control', 'law']",apparently,0,0,6
+"['Agricola', 'apparently', 'believe', 'control', 'law']",believe,0,0,6
+"['Agricola', 'apparently', 'believe', 'control', 'law']",control,0,0,6
+"['Agricola', 'apparently', 'believe', 'control', 'law']",law,0,0,6
+"['Albrecht', 'need', 'indulgence', 'pay']",Albrecht,0,0,6
+"['Albrecht', 'need', 'indulgence', 'pay']",indulgence,0,0,6
+"['Albrecht', 'need', 'indulgence', 'pay']",need,0,0,6
+"['Albrecht', 'need', 'indulgence', 'pay']",pay,0,0,6
+"['Apostles', 'located']",Apostles,0,0,6
+"['Apostles', 'located']",located,0,0,6
+"['Archbishop', 'Albrecht', 'send', 'Luther', 'letter', 'containing', '95', 'Theses', 'Rome']",95,0,0,6
+"['Archbishop', 'Albrecht', 'send', 'Luther', 'letter', 'containing', '95', 'Theses', 'Rome']",Albrecht,0,0,6
+"['Archbishop', 'Albrecht', 'send', 'Luther', 'letter', 'containing', '95', 'Theses', 'Rome']",Archbishop,0,0,6
+"['Archbishop', 'Albrecht', 'send', 'Luther', 'letter', 'containing', '95', 'Theses', 'Rome']",Luther,0,0,6
+"['Archbishop', 'Albrecht', 'send', 'Luther', 'letter', 'containing', '95', 'Theses', 'Rome']",Rome,0,0,6
+"['Archbishop', 'Albrecht', 'send', 'Luther', 'letter', 'containing', '95', 'Theses', 'Rome']",Theses,0,0,6
+"['Archbishop', 'Albrecht', 'send', 'Luther', 'letter', 'containing', '95', 'Theses', 'Rome']",containing,0,0,6
+"['Archbishop', 'Albrecht', 'send', 'Luther', 'letter', 'containing', '95', 'Theses', 'Rome']",letter,0,0,6
+"['Archbishop', 'Albrecht', 'send', 'Luther', 'letter', 'containing', '95', 'Theses', 'Rome']",send,0,0,6
+"['At', 'point', 'Luther', 'sermon', 'Schurf', 'write', 'elector']",At,0,0,6
+"['At', 'point', 'Luther', 'sermon', 'Schurf', 'write', 'elector']",Luther,0,0,6
+"['At', 'point', 'Luther', 'sermon', 'Schurf', 'write', 'elector']",Schurf,0,0,6
+"['At', 'point', 'Luther', 'sermon', 'Schurf', 'write', 'elector']",elector,0,0,6
+"['At', 'point', 'Luther', 'sermon', 'Schurf', 'write', 'elector']",point,0,0,6
+"['At', 'point', 'Luther', 'sermon', 'Schurf', 'write', 'elector']",sermon,0,0,6
+"['At', 'point', 'Luther', 'sermon', 'Schurf', 'write', 'elector']",write,0,0,6
+"['At', 'point', 'day', 'couple', 'married']",At,0,0,6
+"['At', 'point', 'day', 'couple', 'married']",couple,0,0,6
+"['At', 'point', 'day', 'couple', 'married']",day,0,0,6
+"['At', 'point', 'day', 'couple', 'married']",married,0,0,6
+"['At', 'point', 'day', 'couple', 'married']",point,0,0,6
+"['At', 'time', 'Luther', 'focus', 'centered']",At,0,0,6
+"['At', 'time', 'Luther', 'focus', 'centered']",Luther,0,0,6
+"['At', 'time', 'Luther', 'focus', 'centered']",centered,0,0,6
+"['At', 'time', 'Luther', 'focus', 'centered']",focus,0,0,6
+"['At', 'time', 'Luther', 'focus', 'centered']",time,0,0,6
+"['At', 'time', 'Martin', 'Luther', 'demand']",At,0,0,6
+"['At', 'time', 'Martin', 'Luther', 'demand']",Luther,0,0,6
+"['At', 'time', 'Martin', 'Luther', 'demand']",Martin,0,0,6
+"['At', 'time', 'Martin', 'Luther', 'demand']",demand,0,0,6
+"['At', 'time', 'Martin', 'Luther', 'demand']",time,0,0,6
+"['At', 'time', 'Martin', 'Luther', 'die']",At,0,0,6
+"['At', 'time', 'Martin', 'Luther', 'die']",Luther,0,0,6
+"['At', 'time', 'Martin', 'Luther', 'die']",Martin,0,0,6
+"['At', 'time', 'Martin', 'Luther', 'die']",die,0,0,6
+"['At', 'time', 'Martin', 'Luther', 'die']",time,0,0,6
+"['Augsburg', 'Confession', 'signed']",Augsburg,0,0,6
+"['Augsburg', 'Confession', 'signed']",Confession,0,0,6
+"['Augsburg', 'Confession', 'signed']",signed,0,0,6
+"['Bach', 'base', 'entirely', 'Luther', 'chorale']",Bach,0,0,6
+"['Bach', 'base', 'entirely', 'Luther', 'chorale']",Luther,0,0,6
+"['Bach', 'base', 'entirely', 'Luther', 'chorale']",base,0,0,6
+"['Bach', 'base', 'entirely', 'Luther', 'chorale']",chorale,0,0,6
+"['Bach', 'base', 'entirely', 'Luther', 'chorale']",entirely,0,0,6
+"['Battle', 'Frankenhausen']",Battle,0,0,6
+"['Battle', 'Frankenhausen']",Frankenhausen,0,0,6
+"['Besides', 'Bondage', 'Will', 'work', 'Luther', 'view', 'book']",Besides,0,0,6
+"['Besides', 'Bondage', 'Will', 'work', 'Luther', 'view', 'book']",Bondage,0,0,6
+"['Besides', 'Bondage', 'Will', 'work', 'Luther', 'view', 'book']",Luther,0,0,6
+"['Besides', 'Bondage', 'Will', 'work', 'Luther', 'view', 'book']",Will,0,0,6
+"['Besides', 'Bondage', 'Will', 'work', 'Luther', 'view', 'book']",book,0,0,6
+"['Besides', 'Bondage', 'Will', 'work', 'Luther', 'view', 'book']",view,0,0,6
+"['Besides', 'Bondage', 'Will', 'work', 'Luther', 'view', 'book']",work,0,0,6
+"['Besides', 'argument', 'Rome', 'fellow', 'reformer', 'scandal', 'contributed', 'Luther', 'failing', 'health']",Besides,0,0,6
+"['Besides', 'argument', 'Rome', 'fellow', 'reformer', 'scandal', 'contributed', 'Luther', 'failing', 'health']",Luther,0,0,6
+"['Besides', 'argument', 'Rome', 'fellow', 'reformer', 'scandal', 'contributed', 'Luther', 'failing', 'health']",Rome,0,0,6
+"['Besides', 'argument', 'Rome', 'fellow', 'reformer', 'scandal', 'contributed', 'Luther', 'failing', 'health']",argument,0,0,6
+"['Besides', 'argument', 'Rome', 'fellow', 'reformer', 'scandal', 'contributed', 'Luther', 'failing', 'health']",contributed,0,0,6
+"['Besides', 'argument', 'Rome', 'fellow', 'reformer', 'scandal', 'contributed', 'Luther', 'failing', 'health']",failing,0,0,6
+"['Besides', 'argument', 'Rome', 'fellow', 'reformer', 'scandal', 'contributed', 'Luther', 'failing', 'health']",fellow,0,0,6
+"['Besides', 'argument', 'Rome', 'fellow', 'reformer', 'scandal', 'contributed', 'Luther', 'failing', 'health']",health,0,0,6
+"['Besides', 'argument', 'Rome', 'fellow', 'reformer', 'scandal', 'contributed', 'Luther', 'failing', 'health']",reformer,0,0,6
+"['Besides', 'argument', 'Rome', 'fellow', 'reformer', 'scandal', 'contributed', 'Luther', 'failing', 'health']",scandal,0,0,6
+"['Besides', 'baptism', 'show', 'future', 'heaven', 'Christians']",Besides,0,0,6
+"['Besides', 'baptism', 'show', 'future', 'heaven', 'Christians']",Christians,0,0,6
+"['Besides', 'baptism', 'show', 'future', 'heaven', 'Christians']",baptism,0,0,6
+"['Besides', 'baptism', 'show', 'future', 'heaven', 'Christians']",future,0,0,6
+"['Besides', 'baptism', 'show', 'future', 'heaven', 'Christians']",heaven,0,0,6
+"['Besides', 'baptism', 'show', 'future', 'heaven', 'Christians']",show,0,0,6
+"['Besides', 'declaring', 'Luther', 'outlaw', 'banning', 'work', 'else', 'decided']",Besides,0,0,6
+"['Besides', 'declaring', 'Luther', 'outlaw', 'banning', 'work', 'else', 'decided']",Luther,0,0,6
+"['Besides', 'declaring', 'Luther', 'outlaw', 'banning', 'work', 'else', 'decided']",banning,0,0,6
+"['Besides', 'declaring', 'Luther', 'outlaw', 'banning', 'work', 'else', 'decided']",decided,0,0,6
+"['Besides', 'declaring', 'Luther', 'outlaw', 'banning', 'work', 'else', 'decided']",declaring,0,0,6
+"['Besides', 'declaring', 'Luther', 'outlaw', 'banning', 'work', 'else', 'decided']",else,0,0,6
+"['Besides', 'declaring', 'Luther', 'outlaw', 'banning', 'work', 'else', 'decided']",outlaw,0,0,6
+"['Besides', 'declaring', 'Luther', 'outlaw', 'banning', 'work', 'else', 'decided']",work,0,0,6
+"['Besides', 'publishing', 'To', 'Christian', 'Nobility', 'German', 'Nation', 'On', 'Babylonian', 'Captivity', 'Church', 'work', 'Luther', 'produce', '1520']",1520,0,0,6
+"['Besides', 'publishing', 'To', 'Christian', 'Nobility', 'German', 'Nation', 'On', 'Babylonian', 'Captivity', 'Church', 'work', 'Luther', 'produce', '1520']",Babylonian,0,0,6
+"['Besides', 'publishing', 'To', 'Christian', 'Nobility', 'German', 'Nation', 'On', 'Babylonian', 'Captivity', 'Church', 'work', 'Luther', 'produce', '1520']",Besides,0,0,6
+"['Besides', 'publishing', 'To', 'Christian', 'Nobility', 'German', 'Nation', 'On', 'Babylonian', 'Captivity', 'Church', 'work', 'Luther', 'produce', '1520']",Captivity,0,0,6
+"['Besides', 'publishing', 'To', 'Christian', 'Nobility', 'German', 'Nation', 'On', 'Babylonian', 'Captivity', 'Church', 'work', 'Luther', 'produce', '1520']",Christian,0,0,6
+"['Besides', 'publishing', 'To', 'Christian', 'Nobility', 'German', 'Nation', 'On', 'Babylonian', 'Captivity', 'Church', 'work', 'Luther', 'produce', '1520']",Church,0,0,6
+"['Besides', 'publishing', 'To', 'Christian', 'Nobility', 'German', 'Nation', 'On', 'Babylonian', 'Captivity', 'Church', 'work', 'Luther', 'produce', '1520']",German,0,0,6
+"['Besides', 'publishing', 'To', 'Christian', 'Nobility', 'German', 'Nation', 'On', 'Babylonian', 'Captivity', 'Church', 'work', 'Luther', 'produce', '1520']",Luther,0,0,6
+"['Besides', 'publishing', 'To', 'Christian', 'Nobility', 'German', 'Nation', 'On', 'Babylonian', 'Captivity', 'Church', 'work', 'Luther', 'produce', '1520']",Nation,0,0,6
+"['Besides', 'publishing', 'To', 'Christian', 'Nobility', 'German', 'Nation', 'On', 'Babylonian', 'Captivity', 'Church', 'work', 'Luther', 'produce', '1520']",Nobility,0,0,6
+"['Besides', 'publishing', 'To', 'Christian', 'Nobility', 'German', 'Nation', 'On', 'Babylonian', 'Captivity', 'Church', 'work', 'Luther', 'produce', '1520']",On,0,0,6
+"['Besides', 'publishing', 'To', 'Christian', 'Nobility', 'German', 'Nation', 'On', 'Babylonian', 'Captivity', 'Church', 'work', 'Luther', 'produce', '1520']",To,0,0,6
+"['Besides', 'publishing', 'To', 'Christian', 'Nobility', 'German', 'Nation', 'On', 'Babylonian', 'Captivity', 'Church', 'work', 'Luther', 'produce', '1520']",produce,0,0,6
+"['Besides', 'publishing', 'To', 'Christian', 'Nobility', 'German', 'Nation', 'On', 'Babylonian', 'Captivity', 'Church', 'work', 'Luther', 'produce', '1520']",publishing,0,0,6
+"['Besides', 'publishing', 'To', 'Christian', 'Nobility', 'German', 'Nation', 'On', 'Babylonian', 'Captivity', 'Church', 'work', 'Luther', 'produce', '1520']",work,0,0,6
+"['Besides', 'radical', 'else', 'Luther', 'deal']",Besides,0,0,6
+"['Besides', 'radical', 'else', 'Luther', 'deal']",Luther,0,0,6
+"['Besides', 'radical', 'else', 'Luther', 'deal']",deal,0,0,6
+"['Besides', 'radical', 'else', 'Luther', 'deal']",else,0,0,6
+"['Besides', 'radical', 'else', 'Luther', 'deal']",radical,0,0,6
+"['Besides', 'taking', 'boarder', 'Katharina', 'help', 'support', 'family']",Besides,0,0,6
+"['Besides', 'taking', 'boarder', 'Katharina', 'help', 'support', 'family']",Katharina,0,0,6
+"['Besides', 'taking', 'boarder', 'Katharina', 'help', 'support', 'family']",boarder,0,0,6
+"['Besides', 'taking', 'boarder', 'Katharina', 'help', 'support', 'family']",family,0,0,6
+"['Besides', 'taking', 'boarder', 'Katharina', 'help', 'support', 'family']",help,0,0,6
+"['Besides', 'taking', 'boarder', 'Katharina', 'help', 'support', 'family']",support,0,0,6
+"['Besides', 'taking', 'boarder', 'Katharina', 'help', 'support', 'family']",taking,0,0,6
+"['Besides', 'walk', 'church', 'else', 'left', 'day', 'celebration']",Besides,0,0,6
+"['Besides', 'walk', 'church', 'else', 'left', 'day', 'celebration']",celebration,0,0,6
+"['Besides', 'walk', 'church', 'else', 'left', 'day', 'celebration']",church,0,0,6
+"['Besides', 'walk', 'church', 'else', 'left', 'day', 'celebration']",day,0,0,6
+"['Besides', 'walk', 'church', 'else', 'left', 'day', 'celebration']",else,0,0,6
+"['Besides', 'walk', 'church', 'else', 'left', 'day', 'celebration']",left,0,0,6
+"['Besides', 'walk', 'church', 'else', 'left', 'day', 'celebration']",walk,0,0,6
+"['Black', 'Cloister']",Black,0,0,6
+"['Black', 'Cloister']",Cloister,0,0,6
+"['Blackburne', 'make', 'argument', 'Luther', 'soul']",Blackburne,0,0,6
+"['Blackburne', 'make', 'argument', 'Luther', 'soul']",Luther,0,0,6
+"['Blackburne', 'make', 'argument', 'Luther', 'soul']",argument,0,0,6
+"['Blackburne', 'make', 'argument', 'Luther', 'soul']",make,0,0,6
+"['Blackburne', 'make', 'argument', 'Luther', 'soul']",soul,0,0,6
+"['Catechisms', 'Martin', 'Luther', 'written']",Catechisms,0,0,6
+"['Catechisms', 'Martin', 'Luther', 'written']",Luther,0,0,6
+"['Catechisms', 'Martin', 'Luther', 'written']",Martin,0,0,6
+"['Catechisms', 'Martin', 'Luther', 'written']",written,0,0,6
+"['Catholic', 'doctrine', 'fides', 'caritate', 'formata']",Catholic,0,0,6
+"['Catholic', 'doctrine', 'fides', 'caritate', 'formata']",caritate,0,0,6
+"['Catholic', 'doctrine', 'fides', 'caritate', 'formata']",doctrine,0,0,6
+"['Catholic', 'doctrine', 'fides', 'caritate', 'formata']",fides,0,0,6
+"['Catholic', 'doctrine', 'fides', 'caritate', 'formata']",formata,0,0,6
+"['Christian', 'follow', 'life']",Christian,0,0,6
+"['Christian', 'follow', 'life']",follow,0,0,6
+"['Christian', 'follow', 'life']",life,0,0,6
+"['Church', 'Luther', 'refused', 'retract', 'writing']",Church,0,0,6
+"['Church', 'Luther', 'refused', 'retract', 'writing']",Luther,0,0,6
+"['Church', 'Luther', 'refused', 'retract', 'writing']",refused,0,0,6
+"['Church', 'Luther', 'refused', 'retract', 'writing']",retract,0,0,6
+"['Church', 'Luther', 'refused', 'retract', 'writing']",writing,0,0,6
+"['Church', 'claim', 'avoided', 'money']",Church,0,0,6
+"['Church', 'claim', 'avoided', 'money']",avoided,0,0,6
+"['Church', 'claim', 'avoided', 'money']",claim,0,0,6
+"['Church', 'claim', 'avoided', 'money']",money,0,0,6
+"['Der', 'Sturmer', 'describe', 'Luther', 'On', 'Jews', 'Lies']",Der,0,0,6
+"['Der', 'Sturmer', 'describe', 'Luther', 'On', 'Jews', 'Lies']",Jews,0,0,6
+"['Der', 'Sturmer', 'describe', 'Luther', 'On', 'Jews', 'Lies']",Lies,0,0,6
+"['Der', 'Sturmer', 'describe', 'Luther', 'On', 'Jews', 'Lies']",Luther,0,0,6
+"['Der', 'Sturmer', 'describe', 'Luther', 'On', 'Jews', 'Lies']",On,0,0,6
+"['Der', 'Sturmer', 'describe', 'Luther', 'On', 'Jews', 'Lies']",Sturmer,0,0,6
+"['Der', 'Sturmer', 'describe', 'Luther', 'On', 'Jews', 'Lies']",describe,0,0,6
+"['Edict', 'Worms', 'presented']",Edict,0,0,6
+"['Edict', 'Worms', 'presented']",Worms,0,0,6
+"['Edict', 'Worms', 'presented']",presented,0,0,6
+"['English', 'translator', 'hymn']",English,0,0,6
+"['English', 'translator', 'hymn']",hymn,0,0,6
+"['English', 'translator', 'hymn']",translator,0,0,6
+"['Fritschel', 'say', 'man', 'sleep', 'disturbed']",Fritschel,0,0,6
+"['Fritschel', 'say', 'man', 'sleep', 'disturbed']",disturbed,0,0,6
+"['Fritschel', 'say', 'man', 'sleep', 'disturbed']",man,0,0,6
+"['Fritschel', 'say', 'man', 'sleep', 'disturbed']",say,0,0,6
+"['Fritschel', 'say', 'man', 'sleep', 'disturbed']",sleep,0,0,6
+"['From', 'whence', 'Luther', 'want', 'expel', 'Jews']",From,0,0,6
+"['From', 'whence', 'Luther', 'want', 'expel', 'Jews']",Jews,0,0,6
+"['From', 'whence', 'Luther', 'want', 'expel', 'Jews']",Luther,0,0,6
+"['From', 'whence', 'Luther', 'want', 'expel', 'Jews']",expel,0,0,6
+"['From', 'whence', 'Luther', 'want', 'expel', 'Jews']",want,0,0,6
+"['From', 'whence', 'Luther', 'want', 'expel', 'Jews']",whence,0,0,6
+"['Gerhard', 'Lessing', 'reach', 'conclusion', 'Luther']",Gerhard,0,0,6
+"['Gerhard', 'Lessing', 'reach', 'conclusion', 'Luther']",Lessing,0,0,6
+"['Gerhard', 'Lessing', 'reach', 'conclusion', 'Luther']",Luther,0,0,6
+"['Gerhard', 'Lessing', 'reach', 'conclusion', 'Luther']",conclusion,0,0,6
+"['Gerhard', 'Lessing', 'reach', 'conclusion', 'Luther']",reach,0,0,6
+"['German', 'Peasants', 'War', 'happen']",German,0,0,6
+"['German', 'Peasants', 'War', 'happen']",Peasants,0,0,6
+"['German', 'Peasants', 'War', 'happen']",War,0,0,6
+"['German', 'Peasants', 'War', 'happen']",happen,0,0,6
+"['Germans', 'understand', 'language', 'Luther', 'used']",Germans,0,0,6
+"['Germans', 'understand', 'language', 'Luther', 'used']",Luther,0,0,6
+"['Germans', 'understand', 'language', 'Luther', 'used']",language,0,0,6
+"['Germans', 'understand', 'language', 'Luther', 'used']",understand,0,0,6
+"['Germans', 'understand', 'language', 'Luther', 'used']",used,0,0,6
+"['God', 'expression', 'eternal', 'according', 'Luther']",God,0,0,6
+"['God', 'expression', 'eternal', 'according', 'Luther']",Luther,0,0,6
+"['God', 'expression', 'eternal', 'according', 'Luther']",according,0,0,6
+"['God', 'expression', 'eternal', 'according', 'Luther']",eternal,0,0,6
+"['God', 'expression', 'eternal', 'according', 'Luther']",expression,0,0,6
+['Hauptlied'],Hauptlied,0,0,6
+"['Herr', 'Gott', 'dich', 'loben', 'wir', 'become', 'known']",Gott,0,0,6
+"['Herr', 'Gott', 'dich', 'loben', 'wir', 'become', 'known']",Herr,0,0,6
+"['Herr', 'Gott', 'dich', 'loben', 'wir', 'become', 'known']",become,0,0,6
+"['Herr', 'Gott', 'dich', 'loben', 'wir', 'become', 'known']",dich,0,0,6
+"['Herr', 'Gott', 'dich', 'loben', 'wir', 'become', 'known']",known,0,0,6
+"['Herr', 'Gott', 'dich', 'loben', 'wir', 'become', 'known']",loben,0,0,6
+"['Herr', 'Gott', 'dich', 'loben', 'wir', 'become', 'known']",wir,0,0,6
+"['Into', 'religion', 'Martin', 'Luther', 'baptized']",Into,0,0,6
+"['Into', 'religion', 'Martin', 'Luther', 'baptized']",Luther,0,0,6
+"['Into', 'religion', 'Martin', 'Luther', 'baptized']",Martin,0,0,6
+"['Into', 'religion', 'Martin', 'Luther', 'baptized']",baptized,0,0,6
+"['Into', 'religion', 'Martin', 'Luther', 'baptized']",religion,0,0,6
+"['Jews', 'refuse', 'accept', 'caused', 'Luther', 'call', 'blasphemer', 'liar']",Jews,0,0,6
+"['Jews', 'refuse', 'accept', 'caused', 'Luther', 'call', 'blasphemer', 'liar']",Luther,0,0,6
+"['Jews', 'refuse', 'accept', 'caused', 'Luther', 'call', 'blasphemer', 'liar']",accept,0,0,6
+"['Jews', 'refuse', 'accept', 'caused', 'Luther', 'call', 'blasphemer', 'liar']",blasphemer,0,0,6
+"['Jews', 'refuse', 'accept', 'caused', 'Luther', 'call', 'blasphemer', 'liar']",call,0,0,6
+"['Jews', 'refuse', 'accept', 'caused', 'Luther', 'call', 'blasphemer', 'liar']",caused,0,0,6
+"['Jews', 'refuse', 'accept', 'caused', 'Luther', 'call', 'blasphemer', 'liar']",liar,0,0,6
+"['Jews', 'refuse', 'accept', 'caused', 'Luther', 'call', 'blasphemer', 'liar']",refuse,0,0,6
+"['Johann', 'Eck', 'call', 'Luther']",Eck,0,0,6
+"['Johann', 'Eck', 'call', 'Luther']",Johann,0,0,6
+"['Johann', 'Eck', 'call', 'Luther']",Luther,0,0,6
+"['Johann', 'Eck', 'call', 'Luther']",call,0,0,6
+"['Johann', 'Esch', 'Heinrich', 'Voes', 'executed', 'Catholic', 'Church']",Catholic,0,0,6
+"['Johann', 'Esch', 'Heinrich', 'Voes', 'executed', 'Catholic', 'Church']",Church,0,0,6
+"['Johann', 'Esch', 'Heinrich', 'Voes', 'executed', 'Catholic', 'Church']",Esch,0,0,6
+"['Johann', 'Esch', 'Heinrich', 'Voes', 'executed', 'Catholic', 'Church']",Heinrich,0,0,6
+"['Johann', 'Esch', 'Heinrich', 'Voes', 'executed', 'Catholic', 'Church']",Johann,0,0,6
+"['Johann', 'Esch', 'Heinrich', 'Voes', 'executed', 'Catholic', 'Church']",Voes,0,0,6
+"['Johann', 'Esch', 'Heinrich', 'Voes', 'executed', 'Catholic', 'Church']",executed,0,0,6
+"['Johann', 'Tetzel', 'sent', 'Roman', 'Catholic', 'Church', 'Germany', 'sell', 'indulgence']",Catholic,0,0,6
+"['Johann', 'Tetzel', 'sent', 'Roman', 'Catholic', 'Church', 'Germany', 'sell', 'indulgence']",Church,0,0,6
+"['Johann', 'Tetzel', 'sent', 'Roman', 'Catholic', 'Church', 'Germany', 'sell', 'indulgence']",Germany,0,0,6
+"['Johann', 'Tetzel', 'sent', 'Roman', 'Catholic', 'Church', 'Germany', 'sell', 'indulgence']",Johann,0,0,6
+"['Johann', 'Tetzel', 'sent', 'Roman', 'Catholic', 'Church', 'Germany', 'sell', 'indulgence']",Roman,0,0,6
+"['Johann', 'Tetzel', 'sent', 'Roman', 'Catholic', 'Church', 'Germany', 'sell', 'indulgence']",Tetzel,0,0,6
+"['Johann', 'Tetzel', 'sent', 'Roman', 'Catholic', 'Church', 'Germany', 'sell', 'indulgence']",indulgence,0,0,6
+"['Johann', 'Tetzel', 'sent', 'Roman', 'Catholic', 'Church', 'Germany', 'sell', 'indulgence']",sell,0,0,6
+"['Johann', 'Tetzel', 'sent', 'Roman', 'Catholic', 'Church', 'Germany', 'sell', 'indulgence']",sent,0,0,6
+"['Johannes', 'Agricola', 'preach', 'God', 'gospel', 'revealed']",Agricola,0,0,6
+"['Johannes', 'Agricola', 'preach', 'God', 'gospel', 'revealed']",God,0,0,6
+"['Johannes', 'Agricola', 'preach', 'God', 'gospel', 'revealed']",Johannes,0,0,6
+"['Johannes', 'Agricola', 'preach', 'God', 'gospel', 'revealed']",gospel,0,0,6
+"['Johannes', 'Agricola', 'preach', 'God', 'gospel', 'revealed']",preach,0,0,6
+"['Johannes', 'Agricola', 'preach', 'God', 'gospel', 'revealed']",revealed,0,0,6
+"['Josel', 'Rosheim', 'blame', 'condition', 'Jews', 'Saxony']",Jews,0,0,6
+"['Josel', 'Rosheim', 'blame', 'condition', 'Jews', 'Saxony']",Josel,0,0,6
+"['Josel', 'Rosheim', 'blame', 'condition', 'Jews', 'Saxony']",Rosheim,0,0,6
+"['Josel', 'Rosheim', 'blame', 'condition', 'Jews', 'Saxony']",Saxony,0,0,6
+"['Josel', 'Rosheim', 'blame', 'condition', 'Jews', 'Saxony']",blame,0,0,6
+"['Josel', 'Rosheim', 'blame', 'condition', 'Jews', 'Saxony']",condition,0,0,6
+"['Josel', 'Rosheim', 'claimed', 'Luther', 'said', 'might', 'aid', 'Jews']",Jews,0,0,6
+"['Josel', 'Rosheim', 'claimed', 'Luther', 'said', 'might', 'aid', 'Jews']",Josel,0,0,6
+"['Josel', 'Rosheim', 'claimed', 'Luther', 'said', 'might', 'aid', 'Jews']",Luther,0,0,6
+"['Josel', 'Rosheim', 'claimed', 'Luther', 'said', 'might', 'aid', 'Jews']",Rosheim,0,0,6
+"['Josel', 'Rosheim', 'claimed', 'Luther', 'said', 'might', 'aid', 'Jews']",aid,0,0,6
+"['Josel', 'Rosheim', 'claimed', 'Luther', 'said', 'might', 'aid', 'Jews']",claimed,0,0,6
+"['Josel', 'Rosheim', 'claimed', 'Luther', 'said', 'might', 'aid', 'Jews']",might,0,0,6
+"['Josel', 'Rosheim', 'claimed', 'Luther', 'said', 'might', 'aid', 'Jews']",said,0,0,6
+"['Josel', 'ask', 'city', 'Strasbourg', 'forbid', 'sale']",Josel,0,0,6
+"['Josel', 'ask', 'city', 'Strasbourg', 'forbid', 'sale']",Strasbourg,0,0,6
+"['Josel', 'ask', 'city', 'Strasbourg', 'forbid', 'sale']",ask,0,0,6
+"['Josel', 'ask', 'city', 'Strasbourg', 'forbid', 'sale']",city,0,0,6
+"['Josel', 'ask', 'city', 'Strasbourg', 'forbid', 'sale']",forbid,0,0,6
+"['Josel', 'ask', 'city', 'Strasbourg', 'forbid', 'sale']",sale,0,0,6
+"['Luther', '95', 'Theses', 'translated', 'German']",95,0,0,6
+"['Luther', '95', 'Theses', 'translated', 'German']",German,0,0,6
+"['Luther', '95', 'Theses', 'translated', 'German']",Luther,0,0,6
+"['Luther', '95', 'Theses', 'translated', 'German']",Theses,0,0,6
+"['Luther', '95', 'Theses', 'translated', 'German']",translated,0,0,6
+"['Luther', 'Church', 'lost', 'sight']",Church,0,0,6
+"['Luther', 'Church', 'lost', 'sight']",Luther,0,0,6
+"['Luther', 'Church', 'lost', 'sight']",lost,0,0,6
+"['Luther', 'Church', 'lost', 'sight']",sight,0,0,6
+"['Luther', 'Disputation', 'Martin', 'Luther', 'Power', 'Efficacy', 'Indulgences', 'later', 'called']",Disputation,0,0,6
+"['Luther', 'Disputation', 'Martin', 'Luther', 'Power', 'Efficacy', 'Indulgences', 'later', 'called']",Efficacy,0,0,6
+"['Luther', 'Disputation', 'Martin', 'Luther', 'Power', 'Efficacy', 'Indulgences', 'later', 'called']",Indulgences,0,0,6
+"['Luther', 'Disputation', 'Martin', 'Luther', 'Power', 'Efficacy', 'Indulgences', 'later', 'called']",Luther,0,0,6
+"['Luther', 'Disputation', 'Martin', 'Luther', 'Power', 'Efficacy', 'Indulgences', 'later', 'called']",Martin,0,0,6
+"['Luther', 'Disputation', 'Martin', 'Luther', 'Power', 'Efficacy', 'Indulgences', 'later', 'called']",Power,0,0,6
+"['Luther', 'Disputation', 'Martin', 'Luther', 'Power', 'Efficacy', 'Indulgences', 'later', 'called']",called,0,0,6
+"['Luther', 'Disputation', 'Martin', 'Luther', 'Power', 'Efficacy', 'Indulgences', 'later', 'called']",later,0,0,6
+"['Luther', 'Lent', 'time']",Lent,0,0,6
+"['Luther', 'Lent', 'time']",Luther,0,0,6
+"['Luther', 'Lent', 'time']",time,0,0,6
+"['Luther', 'add', 'catechism']",Luther,0,0,6
+"['Luther', 'add', 'catechism']",add,0,0,6
+"['Luther', 'add', 'catechism']",catechism,0,0,6
+"['Luther', 'answer', 'antinomian', 'reaffirms']",Luther,0,0,6
+"['Luther', 'answer', 'antinomian', 'reaffirms']",answer,0,0,6
+"['Luther', 'answer', 'antinomian', 'reaffirms']",antinomian,0,0,6
+"['Luther', 'answer', 'antinomian', 'reaffirms']",reaffirms,0,0,6
+"['Luther', 'appeared', 'Diet', 'Worms']",Diet,0,0,6
+"['Luther', 'appeared', 'Diet', 'Worms']",Luther,0,0,6
+"['Luther', 'appeared', 'Diet', 'Worms']",Worms,0,0,6
+"['Luther', 'appeared', 'Diet', 'Worms']",appeared,0,0,6
+"['Luther', 'area', 'tradition', 'believe', 'Jews', 'guilty']",Jews,0,0,6
+"['Luther', 'area', 'tradition', 'believe', 'Jews', 'guilty']",Luther,0,0,6
+"['Luther', 'area', 'tradition', 'believe', 'Jews', 'guilty']",area,0,0,6
+"['Luther', 'area', 'tradition', 'believe', 'Jews', 'guilty']",believe,0,0,6
+"['Luther', 'area', 'tradition', 'believe', 'Jews', 'guilty']",guilty,0,0,6
+"['Luther', 'area', 'tradition', 'believe', 'Jews', 'guilty']",tradition,0,0,6
+"['Luther', 'banish']",Luther,0,0,6
+"['Luther', 'banish']",banish,0,0,6
+"['Luther', 'become', 'angry', 'widespread', 'destruction', 'church', 'property']",Luther,0,0,6
+"['Luther', 'become', 'angry', 'widespread', 'destruction', 'church', 'property']",angry,0,0,6
+"['Luther', 'become', 'angry', 'widespread', 'destruction', 'church', 'property']",become,0,0,6
+"['Luther', 'become', 'angry', 'widespread', 'destruction', 'church', 'property']",church,0,0,6
+"['Luther', 'become', 'angry', 'widespread', 'destruction', 'church', 'property']",destruction,0,0,6
+"['Luther', 'become', 'angry', 'widespread', 'destruction', 'church', 'property']",property,0,0,6
+"['Luther', 'become', 'angry', 'widespread', 'destruction', 'church', 'property']",widespread,0,0,6
+"['Luther', 'begin', 'experience', '1536']",1536,0,0,6
+"['Luther', 'begin', 'experience', '1536']",Luther,0,0,6
+"['Luther', 'begin', 'experience', '1536']",begin,0,0,6
+"['Luther', 'begin', 'experience', '1536']",experience,0,0,6
+"['Luther', 'believe', 'person', 'life']",Luther,0,0,6
+"['Luther', 'believe', 'person', 'life']",believe,0,0,6
+"['Luther', 'believe', 'person', 'life']",life,0,0,6
+"['Luther', 'believe', 'person', 'life']",person,0,0,6
+"['Luther', 'believe', 'soul', 'death']",Luther,0,0,6
+"['Luther', 'believe', 'soul', 'death']",believe,0,0,6
+"['Luther', 'believe', 'soul', 'death']",death,0,0,6
+"['Luther', 'believe', 'soul', 'death']",soul,0,0,6
+"['Luther', 'best-known', 'work', 'published']",Luther,0,0,6
+"['Luther', 'best-known', 'work', 'published']",best-known,0,0,6
+"['Luther', 'best-known', 'work', 'published']",published,0,0,6
+"['Luther', 'best-known', 'work', 'published']",work,0,0,6
+"['Luther', 'born']",Luther,0,0,6
+"['Luther', 'born']",born,0,0,6
+"['Luther', 'broaden', 'Reformation', 'term', 'prophecy']",Luther,0,0,6
+"['Luther', 'broaden', 'Reformation', 'term', 'prophecy']",Reformation,0,0,6
+"['Luther', 'broaden', 'Reformation', 'term', 'prophecy']",broaden,0,0,6
+"['Luther', 'broaden', 'Reformation', 'term', 'prophecy']",prophecy,0,0,6
+"['Luther', 'broaden', 'Reformation', 'term', 'prophecy']",term,0,0,6
+"['Luther', 'broaden', 'attack', 'include', 'core', 'Church', 'doctrine']",Church,0,0,6
+"['Luther', 'broaden', 'attack', 'include', 'core', 'Church', 'doctrine']",Luther,0,0,6
+"['Luther', 'broaden', 'attack', 'include', 'core', 'Church', 'doctrine']",attack,0,0,6
+"['Luther', 'broaden', 'attack', 'include', 'core', 'Church', 'doctrine']",broaden,0,0,6
+"['Luther', 'broaden', 'attack', 'include', 'core', 'Church', 'doctrine']",core,0,0,6
+"['Luther', 'broaden', 'attack', 'include', 'core', 'Church', 'doctrine']",doctrine,0,0,6
+"['Luther', 'broaden', 'attack', 'include', 'core', 'Church', 'doctrine']",include,0,0,6
+"['Luther', 'buried']",Luther,0,0,6
+"['Luther', 'buried']",buried,0,0,6
+"['Luther', 'call', 'consecrated', 'bread', 'wine']",Luther,0,0,6
+"['Luther', 'call', 'consecrated', 'bread', 'wine']",bread,0,0,6
+"['Luther', 'call', 'consecrated', 'bread', 'wine']",call,0,0,6
+"['Luther', 'call', 'consecrated', 'bread', 'wine']",consecrated,0,0,6
+"['Luther', 'call', 'consecrated', 'bread', 'wine']",wine,0,0,6
+"['Luther', 'call', 'donation']",Luther,0,0,6
+"['Luther', 'call', 'donation']",call,0,0,6
+"['Luther', 'call', 'donation']",donation,0,0,6
+"['Luther', 'call', 'good', 'work', 'existed', 'solely', 'attract', 'God', 'favor']",God,0,0,6
+"['Luther', 'call', 'good', 'work', 'existed', 'solely', 'attract', 'God', 'favor']",Luther,0,0,6
+"['Luther', 'call', 'good', 'work', 'existed', 'solely', 'attract', 'God', 'favor']",attract,0,0,6
+"['Luther', 'call', 'good', 'work', 'existed', 'solely', 'attract', 'God', 'favor']",call,0,0,6
+"['Luther', 'call', 'good', 'work', 'existed', 'solely', 'attract', 'God', 'favor']",existed,0,0,6
+"['Luther', 'call', 'good', 'work', 'existed', 'solely', 'attract', 'God', 'favor']",favor,0,0,6
+"['Luther', 'call', 'good', 'work', 'existed', 'solely', 'attract', 'God', 'favor']",good,0,0,6
+"['Luther', 'call', 'good', 'work', 'existed', 'solely', 'attract', 'God', 'favor']",solely,0,0,6
+"['Luther', 'call', 'good', 'work', 'existed', 'solely', 'attract', 'God', 'favor']",work,0,0,6
+"['Luther', 'call', 'mass', 'instead', 'sacrifice']",Luther,0,0,6
+"['Luther', 'call', 'mass', 'instead', 'sacrifice']",call,0,0,6
+"['Luther', 'call', 'mass', 'instead', 'sacrifice']",instead,0,0,6
+"['Luther', 'call', 'mass', 'instead', 'sacrifice']",mass,0,0,6
+"['Luther', 'call', 'mass', 'instead', 'sacrifice']",sacrifice,0,0,6
+"['Luther', 'call', 'revolting', 'peasant']",Luther,0,0,6
+"['Luther', 'call', 'revolting', 'peasant']",call,0,0,6
+"['Luther', 'call', 'revolting', 'peasant']",peasant,0,0,6
+"['Luther', 'call', 'revolting', 'peasant']",revolting,0,0,6
+"['Luther', 'call', 'stay', 'Wartburg', 'Castle']",Castle,0,0,6
+"['Luther', 'call', 'stay', 'Wartburg', 'Castle']",Luther,0,0,6
+"['Luther', 'call', 'stay', 'Wartburg', 'Castle']",Wartburg,0,0,6
+"['Luther', 'call', 'stay', 'Wartburg', 'Castle']",call,0,0,6
+"['Luther', 'call', 'stay', 'Wartburg', 'Castle']",stay,0,0,6
+"['Luther', 'call', 'stop', 'revolt']",Luther,0,0,6
+"['Luther', 'call', 'stop', 'revolt']",call,0,0,6
+"['Luther', 'call', 'stop', 'revolt']",revolt,0,0,6
+"['Luther', 'call', 'stop', 'revolt']",stop,0,0,6
+"['Luther', 'called', 'von', 'Staupitz', 'Wittenberg']",Luther,0,0,6
+"['Luther', 'called', 'von', 'Staupitz', 'Wittenberg']",Staupitz,0,0,6
+"['Luther', 'called', 'von', 'Staupitz', 'Wittenberg']",Wittenberg,0,0,6
+"['Luther', 'called', 'von', 'Staupitz', 'Wittenberg']",called,0,0,6
+"['Luther', 'called', 'von', 'Staupitz', 'Wittenberg']",von,0,0,6
+"['Luther', 'claim', 'church', 'would', 'comprise', 'law', 'taught']",Luther,0,0,6
+"['Luther', 'claim', 'church', 'would', 'comprise', 'law', 'taught']",church,0,0,6
+"['Luther', 'claim', 'church', 'would', 'comprise', 'law', 'taught']",claim,0,0,6
+"['Luther', 'claim', 'church', 'would', 'comprise', 'law', 'taught']",comprise,0,0,6
+"['Luther', 'claim', 'church', 'would', 'comprise', 'law', 'taught']",law,0,0,6
+"['Luther', 'claim', 'church', 'would', 'comprise', 'law', 'taught']",taught,0,0,6
+"['Luther', 'claim', 'church', 'would', 'comprise', 'law', 'taught']",would,0,0,6
+"['Luther', 'commemorated', 'Church', 'England']",Church,0,0,6
+"['Luther', 'commemorated', 'Church', 'England']",England,0,0,6
+"['Luther', 'commemorated', 'Church', 'England']",Luther,0,0,6
+"['Luther', 'commemorated', 'Church', 'England']",commemorated,0,0,6
+"['Luther', 'commemorated', 'Lutheran', 'Calendar', 'Saints']",Calendar,0,0,6
+"['Luther', 'commemorated', 'Lutheran', 'Calendar', 'Saints']",Luther,0,0,6
+"['Luther', 'commemorated', 'Lutheran', 'Calendar', 'Saints']",Lutheran,0,0,6
+"['Luther', 'commemorated', 'Lutheran', 'Calendar', 'Saints']",Saints,0,0,6
+"['Luther', 'commemorated', 'Lutheran', 'Calendar', 'Saints']",commemorated,0,0,6
+"['Luther', 'commemorated', 'Lutheran', 'Episcopal', 'Church', 'England', 'calendar']",Church,0,0,6
+"['Luther', 'commemorated', 'Lutheran', 'Episcopal', 'Church', 'England', 'calendar']",England,0,0,6
+"['Luther', 'commemorated', 'Lutheran', 'Episcopal', 'Church', 'England', 'calendar']",Episcopal,0,0,6
+"['Luther', 'commemorated', 'Lutheran', 'Episcopal', 'Church', 'England', 'calendar']",Luther,0,0,6
+"['Luther', 'commemorated', 'Lutheran', 'Episcopal', 'Church', 'England', 'calendar']",Lutheran,0,0,6
+"['Luther', 'commemorated', 'Lutheran', 'Episcopal', 'Church', 'England', 'calendar']",calendar,0,0,6
+"['Luther', 'commemorated', 'Lutheran', 'Episcopal', 'Church', 'England', 'calendar']",commemorated,0,0,6
+"['Luther', 'community', 'done', 'Jews', 'year', 'earlier']",Jews,0,0,6
+"['Luther', 'community', 'done', 'Jews', 'year', 'earlier']",Luther,0,0,6
+"['Luther', 'community', 'done', 'Jews', 'year', 'earlier']",community,0,0,6
+"['Luther', 'community', 'done', 'Jews', 'year', 'earlier']",done,0,0,6
+"['Luther', 'community', 'done', 'Jews', 'year', 'earlier']",earlier,0,0,6
+"['Luther', 'community', 'done', 'Jews', 'year', 'earlier']",year,0,0,6
+"['Luther', 'concerned', 'Mansfeld']",Luther,0,0,6
+"['Luther', 'concerned', 'Mansfeld']",Mansfeld,0,0,6
+"['Luther', 'concerned', 'Mansfeld']",concerned,0,0,6
+"['Luther', 'condemn', 'vow', 'celibacy']",Luther,0,0,6
+"['Luther', 'condemn', 'vow', 'celibacy']",celibacy,0,0,6
+"['Luther', 'condemn', 'vow', 'celibacy']",condemn,0,0,6
+"['Luther', 'condemn', 'vow', 'celibacy']",vow,0,0,6
+"['Luther', 'consider', 'Christ', 'life']",Christ,0,0,6
+"['Luther', 'consider', 'Christ', 'life']",Luther,0,0,6
+"['Luther', 'consider', 'Christ', 'life']",consider,0,0,6
+"['Luther', 'consider', 'Christ', 'life']",life,0,0,6
+"['Luther', 'consider', 'faith']",Luther,0,0,6
+"['Luther', 'consider', 'faith']",consider,0,0,6
+"['Luther', 'consider', 'faith']",faith,0,0,6
+"['Luther', 'contend', 'Jews']",Jews,0,0,6
+"['Luther', 'contend', 'Jews']",Luther,0,0,6
+"['Luther', 'contend', 'Jews']",contend,0,0,6
+"['Luther', 'decide', 'Catholic', 'Church']",Catholic,0,0,6
+"['Luther', 'decide', 'Catholic', 'Church']",Church,0,0,6
+"['Luther', 'decide', 'Catholic', 'Church']",Luther,0,0,6
+"['Luther', 'decide', 'Catholic', 'Church']",decide,0,0,6
+"['Luther', 'declined', 'antisemitism', 'increased']",Luther,0,0,6
+"['Luther', 'declined', 'antisemitism', 'increased']",antisemitism,0,0,6
+"['Luther', 'declined', 'antisemitism', 'increased']",declined,0,0,6
+"['Luther', 'declined', 'antisemitism', 'increased']",increased,0,0,6
+"['Luther', 'degree', '1509', 'concern']",1509,0,0,6
+"['Luther', 'degree', '1509', 'concern']",Luther,0,0,6
+"['Luther', 'degree', '1509', 'concern']",concern,0,0,6
+"['Luther', 'degree', '1509', 'concern']",degree,0,0,6
+"['Luther', 'deny', 'rebel']",Luther,0,0,6
+"['Luther', 'deny', 'rebel']",deny,0,0,6
+"['Luther', 'deny', 'rebel']",rebel,0,0,6
+"['Luther', 'describe', 'University', 'Erfurt']",Erfurt,0,0,6
+"['Luther', 'describe', 'University', 'Erfurt']",Luther,0,0,6
+"['Luther', 'describe', 'University', 'Erfurt']",University,0,0,6
+"['Luther', 'describe', 'University', 'Erfurt']",describe,0,0,6
+"['Luther', 'describe', 'learning', 'university']",Luther,0,0,6
+"['Luther', 'describe', 'learning', 'university']",describe,0,0,6
+"['Luther', 'describe', 'learning', 'university']",learning,0,0,6
+"['Luther', 'describe', 'learning', 'university']",university,0,0,6
+"['Luther', 'describe', 'mass', 'viewed', 'sacrifice']",Luther,0,0,6
+"['Luther', 'describe', 'mass', 'viewed', 'sacrifice']",describe,0,0,6
+"['Luther', 'describe', 'mass', 'viewed', 'sacrifice']",mass,0,0,6
+"['Luther', 'describe', 'mass', 'viewed', 'sacrifice']",sacrifice,0,0,6
+"['Luther', 'describe', 'mass', 'viewed', 'sacrifice']",viewed,0,0,6
+"['Luther', 'describe', 'resting', 'place', 'saint']",Luther,0,0,6
+"['Luther', 'describe', 'resting', 'place', 'saint']",describe,0,0,6
+"['Luther', 'describe', 'resting', 'place', 'saint']",place,0,0,6
+"['Luther', 'describe', 'resting', 'place', 'saint']",resting,0,0,6
+"['Luther', 'describe', 'resting', 'place', 'saint']",saint,0,0,6
+"['Luther', 'describe', 'time', 'order']",Luther,0,0,6
+"['Luther', 'describe', 'time', 'order']",describe,0,0,6
+"['Luther', 'describe', 'time', 'order']",order,0,0,6
+"['Luther', 'describe', 'time', 'order']",time,0,0,6
+"['Luther', 'devise', 'teach', 'Christianity', 'congregation']",Christianity,0,0,6
+"['Luther', 'devise', 'teach', 'Christianity', 'congregation']",Luther,0,0,6
+"['Luther', 'devise', 'teach', 'Christianity', 'congregation']",congregation,0,0,6
+"['Luther', 'devise', 'teach', 'Christianity', 'congregation']",devise,0,0,6
+"['Luther', 'devise', 'teach', 'Christianity', 'congregation']",teach,0,0,6
+"['Luther', 'end', 'speech']",Luther,0,0,6
+"['Luther', 'end', 'speech']",end,0,0,6
+"['Luther', 'end', 'speech']",speech,0,0,6
+"['Luther', 'enter', 'senate', 'Theology', 'faculty', 'University', 'Wittenberg']",Luther,0,0,6
+"['Luther', 'enter', 'senate', 'Theology', 'faculty', 'University', 'Wittenberg']",Theology,0,0,6
+"['Luther', 'enter', 'senate', 'Theology', 'faculty', 'University', 'Wittenberg']",University,0,0,6
+"['Luther', 'enter', 'senate', 'Theology', 'faculty', 'University', 'Wittenberg']",Wittenberg,0,0,6
+"['Luther', 'enter', 'senate', 'Theology', 'faculty', 'University', 'Wittenberg']",enter,0,0,6
+"['Luther', 'enter', 'senate', 'Theology', 'faculty', 'University', 'Wittenberg']",faculty,0,0,6
+"['Luther', 'enter', 'senate', 'Theology', 'faculty', 'University', 'Wittenberg']",senate,0,0,6
+"['Luther', 'establish', 'worship', 'service', 'church']",Luther,0,0,6
+"['Luther', 'establish', 'worship', 'service', 'church']",church,0,0,6
+"['Luther', 'establish', 'worship', 'service', 'church']",establish,0,0,6
+"['Luther', 'establish', 'worship', 'service', 'church']",service,0,0,6
+"['Luther', 'establish', 'worship', 'service', 'church']",worship,0,0,6
+"['Luther', 'examined', 'Augsburg', 'papal', 'legate']",Augsburg,0,0,6
+"['Luther', 'examined', 'Augsburg', 'papal', 'legate']",Luther,0,0,6
+"['Luther', 'examined', 'Augsburg', 'papal', 'legate']",examined,0,0,6
+"['Luther', 'examined', 'Augsburg', 'papal', 'legate']",legate,0,0,6
+"['Luther', 'examined', 'Augsburg', 'papal', 'legate']",papal,0,0,6
+"['Luther', 'explain', 'acquiring', 'God', 'grace']",God,0,0,6
+"['Luther', 'explain', 'acquiring', 'God', 'grace']",Luther,0,0,6
+"['Luther', 'explain', 'acquiring', 'God', 'grace']",acquiring,0,0,6
+"['Luther', 'explain', 'acquiring', 'God', 'grace']",explain,0,0,6
+"['Luther', 'explain', 'acquiring', 'God', 'grace']",grace,0,0,6
+"['Luther', 'explain', 'idea', 'justification']",Luther,0,0,6
+"['Luther', 'explain', 'idea', 'justification']",explain,0,0,6
+"['Luther', 'explain', 'idea', 'justification']",idea,0,0,6
+"['Luther', 'explain', 'idea', 'justification']",justification,0,0,6
+"['Luther', 'expound', 'greater', 'sin']",Luther,0,0,6
+"['Luther', 'expound', 'greater', 'sin']",expound,0,0,6
+"['Luther', 'expound', 'greater', 'sin']",greater,0,0,6
+"['Luther', 'expound', 'greater', 'sin']",sin,0,0,6
+"['Luther', 'expound', 'happened', 'soul', 'death']",Luther,0,0,6
+"['Luther', 'expound', 'happened', 'soul', 'death']",death,0,0,6
+"['Luther', 'expound', 'happened', 'soul', 'death']",expound,0,0,6
+"['Luther', 'expound', 'happened', 'soul', 'death']",happened,0,0,6
+"['Luther', 'expound', 'happened', 'soul', 'death']",soul,0,0,6
+"['Luther', 'express', 'destruction']",Luther,0,0,6
+"['Luther', 'express', 'destruction']",destruction,0,0,6
+"['Luther', 'express', 'destruction']",express,0,0,6
+"['Luther', 'fear', 'cause', 'avoid', 'marriage']",Luther,0,0,6
+"['Luther', 'fear', 'cause', 'avoid', 'marriage']",avoid,0,0,6
+"['Luther', 'fear', 'cause', 'avoid', 'marriage']",cause,0,0,6
+"['Luther', 'fear', 'cause', 'avoid', 'marriage']",fear,0,0,6
+"['Luther', 'fear', 'cause', 'avoid', 'marriage']",marriage,0,0,6
+"['Luther', 'feel', 'made', 'Christ']",Christ,0,0,6
+"['Luther', 'feel', 'made', 'Christ']",Luther,0,0,6
+"['Luther', 'feel', 'made', 'Christ']",feel,0,0,6
+"['Luther', 'feel', 'made', 'Christ']",made,0,0,6
+"['Luther', 'force', 'within', 'Reformation']",Luther,0,0,6
+"['Luther', 'force', 'within', 'Reformation']",Reformation,0,0,6
+"['Luther', 'force', 'within', 'Reformation']",force,0,0,6
+"['Luther', 'force', 'within', 'Reformation']",within,0,0,6
+"['Luther', 'form', '1525', '1529']",1525,0,0,6
+"['Luther', 'form', '1525', '1529']",1529,0,0,6
+"['Luther', 'form', '1525', '1529']",Luther,0,0,6
+"['Luther', 'form', '1525', '1529']",form,0,0,6
+"['Luther', 'get', 'implicated', 'concerning', 'Philip']",Luther,0,0,6
+"['Luther', 'get', 'implicated', 'concerning', 'Philip']",Philip,0,0,6
+"['Luther', 'get', 'implicated', 'concerning', 'Philip']",concerning,0,0,6
+"['Luther', 'get', 'implicated', 'concerning', 'Philip']",get,0,0,6
+"['Luther', 'get', 'implicated', 'concerning', 'Philip']",implicated,0,0,6
+"['Luther', 'give', 'response', 'Eck']",Eck,0,0,6
+"['Luther', 'give', 'response', 'Eck']",Luther,0,0,6
+"['Luther', 'give', 'response', 'Eck']",give,0,0,6
+"['Luther', 'give', 'response', 'Eck']",response,0,0,6
+"['Luther', 'go', '17', 'July', '1505']",1505,0,0,6
+"['Luther', 'go', '17', 'July', '1505']",17,0,0,6
+"['Luther', 'go', '17', 'July', '1505']",July,0,0,6
+"['Luther', 'go', '17', 'July', '1505']",Luther,0,0,6
+"['Luther', 'go', '17', 'July', '1505']",go,0,0,6
+"['Luther', 'gradually', 'see', 'hopeless', 'Reformation']",Luther,0,0,6
+"['Luther', 'gradually', 'see', 'hopeless', 'Reformation']",Reformation,0,0,6
+"['Luther', 'gradually', 'see', 'hopeless', 'Reformation']",gradually,0,0,6
+"['Luther', 'gradually', 'see', 'hopeless', 'Reformation']",hopeless,0,0,6
+"['Luther', 'gradually', 'see', 'hopeless', 'Reformation']",see,0,0,6
+"['Luther', 'health', 'year', '1531', '1546']",1531,0,0,6
+"['Luther', 'health', 'year', '1531', '1546']",1546,0,0,6
+"['Luther', 'health', 'year', '1531', '1546']",Luther,0,0,6
+"['Luther', 'health', 'year', '1531', '1546']",health,0,0,6
+"['Luther', 'health', 'year', '1531', '1546']",year,0,0,6
+"['Luther', 'hymn', 'Christ', 'unser', 'Herr', 'zum', 'jordan', 'kam', 'concern']",Christ,0,0,6
+"['Luther', 'hymn', 'Christ', 'unser', 'Herr', 'zum', 'jordan', 'kam', 'concern']",Herr,0,0,6
+"['Luther', 'hymn', 'Christ', 'unser', 'Herr', 'zum', 'jordan', 'kam', 'concern']",Luther,0,0,6
+"['Luther', 'hymn', 'Christ', 'unser', 'Herr', 'zum', 'jordan', 'kam', 'concern']",concern,0,0,6
+"['Luther', 'hymn', 'Christ', 'unser', 'Herr', 'zum', 'jordan', 'kam', 'concern']",hymn,0,0,6
+"['Luther', 'hymn', 'Christ', 'unser', 'Herr', 'zum', 'jordan', 'kam', 'concern']",jordan,0,0,6
+"['Luther', 'hymn', 'Christ', 'unser', 'Herr', 'zum', 'jordan', 'kam', 'concern']",kam,0,0,6
+"['Luther', 'hymn', 'Christ', 'unser', 'Herr', 'zum', 'jordan', 'kam', 'concern']",unser,0,0,6
+"['Luther', 'hymn', 'Christ', 'unser', 'Herr', 'zum', 'jordan', 'kam', 'concern']",zum,0,0,6
+"['Luther', 'hymn', 'included']",Luther,0,0,6
+"['Luther', 'hymn', 'included']",hymn,0,0,6
+"['Luther', 'hymn', 'included']",included,0,0,6
+"['Luther', 'hymn', 'main', 'one', 'Advent']",Advent,0,0,6
+"['Luther', 'hymn', 'main', 'one', 'Advent']",Luther,0,0,6
+"['Luther', 'hymn', 'main', 'one', 'Advent']",hymn,0,0,6
+"['Luther', 'hymn', 'main', 'one', 'Advent']",main,0,0,6
+"['Luther', 'hymn', 'main', 'one', 'Advent']",one,0,0,6
+"['Luther', 'identify', 'Papacy']",Luther,0,0,6
+"['Luther', 'identify', 'Papacy']",Papacy,0,0,6
+"['Luther', 'identify', 'Papacy']",identify,0,0,6
+"['Luther', 'insist', 'present', 'bread', 'wine']",Luther,0,0,6
+"['Luther', 'insist', 'present', 'bread', 'wine']",bread,0,0,6
+"['Luther', 'insist', 'present', 'bread', 'wine']",insist,0,0,6
+"['Luther', 'insist', 'present', 'bread', 'wine']",present,0,0,6
+"['Luther', 'insist', 'present', 'bread', 'wine']",wine,0,0,6
+"['Luther', 'introduce', 'new', 'worship']",Luther,0,0,6
+"['Luther', 'introduce', 'new', 'worship']",introduce,0,0,6
+"['Luther', 'introduce', 'new', 'worship']",new,0,0,6
+"['Luther', 'introduce', 'new', 'worship']",worship,0,0,6
+"['Luther', 'involved', 'dealing', 'mind', 'Mansfeld']",Luther,0,0,6
+"['Luther', 'involved', 'dealing', 'mind', 'Mansfeld']",Mansfeld,0,0,6
+"['Luther', 'involved', 'dealing', 'mind', 'Mansfeld']",dealing,0,0,6
+"['Luther', 'involved', 'dealing', 'mind', 'Mansfeld']",involved,0,0,6
+"['Luther', 'involved', 'dealing', 'mind', 'Mansfeld']",mind,0,0,6
+"['Luther', 'last', 'sermon', 'preached']",Luther,0,0,6
+"['Luther', 'last', 'sermon', 'preached']",last,0,0,6
+"['Luther', 'last', 'sermon', 'preached']",preached,0,0,6
+"['Luther', 'last', 'sermon', 'preached']",sermon,0,0,6
+"['Luther', 'last', 'sermon']",Luther,0,0,6
+"['Luther', 'last', 'sermon']",last,0,0,6
+"['Luther', 'last', 'sermon']",sermon,0,0,6
+"['Luther', 'major', 'work', '60,000', 'word', 'Jews']","60,000",0,0,6
+"['Luther', 'major', 'work', '60,000', 'word', 'Jews']",Jews,0,0,6
+"['Luther', 'major', 'work', '60,000', 'word', 'Jews']",Luther,0,0,6
+"['Luther', 'major', 'work', '60,000', 'word', 'Jews']",major,0,0,6
+"['Luther', 'major', 'work', '60,000', 'word', 'Jews']",word,0,0,6
+"['Luther', 'major', 'work', '60,000', 'word', 'Jews']",work,0,0,6
+"['Luther', 'marriage', 'seen', 'others']",Luther,0,0,6
+"['Luther', 'marriage', 'seen', 'others']",marriage,0,0,6
+"['Luther', 'marriage', 'seen', 'others']",others,0,0,6
+"['Luther', 'marriage', 'seen', 'others']",seen,0,0,6
+"['Luther', 'mean', 'new', 'mass', 'replace']",Luther,0,0,6
+"['Luther', 'mean', 'new', 'mass', 'replace']",mass,0,0,6
+"['Luther', 'mean', 'new', 'mass', 'replace']",mean,0,0,6
+"['Luther', 'mean', 'new', 'mass', 'replace']",new,0,0,6
+"['Luther', 'mean', 'new', 'mass', 'replace']",replace,0,0,6
+"['Luther', 'mostly', 'concentrating', 'effort', 'reform']",Luther,0,0,6
+"['Luther', 'mostly', 'concentrating', 'effort', 'reform']",concentrating,0,0,6
+"['Luther', 'mostly', 'concentrating', 'effort', 'reform']",effort,0,0,6
+"['Luther', 'mostly', 'concentrating', 'effort', 'reform']",mostly,0,0,6
+"['Luther', 'mostly', 'concentrating', 'effort', 'reform']",reform,0,0,6
+"['Luther', 'need', 'avoid', 'excommunication']",Luther,0,0,6
+"['Luther', 'need', 'avoid', 'excommunication']",avoid,0,0,6
+"['Luther', 'need', 'avoid', 'excommunication']",excommunication,0,0,6
+"['Luther', 'need', 'avoid', 'excommunication']",need,0,0,6
+"['Luther', 'opinion', 'law', 'cover']",Luther,0,0,6
+"['Luther', 'opinion', 'law', 'cover']",cover,0,0,6
+"['Luther', 'opinion', 'law', 'cover']",law,0,0,6
+"['Luther', 'opinion', 'law', 'cover']",opinion,0,0,6
+"['Luther', 'opponent', 'think', 'meant', 'God', 'presence']",God,0,0,6
+"['Luther', 'opponent', 'think', 'meant', 'God', 'presence']",Luther,0,0,6
+"['Luther', 'opponent', 'think', 'meant', 'God', 'presence']",meant,0,0,6
+"['Luther', 'opponent', 'think', 'meant', 'God', 'presence']",opponent,0,0,6
+"['Luther', 'opponent', 'think', 'meant', 'God', 'presence']",presence,0,0,6
+"['Luther', 'opponent', 'think', 'meant', 'God', 'presence']",think,0,0,6
+"['Luther', 'persuade', 'Archbishop', 'Albrecht', 'stop', 'sale', 'indulgence']",Albrecht,0,0,6
+"['Luther', 'persuade', 'Archbishop', 'Albrecht', 'stop', 'sale', 'indulgence']",Archbishop,0,0,6
+"['Luther', 'persuade', 'Archbishop', 'Albrecht', 'stop', 'sale', 'indulgence']",Luther,0,0,6
+"['Luther', 'persuade', 'Archbishop', 'Albrecht', 'stop', 'sale', 'indulgence']",indulgence,0,0,6
+"['Luther', 'persuade', 'Archbishop', 'Albrecht', 'stop', 'sale', 'indulgence']",persuade,0,0,6
+"['Luther', 'persuade', 'Archbishop', 'Albrecht', 'stop', 'sale', 'indulgence']",sale,0,0,6
+"['Luther', 'persuade', 'Archbishop', 'Albrecht', 'stop', 'sale', 'indulgence']",stop,0,0,6
+"['Luther', 'place', 'Salvation']",Luther,0,0,6
+"['Luther', 'place', 'Salvation']",Salvation,0,0,6
+"['Luther', 'place', 'Salvation']",place,0,0,6
+"['Luther', 'presented', 'image', 'spread', 'Protestantism']",Luther,0,0,6
+"['Luther', 'presented', 'image', 'spread', 'Protestantism']",Protestantism,0,0,6
+"['Luther', 'presented', 'image', 'spread', 'Protestantism']",image,0,0,6
+"['Luther', 'presented', 'image', 'spread', 'Protestantism']",presented,0,0,6
+"['Luther', 'presented', 'image', 'spread', 'Protestantism']",spread,0,0,6
+"['Luther', 'produce', 'hymnic', 'version', 'Lord', 'Prayer']",Lord,0,0,6
+"['Luther', 'produce', 'hymnic', 'version', 'Lord', 'Prayer']",Luther,0,0,6
+"['Luther', 'produce', 'hymnic', 'version', 'Lord', 'Prayer']",Prayer,0,0,6
+"['Luther', 'produce', 'hymnic', 'version', 'Lord', 'Prayer']",hymnic,0,0,6
+"['Luther', 'produce', 'hymnic', 'version', 'Lord', 'Prayer']",produce,0,0,6
+"['Luther', 'produce', 'hymnic', 'version', 'Lord', 'Prayer']",version,0,0,6
+"['Luther', 'promise', 'concession']",Luther,0,0,6
+"['Luther', 'promise', 'concession']",concession,0,0,6
+"['Luther', 'promise', 'concession']",promise,0,0,6
+"['Luther', 'prospective', 'bride', 'engaged']",Luther,0,0,6
+"['Luther', 'prospective', 'bride', 'engaged']",bride,0,0,6
+"['Luther', 'prospective', 'bride', 'engaged']",engaged,0,0,6
+"['Luther', 'prospective', 'bride', 'engaged']",prospective,0,0,6
+"['Luther', 'publish', 'On', 'Bondage', 'Will']",Bondage,0,0,6
+"['Luther', 'publish', 'On', 'Bondage', 'Will']",Luther,0,0,6
+"['Luther', 'publish', 'On', 'Bondage', 'Will']",On,0,0,6
+"['Luther', 'publish', 'On', 'Bondage', 'Will']",Will,0,0,6
+"['Luther', 'publish', 'On', 'Bondage', 'Will']",publish,0,0,6
+"['Luther', 'receive', 'degree', 'Biblical', 'study']",Biblical,0,0,6
+"['Luther', 'receive', 'degree', 'Biblical', 'study']",Luther,0,0,6
+"['Luther', 'receive', 'degree', 'Biblical', 'study']",degree,0,0,6
+"['Luther', 'receive', 'degree', 'Biblical', 'study']",receive,0,0,6
+"['Luther', 'receive', 'degree', 'Biblical', 'study']",study,0,0,6
+"['Luther', 'refuse']",Luther,0,0,6
+"['Luther', 'refuse']",refuse,0,0,6
+"['Luther', 'remind', 'peasant', 'obey']",Luther,0,0,6
+"['Luther', 'remind', 'peasant', 'obey']",obey,0,0,6
+"['Luther', 'remind', 'peasant', 'obey']",peasant,0,0,6
+"['Luther', 'remind', 'peasant', 'obey']",remind,0,0,6
+"['Luther', 'respond', 'Agricola']",Agricola,0,0,6
+"['Luther', 'respond', 'Agricola']",Luther,0,0,6
+"['Luther', 'respond', 'Agricola']",respond,0,0,6
+"['Luther', 'respond', 'asked', 'book']",Luther,0,0,6
+"['Luther', 'respond', 'asked', 'book']",asked,0,0,6
+"['Luther', 'respond', 'asked', 'book']",book,0,0,6
+"['Luther', 'respond', 'asked', 'book']",respond,0,0,6
+"['Luther', 'return', 'Wittenberg']",Luther,0,0,6
+"['Luther', 'return', 'Wittenberg']",Wittenberg,0,0,6
+"['Luther', 'return', 'Wittenberg']",return,0,0,6
+"['Luther', 'save', 'group', 'nun', 'convent']",Luther,0,0,6
+"['Luther', 'save', 'group', 'nun', 'convent']",convent,0,0,6
+"['Luther', 'save', 'group', 'nun', 'convent']",group,0,0,6
+"['Luther', 'save', 'group', 'nun', 'convent']",nun,0,0,6
+"['Luther', 'save', 'group', 'nun', 'convent']",save,0,0,6
+"['Luther', 'say', 'Christians', 'must', 'slacken', 'following']",Christians,0,0,6
+"['Luther', 'say', 'Christians', 'must', 'slacken', 'following']",Luther,0,0,6
+"['Luther', 'say', 'Christians', 'must', 'slacken', 'following']",following,0,0,6
+"['Luther', 'say', 'Christians', 'must', 'slacken', 'following']",must,0,0,6
+"['Luther', 'say', 'Christians', 'must', 'slacken', 'following']",say,0,0,6
+"['Luther', 'say', 'Christians', 'must', 'slacken', 'following']",slacken,0,0,6
+"['Luther', 'say', 'common', 'people', 'knew', 'nothing']",Luther,0,0,6
+"['Luther', 'say', 'common', 'people', 'knew', 'nothing']",common,0,0,6
+"['Luther', 'say', 'common', 'people', 'knew', 'nothing']",knew,0,0,6
+"['Luther', 'say', 'common', 'people', 'knew', 'nothing']",nothing,0,0,6
+"['Luther', 'say', 'common', 'people', 'knew', 'nothing']",people,0,0,6
+"['Luther', 'say', 'common', 'people', 'knew', 'nothing']",say,0,0,6
+"['Luther', 'say', 'reason', 'contributes', 'faith']",Luther,0,0,6
+"['Luther', 'say', 'reason', 'contributes', 'faith']",contributes,0,0,6
+"['Luther', 'say', 'reason', 'contributes', 'faith']",faith,0,0,6
+"['Luther', 'say', 'reason', 'contributes', 'faith']",reason,0,0,6
+"['Luther', 'say', 'reason', 'contributes', 'faith']",say,0,0,6
+"['Luther', 'say', 'soul', ""n't"", 'sleep', 'rather', 'vision']",Luther,0,0,6
+"['Luther', 'say', 'soul', ""n't"", 'sleep', 'rather', 'vision']",n't,0,0,6
+"['Luther', 'say', 'soul', ""n't"", 'sleep', 'rather', 'vision']",rather,0,0,6
+"['Luther', 'say', 'soul', ""n't"", 'sleep', 'rather', 'vision']",say,0,0,6
+"['Luther', 'say', 'soul', ""n't"", 'sleep', 'rather', 'vision']",sleep,0,0,6
+"['Luther', 'say', 'soul', ""n't"", 'sleep', 'rather', 'vision']",soul,0,0,6
+"['Luther', 'say', 'soul', ""n't"", 'sleep', 'rather', 'vision']",vision,0,0,6
+"['Luther', 'say', 'would', 'allow', 'Jews', 'stay']",Jews,0,0,6
+"['Luther', 'say', 'would', 'allow', 'Jews', 'stay']",Luther,0,0,6
+"['Luther', 'say', 'would', 'allow', 'Jews', 'stay']",allow,0,0,6
+"['Luther', 'say', 'would', 'allow', 'Jews', 'stay']",say,0,0,6
+"['Luther', 'say', 'would', 'allow', 'Jews', 'stay']",stay,0,0,6
+"['Luther', 'say', 'would', 'allow', 'Jews', 'stay']",would,0,0,6
+"['Luther', 'seek', 'restore']",Luther,0,0,6
+"['Luther', 'seek', 'restore']",restore,0,0,6
+"['Luther', 'seek', 'restore']",seek,0,0,6
+"['Luther', 'show', 'Trinity', 'catechism']",Luther,0,0,6
+"['Luther', 'show', 'Trinity', 'catechism']",Trinity,0,0,6
+"['Luther', 'show', 'Trinity', 'catechism']",catechism,0,0,6
+"['Luther', 'show', 'Trinity', 'catechism']",show,0,0,6
+"['Luther', 'smuggle', '12', 'nun', 'convent', 'rebellion']",12,0,0,6
+"['Luther', 'smuggle', '12', 'nun', 'convent', 'rebellion']",Luther,0,0,6
+"['Luther', 'smuggle', '12', 'nun', 'convent', 'rebellion']",convent,0,0,6
+"['Luther', 'smuggle', '12', 'nun', 'convent', 'rebellion']",nun,0,0,6
+"['Luther', 'smuggle', '12', 'nun', 'convent', 'rebellion']",rebellion,0,0,6
+"['Luther', 'smuggle', '12', 'nun', 'convent', 'rebellion']",smuggle,0,0,6
+"['Luther', 'speak', 'Saxony']",Luther,0,0,6
+"['Luther', 'speak', 'Saxony']",Saxony,0,0,6
+"['Luther', 'speak', 'Saxony']",speak,0,0,6
+"['Luther', 'spend', 'career']",Luther,0,0,6
+"['Luther', 'spend', 'career']",career,0,0,6
+"['Luther', 'spend', 'career']",spend,0,0,6
+"['Luther', 'start', 'preaching', 'Prophetic', 'faith']",Luther,0,0,6
+"['Luther', 'start', 'preaching', 'Prophetic', 'faith']",Prophetic,0,0,6
+"['Luther', 'start', 'preaching', 'Prophetic', 'faith']",faith,0,0,6
+"['Luther', 'start', 'preaching', 'Prophetic', 'faith']",preaching,0,0,6
+"['Luther', 'start', 'preaching', 'Prophetic', 'faith']",start,0,0,6
+"['Luther', 'state', 'mean', 'discouraging', 'mistreatment', 'Jews']",Jews,0,0,6
+"['Luther', 'state', 'mean', 'discouraging', 'mistreatment', 'Jews']",Luther,0,0,6
+"['Luther', 'state', 'mean', 'discouraging', 'mistreatment', 'Jews']",discouraging,0,0,6
+"['Luther', 'state', 'mean', 'discouraging', 'mistreatment', 'Jews']",mean,0,0,6
+"['Luther', 'state', 'mean', 'discouraging', 'mistreatment', 'Jews']",mistreatment,0,0,6
+"['Luther', 'state', 'mean', 'discouraging', 'mistreatment', 'Jews']",state,0,0,6
+"['Luther', 'state', 'would', 'exchange', 'life', 'wife']",Luther,0,0,6
+"['Luther', 'state', 'would', 'exchange', 'life', 'wife']",exchange,0,0,6
+"['Luther', 'state', 'would', 'exchange', 'life', 'wife']",life,0,0,6
+"['Luther', 'state', 'would', 'exchange', 'life', 'wife']",state,0,0,6
+"['Luther', 'state', 'would', 'exchange', 'life', 'wife']",wife,0,0,6
+"['Luther', 'state', 'would', 'exchange', 'life', 'wife']",would,0,0,6
+"['Luther', 'strike', 'later', 'year']",Luther,0,0,6
+"['Luther', 'strike', 'later', 'year']",later,0,0,6
+"['Luther', 'strike', 'later', 'year']",strike,0,0,6
+"['Luther', 'strike', 'later', 'year']",year,0,0,6
+"['Luther', 'tell', 'legate', 'papacy']",Luther,0,0,6
+"['Luther', 'tell', 'legate', 'papacy']",legate,0,0,6
+"['Luther', 'tell', 'legate', 'papacy']",papacy,0,0,6
+"['Luther', 'tell', 'legate', 'papacy']",tell,0,0,6
+"['Luther', 'tell', 'monk', 'nun', 'vow']",Luther,0,0,6
+"['Luther', 'tell', 'monk', 'nun', 'vow']",monk,0,0,6
+"['Luther', 'tell', 'monk', 'nun', 'vow']",nun,0,0,6
+"['Luther', 'tell', 'monk', 'nun', 'vow']",tell,0,0,6
+"['Luther', 'tell', 'monk', 'nun', 'vow']",vow,0,0,6
+"['Luther', 'think', 'Purgatory']",Luther,0,0,6
+"['Luther', 'think', 'Purgatory']",Purgatory,0,0,6
+"['Luther', 'think', 'Purgatory']",think,0,0,6
+"['Luther', 'think', 'behind', 'antinomian', 'thesis', 'circulating', 'Wittenberg']",Luther,0,0,6
+"['Luther', 'think', 'behind', 'antinomian', 'thesis', 'circulating', 'Wittenberg']",Wittenberg,0,0,6
+"['Luther', 'think', 'behind', 'antinomian', 'thesis', 'circulating', 'Wittenberg']",antinomian,0,0,6
+"['Luther', 'think', 'behind', 'antinomian', 'thesis', 'circulating', 'Wittenberg']",behind,0,0,6
+"['Luther', 'think', 'behind', 'antinomian', 'thesis', 'circulating', 'Wittenberg']",circulating,0,0,6
+"['Luther', 'think', 'behind', 'antinomian', 'thesis', 'circulating', 'Wittenberg']",thesis,0,0,6
+"['Luther', 'think', 'behind', 'antinomian', 'thesis', 'circulating', 'Wittenberg']",think,0,0,6
+"['Luther', 'think', 'faith', 'understood']",Luther,0,0,6
+"['Luther', 'think', 'faith', 'understood']",faith,0,0,6
+"['Luther', 'think', 'faith', 'understood']",think,0,0,6
+"['Luther', 'think', 'faith', 'understood']",understood,0,0,6
+"['Luther', 'think', 'reason', 'used', 'test']",Luther,0,0,6
+"['Luther', 'think', 'reason', 'used', 'test']",reason,0,0,6
+"['Luther', 'think', 'reason', 'used', 'test']",test,0,0,6
+"['Luther', 'think', 'reason', 'used', 'test']",think,0,0,6
+"['Luther', 'think', 'reason', 'used', 'test']",used,0,0,6
+"['Luther', 'think', 'required', 'stop', 'violence']",Luther,0,0,6
+"['Luther', 'think', 'required', 'stop', 'violence']",required,0,0,6
+"['Luther', 'think', 'required', 'stop', 'violence']",stop,0,0,6
+"['Luther', 'think', 'required', 'stop', 'violence']",think,0,0,6
+"['Luther', 'think', 'required', 'stop', 'violence']",violence,0,0,6
+"['Luther', 'think', 'source', 'knowledge', 'God']",God,0,0,6
+"['Luther', 'think', 'source', 'knowledge', 'God']",Luther,0,0,6
+"['Luther', 'think', 'source', 'knowledge', 'God']",knowledge,0,0,6
+"['Luther', 'think', 'source', 'knowledge', 'God']",source,0,0,6
+"['Luther', 'think', 'source', 'knowledge', 'God']",think,0,0,6
+"['Luther', 'think', 'study', 'law', 'meant']",Luther,0,0,6
+"['Luther', 'think', 'study', 'law', 'meant']",law,0,0,6
+"['Luther', 'think', 'study', 'law', 'meant']",meant,0,0,6
+"['Luther', 'think', 'study', 'law', 'meant']",study,0,0,6
+"['Luther', 'think', 'study', 'law', 'meant']",think,0,0,6
+"['Luther', 'thought', 'extent', 'church']",Luther,0,0,6
+"['Luther', 'thought', 'extent', 'church']",church,0,0,6
+"['Luther', 'thought', 'extent', 'church']",extent,0,0,6
+"['Luther', 'thought', 'extent', 'church']",thought,0,0,6
+"['Luther', 'translation', 'Bible', 'promote', 'German', 'language']",Bible,0,0,6
+"['Luther', 'translation', 'Bible', 'promote', 'German', 'language']",German,0,0,6
+"['Luther', 'translation', 'Bible', 'promote', 'German', 'language']",Luther,0,0,6
+"['Luther', 'translation', 'Bible', 'promote', 'German', 'language']",language,0,0,6
+"['Luther', 'translation', 'Bible', 'promote', 'German', 'language']",promote,0,0,6
+"['Luther', 'translation', 'Bible', 'promote', 'German', 'language']",translation,0,0,6
+"['Luther', 'travel', 'Mansfeld', 'twice']",Luther,0,0,6
+"['Luther', 'travel', 'Mansfeld', 'twice']",Mansfeld,0,0,6
+"['Luther', 'travel', 'Mansfeld', 'twice']",travel,0,0,6
+"['Luther', 'travel', 'Mansfeld', 'twice']",twice,0,0,6
+"['Luther', 'treated', 'Jews', 'like', 'way', 'treated', 'group']",Jews,0,0,6
+"['Luther', 'treated', 'Jews', 'like', 'way', 'treated', 'group']",Luther,0,0,6
+"['Luther', 'treated', 'Jews', 'like', 'way', 'treated', 'group']",group,0,0,6
+"['Luther', 'treated', 'Jews', 'like', 'way', 'treated', 'group']",like,0,0,6
+"['Luther', 'treated', 'Jews', 'like', 'way', 'treated', 'group']",treated,0,0,6
+"['Luther', 'treated', 'Jews', 'like', 'way', 'treated', 'group']",way,0,0,6
+"['Luther', 'try', 'Jews']",Jews,0,0,6
+"['Luther', 'try', 'Jews']",Luther,0,0,6
+"['Luther', 'try', 'Jews']",try,0,0,6
+"['Luther', 'try', 'avoid', 'setting', 'church']",Luther,0,0,6
+"['Luther', 'try', 'avoid', 'setting', 'church']",avoid,0,0,6
+"['Luther', 'try', 'avoid', 'setting', 'church']",church,0,0,6
+"['Luther', 'try', 'avoid', 'setting', 'church']",setting,0,0,6
+"['Luther', 'try', 'avoid', 'setting', 'church']",try,0,0,6
+"['Luther', 'tutor', 'advise', 'test', 'learned']",Luther,0,0,6
+"['Luther', 'tutor', 'advise', 'test', 'learned']",advise,0,0,6
+"['Luther', 'tutor', 'advise', 'test', 'learned']",learned,0,0,6
+"['Luther', 'tutor', 'advise', 'test', 'learned']",test,0,0,6
+"['Luther', 'tutor', 'advise', 'test', 'learned']",tutor,0,0,6
+"['Luther', 'use', 'accompaniment', 'hymn']",Luther,0,0,6
+"['Luther', 'use', 'accompaniment', 'hymn']",accompaniment,0,0,6
+"['Luther', 'use', 'accompaniment', 'hymn']",hymn,0,0,6
+"['Luther', 'use', 'accompaniment', 'hymn']",use,0,0,6
+"['Luther', 'use', 'celebrate', 'worship']",Luther,0,0,6
+"['Luther', 'use', 'celebrate', 'worship']",celebrate,0,0,6
+"['Luther', 'use', 'celebrate', 'worship']",use,0,0,6
+"['Luther', 'use', 'celebrate', 'worship']",worship,0,0,6
+"['Luther', 'use', 'hymn', 'encourage', 'colleague']",Luther,0,0,6
+"['Luther', 'use', 'hymn', 'encourage', 'colleague']",colleague,0,0,6
+"['Luther', 'use', 'hymn', 'encourage', 'colleague']",encourage,0,0,6
+"['Luther', 'use', 'hymn', 'encourage', 'colleague']",hymn,0,0,6
+"['Luther', 'use', 'hymn', 'encourage', 'colleague']",use,0,0,6
+"['Luther', 'view', 'Antichrist']",Antichrist,0,0,6
+"['Luther', 'view', 'Antichrist']",Luther,0,0,6
+"['Luther', 'view', 'Antichrist']",view,0,0,6
+"['Luther', 'view', 'Islam']",Islam,0,0,6
+"['Luther', 'view', 'Islam']",Luther,0,0,6
+"['Luther', 'view', 'Islam']",view,0,0,6
+"['Luther', 'view', 'Ottoman', 'Turks']",Luther,0,0,6
+"['Luther', 'view', 'Ottoman', 'Turks']",Ottoman,0,0,6
+"['Luther', 'view', 'Ottoman', 'Turks']",Turks,0,0,6
+"['Luther', 'view', 'Ottoman', 'Turks']",view,0,0,6
+"['Luther', 'waken', 'chest', 'pain']",Luther,0,0,6
+"['Luther', 'waken', 'chest', 'pain']",chest,0,0,6
+"['Luther', 'waken', 'chest', 'pain']",pain,0,0,6
+"['Luther', 'waken', 'chest', 'pain']",waken,0,0,6
+"['Luther', 'want', 'people', 'bring', 'change']",Luther,0,0,6
+"['Luther', 'want', 'people', 'bring', 'change']",bring,0,0,6
+"['Luther', 'want', 'people', 'bring', 'change']",change,0,0,6
+"['Luther', 'want', 'people', 'bring', 'change']",people,0,0,6
+"['Luther', 'want', 'people', 'bring', 'change']",want,0,0,6
+"['Luther', 'went', 'bed', 'quoting', 'scripture']",Luther,0,0,6
+"['Luther', 'went', 'bed', 'quoting', 'scripture']",bed,0,0,6
+"['Luther', 'went', 'bed', 'quoting', 'scripture']",quoting,0,0,6
+"['Luther', 'went', 'bed', 'quoting', 'scripture']",scripture,0,0,6
+"['Luther', 'went', 'bed', 'quoting', 'scripture']",went,0,0,6
+"['Luther', 'wife', 'live']",Luther,0,0,6
+"['Luther', 'wife', 'live']",live,0,0,6
+"['Luther', 'wife', 'live']",wife,0,0,6
+"['Luther', 'write', 'German', 'mass']",German,0,0,6
+"['Luther', 'write', 'German', 'mass']",Luther,0,0,6
+"['Luther', 'write', 'German', 'mass']",mass,0,0,6
+"['Luther', 'write', 'German', 'mass']",write,0,0,6
+"['Luther', 'write', 'Large', 'Catechism']",Catechism,0,0,6
+"['Luther', 'write', 'Large', 'Catechism']",Large,0,0,6
+"['Luther', 'write', 'Large', 'Catechism']",Luther,0,0,6
+"['Luther', 'write', 'Large', 'Catechism']",write,0,0,6
+"['Luther', 'write', 'Melanchhon', 'God', 'grace']",God,0,0,6
+"['Luther', 'write', 'Melanchhon', 'God', 'grace']",Luther,0,0,6
+"['Luther', 'write', 'Melanchhon', 'God', 'grace']",Melanchhon,0,0,6
+"['Luther', 'write', 'Melanchhon', 'God', 'grace']",grace,0,0,6
+"['Luther', 'write', 'Melanchhon', 'God', 'grace']",write,0,0,6
+"['Luther', 'write', 'Wir', 'glauben', 'einen', 'Gott']",Gott,0,0,6
+"['Luther', 'write', 'Wir', 'glauben', 'einen', 'Gott']",Luther,0,0,6
+"['Luther', 'write', 'Wir', 'glauben', 'einen', 'Gott']",Wir,0,0,6
+"['Luther', 'write', 'Wir', 'glauben', 'einen', 'Gott']",einen,0,0,6
+"['Luther', 'write', 'Wir', 'glauben', 'einen', 'Gott']",glauben,0,0,6
+"['Luther', 'write', 'Wir', 'glauben', 'einen', 'Gott']",write,0,0,6
+"['Luther', 'write', 'extreme', 'treatise', 'Jews']",Jews,0,0,6
+"['Luther', 'write', 'extreme', 'treatise', 'Jews']",Luther,0,0,6
+"['Luther', 'write', 'extreme', 'treatise', 'Jews']",extreme,0,0,6
+"['Luther', 'write', 'extreme', 'treatise', 'Jews']",treatise,0,0,6
+"['Luther', 'write', 'extreme', 'treatise', 'Jews']",write,0,0,6
+"['Luther', 'write', 'hymn', 'From', 'Depths', 'Woe', 'cry', 'You']",Depths,0,0,6
+"['Luther', 'write', 'hymn', 'From', 'Depths', 'Woe', 'cry', 'You']",From,0,0,6
+"['Luther', 'write', 'hymn', 'From', 'Depths', 'Woe', 'cry', 'You']",Luther,0,0,6
+"['Luther', 'write', 'hymn', 'From', 'Depths', 'Woe', 'cry', 'You']",Woe,0,0,6
+"['Luther', 'write', 'hymn', 'From', 'Depths', 'Woe', 'cry', 'You']",You,0,0,6
+"['Luther', 'write', 'hymn', 'From', 'Depths', 'Woe', 'cry', 'You']",cry,0,0,6
+"['Luther', 'write', 'hymn', 'From', 'Depths', 'Woe', 'cry', 'You']",hymn,0,0,6
+"['Luther', 'write', 'hymn', 'From', 'Depths', 'Woe', 'cry', 'You']",write,0,0,6
+"['Luther', 'write', 'life', ""n't""]",Luther,0,0,6
+"['Luther', 'write', 'life', ""n't""]",life,0,0,6
+"['Luther', 'write', 'life', ""n't""]",n't,0,0,6
+"['Luther', 'write', 'life', ""n't""]",write,0,0,6
+"['Luther', 'write', 'outline', 'new', 'faith']",Luther,0,0,6
+"['Luther', 'write', 'outline', 'new', 'faith']",faith,0,0,6
+"['Luther', 'write', 'outline', 'new', 'faith']",new,0,0,6
+"['Luther', 'write', 'outline', 'new', 'faith']",outline,0,0,6
+"['Luther', 'write', 'outline', 'new', 'faith']",write,0,0,6
+"['Luther', 'write', 'seldom', 'met']",Luther,0,0,6
+"['Luther', 'write', 'seldom', 'met']",met,0,0,6
+"['Luther', 'write', 'seldom', 'met']",seldom,0,0,6
+"['Luther', 'write', 'seldom', 'met']",write,0,0,6
+"['Luther', 'writing', 'Jews', 'ignored', 'according', 'Johannes', 'Wallmann']",Jews,0,0,6
+"['Luther', 'writing', 'Jews', 'ignored', 'according', 'Johannes', 'Wallmann']",Johannes,0,0,6
+"['Luther', 'writing', 'Jews', 'ignored', 'according', 'Johannes', 'Wallmann']",Luther,0,0,6
+"['Luther', 'writing', 'Jews', 'ignored', 'according', 'Johannes', 'Wallmann']",Wallmann,0,0,6
+"['Luther', 'writing', 'Jews', 'ignored', 'according', 'Johannes', 'Wallmann']",according,0,0,6
+"['Luther', 'writing', 'Jews', 'ignored', 'according', 'Johannes', 'Wallmann']",ignored,0,0,6
+"['Luther', 'writing', 'Jews', 'ignored', 'according', 'Johannes', 'Wallmann']",writing,0,0,6
+"['Luther', 'writing', 'sound', 'became', 'le', 'healthy']",Luther,0,0,6
+"['Luther', 'writing', 'sound', 'became', 'le', 'healthy']",became,0,0,6
+"['Luther', 'writing', 'sound', 'became', 'le', 'healthy']",healthy,0,0,6
+"['Luther', 'writing', 'sound', 'became', 'le', 'healthy']",le,0,0,6
+"['Luther', 'writing', 'sound', 'became', 'le', 'healthy']",sound,0,0,6
+"['Luther', 'writing', 'sound', 'became', 'le', 'healthy']",writing,0,0,6
+"['Luther', 'writing', 'spread', 'France', 'England', 'Italy']",England,0,0,6
+"['Luther', 'writing', 'spread', 'France', 'England', 'Italy']",France,0,0,6
+"['Luther', 'writing', 'spread', 'France', 'England', 'Italy']",Italy,0,0,6
+"['Luther', 'writing', 'spread', 'France', 'England', 'Italy']",Luther,0,0,6
+"['Luther', 'writing', 'spread', 'France', 'England', 'Italy']",spread,0,0,6
+"['Luther', 'writing', 'spread', 'France', 'England', 'Italy']",writing,0,0,6
+"['Lutheran', 'Churches', 'repudiated', 'Luther', 'statement', 'Jews']",Churches,0,0,6
+"['Lutheran', 'Churches', 'repudiated', 'Luther', 'statement', 'Jews']",Jews,0,0,6
+"['Lutheran', 'Churches', 'repudiated', 'Luther', 'statement', 'Jews']",Luther,0,0,6
+"['Lutheran', 'Churches', 'repudiated', 'Luther', 'statement', 'Jews']",Lutheran,0,0,6
+"['Lutheran', 'Churches', 'repudiated', 'Luther', 'statement', 'Jews']",repudiated,0,0,6
+"['Lutheran', 'Churches', 'repudiated', 'Luther', 'statement', 'Jews']",statement,0,0,6
+"['Lutheran', 'cleric', 'use', 'fuel', 'bolster', 'Policies', 'Nazis']",Lutheran,0,0,6
+"['Lutheran', 'cleric', 'use', 'fuel', 'bolster', 'Policies', 'Nazis']",Nazis,0,0,6
+"['Lutheran', 'cleric', 'use', 'fuel', 'bolster', 'Policies', 'Nazis']",Policies,0,0,6
+"['Lutheran', 'cleric', 'use', 'fuel', 'bolster', 'Policies', 'Nazis']",bolster,0,0,6
+"['Lutheran', 'cleric', 'use', 'fuel', 'bolster', 'Policies', 'Nazis']",cleric,0,0,6
+"['Lutheran', 'cleric', 'use', 'fuel', 'bolster', 'Policies', 'Nazis']",fuel,0,0,6
+"['Lutheran', 'cleric', 'use', 'fuel', 'bolster', 'Policies', 'Nazis']",use,0,0,6
+"['Marburg', 'Colloquy', 'meant', 'establish']",Colloquy,0,0,6
+"['Marburg', 'Colloquy', 'meant', 'establish']",Marburg,0,0,6
+"['Marburg', 'Colloquy', 'meant', 'establish']",establish,0,0,6
+"['Marburg', 'Colloquy', 'meant', 'establish']",meant,0,0,6
+"['Mark', 'U.', 'Edwards', 'claim', 'possible', 'cause', 'Luther', 'antisemitism']",Edwards,0,0,6
+"['Mark', 'U.', 'Edwards', 'claim', 'possible', 'cause', 'Luther', 'antisemitism']",Luther,0,0,6
+"['Mark', 'U.', 'Edwards', 'claim', 'possible', 'cause', 'Luther', 'antisemitism']",Mark,0,0,6
+"['Mark', 'U.', 'Edwards', 'claim', 'possible', 'cause', 'Luther', 'antisemitism']",U.,0,0,6
+"['Mark', 'U.', 'Edwards', 'claim', 'possible', 'cause', 'Luther', 'antisemitism']",antisemitism,0,0,6
+"['Mark', 'U.', 'Edwards', 'claim', 'possible', 'cause', 'Luther', 'antisemitism']",cause,0,0,6
+"['Mark', 'U.', 'Edwards', 'claim', 'possible', 'cause', 'Luther', 'antisemitism']",claim,0,0,6
+"['Mark', 'U.', 'Edwards', 'claim', 'possible', 'cause', 'Luther', 'antisemitism']",possible,0,0,6
+"['Martin', 'Brecht', 'call', 'Luther', 'stand', 'Jews']",Brecht,0,0,6
+"['Martin', 'Brecht', 'call', 'Luther', 'stand', 'Jews']",Jews,0,0,6
+"['Martin', 'Brecht', 'call', 'Luther', 'stand', 'Jews']",Luther,0,0,6
+"['Martin', 'Brecht', 'call', 'Luther', 'stand', 'Jews']",Martin,0,0,6
+"['Martin', 'Brecht', 'call', 'Luther', 'stand', 'Jews']",call,0,0,6
+"['Martin', 'Brecht', 'call', 'Luther', 'stand', 'Jews']",stand,0,0,6
+"['Martin', 'Luther', '1510', '1520']",1510,0,0,6
+"['Martin', 'Luther', '1510', '1520']",1520,0,0,6
+"['Martin', 'Luther', '1510', '1520']",Luther,0,0,6
+"['Martin', 'Luther', '1510', '1520']",Martin,0,0,6
+"['Martin', 'Luther', 'believe', 'achieved', 'God', 'Grace']",God,0,0,6
+"['Martin', 'Luther', 'believe', 'achieved', 'God', 'Grace']",Grace,0,0,6
+"['Martin', 'Luther', 'believe', 'achieved', 'God', 'Grace']",Luther,0,0,6
+"['Martin', 'Luther', 'believe', 'achieved', 'God', 'Grace']",Martin,0,0,6
+"['Martin', 'Luther', 'believe', 'achieved', 'God', 'Grace']",achieved,0,0,6
+"['Martin', 'Luther', 'believe', 'achieved', 'God', 'Grace']",believe,0,0,6
+"['Martin', 'Luther', 'born']",Luther,0,0,6
+"['Martin', 'Luther', 'born']",Martin,0,0,6
+"['Martin', 'Luther', 'born']",born,0,0,6
+"['Martin', 'Luther', 'die']",Luther,0,0,6
+"['Martin', 'Luther', 'die']",Martin,0,0,6
+"['Martin', 'Luther', 'die']",die,0.507420406,38,6
+"['Martin', 'Luther', 'fear', 'lightening', 'bolt', 'struck', 'near']",Luther,0,0,6
+"['Martin', 'Luther', 'fear', 'lightening', 'bolt', 'struck', 'near']",Martin,0,0,6
+"['Martin', 'Luther', 'fear', 'lightening', 'bolt', 'struck', 'near']",bolt,0,0,6
+"['Martin', 'Luther', 'fear', 'lightening', 'bolt', 'struck', 'near']",fear,0,0,6
+"['Martin', 'Luther', 'fear', 'lightening', 'bolt', 'struck', 'near']",lightening,0,0,6
+"['Martin', 'Luther', 'fear', 'lightening', 'bolt', 'struck', 'near']",near,0,0,6
+"['Martin', 'Luther', 'fear', 'lightening', 'bolt', 'struck', 'near']",struck,0,0,6
+"['Martin', 'Luther', 'go', 'school']",Luther,0,0,6
+"['Martin', 'Luther', 'go', 'school']",Martin,0,0,6
+"['Martin', 'Luther', 'go', 'school']",go,0,0,6
+"['Martin', 'Luther', 'go', 'school']",school,0,0,6
+"['Martin', 'Luther', 'marriage', 'allow']",Luther,0,0,6
+"['Martin', 'Luther', 'marriage', 'allow']",Martin,0,0,6
+"['Martin', 'Luther', 'marriage', 'allow']",allow,0,0,6
+"['Martin', 'Luther', 'marriage', 'allow']",marriage,0,0,6
+"['Martin', 'Luther', 'marry']",Luther,0,0,6
+"['Martin', 'Luther', 'marry']",Martin,0,0,6
+"['Martin', 'Luther', 'marry']",marry,0,0,6
+"['Martin', 'Luther', 'ordained', 'priest']",Luther,0,0,6
+"['Martin', 'Luther', 'ordained', 'priest']",Martin,0,0,6
+"['Martin', 'Luther', 'ordained', 'priest']",ordained,0,0,6
+"['Martin', 'Luther', 'ordained', 'priest']",priest,0,0,6
+"['Martin', 'Luther', 'protest', 'sale', 'indulgence', 'bishop']",Luther,0,0,6
+"['Martin', 'Luther', 'protest', 'sale', 'indulgence', 'bishop']",Martin,0,0,6
+"['Martin', 'Luther', 'protest', 'sale', 'indulgence', 'bishop']",bishop,0,0,6
+"['Martin', 'Luther', 'protest', 'sale', 'indulgence', 'bishop']",indulgence,0,0,6
+"['Martin', 'Luther', 'protest', 'sale', 'indulgence', 'bishop']",protest,0,0,6
+"['Martin', 'Luther', 'protest', 'sale', 'indulgence', 'bishop']",sale,0,0,6
+"['Martin', 'Luther', 'publish', 'translation', 'New', 'Testament']",Luther,0,0,6
+"['Martin', 'Luther', 'publish', 'translation', 'New', 'Testament']",Martin,0,0,6
+"['Martin', 'Luther', 'publish', 'translation', 'New', 'Testament']",New,0,0,6
+"['Martin', 'Luther', 'publish', 'translation', 'New', 'Testament']",Testament,0,0,6
+"['Martin', 'Luther', 'publish', 'translation', 'New', 'Testament']",publish,0,0,6
+"['Martin', 'Luther', 'publish', 'translation', 'New', 'Testament']",translation,0,0,6
+"['Martin', 'Luther', 'receive', 'Doctor', 'Theology']",Doctor,0,0,6
+"['Martin', 'Luther', 'receive', 'Doctor', 'Theology']",Luther,0,0,6
+"['Martin', 'Luther', 'receive', 'Doctor', 'Theology']",Martin,0,0,6
+"['Martin', 'Luther', 'receive', 'Doctor', 'Theology']",Theology,0,0,6
+"['Martin', 'Luther', 'receive', 'Doctor', 'Theology']",receive,0,0,6
+"['Martin', 'Luther', 'say', 'lone', 'granter', 'forgiveness']",Luther,0,0,6
+"['Martin', 'Luther', 'say', 'lone', 'granter', 'forgiveness']",Martin,0,0,6
+"['Martin', 'Luther', 'say', 'lone', 'granter', 'forgiveness']",forgiveness,0,0,6
+"['Martin', 'Luther', 'say', 'lone', 'granter', 'forgiveness']",granter,0,0,6
+"['Martin', 'Luther', 'say', 'lone', 'granter', 'forgiveness']",lone,0,0,6
+"['Martin', 'Luther', 'say', 'lone', 'granter', 'forgiveness']",say,0,0,6
+"['Martin', 'father', 'view', 'entering', 'cloister', 'waste']",Martin,0,0,6
+"['Martin', 'father', 'view', 'entering', 'cloister', 'waste']",cloister,0,0,6
+"['Martin', 'father', 'view', 'entering', 'cloister', 'waste']",entering,0,0,6
+"['Martin', 'father', 'view', 'entering', 'cloister', 'waste']",father,0,0,6
+"['Martin', 'father', 'view', 'entering', 'cloister', 'waste']",view,0,0,6
+"['Martin', 'father', 'view', 'entering', 'cloister', 'waste']",waste,0,0,6
+"['Melanchthon', 'call', 'marriage']",Melanchthon,0,0,6
+"['Melanchthon', 'call', 'marriage']",call,0,0,6
+"['Melanchthon', 'call', 'marriage']",marriage,0,0,6
+"['Melanchthon', 'time']",Melanchthon,0,0,6
+"['Melanchthon', 'time']",time,0,0,6
+"['Michael', 'Mullet', 'call', 'Luther', 'speech']",Luther,0,0,6
+"['Michael', 'Mullet', 'call', 'Luther', 'speech']",Michael,0,0,6
+"['Michael', 'Mullet', 'call', 'Luther', 'speech']",Mullet,0,0,6
+"['Michael', 'Mullet', 'call', 'Luther', 'speech']",call,0,0,6
+"['Michael', 'Mullet', 'call', 'Luther', 'speech']",speech,0,0,6
+"['Mohammedanism', 'Turk']",Mohammedanism,0,0,6
+"['Mohammedanism', 'Turk']",Turk,0,0,6
+"['Nicholas', 'Storch']",Nicholas,0,0,6
+"['Nicholas', 'Storch']",Storch,0,0,6
+"['Of', 'Diet', 'Worms', 'assembly']",Diet,0,0,6
+"['Of', 'Diet', 'Worms', 'assembly']",Of,0,0,6
+"['Of', 'Diet', 'Worms', 'assembly']",Worms,0,0,6
+"['Of', 'Diet', 'Worms', 'assembly']",assembly,0,0,6
+"['Of', 'Luther', 'justification', 'entirely', 'work']",Luther,0,0,6
+"['Of', 'Luther', 'justification', 'entirely', 'work']",Of,0,0,6
+"['Of', 'Luther', 'justification', 'entirely', 'work']",entirely,0,0,6
+"['Of', 'Luther', 'justification', 'entirely', 'work']",justification,0,0,6
+"['Of', 'Luther', 'justification', 'entirely', 'work']",work,0,0,6
+"['Of', 'nationality', 'Martin', 'Luther']",Luther,0.434931777,0,6
+"['Of', 'nationality', 'Martin', 'Luther']",Martin,0,0,6
+"['Of', 'nationality', 'Martin', 'Luther']",Of,0,0,6
+"['Of', 'nationality', 'Martin', 'Luther']",nationality,0,0,6
+"['Of', 'region', 'Saxony', 'part']",Of,0,0,6
+"['Of', 'region', 'Saxony', 'part']",Saxony,0,0,6
+"['Of', 'region', 'Saxony', 'part']",part,0,0,6
+"['Of', 'region', 'Saxony', 'part']",region,0,0,6
+"['Old', 'Testament', 'translation', 'finished']",Old,0,0,6
+"['Old', 'Testament', 'translation', 'finished']",Testament,0,0,6
+"['Old', 'Testament', 'translation', 'finished']",finished,0,0,6
+"['Old', 'Testament', 'translation', 'finished']",translation,0,0,6
+"['On', 'English', 'calendar', 'Luther', 'commemorated']",English,0,0,6
+"['On', 'English', 'calendar', 'Luther', 'commemorated']",Luther,0,0,6
+"['On', 'English', 'calendar', 'Luther', 'commemorated']",On,0,0,6
+"['On', 'English', 'calendar', 'Luther', 'commemorated']",calendar,0,0,6
+"['On', 'English', 'calendar', 'Luther', 'commemorated']",commemorated,0,0,6
+"['On', 'Luther', 'friend', 'blame', 'sadness', 'entrance', 'cloister']",Luther,0,0,6
+"['On', 'Luther', 'friend', 'blame', 'sadness', 'entrance', 'cloister']",On,0,0,6
+"['On', 'Luther', 'friend', 'blame', 'sadness', 'entrance', 'cloister']",blame,0,0,6
+"['On', 'Luther', 'friend', 'blame', 'sadness', 'entrance', 'cloister']",cloister,0,0,6
+"['On', 'Luther', 'friend', 'blame', 'sadness', 'entrance', 'cloister']",entrance,0,0,6
+"['On', 'Luther', 'friend', 'blame', 'sadness', 'entrance', 'cloister']",friend,0,0,6
+"['On', 'Luther', 'friend', 'blame', 'sadness', 'entrance', 'cloister']",sadness,0,0,6
+"['On', 'calendar', 'Luther', 'commemorated']",Luther,0,0,6
+"['On', 'calendar', 'Luther', 'commemorated']",On,0,0,6
+"['On', 'calendar', 'Luther', 'commemorated']",calendar,0,0,6
+"['On', 'calendar', 'Luther', 'commemorated']",commemorated,0,0,6
+"['On', 'date', 'Luther', 'die']",Luther,0,0,6
+"['On', 'date', 'Luther', 'die']",On,0,0,6
+"['On', 'date', 'Luther', 'die']",date,0,0,6
+"['On', 'date', 'Luther', 'die']",die,0,0,6
+"['On', 'whose', 'comment', 'posting', 'door', 'based']",On,0,0,6
+"['On', 'whose', 'comment', 'posting', 'door', 'based']",based,0,0,6
+"['On', 'whose', 'comment', 'posting', 'door', 'based']",comment,0,0,6
+"['On', 'whose', 'comment', 'posting', 'door', 'based']",door,0,0,6
+"['On', 'whose', 'comment', 'posting', 'door', 'based']",posting,0,0,6
+"['On', 'whose', 'comment', 'posting', 'door', 'based']",whose,0,0,6
+"['Paul', 'Rose', 'say', 'Luther', 'added', 'German', 'thought']",German,0,0,6
+"['Paul', 'Rose', 'say', 'Luther', 'added', 'German', 'thought']",Luther,0,0,6
+"['Paul', 'Rose', 'say', 'Luther', 'added', 'German', 'thought']",Paul,0,0,6
+"['Paul', 'Rose', 'say', 'Luther', 'added', 'German', 'thought']",Rose,0,0,6
+"['Paul', 'Rose', 'say', 'Luther', 'added', 'German', 'thought']",added,0,0,6
+"['Paul', 'Rose', 'say', 'Luther', 'added', 'German', 'thought']",say,0,0,6
+"['Paul', 'Rose', 'say', 'Luther', 'added', 'German', 'thought']",thought,0,0,6
+"['Philip', 'convene', 'assembly', 'set', 'doctrine', 'Protestant', 'state']",Philip,0,0,6
+"['Philip', 'convene', 'assembly', 'set', 'doctrine', 'Protestant', 'state']",Protestant,0,0,6
+"['Philip', 'convene', 'assembly', 'set', 'doctrine', 'Protestant', 'state']",assembly,0,0,6
+"['Philip', 'convene', 'assembly', 'set', 'doctrine', 'Protestant', 'state']",convene,0,0,6
+"['Philip', 'convene', 'assembly', 'set', 'doctrine', 'Protestant', 'state']",doctrine,0,0,6
+"['Philip', 'convene', 'assembly', 'set', 'doctrine', 'Protestant', 'state']",set,0,0,6
+"['Philip', 'convene', 'assembly', 'set', 'doctrine', 'Protestant', 'state']",state,0,0,6
+"['Philip', 'want', 'marry']",Philip,0,0,6
+"['Philip', 'want', 'marry']",marry,0,0,6
+"['Philip', 'want', 'marry']",want,0,0,6
+"['Philip', 'wish', 'around', '1539']",1539,0,0,6
+"['Philip', 'wish', 'around', '1539']",Philip,0,0,6
+"['Philip', 'wish', 'around', '1539']",around,0,0,6
+"['Philip', 'wish', 'around', '1539']",wish,0,0,6
+['Philip'],Philip,0,0,6
+"['Pope', 'Leo', 'X', 'excommunicate', 'Luther']",Leo,0,0,6
+"['Pope', 'Leo', 'X', 'excommunicate', 'Luther']",Luther,0,0,6
+"['Pope', 'Leo', 'X', 'excommunicate', 'Luther']",Pope,0,0,6
+"['Pope', 'Leo', 'X', 'excommunicate', 'Luther']",X,0,0,6
+"['Pope', 'Leo', 'X', 'excommunicate', 'Luther']",excommunicate,0,0,6
+"['Pope', 'Leo', 'X', 'launch', 'Luther']",Leo,0,0,6
+"['Pope', 'Leo', 'X', 'launch', 'Luther']",Luther,0,0,6
+"['Pope', 'Leo', 'X', 'launch', 'Luther']",Pope,0,0,6
+"['Pope', 'Leo', 'X', 'launch', 'Luther']",X,0,0,6
+"['Pope', 'Leo', 'X', 'launch', 'Luther']",launch,0,0,6
+"['Pope', 'sought', 'undermine', 'Luther', 'theory']",Luther,0,0,6
+"['Pope', 'sought', 'undermine', 'Luther', 'theory']",Pope,0,0,6
+"['Pope', 'sought', 'undermine', 'Luther', 'theory']",sought,0,0,6
+"['Pope', 'sought', 'undermine', 'Luther', 'theory']",theory,0,0,6
+"['Pope', 'sought', 'undermine', 'Luther', 'theory']",undermine,0,0,6
+"['Pope', 'warned', 'Luther', 'excommunication']",Luther,0,0,6
+"['Pope', 'warned', 'Luther', 'excommunication']",Pope,0,0,6
+"['Pope', 'warned', 'Luther', 'excommunication']",excommunication,0,0,6
+"['Pope', 'warned', 'Luther', 'excommunication']",warned,0,0,6
+"['Protestant', 'noble', 'form', 'following', 'year', 'signing', 'Augsburg', 'Confession']",Augsburg,0,0,6
+"['Protestant', 'noble', 'form', 'following', 'year', 'signing', 'Augsburg', 'Confession']",Confession,0,0,6
+"['Protestant', 'noble', 'form', 'following', 'year', 'signing', 'Augsburg', 'Confession']",Protestant,0,0,6
+"['Protestant', 'noble', 'form', 'following', 'year', 'signing', 'Augsburg', 'Confession']",following,0,0,6
+"['Protestant', 'noble', 'form', 'following', 'year', 'signing', 'Augsburg', 'Confession']",form,0,0,6
+"['Protestant', 'noble', 'form', 'following', 'year', 'signing', 'Augsburg', 'Confession']",noble,0,0,6
+"['Protestant', 'noble', 'form', 'following', 'year', 'signing', 'Augsburg', 'Confession']",signing,0,0,6
+"['Protestant', 'noble', 'form', 'following', 'year', 'signing', 'Augsburg', 'Confession']",year,0,0,6
+"['Psalm', '31:5']",31:05:00,0,0,6
+"['Psalm', '31:5']",Psalm,0,0,6
+"['Psalm', '67']",67,0,0,6
+"['Psalm', '67']",Psalm,0,0,6
+"['Robert', 'Michael', 'view', 'Luther', 'violent', 'language', 'towards', 'Jews']",Jews,0,0,6
+"['Robert', 'Michael', 'view', 'Luther', 'violent', 'language', 'towards', 'Jews']",Luther,0,0,6
+"['Robert', 'Michael', 'view', 'Luther', 'violent', 'language', 'towards', 'Jews']",Michael,0,0,6
+"['Robert', 'Michael', 'view', 'Luther', 'violent', 'language', 'towards', 'Jews']",Robert,0,0,6
+"['Robert', 'Michael', 'view', 'Luther', 'violent', 'language', 'towards', 'Jews']",language,0,0,6
+"['Robert', 'Michael', 'view', 'Luther', 'violent', 'language', 'towards', 'Jews']",towards,0,0,6
+"['Robert', 'Michael', 'view', 'Luther', 'violent', 'language', 'towards', 'Jews']",view,0,0,6
+"['Robert', 'Michael', 'view', 'Luther', 'violent', 'language', 'towards', 'Jews']",violent,0,0,6
+"['Roland', 'Bainton', 'say', 'Luther', 'position', 'Jews']",Bainton,0,0,6
+"['Roland', 'Bainton', 'say', 'Luther', 'position', 'Jews']",Jews,0,0,6
+"['Roland', 'Bainton', 'say', 'Luther', 'position', 'Jews']",Luther,0,0,6
+"['Roland', 'Bainton', 'say', 'Luther', 'position', 'Jews']",Roland,0,0,6
+"['Roland', 'Bainton', 'say', 'Luther', 'position', 'Jews']",position,0,0,6
+"['Roland', 'Bainton', 'say', 'Luther', 'position', 'Jews']",say,0,0,6
+"['Sasse', 'proclaim', 'Luther']",Luther,0,0,6
+"['Sasse', 'proclaim', 'Luther']",Sasse,0,0,6
+"['Sasse', 'proclaim', 'Luther']",proclaim,0,0,6
+"['Schurf', 'letter', 'say', 'Luther', 'return', 'caused']",Luther,0,0,6
+"['Schurf', 'letter', 'say', 'Luther', 'return', 'caused']",Schurf,0,0,6
+"['Schurf', 'letter', 'say', 'Luther', 'return', 'caused']",caused,0,0,6
+"['Schurf', 'letter', 'say', 'Luther', 'return', 'caused']",letter,0,0,6
+"['Schurf', 'letter', 'say', 'Luther', 'return', 'caused']",return,0,0,6
+"['Schurf', 'letter', 'say', 'Luther', 'return', 'caused']",say,0,0,6
+"['Since', ""n't"", 'believe', 'salvation', 'acquired', 'good', 'deed', 'achieved']",Since,0,0,6
+"['Since', ""n't"", 'believe', 'salvation', 'acquired', 'good', 'deed', 'achieved']",achieved,0,0,6
+"['Since', ""n't"", 'believe', 'salvation', 'acquired', 'good', 'deed', 'achieved']",acquired,0,0,6
+"['Since', ""n't"", 'believe', 'salvation', 'acquired', 'good', 'deed', 'achieved']",believe,0,0,6
+"['Since', ""n't"", 'believe', 'salvation', 'acquired', 'good', 'deed', 'achieved']",deed,0,0,6
+"['Since', ""n't"", 'believe', 'salvation', 'acquired', 'good', 'deed', 'achieved']",good,0,0,6
+"['Since', ""n't"", 'believe', 'salvation', 'acquired', 'good', 'deed', 'achieved']",n't,0,0,6
+"['Since', ""n't"", 'believe', 'salvation', 'acquired', 'good', 'deed', 'achieved']",salvation,0,0,6
+"['Since', 'Luther', 'believed', 'Turks', 'sent', 'God', 'purpose']",God,0,0,6
+"['Since', 'Luther', 'believed', 'Turks', 'sent', 'God', 'purpose']",Luther,0,0,6
+"['Since', 'Luther', 'believed', 'Turks', 'sent', 'God', 'purpose']",Since,0,0,6
+"['Since', 'Luther', 'believed', 'Turks', 'sent', 'God', 'purpose']",Turks,0,0,6
+"['Since', 'Luther', 'believed', 'Turks', 'sent', 'God', 'purpose']",believed,0,0,6
+"['Since', 'Luther', 'believed', 'Turks', 'sent', 'God', 'purpose']",purpose,0,0,6
+"['Since', 'Luther', 'believed', 'Turks', 'sent', 'God', 'purpose']",sent,0,0,6
+"['Small', 'Catechism', 'meant']",Catechism,0,0,6
+"['Small', 'Catechism', 'meant']",Small,0,0,6
+"['Small', 'Catechism', 'meant']",meant,0,0,6
+"['St', 'Paul', 'say', 'authority', 'appointed']",Paul,0,0,6
+"['St', 'Paul', 'say', 'authority', 'appointed']",St,0,0,6
+"['St', 'Paul', 'say', 'authority', 'appointed']",appointed,0,0,6
+"['St', 'Paul', 'say', 'authority', 'appointed']",authority,0,0,6
+"['St', 'Paul', 'say', 'authority', 'appointed']",say,0,0,6
+"['Teaching', 'Christians', 'live', 'use', 'law']",Christians,0,0,6
+"['Teaching', 'Christians', 'live', 'use', 'law']",Teaching,0,0,6
+"['Teaching', 'Christians', 'live', 'use', 'law']",law,0,0,6
+"['Teaching', 'Christians', 'live', 'use', 'law']",live,0,0,6
+"['Teaching', 'Christians', 'live', 'use', 'law']",use,0,0,6
+"['Ten', 'Commandments', 'ask', 'Christians']",Christians,0,0,6
+"['Ten', 'Commandments', 'ask', 'Christians']",Commandments,0,0,6
+"['Ten', 'Commandments', 'ask', 'Christians']",Ten,0,0,6
+"['Ten', 'Commandments', 'ask', 'Christians']",ask,0,0,6
+"['Ten', 'Commandments', 'teach', 'Christians']",Christians,0,0,6
+"['Ten', 'Commandments', 'teach', 'Christians']",Commandments,0,0,6
+"['Ten', 'Commandments', 'teach', 'Christians']",Ten,0,0,6
+"['Ten', 'Commandments', 'teach', 'Christians']",teach,0,0,6
+"['Tetzel', 'overstate', 'teaching']",Tetzel,0,0,6
+"['Tetzel', 'overstate', 'teaching']",overstate,0,0,6
+"['Tetzel', 'overstate', 'teaching']",teaching,0,0,6
+"['Tetzel', 'seeking', 'money', 'Germany']",Germany,0,0,6
+"['Tetzel', 'seeking', 'money', 'Germany']",Tetzel,0,0,6
+"['Tetzel', 'seeking', 'money', 'Germany']",money,0,0,6
+"['Tetzel', 'seeking', 'money', 'Germany']",seeking,0,0,6
+"['Tetzel', 'state', 'soul', 'leave', 'purgatory']",Tetzel,0,0,6
+"['Tetzel', 'state', 'soul', 'leave', 'purgatory']",leave,0,0,6
+"['Tetzel', 'state', 'soul', 'leave', 'purgatory']",purgatory,0,0,6
+"['Tetzel', 'state', 'soul', 'leave', 'purgatory']",soul,0,0,6
+"['Tetzel', 'state', 'soul', 'leave', 'purgatory']",state,0,0,6
+"['Tetzel', 'teaching', 'line', 'Church', 'dogma']",Church,0,0,6
+"['Tetzel', 'teaching', 'line', 'Church', 'dogma']",Tetzel,0,0,6
+"['Tetzel', 'teaching', 'line', 'Church', 'dogma']",dogma,0,0,6
+"['Tetzel', 'teaching', 'line', 'Church', 'dogma']",line,0,0,6
+"['Tetzel', 'teaching', 'line', 'Church', 'dogma']",teaching,0,0,6
+"['Thesis', 'question', 'Pope', 'action', 'building', 'basilica', 'St.', 'Peter', 'money', 'poor']",Peter,0,0,6
+"['Thesis', 'question', 'Pope', 'action', 'building', 'basilica', 'St.', 'Peter', 'money', 'poor']",Pope,0,0,6
+"['Thesis', 'question', 'Pope', 'action', 'building', 'basilica', 'St.', 'Peter', 'money', 'poor']",St.,0,0,6
+"['Thesis', 'question', 'Pope', 'action', 'building', 'basilica', 'St.', 'Peter', 'money', 'poor']",Thesis,0,0,6
+"['Thesis', 'question', 'Pope', 'action', 'building', 'basilica', 'St.', 'Peter', 'money', 'poor']",action,0,0,6
+"['Thesis', 'question', 'Pope', 'action', 'building', 'basilica', 'St.', 'Peter', 'money', 'poor']",basilica,0,0,6
+"['Thesis', 'question', 'Pope', 'action', 'building', 'basilica', 'St.', 'Peter', 'money', 'poor']",building,0,0,6
+"['Thesis', 'question', 'Pope', 'action', 'building', 'basilica', 'St.', 'Peter', 'money', 'poor']",money,0,0,6
+"['Thesis', 'question', 'Pope', 'action', 'building', 'basilica', 'St.', 'Peter', 'money', 'poor']",poor,0,0,6
+"['Thesis', 'question', 'Pope', 'action', 'building', 'basilica', 'St.', 'Peter', 'money', 'poor']",question,0,0,6
+"['To', 'Johann', 'Eck', 'assistant']",Eck,0,0,6
+"['To', 'Johann', 'Eck', 'assistant']",Johann,0,0,6
+"['To', 'Johann', 'Eck', 'assistant']",To,0,0,6
+"['To', 'Johann', 'Eck', 'assistant']",assistant,0,0,6
+"['To', 'Large', 'Catechism', 'directed']",Catechism,0,0,6
+"['To', 'Large', 'Catechism', 'directed']",Large,0,0,6
+"['To', 'Large', 'Catechism', 'directed']",To,0,0,6
+"['To', 'Large', 'Catechism', 'directed']",directed,0,0,6
+"['To', 'Luther', 'baptized', 'Christians', 'considered']",Christians,0,0,6
+"['To', 'Luther', 'baptized', 'Christians', 'considered']",Luther,0,0,6
+"['To', 'Luther', 'baptized', 'Christians', 'considered']",To,0,0,6
+"['To', 'Luther', 'baptized', 'Christians', 'considered']",baptized,0,0,6
+"['To', 'Luther', 'baptized', 'Christians', 'considered']",considered,0,0,6
+"['To', 'Luther', 'final', 'journey']",Luther,0,0,6
+"['To', 'Luther', 'final', 'journey']",To,0,0,6
+"['To', 'Luther', 'final', 'journey']",final,0,0,6
+"['To', 'Luther', 'final', 'journey']",journey,0,0,6
+"['To', 'Luther', 'send', 'letter', 'containing', '95', 'Theses']",95,0,0,6
+"['To', 'Luther', 'send', 'letter', 'containing', '95', 'Theses']",Luther,0,0,6
+"['To', 'Luther', 'send', 'letter', 'containing', '95', 'Theses']",Theses,0,0,6
+"['To', 'Luther', 'send', 'letter', 'containing', '95', 'Theses']",To,0,0,6
+"['To', 'Luther', 'send', 'letter', 'containing', '95', 'Theses']",containing,0,0,6
+"['To', 'Luther', 'send', 'letter', 'containing', '95', 'Theses']",letter,0,0,6
+"['To', 'Luther', 'send', 'letter', 'containing', '95', 'Theses']",send,0,0,6
+"['To', 'Martin', 'Luther', 'devote', 'attention']",Luther,0,0,6
+"['To', 'Martin', 'Luther', 'devote', 'attention']",Martin,0,0,6
+"['To', 'Martin', 'Luther', 'devote', 'attention']",To,0,0,6
+"['To', 'Martin', 'Luther', 'devote', 'attention']",attention,0,0,6
+"['To', 'Martin', 'Luther', 'devote', 'attention']",devote,0,0,6
+"['To', 'promote', 'accessibility', 'work', 'Luther', 'remove']",Luther,0,0,6
+"['To', 'promote', 'accessibility', 'work', 'Luther', 'remove']",To,0,0,6
+"['To', 'promote', 'accessibility', 'work', 'Luther', 'remove']",accessibility,0,0,6
+"['To', 'promote', 'accessibility', 'work', 'Luther', 'remove']",promote,0,0,6
+"['To', 'promote', 'accessibility', 'work', 'Luther', 'remove']",remove,0,0,6
+"['To', 'promote', 'accessibility', 'work', 'Luther', 'remove']",work,0,0,6
+"['Whose', 'English', 'translation', 'Bible', 'Luther', 'Bible', 'influence']",Bible,0,0,6
+"['Whose', 'English', 'translation', 'Bible', 'Luther', 'Bible', 'influence']",English,0,0,6
+"['Whose', 'English', 'translation', 'Bible', 'Luther', 'Bible', 'influence']",Luther,0,0,6
+"['Whose', 'English', 'translation', 'Bible', 'Luther', 'Bible', 'influence']",Whose,0,0,6
+"['Whose', 'English', 'translation', 'Bible', 'Luther', 'Bible', 'influence']",influence,0,0,6
+"['Whose', 'English', 'translation', 'Bible', 'Luther', 'Bible', 'influence']",translation,0,0,6
+"['Whose', 'authority', 'Luther', 'theology', 'oppose']",Luther,0,0,6
+"['Whose', 'authority', 'Luther', 'theology', 'oppose']",Whose,0,0,6
+"['Whose', 'authority', 'Luther', 'theology', 'oppose']",authority,0,0,6
+"['Whose', 'authority', 'Luther', 'theology', 'oppose']",oppose,0,0,6
+"['Whose', 'authority', 'Luther', 'theology', 'oppose']",theology,0,0,6
+"['Whose', 'saying', 'freeing', 'soul', 'purgatory', 'often', 'quoted']",Whose,0,0,6
+"['Whose', 'saying', 'freeing', 'soul', 'purgatory', 'often', 'quoted']",freeing,0,0,6
+"['Whose', 'saying', 'freeing', 'soul', 'purgatory', 'often', 'quoted']",often,0,0,6
+"['Whose', 'saying', 'freeing', 'soul', 'purgatory', 'often', 'quoted']",purgatory,0,0,6
+"['Whose', 'saying', 'freeing', 'soul', 'purgatory', 'often', 'quoted']",quoted,0,0,6
+"['Whose', 'saying', 'freeing', 'soul', 'purgatory', 'often', 'quoted']",saying,0,0,6
+"['Whose', 'saying', 'freeing', 'soul', 'purgatory', 'often', 'quoted']",soul,0,0,6
+"['Whose', 'saying', 'purgatory', 'Martin', 'Luther', 'object']",Luther,0,0,6
+"['Whose', 'saying', 'purgatory', 'Martin', 'Luther', 'object']",Martin,0,0,6
+"['Whose', 'saying', 'purgatory', 'Martin', 'Luther', 'object']",Whose,0,0,6
+"['Whose', 'saying', 'purgatory', 'Martin', 'Luther', 'object']",object,0,0,6
+"['Whose', 'saying', 'purgatory', 'Martin', 'Luther', 'object']",purgatory,0,0,6
+"['Whose', 'saying', 'purgatory', 'Martin', 'Luther', 'object']",saying,0,0,6
+"['Whose', 'tune', 'Luther', 'adapt', 'hymn', 'Psalm', '67']",67,0,0,6
+"['Whose', 'tune', 'Luther', 'adapt', 'hymn', 'Psalm', '67']",Luther,0,0,6
+"['Whose', 'tune', 'Luther', 'adapt', 'hymn', 'Psalm', '67']",Psalm,0,0,6
+"['Whose', 'tune', 'Luther', 'adapt', 'hymn', 'Psalm', '67']",Whose,0,0,6
+"['Whose', 'tune', 'Luther', 'adapt', 'hymn', 'Psalm', '67']",adapt,0,0,6
+"['Whose', 'tune', 'Luther', 'adapt', 'hymn', 'Psalm', '67']",hymn,0,0,6
+"['Whose', 'tune', 'Luther', 'adapt', 'hymn', 'Psalm', '67']",tune,0,0,6
+"['Whose', 'writing', 'widely', 'quoted', 'Third', 'Reich']",Reich,0,0,6
+"['Whose', 'writing', 'widely', 'quoted', 'Third', 'Reich']",Third,0,0,6
+"['Whose', 'writing', 'widely', 'quoted', 'Third', 'Reich']",Whose,0,0,6
+"['Whose', 'writing', 'widely', 'quoted', 'Third', 'Reich']",quoted,0,0,6
+"['Whose', 'writing', 'widely', 'quoted', 'Third', 'Reich']",widely,0,0,6
+"['Whose', 'writing', 'widely', 'quoted', 'Third', 'Reich']",writing,0,0,6
+"['Zwilling', 'Karistadt', 'become', 'active', 'Wittenberg']",Karistadt,0,0,6
+"['Zwilling', 'Karistadt', 'become', 'active', 'Wittenberg']",Wittenberg,0,0,6
+"['Zwilling', 'Karistadt', 'become', 'active', 'Wittenberg']",Zwilling,0,0,6
+"['Zwilling', 'Karistadt', 'become', 'active', 'Wittenberg']",active,0,0,6
+"['Zwilling', 'Karistadt', 'become', 'active', 'Wittenberg']",become,0,0,6
+"['action', 'Luther', 'added', 'antisemitism', 'Germany']",Germany,0,0,6
+"['action', 'Luther', 'added', 'antisemitism', 'Germany']",Luther,0,0,6
+"['action', 'Luther', 'added', 'antisemitism', 'Germany']",action,0,0,6
+"['action', 'Luther', 'added', 'antisemitism', 'Germany']",added,0,0,6
+"['action', 'Luther', 'added', 'antisemitism', 'Germany']",antisemitism,0,0,6
+"['affair', 'cause', 'Luther', 'reputation']",Luther,0,0,6
+"['affair', 'cause', 'Luther', 'reputation']",affair,0,0,6
+"['affair', 'cause', 'Luther', 'reputation']",cause,0,0,6
+"['affair', 'cause', 'Luther', 'reputation']",reputation,0,0,6
+"['agitation', 'provide', 'later', 'generation', 'material']",agitation,0,0,6
+"['agitation', 'provide', 'later', 'generation', 'material']",generation,0,0,6
+"['agitation', 'provide', 'later', 'generation', 'material']",later,0,0,6
+"['agitation', 'provide', 'later', 'generation', 'material']",material,0,0,6
+"['agitation', 'provide', 'later', 'generation', 'material']",provide,0,0,6
+"['agreed', 'burning', 'synagogue']",agreed,0,0,6
+"['agreed', 'burning', 'synagogue']",burning,0,0,6
+"['agreed', 'burning', 'synagogue']",synagogue,0,0,6
+"['aide', 'Reich', 'Germany', 'antisemitism']",Germany,0,0,6
+"['aide', 'Reich', 'Germany', 'antisemitism']",Reich,0,0,6
+"['aide', 'Reich', 'Germany', 'antisemitism']",aide,0,0,6
+"['aide', 'Reich', 'Germany', 'antisemitism']",antisemitism,0,0,6
+"['anyone', 'Martin', 'Luther', 'without', 'legal', 'consequence']",Luther,0,0,6
+"['anyone', 'Martin', 'Luther', 'without', 'legal', 'consequence']",Martin,0,0,6
+"['anyone', 'Martin', 'Luther', 'without', 'legal', 'consequence']",anyone,0,0,6
+"['anyone', 'Martin', 'Luther', 'without', 'legal', 'consequence']",consequence,0,0,6
+"['anyone', 'Martin', 'Luther', 'without', 'legal', 'consequence']",legal,0,0,6
+"['anyone', 'Martin', 'Luther', 'without', 'legal', 'consequence']",without,0,0,6
+"['art', 'form', 'Luther', 'use', 'connect', 'hymn']",Luther,0,0,6
+"['art', 'form', 'Luther', 'use', 'connect', 'hymn']",art,0,0,6
+"['art', 'form', 'Luther', 'use', 'connect', 'hymn']",connect,0,0,6
+"['art', 'form', 'Luther', 'use', 'connect', 'hymn']",form,0,0,6
+"['art', 'form', 'Luther', 'use', 'connect', 'hymn']",hymn,0,0,6
+"['art', 'form', 'Luther', 'use', 'connect', 'hymn']",use,0,0,6
+"['artist', 'provided', 'woodcut', 'Luther', 'Bible']",Bible,0,0,6
+"['artist', 'provided', 'woodcut', 'Luther', 'Bible']",Luther,0,0,6
+"['artist', 'provided', 'woodcut', 'Luther', 'Bible']",artist,0,0,6
+"['artist', 'provided', 'woodcut', 'Luther', 'Bible']",provided,0,0,6
+"['artist', 'provided', 'woodcut', 'Luther', 'Bible']",woodcut,0,0,6
+"['asked', 'Luther', 'return', 'city']",Luther,0,0,6
+"['asked', 'Luther', 'return', 'city']",asked,0,0,6
+"['asked', 'Luther', 'return', 'city']",city,0,0,6
+"['asked', 'Luther', 'return', 'city']",return,0,0,6
+"['asked', 'Luther', 'teach', 'theology', 'University', 'Wittenberg']",Luther,0,0,6
+"['asked', 'Luther', 'teach', 'theology', 'University', 'Wittenberg']",University,0,0,6
+"['asked', 'Luther', 'teach', 'theology', 'University', 'Wittenberg']",Wittenberg,0,0,6
+"['asked', 'Luther', 'teach', 'theology', 'University', 'Wittenberg']",asked,0,0,6
+"['asked', 'Luther', 'teach', 'theology', 'University', 'Wittenberg']",teach,0,0,6
+"['asked', 'Luther', 'teach', 'theology', 'University', 'Wittenberg']",theology,0,0,6
+"['aspect', 'Luther', 'life', 'affected', 'health']",Luther,0,0,6
+"['aspect', 'Luther', 'life', 'affected', 'health']",affected,0,0,6
+"['aspect', 'Luther', 'life', 'affected', 'health']",aspect,0,0,6
+"['aspect', 'Luther', 'life', 'affected', 'health']",health,0,0,6
+"['aspect', 'Luther', 'life', 'affected', 'health']",life,0,0,6
+"['attempted', 'arrange', 'compromise']",arrange,0,0,6
+"['attempted', 'arrange', 'compromise']",attempted,0,0,6
+"['attempted', 'arrange', 'compromise']",compromise,0,0,6
+"['authority', 'enforced', 'ban', '95', 'Theses']",95,0,0,6
+"['authority', 'enforced', 'ban', '95', 'Theses']",Theses,0,0,6
+"['authority', 'enforced', 'ban', '95', 'Theses']",authority,0,0,6
+"['authority', 'enforced', 'ban', '95', 'Theses']",ban,0,0,6
+"['authority', 'enforced', 'ban', '95', 'Theses']",enforced,0,0,6
+"['baptismal', 'hymn', 'used', 'introduce', 'Reformation']",Reformation,0,0,6
+"['baptismal', 'hymn', 'used', 'introduce', 'Reformation']",baptismal,0,0,6
+"['baptismal', 'hymn', 'used', 'introduce', 'Reformation']",hymn,0,0,6
+"['baptismal', 'hymn', 'used', 'introduce', 'Reformation']",introduce,0,0,6
+"['baptismal', 'hymn', 'used', 'introduce', 'Reformation']",used,0,0,6
+"['basis', 'hymn']",basis,0,0,6
+"['basis', 'hymn']",hymn,0,0,6
+"['became', 'foundation', 'Reformation']",Reformation,0,0,6
+"['became', 'foundation', 'Reformation']",became,0,0,6
+"['became', 'foundation', 'Reformation']",foundation,0,0,6
+"['began', '1527', 'Luther', 'introdued', 'new', 'order', 'worship']",1527,0,0,6
+"['began', '1527', 'Luther', 'introdued', 'new', 'order', 'worship']",Luther,0,0,6
+"['began', '1527', 'Luther', 'introdued', 'new', 'order', 'worship']",began,0,0,6
+"['began', '1527', 'Luther', 'introdued', 'new', 'order', 'worship']",introdued,0,0,6
+"['began', '1527', 'Luther', 'introdued', 'new', 'order', 'worship']",new,0,0,6
+"['began', '1527', 'Luther', 'introdued', 'new', 'order', 'worship']",order,0,0,6
+"['began', '1527', 'Luther', 'introdued', 'new', 'order', 'worship']",worship,0,0,6
+"['book', 'Luther', 'read', '1542']",1542,0,0,6
+"['book', 'Luther', 'read', '1542']",Luther,0,0,6
+"['book', 'Luther', 'read', '1542']",book,0,0,6
+"['book', 'Luther', 'read', '1542']",read,0,0,6
+"['book', 'Luther', 'translate', 'German', 'time']",German,0,0,6
+"['book', 'Luther', 'translate', 'German', 'time']",Luther,0,0,6
+"['book', 'Luther', 'translate', 'German', 'time']",book,0,0,6
+"['book', 'Luther', 'translate', 'German', 'time']",time,0,0,6
+"['book', 'Luther', 'translate', 'German', 'time']",translate,0,0,6
+"['book', 'Luther', 'write', 'response', 'Agricola', 'antinomian']",Agricola,0,0,6
+"['book', 'Luther', 'write', 'response', 'Agricola', 'antinomian']",Luther,0,0,6
+"['book', 'Luther', 'write', 'response', 'Agricola', 'antinomian']",antinomian,0,0,6
+"['book', 'Luther', 'write', 'response', 'Agricola', 'antinomian']",book,0,0,6
+"['book', 'Luther', 'write', 'response', 'Agricola', 'antinomian']",response,0,0,6
+"['book', 'Luther', 'write', 'response', 'Agricola', 'antinomian']",write,0,0,6
+"['book', 'Martin', 'Luther', 'translate', 'impact', 'German', 'culture']",German,0,0,6
+"['book', 'Martin', 'Luther', 'translate', 'impact', 'German', 'culture']",Luther,0,0,6
+"['book', 'Martin', 'Luther', 'translate', 'impact', 'German', 'culture']",Martin,0,0,6
+"['book', 'Martin', 'Luther', 'translate', 'impact', 'German', 'culture']",book,0,0,6
+"['book', 'Martin', 'Luther', 'translate', 'impact', 'German', 'culture']",culture,0,0,6
+"['book', 'Martin', 'Luther', 'translate', 'impact', 'German', 'culture']",impact,0,0,6
+"['book', 'Martin', 'Luther', 'translate', 'impact', 'German', 'culture']",translate,0,0,6
+"['caused', 'Luther', 'write', 'hymn']",Luther,0,0,6
+"['caused', 'Luther', 'write', 'hymn']",caused,0,0,6
+"['caused', 'Luther', 'write', 'hymn']",hymn,0,0,6
+"['caused', 'Luther', 'write', 'hymn']",write,0,0,6
+"['central', 'article', 'Christian', 'doctrine']",Christian,0,0,6
+"['central', 'article', 'Christian', 'doctrine']",article,0,0,6
+"['central', 'article', 'Christian', 'doctrine']",central,0,0,6
+"['central', 'article', 'Christian', 'doctrine']",doctrine,0,0,6
+"['child', 'Luther', 'wife']",Luther,0,0,6
+"['child', 'Luther', 'wife']",child,0,0,6
+"['child', 'Luther', 'wife']",wife,0,0,6
+"['church', 'claim', 'suggested', 'expulsion', 'Jews', 'Germany']",Germany,0,0,6
+"['church', 'claim', 'suggested', 'expulsion', 'Jews', 'Germany']",Jews,0,0,6
+"['church', 'claim', 'suggested', 'expulsion', 'Jews', 'Germany']",church,0,0,6
+"['church', 'claim', 'suggested', 'expulsion', 'Jews', 'Germany']",claim,0,0,6
+"['church', 'claim', 'suggested', 'expulsion', 'Jews', 'Germany']",expulsion,0,0,6
+"['church', 'claim', 'suggested', 'expulsion', 'Jews', 'Germany']",suggested,0,0,6
+"['church', 'money', 'collector', 'said', 'sould', 'would', 'spring', 'purgatory', 'monetary', 'donation']",church,0,0,6
+"['church', 'money', 'collector', 'said', 'sould', 'would', 'spring', 'purgatory', 'monetary', 'donation']",collector,0,0,6
+"['church', 'money', 'collector', 'said', 'sould', 'would', 'spring', 'purgatory', 'monetary', 'donation']",donation,0,0,6
+"['church', 'money', 'collector', 'said', 'sould', 'would', 'spring', 'purgatory', 'monetary', 'donation']",monetary,0,0,6
+"['church', 'money', 'collector', 'said', 'sould', 'would', 'spring', 'purgatory', 'monetary', 'donation']",money,0,0,6
+"['church', 'money', 'collector', 'said', 'sould', 'would', 'spring', 'purgatory', 'monetary', 'donation']",purgatory,0,0,6
+"['church', 'money', 'collector', 'said', 'sould', 'would', 'spring', 'purgatory', 'monetary', 'donation']",said,0,0,6
+"['church', 'money', 'collector', 'said', 'sould', 'would', 'spring', 'purgatory', 'monetary', 'donation']",sould,0,0,6
+"['church', 'money', 'collector', 'said', 'sould', 'would', 'spring', 'purgatory', 'monetary', 'donation']",spring,0,0,6
+"['church', 'money', 'collector', 'said', 'sould', 'would', 'spring', 'purgatory', 'monetary', 'donation']",would,0,0,6
+"['claimed', 'Luther', 'writing', 'blueprint', 'action', 'Jews']",Jews,0,0,6
+"['claimed', 'Luther', 'writing', 'blueprint', 'action', 'Jews']",Luther,0,0,6
+"['claimed', 'Luther', 'writing', 'blueprint', 'action', 'Jews']",action,0,0,6
+"['claimed', 'Luther', 'writing', 'blueprint', 'action', 'Jews']",blueprint,0,0,6
+"['claimed', 'Luther', 'writing', 'blueprint', 'action', 'Jews']",claimed,0,0,6
+"['claimed', 'Luther', 'writing', 'blueprint', 'action', 'Jews']",writing,0,0,6
+"['comparison', 'found', 'Lord', 'Prayer', 'hymn']",Lord,0,0,6
+"['comparison', 'found', 'Lord', 'Prayer', 'hymn']",Prayer,0,0,6
+"['comparison', 'found', 'Lord', 'Prayer', 'hymn']",comparison,0,0,6
+"['comparison', 'found', 'Lord', 'Prayer', 'hymn']",found,0,0,6
+"['comparison', 'found', 'Lord', 'Prayer', 'hymn']",hymn,0,0,6
+"['composer', 'used', 'Luther', 'hymn', 'work']",Luther,0,0,6
+"['composer', 'used', 'Luther', 'hymn', 'work']",composer,0,0,6
+"['composer', 'used', 'Luther', 'hymn', 'work']",hymn,0,0,6
+"['composer', 'used', 'Luther', 'hymn', 'work']",used,0,0,6
+"['composer', 'used', 'Luther', 'hymn', 'work']",work,0,0,6
+"['considers', 'Luther', 'speech', 'world', 'classic']",Luther,0,0,6
+"['considers', 'Luther', 'speech', 'world', 'classic']",classic,0,0,6
+"['considers', 'Luther', 'speech', 'world', 'classic']",considers,0,0,6
+"['considers', 'Luther', 'speech', 'world', 'classic']",speech,0,0,6
+"['considers', 'Luther', 'speech', 'world', 'classic']",world,0,0,6
+"['contends', 'Luther', 'intend', 'oppose', 'church']",Luther,0,0,6
+"['contends', 'Luther', 'intend', 'oppose', 'church']",church,0,0,6
+"['contends', 'Luther', 'intend', 'oppose', 'church']",contends,0,0,6
+"['contends', 'Luther', 'intend', 'oppose', 'church']",intend,0,0,6
+"['contends', 'Luther', 'intend', 'oppose', 'church']",oppose,0,0,6
+"['contrast', 'Catholic', 'saint', 'portrayed']",Catholic,0,0,6
+"['contrast', 'Catholic', 'saint', 'portrayed']",contrast,0,0,6
+"['contrast', 'Catholic', 'saint', 'portrayed']",portrayed,0,0,6
+"['contrast', 'Catholic', 'saint', 'portrayed']",saint,0,0,6
+"['defeated', 'rebel', 'Battle', 'Frankenhausen']",Battle,0,0,6
+"['defeated', 'rebel', 'Battle', 'Frankenhausen']",Frankenhausen,0,0,6
+"['defeated', 'rebel', 'Battle', 'Frankenhausen']",defeated,0,0,6
+"['defeated', 'rebel', 'Battle', 'Frankenhausen']",rebel,0,0,6
+"['degree', 'Martin', 'Luther', 'receive', '19', 'October', '1512']",1512,0,0,6
+"['degree', 'Martin', 'Luther', 'receive', '19', 'October', '1512']",19,0,0,6
+"['degree', 'Martin', 'Luther', 'receive', '19', 'October', '1512']",Luther,0,0,6
+"['degree', 'Martin', 'Luther', 'receive', '19', 'October', '1512']",Martin,0,0,6
+"['degree', 'Martin', 'Luther', 'receive', '19', 'October', '1512']",October,0,0,6
+"['degree', 'Martin', 'Luther', 'receive', '19', 'October', '1512']",degree,0,0,6
+"['degree', 'Martin', 'Luther', 'receive', '19', 'October', '1512']",receive,0,0,6
+"['determined', 'expose', 'Luther', 'time']",Luther,0,0,6
+"['determined', 'expose', 'Luther', 'time']",determined,0,0,6
+"['determined', 'expose', 'Luther', 'time']",expose,0,0,6
+"['determined', 'expose', 'Luther', 'time']",time,0,0,6
+"['development', 'Luther', 'hymn', 'translation', 'influence']",Luther,0,0,6
+"['development', 'Luther', 'hymn', 'translation', 'influence']",development,0,0,6
+"['development', 'Luther', 'hymn', 'translation', 'influence']",hymn,0,0,6
+"['development', 'Luther', 'hymn', 'translation', 'influence']",influence,0,0,6
+"['development', 'Luther', 'hymn', 'translation', 'influence']",translation,0,0,6
+"['device', 'one', 'first', 'aid', 'controversy']",aid,0,0,6
+"['device', 'one', 'first', 'aid', 'controversy']",controversy,0,0,6
+"['device', 'one', 'first', 'aid', 'controversy']",device,0,0,6
+"['device', 'one', 'first', 'aid', 'controversy']",first,0,0,6
+"['device', 'one', 'first', 'aid', 'controversy']",one,0,0,6
+"['directed', 'Luther', 'away', 'self-reflection', 'towards', 'merit', 'Christ']",Christ,0,0,6
+"['directed', 'Luther', 'away', 'self-reflection', 'towards', 'merit', 'Christ']",Luther,0,0,6
+"['directed', 'Luther', 'away', 'self-reflection', 'towards', 'merit', 'Christ']",away,0,0,6
+"['directed', 'Luther', 'away', 'self-reflection', 'towards', 'merit', 'Christ']",directed,0,0,6
+"['directed', 'Luther', 'away', 'self-reflection', 'towards', 'merit', 'Christ']",merit,0,0,6
+"['directed', 'Luther', 'away', 'self-reflection', 'towards', 'merit', 'Christ']",self-reflection,0,0,6
+"['directed', 'Luther', 'away', 'self-reflection', 'towards', 'merit', 'Christ']",towards,0,0,6
+"['doctrine', 'God', 'appointing', 'authority', 'called']",God,0,0,6
+"['doctrine', 'God', 'appointing', 'authority', 'called']",appointing,0,0,6
+"['doctrine', 'God', 'appointing', 'authority', 'called']",authority,0,0,6
+"['doctrine', 'God', 'appointing', 'authority', 'called']",called,0,0,6
+"['doctrine', 'God', 'appointing', 'authority', 'called']",doctrine,0,0,6
+"['doctrine', 'Luther', 'disavow', 'saint']",Luther,0,0,6
+"['doctrine', 'Luther', 'disavow', 'saint']",disavow,0,0,6
+"['doctrine', 'Luther', 'disavow', 'saint']",doctrine,0,0,6
+"['doctrine', 'Luther', 'disavow', 'saint']",saint,0,0,6
+"['earlier', 'hymn', 'Luther', 'adapted']",Luther,0,0,6
+"['earlier', 'hymn', 'Luther', 'adapted']",adapted,0,0,6
+"['earlier', 'hymn', 'Luther', 'adapted']",earlier,0,0,6
+"['earlier', 'hymn', 'Luther', 'adapted']",hymn,0,0,6
+"['earliest', 'Bach', 'began', 'using', 'Luther', 'hymn']",Bach,0,0,6
+"['earliest', 'Bach', 'began', 'using', 'Luther', 'hymn']",Luther,0,0,6
+"['earliest', 'Bach', 'began', 'using', 'Luther', 'hymn']",began,0,0,6
+"['earliest', 'Bach', 'began', 'using', 'Luther', 'hymn']",earliest,0,0,6
+"['earliest', 'Bach', 'began', 'using', 'Luther', 'hymn']",hymn,0,0,6
+"['earliest', 'Bach', 'began', 'using', 'Luther', 'hymn']",using,0,0,6
+"['early', 'Luther', 'say', 'awaken', 'every', 'day']",Luther,0,0,6
+"['early', 'Luther', 'say', 'awaken', 'every', 'day']",awaken,0,0,6
+"['early', 'Luther', 'say', 'awaken', 'every', 'day']",day,0,0,6
+"['early', 'Luther', 'say', 'awaken', 'every', 'day']",early,0,0,6
+"['early', 'Luther', 'say', 'awaken', 'every', 'day']",every,0,0,6
+"['early', 'Luther', 'say', 'awaken', 'every', 'day']",say,0,0,6
+"['educational', 'study', 'Luther', 'start', 'pursue', 'immediately', 'drop']",Luther,0,0,6
+"['educational', 'study', 'Luther', 'start', 'pursue', 'immediately', 'drop']",drop,0,0,6
+"['educational', 'study', 'Luther', 'start', 'pursue', 'immediately', 'drop']",educational,0,0,6
+"['educational', 'study', 'Luther', 'start', 'pursue', 'immediately', 'drop']",immediately,0,0,6
+"['educational', 'study', 'Luther', 'start', 'pursue', 'immediately', 'drop']",pursue,0,0,6
+"['educational', 'study', 'Luther', 'start', 'pursue', 'immediately', 'drop']",start,0,0,6
+"['educational', 'study', 'Luther', 'start', 'pursue', 'immediately', 'drop']",study,0,0,6
+"['effort', 'Luther', 'particularly', 'favor']",Luther,0,0,6
+"['effort', 'Luther', 'particularly', 'favor']",effort,0,0,6
+"['effort', 'Luther', 'particularly', 'favor']",favor,0,0,6
+"['effort', 'Luther', 'particularly', 'favor']",particularly,0,0,6
+"['eight', 'sermon', 'called', 'Luther', 'preached', 'March', '1522']",1522,0,0,6
+"['eight', 'sermon', 'called', 'Luther', 'preached', 'March', '1522']",Luther,0,0,6
+"['eight', 'sermon', 'called', 'Luther', 'preached', 'March', '1522']",March,0,0,6
+"['eight', 'sermon', 'called', 'Luther', 'preached', 'March', '1522']",called,0,0,6
+"['eight', 'sermon', 'called', 'Luther', 'preached', 'March', '1522']",eight,0,0,6
+"['eight', 'sermon', 'called', 'Luther', 'preached', 'March', '1522']",preached,0,0,6
+"['eight', 'sermon', 'called', 'Luther', 'preached', 'March', '1522']",sermon,0,0,6
+"['election', 'produced', 'higher', 'vote', 'Protestant', 'Nazi', 'sympathizer', 'Catholics']",Catholics,0,0,6
+"['election', 'produced', 'higher', 'vote', 'Protestant', 'Nazi', 'sympathizer', 'Catholics']",Nazi,0,0,6
+"['election', 'produced', 'higher', 'vote', 'Protestant', 'Nazi', 'sympathizer', 'Catholics']",Protestant,0,0,6
+"['election', 'produced', 'higher', 'vote', 'Protestant', 'Nazi', 'sympathizer', 'Catholics']",election,0,0,6
+"['election', 'produced', 'higher', 'vote', 'Protestant', 'Nazi', 'sympathizer', 'Catholics']",higher,0,0,6
+"['election', 'produced', 'higher', 'vote', 'Protestant', 'Nazi', 'sympathizer', 'Catholics']",produced,0,0,6
+"['election', 'produced', 'higher', 'vote', 'Protestant', 'Nazi', 'sympathizer', 'Catholics']",sympathizer,0,0,6
+"['election', 'produced', 'higher', 'vote', 'Protestant', 'Nazi', 'sympathizer', 'Catholics']",vote,0,0,6
+"['else', 'Luther', 'use', 'violent', 'rhetoric', 'towards']",Luther,0,0,6
+"['else', 'Luther', 'use', 'violent', 'rhetoric', 'towards']",else,0,0,6
+"['else', 'Luther', 'use', 'violent', 'rhetoric', 'towards']",rhetoric,0,0,6
+"['else', 'Luther', 'use', 'violent', 'rhetoric', 'towards']",towards,0,0,6
+"['else', 'Luther', 'use', 'violent', 'rhetoric', 'towards']",use,0,0,6
+"['else', 'Luther', 'use', 'violent', 'rhetoric', 'towards']",violent,0,0,6
+"['else', 'observed', 'Luther', 'view', 'soul', 'different', 'form', 'later', 'view']",Luther,0,0,6
+"['else', 'observed', 'Luther', 'view', 'soul', 'different', 'form', 'later', 'view']",different,0,0,6
+"['else', 'observed', 'Luther', 'view', 'soul', 'different', 'form', 'later', 'view']",else,0,0,6
+"['else', 'observed', 'Luther', 'view', 'soul', 'different', 'form', 'later', 'view']",form,0,0,6
+"['else', 'observed', 'Luther', 'view', 'soul', 'different', 'form', 'later', 'view']",later,0,0,6
+"['else', 'observed', 'Luther', 'view', 'soul', 'different', 'form', 'later', 'view']",observed,0,0,6
+"['else', 'observed', 'Luther', 'view', 'soul', 'different', 'form', 'later', 'view']",soul,0,0,6
+"['else', 'observed', 'Luther', 'view', 'soul', 'different', 'form', 'later', 'view']",view,0,0,6
+"['event', 'Storch', 'Muntzer', 'help', 'instigate']",Muntzer,0,0,6
+"['event', 'Storch', 'Muntzer', 'help', 'instigate']",Storch,0,0,6
+"['event', 'Storch', 'Muntzer', 'help', 'instigate']",event,0,0,6
+"['event', 'Storch', 'Muntzer', 'help', 'instigate']",help,0,0,6
+"['event', 'Storch', 'Muntzer', 'help', 'instigate']",instigate,0,0,6
+"['event', 'followed', 'battle']",battle,0,0,6
+"['event', 'followed', 'battle']",event,0,0,6
+"['event', 'followed', 'battle']",followed,0,0,6
+"['event', 'took', 'away', 'ability', 'speech']",ability,0,0,6
+"['event', 'took', 'away', 'ability', 'speech']",away,0,0,6
+"['event', 'took', 'away', 'ability', 'speech']",event,0,0,6
+"['event', 'took', 'away', 'ability', 'speech']",speech,0,0,6
+"['event', 'took', 'away', 'ability', 'speech']",took,0,0,6
+"['faith', 'greatest', 'enemy', 'according', 'Luther']",Luther,0,0,6
+"['faith', 'greatest', 'enemy', 'according', 'Luther']",according,0,0,6
+"['faith', 'greatest', 'enemy', 'according', 'Luther']",enemy,0,0,6
+"['faith', 'greatest', 'enemy', 'according', 'Luther']",faith,0,0,6
+"['faith', 'greatest', 'enemy', 'according', 'Luther']",greatest,0,0,6
+"['famous', 'composer', 'used', 'Lutheran', 'hymn', 'work']",Lutheran,0,0,6
+"['famous', 'composer', 'used', 'Lutheran', 'hymn', 'work']",composer,0,0,6
+"['famous', 'composer', 'used', 'Lutheran', 'hymn', 'work']",famous,0,0,6
+"['famous', 'composer', 'used', 'Lutheran', 'hymn', 'work']",hymn,0,0,6
+"['famous', 'composer', 'used', 'Lutheran', 'hymn', 'work']",used,0,0,6
+"['famous', 'composer', 'used', 'Lutheran', 'hymn', 'work']",work,0,0,6
+"['fate', 'Luther', 'decided']",Luther,0,0,6
+"['fate', 'Luther', 'decided']",decided,0,0,6
+"['fate', 'Luther', 'decided']",fate,0,0,6
+"['field', 'study', 'Martin', 'Luther', 'prefer']",Luther,0,0,6
+"['field', 'study', 'Martin', 'Luther', 'prefer']",Martin,0,0,6
+"['field', 'study', 'Martin', 'Luther', 'prefer']",field,0,0,6
+"['field', 'study', 'Martin', 'Luther', 'prefer']",prefer,0,0,6
+"['field', 'study', 'Martin', 'Luther', 'prefer']",study,0,0,6
+"['fifteen', 'point', 'discussion', 'agreed']",agreed,0,0,6
+"['fifteen', 'point', 'discussion', 'agreed']",discussion,0,0,6
+"['fifteen', 'point', 'discussion', 'agreed']",fifteen,0,0,6
+"['fifteen', 'point', 'discussion', 'agreed']",point,0,0,6
+"['first', 'Lutheran', 'hymnal']",Lutheran,0,0,6
+"['first', 'Lutheran', 'hymnal']",first,0,0,6
+"['first', 'Lutheran', 'hymnal']",hymnal,0,0,6
+"['first', 'point', 'Reformation']",Reformation,0,0,6
+"['first', 'point', 'Reformation']",first,0,0,6
+"['first', 'point', 'Reformation']",point,0,0,6
+"['focus', 'Luther', 'last', 'sermon']",Luther,0,0,6
+"['focus', 'Luther', 'last', 'sermon']",focus,0,0,6
+"['focus', 'Luther', 'last', 'sermon']",last,0,0,6
+"['focus', 'Luther', 'last', 'sermon']",sermon,0,0,6
+"['found', 'Protestants', 'voted', 'Nazis', 'Catholics']",Catholics,0,0,6
+"['found', 'Protestants', 'voted', 'Nazis', 'Catholics']",Nazis,0,0,6
+"['found', 'Protestants', 'voted', 'Nazis', 'Catholics']",Protestants,0,0,6
+"['found', 'Protestants', 'voted', 'Nazis', 'Catholics']",found,0,0,6
+"['found', 'Protestants', 'voted', 'Nazis', 'Catholics']",voted,0,0,6
+"['fueled', 'Luther', 'concept', 'Christ', 'His', 'Salvation']",Christ,0,0,6
+"['fueled', 'Luther', 'concept', 'Christ', 'His', 'Salvation']",His,0,0,6
+"['fueled', 'Luther', 'concept', 'Christ', 'His', 'Salvation']",Luther,0,0,6
+"['fueled', 'Luther', 'concept', 'Christ', 'His', 'Salvation']",Salvation,0,0,6
+"['fueled', 'Luther', 'concept', 'Christ', 'His', 'Salvation']",concept,0,0,6
+"['fueled', 'Luther', 'concept', 'Christ', 'His', 'Salvation']",fueled,0,0,6
+"['giving', 'money', 'church', 'absolve', 'giver']",absolve,0,0,6
+"['giving', 'money', 'church', 'absolve', 'giver']",church,0,0,6
+"['giving', 'money', 'church', 'absolve', 'giver']",giver,0,0,6
+"['giving', 'money', 'church', 'absolve', 'giver']",giving,0,0,6
+"['giving', 'money', 'church', 'absolve', 'giver']",money,0,0,6
+"['got', 'safe', 'conduct', 'pas', 'Luther', 'come', 'leave', 'event']",Luther,0,0,6
+"['got', 'safe', 'conduct', 'pas', 'Luther', 'come', 'leave', 'event']",come,0,0,6
+"['got', 'safe', 'conduct', 'pas', 'Luther', 'come', 'leave', 'event']",conduct,0,0,6
+"['got', 'safe', 'conduct', 'pas', 'Luther', 'come', 'leave', 'event']",event,0,0,6
+"['got', 'safe', 'conduct', 'pas', 'Luther', 'come', 'leave', 'event']",got,0,0,6
+"['got', 'safe', 'conduct', 'pas', 'Luther', 'come', 'leave', 'event']",leave,0,0,6
+"['got', 'safe', 'conduct', 'pas', 'Luther', 'come', 'leave', 'event']",pas,0,0,6
+"['got', 'safe', 'conduct', 'pas', 'Luther', 'come', 'leave', 'event']",safe,0,0,6
+"['group', 'Luther', 'want', 'understand', 'work']",Luther,0,0,6
+"['group', 'Luther', 'want', 'understand', 'work']",group,0,0,6
+"['group', 'Luther', 'want', 'understand', 'work']",understand,0,0,6
+"['group', 'Luther', 'want', 'understand', 'work']",want,0,0,6
+"['group', 'Luther', 'want', 'understand', 'work']",work,0,0,6
+"['group', 'agree', 'sign', 'agreement']",agree,0,0,6
+"['group', 'agree', 'sign', 'agreement']",agreement,0,0,6
+"['group', 'agree', 'sign', 'agreement']",group,0,0,6
+"['group', 'agree', 'sign', 'agreement']",sign,0,0,6
+"['group', 'responsible', 'causing', 'violence', 'Wittenberg']",Wittenberg,0,0,6
+"['group', 'responsible', 'causing', 'violence', 'Wittenberg']",causing,0,0,6
+"['group', 'responsible', 'causing', 'violence', 'Wittenberg']",group,0,0,6
+"['group', 'responsible', 'causing', 'violence', 'Wittenberg']",responsible,0,0,6
+"['group', 'responsible', 'causing', 'violence', 'Wittenberg']",violence,0,0,6
+"['health', 'issue', 'Luther']",Luther,0,0,6
+"['health', 'issue', 'Luther']",health,0,0,6
+"['health', 'issue', 'Luther']",issue,0,0,6
+"['highwayman', 'take', 'Luther']",Luther,0,0,6
+"['highwayman', 'take', 'Luther']",highwayman,0,0,6
+"['highwayman', 'take', 'Luther']",take,0,0,6
+"['history', 'view', 'accountable', 'error', 'Philip', 'made', 'Luther', 'advice', 'matter']",Luther,0,0,6
+"['history', 'view', 'accountable', 'error', 'Philip', 'made', 'Luther', 'advice', 'matter']",Philip,0,0,6
+"['history', 'view', 'accountable', 'error', 'Philip', 'made', 'Luther', 'advice', 'matter']",accountable,0,0,6
+"['history', 'view', 'accountable', 'error', 'Philip', 'made', 'Luther', 'advice', 'matter']",advice,0,0,6
+"['history', 'view', 'accountable', 'error', 'Philip', 'made', 'Luther', 'advice', 'matter']",error,0,0,6
+"['history', 'view', 'accountable', 'error', 'Philip', 'made', 'Luther', 'advice', 'matter']",history,0,0,6
+"['history', 'view', 'accountable', 'error', 'Philip', 'made', 'Luther', 'advice', 'matter']",made,0,0,6
+"['history', 'view', 'accountable', 'error', 'Philip', 'made', 'Luther', 'advice', 'matter']",matter,0,0,6
+"['history', 'view', 'accountable', 'error', 'Philip', 'made', 'Luther', 'advice', 'matter']",view,0,0,6
+"['hymn', 'Aus', 'tiefer', 'Not', 'express']",Aus,0,0,6
+"['hymn', 'Aus', 'tiefer', 'Not', 'express']",Not,0,0,6
+"['hymn', 'Aus', 'tiefer', 'Not', 'express']",express,0,0,6
+"['hymn', 'Aus', 'tiefer', 'Not', 'express']",hymn,0,0,6
+"['hymn', 'Aus', 'tiefer', 'Not', 'express']",tiefer,0,0,6
+"['hymn', 'Luther', 'contribute', 'Erfurt', 'Enchiridion']",Enchiridion,0,0,6
+"['hymn', 'Luther', 'contribute', 'Erfurt', 'Enchiridion']",Erfurt,0,0,6
+"['hymn', 'Luther', 'contribute', 'Erfurt', 'Enchiridion']",Luther,0,0,6
+"['hymn', 'Luther', 'contribute', 'Erfurt', 'Enchiridion']",contribute,0,0,6
+"['hymn', 'Luther', 'contribute', 'Erfurt', 'Enchiridion']",hymn,0,0,6
+"['hymn', 'Luther', 'included', 'Achtliederbuch']",Achtliederbuch,0,0,6
+"['hymn', 'Luther', 'included', 'Achtliederbuch']",Luther,0,0,6
+"['hymn', 'Luther', 'included', 'Achtliederbuch']",hymn,0,0,6
+"['hymn', 'Luther', 'included', 'Achtliederbuch']",included,0,0,6
+"['hymn', 'Luther', 'write', 'based', 'Ten', 'Commandments']",Commandments,0,0,6
+"['hymn', 'Luther', 'write', 'based', 'Ten', 'Commandments']",Luther,0,0,6
+"['hymn', 'Luther', 'write', 'based', 'Ten', 'Commandments']",Ten,0,0,6
+"['hymn', 'Luther', 'write', 'based', 'Ten', 'Commandments']",based,0,0,6
+"['hymn', 'Luther', 'write', 'based', 'Ten', 'Commandments']",hymn,0,0,6
+"['hymn', 'Luther', 'write', 'based', 'Ten', 'Commandments']",write,0,0,6
+"['hymn', 'Luther', 'write', 'first', 'choral', 'hymnal']",Luther,0,0,6
+"['hymn', 'Luther', 'write', 'first', 'choral', 'hymnal']",choral,0,0,6
+"['hymn', 'Luther', 'write', 'first', 'choral', 'hymnal']",first,0,0,6
+"['hymn', 'Luther', 'write', 'first', 'choral', 'hymnal']",hymn,0,0,6
+"['hymn', 'Luther', 'write', 'first', 'choral', 'hymnal']",hymnal,0,0,6
+"['hymn', 'Luther', 'write', 'first', 'choral', 'hymnal']",write,0,0,6
+"['hymn', 'Luther', 'write', 'martyrdom', 'Esch', 'Voes']",Esch,0,0,6
+"['hymn', 'Luther', 'write', 'martyrdom', 'Esch', 'Voes']",Luther,0,0,6
+"['hymn', 'Luther', 'write', 'martyrdom', 'Esch', 'Voes']",Voes,0,0,6
+"['hymn', 'Luther', 'write', 'martyrdom', 'Esch', 'Voes']",hymn,0,0,6
+"['hymn', 'Luther', 'write', 'martyrdom', 'Esch', 'Voes']",martyrdom,0,0,6
+"['hymn', 'Luther', 'write', 'martyrdom', 'Esch', 'Voes']",write,0,0,6
+"['hymn', 'based']",based,0,0,6
+"['hymn', 'based']",hymn,0,0,6
+"['hymn', 'known', 'English']",English,0,0,6
+"['hymn', 'known', 'English']",hymn,0,0,6
+"['hymn', 'known', 'English']",known,0,0,6
+"['hymn', 'meant', 'examine', 'student']",examine,0,0,6
+"['hymn', 'meant', 'examine', 'student']",hymn,0,0,6
+"['hymn', 'meant', 'examine', 'student']",meant,0,0,6
+"['hymn', 'meant', 'examine', 'student']",student,0,0,6
+"['hymn', 'presage']",hymn,0,0,6
+"['hymn', 'presage']",presage,0,0,6
+"['image', 'Luther', 'contrast', 'life']",Luther,0,0,6
+"['image', 'Luther', 'contrast', 'life']",contrast,0,0,6
+"['image', 'Luther', 'contrast', 'life']",image,0,0,6
+"['image', 'Luther', 'contrast', 'life']",life,0,0,6
+"['image', 'used', 'promote', 'spread', 'Lutheranism']",Lutheranism,0,0,6
+"['image', 'used', 'promote', 'spread', 'Lutheranism']",image,0,0,6
+"['image', 'used', 'promote', 'spread', 'Lutheranism']",promote,0,0,6
+"['image', 'used', 'promote', 'spread', 'Lutheranism']",spread,0,0,6
+"['image', 'used', 'promote', 'spread', 'Lutheranism']",used,0,0,6
+"['indulgence', 'supposed', 'grant', 'giver']",giver,0,0,6
+"['indulgence', 'supposed', 'grant', 'giver']",grant,0,0,6
+"['indulgence', 'supposed', 'grant', 'giver']",indulgence,0,0,6
+"['indulgence', 'supposed', 'grant', 'giver']",supposed,0,0,6
+"['instrument', 'became', 'national', 'instrument', 'Germany']",Germany,0,0,6
+"['instrument', 'became', 'national', 'instrument', 'Germany']",became,0,0,6
+"['instrument', 'became', 'national', 'instrument', 'Germany']",instrument,0,0,6
+"['instrument', 'became', 'national', 'instrument', 'Germany']",national,0,0,6
+"['kind', 'affect', 'Luther', 'often', 'use', 'discourse']",Luther,0,0,6
+"['kind', 'affect', 'Luther', 'often', 'use', 'discourse']",affect,0,0,6
+"['kind', 'affect', 'Luther', 'often', 'use', 'discourse']",discourse,0,0,6
+"['kind', 'affect', 'Luther', 'often', 'use', 'discourse']",kind,0,0,6
+"['kind', 'affect', 'Luther', 'often', 'use', 'discourse']",often,0,0,6
+"['kind', 'affect', 'Luther', 'often', 'use', 'discourse']",use,0,0,6
+"['kind', 'death', 'Luther', 'say', 'revolting', 'peasant', 'deserve']",Luther,0,0,6
+"['kind', 'death', 'Luther', 'say', 'revolting', 'peasant', 'deserve']",death,0,0,6
+"['kind', 'death', 'Luther', 'say', 'revolting', 'peasant', 'deserve']",deserve,0,0,6
+"['kind', 'death', 'Luther', 'say', 'revolting', 'peasant', 'deserve']",kind,0,0,6
+"['kind', 'death', 'Luther', 'say', 'revolting', 'peasant', 'deserve']",peasant,0,0,6
+"['kind', 'death', 'Luther', 'say', 'revolting', 'peasant', 'deserve']",revolting,0,0,6
+"['kind', 'death', 'Luther', 'say', 'revolting', 'peasant', 'deserve']",say,0,0,6
+"['kind', 'image', 'Luther', 'used', 'advertise', 'Protestantism']",Luther,0,0,6
+"['kind', 'image', 'Luther', 'used', 'advertise', 'Protestantism']",Protestantism,0,0,6
+"['kind', 'image', 'Luther', 'used', 'advertise', 'Protestantism']",advertise,0,0,6
+"['kind', 'image', 'Luther', 'used', 'advertise', 'Protestantism']",image,0,0,6
+"['kind', 'image', 'Luther', 'used', 'advertise', 'Protestantism']",kind,0,0,6
+"['kind', 'image', 'Luther', 'used', 'advertise', 'Protestantism']",used,0,0,6
+"['kind', 'marriage']",kind,0,0,6
+"['kind', 'marriage']",marriage,0,0,6
+"['kind', 'war', 'Luther', 'support', 'Turks', 'even', 'oppose', 'religious', 'war']",Luther,0,0,6
+"['kind', 'war', 'Luther', 'support', 'Turks', 'even', 'oppose', 'religious', 'war']",Turks,0,0,6
+"['kind', 'war', 'Luther', 'support', 'Turks', 'even', 'oppose', 'religious', 'war']",even,0,0,6
+"['kind', 'war', 'Luther', 'support', 'Turks', 'even', 'oppose', 'religious', 'war']",kind,0,0,6
+"['kind', 'war', 'Luther', 'support', 'Turks', 'even', 'oppose', 'religious', 'war']",oppose,0,0,6
+"['kind', 'war', 'Luther', 'support', 'Turks', 'even', 'oppose', 'religious', 'war']",religious,0,0,6
+"['kind', 'war', 'Luther', 'support', 'Turks', 'even', 'oppose', 'religious', 'war']",support,0,0,6
+"['kind', 'war', 'Luther', 'support', 'Turks', 'even', 'oppose', 'religious', 'war']",war,0,0,6
+"['language', 'Luther', 'used', 'translation', 'spoken']",Luther,0,0,6
+"['language', 'Luther', 'used', 'translation', 'spoken']",language,0,0,6
+"['language', 'Luther', 'used', 'translation', 'spoken']",spoken,0,0,6
+"['language', 'Luther', 'used', 'translation', 'spoken']",translation,0,0,6
+"['language', 'Luther', 'used', 'translation', 'spoken']",used,0,0,6
+"['language', 'statement', 'written']",language,0,0,6
+"['language', 'statement', 'written']",statement,0,0,6
+"['language', 'statement', 'written']",written,0,0,6
+"['large', 'work', 'published']",large,0,0,6
+"['large', 'work', 'published']",published,0,0,6
+"['large', 'work', 'published']",work,0,0,6
+"['last', 'use', 'Bach', 'Luther', 'work']",Bach,0,0,6
+"['last', 'use', 'Bach', 'Luther', 'work']",Luther,0,0,6
+"['last', 'use', 'Bach', 'Luther', 'work']",last,0,0,6
+"['last', 'use', 'Bach', 'Luther', 'work']",use,0,0,6
+"['last', 'use', 'Bach', 'Luther', 'work']",work,0,0,6
+"['later', 'action', 'Nazis', 'traced', 'back', 'Luther', 'rhetoric']",Luther,0,0,6
+"['later', 'action', 'Nazis', 'traced', 'back', 'Luther', 'rhetoric']",Nazis,0,0,6
+"['later', 'action', 'Nazis', 'traced', 'back', 'Luther', 'rhetoric']",action,0,0,6
+"['later', 'action', 'Nazis', 'traced', 'back', 'Luther', 'rhetoric']",back,0,0,6
+"['later', 'action', 'Nazis', 'traced', 'back', 'Luther', 'rhetoric']",later,0,0,6
+"['later', 'action', 'Nazis', 'traced', 'back', 'Luther', 'rhetoric']",rhetoric,0,0,6
+"['later', 'action', 'Nazis', 'traced', 'back', 'Luther', 'rhetoric']",traced,0,0,6
+"['later', 'discovered', 'written', 'Luther']",Luther,0,0,6
+"['later', 'discovered', 'written', 'Luther']",discovered,0,0,6
+"['later', 'discovered', 'written', 'Luther']",later,0,0,6
+"['later', 'discovered', 'written', 'Luther']",written,0,0,6
+"['later', 'version', 'Lord', 'Prayer', 'hymn', 'use']",Lord,0,0,6
+"['later', 'version', 'Lord', 'Prayer', 'hymn', 'use']",Prayer,0,0,6
+"['later', 'version', 'Lord', 'Prayer', 'hymn', 'use']",hymn,0,0,6
+"['later', 'version', 'Lord', 'Prayer', 'hymn', 'use']",later,0,0,6
+"['later', 'version', 'Lord', 'Prayer', 'hymn', 'use']",use,0,0,6
+"['later', 'version', 'Lord', 'Prayer', 'hymn', 'use']",version,0,0,6
+"['lesson', 'Johann', 'von', 'Staupitz', 'teach', 'Luther', 'repentance']",Johann,0,0,6
+"['lesson', 'Johann', 'von', 'Staupitz', 'teach', 'Luther', 'repentance']",Luther,0,0,6
+"['lesson', 'Johann', 'von', 'Staupitz', 'teach', 'Luther', 'repentance']",Staupitz,0,0,6
+"['lesson', 'Johann', 'von', 'Staupitz', 'teach', 'Luther', 'repentance']",lesson,0,0,6
+"['lesson', 'Johann', 'von', 'Staupitz', 'teach', 'Luther', 'repentance']",repentance,0,0,6
+"['lesson', 'Johann', 'von', 'Staupitz', 'teach', 'Luther', 'repentance']",teach,0,0,6
+"['lesson', 'Johann', 'von', 'Staupitz', 'teach', 'Luther', 'repentance']",von,0,0,6
+"['lightening', 'event', 'happen']",event,0,0,6
+"['lightening', 'event', 'happen']",happen,0,0,6
+"['lightening', 'event', 'happen']",lightening,0,0,6
+"['long', 'take', 'Theses', 'printing', 'spread', 'thought', 'Germany']",Germany,0,0,6
+"['long', 'take', 'Theses', 'printing', 'spread', 'thought', 'Germany']",Theses,0,0,6
+"['long', 'take', 'Theses', 'printing', 'spread', 'thought', 'Germany']",long,0,0,6
+"['long', 'take', 'Theses', 'printing', 'spread', 'thought', 'Germany']",printing,0,0,6
+"['long', 'take', 'Theses', 'printing', 'spread', 'thought', 'Germany']",spread,0,0,6
+"['long', 'take', 'Theses', 'printing', 'spread', 'thought', 'Germany']",take,0,0,6
+"['long', 'take', 'Theses', 'printing', 'spread', 'thought', 'Germany']",thought,0,0,6
+"['long', 'take', 'Theses', 'spread', 'Europe']",Europe,0,0,6
+"['long', 'take', 'Theses', 'spread', 'Europe']",Theses,0,0,6
+"['long', 'take', 'Theses', 'spread', 'Europe']",long,0,0,6
+"['long', 'take', 'Theses', 'spread', 'Europe']",spread,0,0,6
+"['long', 'take', 'Theses', 'spread', 'Europe']",take,0,0,6
+"['made', 'Luther', 'even', 'short', 'tempered', 'usual']",Luther,0,0,6
+"['made', 'Luther', 'even', 'short', 'tempered', 'usual']",even,0,0,6
+"['made', 'Luther', 'even', 'short', 'tempered', 'usual']",made,0,0,6
+"['made', 'Luther', 'even', 'short', 'tempered', 'usual']",short,0,0,6
+"['made', 'Luther', 'even', 'short', 'tempered', 'usual']",tempered,0,0,6
+"['made', 'Luther', 'even', 'short', 'tempered', 'usual']",usual,0,0,6
+"['man', 'justification', 'depend', 'faith']",depend,0,0,6
+"['man', 'justification', 'depend', 'faith']",faith,0,0,6
+"['man', 'justification', 'depend', 'faith']",justification,0,0,6
+"['man', 'justification', 'depend', 'faith']",man,0,0,6
+"['manner', 'word', 'Mullet', 'think', 'Luther', 'would', 'choose']",Luther,0,0,6
+"['manner', 'word', 'Mullet', 'think', 'Luther', 'would', 'choose']",Mullet,0,0,6
+"['manner', 'word', 'Mullet', 'think', 'Luther', 'would', 'choose']",choose,0,0,6
+"['manner', 'word', 'Mullet', 'think', 'Luther', 'would', 'choose']",manner,0,0,6
+"['manner', 'word', 'Mullet', 'think', 'Luther', 'would', 'choose']",think,0,0,6
+"['manner', 'word', 'Mullet', 'think', 'Luther', 'would', 'choose']",word,0,0,6
+"['manner', 'word', 'Mullet', 'think', 'Luther', 'would', 'choose']",would,0,0,6
+"['married', 'wedding', 'couple']",couple,0,0,6
+"['married', 'wedding', 'couple']",married,0,0,6
+"['married', 'wedding', 'couple']",wedding,0,0,6
+"['meeting', 'often', 'become', 'argument']",argument,0,0,6
+"['meeting', 'often', 'become', 'argument']",become,0,0,6
+"['meeting', 'often', 'become', 'argument']",meeting,0,0,6
+"['meeting', 'often', 'become', 'argument']",often,0,0,6
+"['modern', 'Lutherans', 'stopped', 'using', 'hymn']",Lutherans,0,0,6
+"['modern', 'Lutherans', 'stopped', 'using', 'hymn']",hymn,0,0,6
+"['modern', 'Lutherans', 'stopped', 'using', 'hymn']",modern,0,0,6
+"['modern', 'Lutherans', 'stopped', 'using', 'hymn']",stopped,0,0,6
+"['modern', 'Lutherans', 'stopped', 'using', 'hymn']",using,0,0,6
+"['much', 'indulgence', 'went', 'Rome']",Rome,0,0,6
+"['much', 'indulgence', 'went', 'Rome']",indulgence,0,0,6
+"['much', 'indulgence', 'went', 'Rome']",much,0,0,6
+"['much', 'indulgence', 'went', 'Rome']",went,0,0,6
+"['near', 'death', 'work', 'published']",death,0,0,6
+"['near', 'death', 'work', 'published']",near,0,0,6
+"['near', 'death', 'work', 'published']",published,0,0,6
+"['near', 'death', 'work', 'published']",work,0,0,6
+"['negotiation', 'finished', 'Mansfeld']",Mansfeld,0,0,6
+"['negotiation', 'finished', 'Mansfeld']",finished,0,0,6
+"['negotiation', 'finished', 'Mansfeld']",negotiation,0,0,6
+"['new', 'elector', 'Saxony']",Saxony,0,0,6
+"['new', 'elector', 'Saxony']",elector,0,0,6
+"['new', 'elector', 'Saxony']",new,0,0,6
+"['new', 'mass', 'allow', 'regard', 'ceremony']",allow,0,0,6
+"['new', 'mass', 'allow', 'regard', 'ceremony']",ceremony,0,0,6
+"['new', 'mass', 'allow', 'regard', 'ceremony']",mass,0,0,6
+"['new', 'mass', 'allow', 'regard', 'ceremony']",new,0,0,6
+"['new', 'mass', 'allow', 'regard', 'ceremony']",regard,0,0,6
+"['new', 'mass', 'intended']",intended,0,0,6
+"['new', 'mass', 'intended']",mass,0,0,6
+"['new', 'mass', 'intended']",new,0,0,6
+"['noticed', 'Luther', 'view', 'soul', 'death', 'differed', 'later', 'theologian']",Luther,0,0,6
+"['noticed', 'Luther', 'view', 'soul', 'death', 'differed', 'later', 'theologian']",death,0,0,6
+"['noticed', 'Luther', 'view', 'soul', 'death', 'differed', 'later', 'theologian']",differed,0,0,6
+"['noticed', 'Luther', 'view', 'soul', 'death', 'differed', 'later', 'theologian']",later,0,0,6
+"['noticed', 'Luther', 'view', 'soul', 'death', 'differed', 'later', 'theologian']",noticed,0,0,6
+"['noticed', 'Luther', 'view', 'soul', 'death', 'differed', 'later', 'theologian']",soul,0,0,6
+"['noticed', 'Luther', 'view', 'soul', 'death', 'differed', 'later', 'theologian']",theologian,0,0,6
+"['noticed', 'Luther', 'view', 'soul', 'death', 'differed', 'later', 'theologian']",view,0,0,6
+"['objected', 'Tetzel', 'collection', 'money', 'free', 'soul', 'purgatory']",Tetzel,0,0,6
+"['objected', 'Tetzel', 'collection', 'money', 'free', 'soul', 'purgatory']",collection,0,0,6
+"['objected', 'Tetzel', 'collection', 'money', 'free', 'soul', 'purgatory']",free,0,0,6
+"['objected', 'Tetzel', 'collection', 'money', 'free', 'soul', 'purgatory']",money,0,0,6
+"['objected', 'Tetzel', 'collection', 'money', 'free', 'soul', 'purgatory']",objected,0,0,6
+"['objected', 'Tetzel', 'collection', 'money', 'free', 'soul', 'purgatory']",purgatory,0,0,6
+"['objected', 'Tetzel', 'collection', 'money', 'free', 'soul', 'purgatory']",soul,0,0,6
+"['old', 'Katharina', 'married', 'Luther']",Katharina,0,0,6
+"['old', 'Katharina', 'married', 'Luther']",Luther,0,0,6
+"['old', 'Katharina', 'married', 'Luther']",married,0,0,6
+"['old', 'Katharina', 'married', 'Luther']",old,0,0,6
+"['old', 'Martin', 'Luther', 'married']",Luther,0,0,6
+"['old', 'Martin', 'Luther', 'married']",Martin,0,0,6
+"['old', 'Martin', 'Luther', 'married']",married,0,0,6
+"['old', 'Martin', 'Luther', 'married']",old,0,0,6
+"['one', 'Luther', 'personal', 'writing']",Luther,0,0,6
+"['one', 'Luther', 'personal', 'writing']",one,0,0,6
+"['one', 'Luther', 'personal', 'writing']",personal,0,0,6
+"['one', 'Luther', 'personal', 'writing']",writing,0,0,6
+"['one', 'point', 'agreed', 'dear', 'Luther']",Luther,0,0,6
+"['one', 'point', 'agreed', 'dear', 'Luther']",agreed,0,0,6
+"['one', 'point', 'agreed', 'dear', 'Luther']",dear,0,0,6
+"['one', 'point', 'agreed', 'dear', 'Luther']",one,0,0,6
+"['one', 'point', 'agreed', 'dear', 'Luther']",point,0,0,6
+"['organization', 'teaching', 'Luther', 'reject']",Luther,0,0,6
+"['organization', 'teaching', 'Luther', 'reject']",organization,0.380565305,67,6
+"['organization', 'teaching', 'Luther', 'reject']",reject,0,0,6
+"['organization', 'teaching', 'Luther', 'reject']",teaching,3.044522438,41,6
+"['organizing', 'new', 'church', 'Luther', 'find', 'unworkable', 'congregation']",Luther,0,0,6
+"['organizing', 'new', 'church', 'Luther', 'find', 'unworkable', 'congregation']",church,0,0,6
+"['organizing', 'new', 'church', 'Luther', 'find', 'unworkable', 'congregation']",congregation,0,0,6
+"['organizing', 'new', 'church', 'Luther', 'find', 'unworkable', 'congregation']",find,0,0,6
+"['organizing', 'new', 'church', 'Luther', 'find', 'unworkable', 'congregation']",new,0,0,6
+"['organizing', 'new', 'church', 'Luther', 'find', 'unworkable', 'congregation']",organizing,0,0,6
+"['organizing', 'new', 'church', 'Luther', 'find', 'unworkable', 'congregation']",unworkable,0,0,6
+"['original', 'manuscript', 'show']",manuscript,0,0,6
+"['original', 'manuscript', 'show']",original,0,0,6
+"['original', 'manuscript', 'show']",show,0,0,6
+"['papal', 'legate', 'order', 'Pope']",Pope,0,0,6
+"['papal', 'legate', 'order', 'Pope']",legate,0,0,6
+"['papal', 'legate', 'order', 'Pope']",order,0,0,6
+"['papal', 'legate', 'order', 'Pope']",papal,0,0,6
+"['papal', 'nuncio', 'Karl', 'von', 'Miltitz', 'get', 'Luther', 'make', 'concession']",Karl,0,0,6
+"['papal', 'nuncio', 'Karl', 'von', 'Miltitz', 'get', 'Luther', 'make', 'concession']",Luther,0,0,6
+"['papal', 'nuncio', 'Karl', 'von', 'Miltitz', 'get', 'Luther', 'make', 'concession']",Miltitz,0,0,6
+"['papal', 'nuncio', 'Karl', 'von', 'Miltitz', 'get', 'Luther', 'make', 'concession']",concession,0,0,6
+"['papal', 'nuncio', 'Karl', 'von', 'Miltitz', 'get', 'Luther', 'make', 'concession']",get,0,0,6
+"['papal', 'nuncio', 'Karl', 'von', 'Miltitz', 'get', 'Luther', 'make', 'concession']",make,0,0,6
+"['papal', 'nuncio', 'Karl', 'von', 'Miltitz', 'get', 'Luther', 'make', 'concession']",nuncio,0,0,6
+"['papal', 'nuncio', 'Karl', 'von', 'Miltitz', 'get', 'Luther', 'make', 'concession']",papal,0,0,6
+"['papal', 'nuncio', 'Karl', 'von', 'Miltitz', 'get', 'Luther', 'make', 'concession']",von,0,0,6
+"['part', 'Luther', 'career', 'one', 'productive']",Luther,0,0,6
+"['part', 'Luther', 'career', 'one', 'productive']",career,0,0,6
+"['part', 'Luther', 'career', 'one', 'productive']",one,0,0,6
+"['part', 'Luther', 'career', 'one', 'productive']",part,0,0,6
+"['part', 'Luther', 'career', 'one', 'productive']",productive,0,0,6
+"['part', 'original', 'Catholic', 'mass', 'Luther', 'leave', 'new', 'mass']",Catholic,0,0,6
+"['part', 'original', 'Catholic', 'mass', 'Luther', 'leave', 'new', 'mass']",Luther,0,0,6
+"['part', 'original', 'Catholic', 'mass', 'Luther', 'leave', 'new', 'mass']",leave,0,0,6
+"['part', 'original', 'Catholic', 'mass', 'Luther', 'leave', 'new', 'mass']",mass,0,0,6
+"['part', 'original', 'Catholic', 'mass', 'Luther', 'leave', 'new', 'mass']",new,0,0,6
+"['part', 'original', 'Catholic', 'mass', 'Luther', 'leave', 'new', 'mass']",original,0,0,6
+"['part', 'original', 'Catholic', 'mass', 'Luther', 'leave', 'new', 'mass']",part,0,0,6
+"['pastor', 'unable']",pastor,0,0,6
+"['pastor', 'unable']",unable,0,0,6
+"['paved', 'way', 'Augsburg', 'Confession']",Augsburg,0,0,6
+"['paved', 'way', 'Augsburg', 'Confession']",Confession,0,0,6
+"['paved', 'way', 'Augsburg', 'Confession']",paved,0,0,6
+"['paved', 'way', 'Augsburg', 'Confession']",way,0,0,6
+"['peasant', 'believe', 'Luther', 'would']",Luther,0,0,6
+"['peasant', 'believe', 'Luther', 'would']",believe,0,0,6
+"['peasant', 'believe', 'Luther', 'would']",peasant,0,0,6
+"['peasant', 'believe', 'Luther', 'would']",would,0,0,6
+"['peasant', 'think', 'Luther', 'would', 'support', 'attack']",Luther,0,0,6
+"['peasant', 'think', 'Luther', 'would', 'support', 'attack']",attack,0,0,6
+"['peasant', 'think', 'Luther', 'would', 'support', 'attack']",peasant,0,0,6
+"['peasant', 'think', 'Luther', 'would', 'support', 'attack']",support,0,0,6
+"['peasant', 'think', 'Luther', 'would', 'support', 'attack']",think,0,0,6
+"['peasant', 'think', 'Luther', 'would', 'support', 'attack']",would,0,0,6
+"['performed', 'funeral', 'Martin', 'Luther']",Luther,0,0,6
+"['performed', 'funeral', 'Martin', 'Luther']",Martin,0,0,6
+"['performed', 'funeral', 'Martin', 'Luther']",funeral,0,0,6
+"['performed', 'funeral', 'Martin', 'Luther']",performed,0,0,6
+"['planned', 'Luther', 'Frederick', 'III', 'meeting']",Frederick,0,0,6
+"['planned', 'Luther', 'Frederick', 'III', 'meeting']",III,0,0,6
+"['planned', 'Luther', 'Frederick', 'III', 'meeting']",Luther,0,0,6
+"['planned', 'Luther', 'Frederick', 'III', 'meeting']",meeting,0,0,6
+"['planned', 'Luther', 'Frederick', 'III', 'meeting']",planned,0,0,6
+"['point', 'foundation', 'Reformation']",Reformation,0,0,6
+"['point', 'foundation', 'Reformation']",foundation,0,0,6
+"['point', 'foundation', 'Reformation']",point,0,0,6
+"['point', 'theologian', 'differ', 'concerning', 'Last', 'Supper']",Last,0,0,6
+"['point', 'theologian', 'differ', 'concerning', 'Last', 'Supper']",Supper,0,0,6
+"['point', 'theologian', 'differ', 'concerning', 'Last', 'Supper']",concerning,0,0,6
+"['point', 'theologian', 'differ', 'concerning', 'Last', 'Supper']",differ,0,0,6
+"['point', 'theologian', 'differ', 'concerning', 'Last', 'Supper']",point,0,0,6
+"['point', 'theologian', 'differ', 'concerning', 'Last', 'Supper']",theologian,0,0,6
+"['pointed', 'passage', 'dispute', 'actually', 'refers', 'living', 'man']",actually,0,0,6
+"['pointed', 'passage', 'dispute', 'actually', 'refers', 'living', 'man']",dispute,0,0,6
+"['pointed', 'passage', 'dispute', 'actually', 'refers', 'living', 'man']",living,0,0,6
+"['pointed', 'passage', 'dispute', 'actually', 'refers', 'living', 'man']",man,0,0,6
+"['pointed', 'passage', 'dispute', 'actually', 'refers', 'living', 'man']",passage,0,0,6
+"['pointed', 'passage', 'dispute', 'actually', 'refers', 'living', 'man']",pointed,0,0,6
+"['pointed', 'passage', 'dispute', 'actually', 'refers', 'living', 'man']",refers,0,0,6
+"['popularity', 'Luther', 'translation', 'contribute']",Luther,0,0,6
+"['popularity', 'Luther', 'translation', 'contribute']",contribute,0,0,6
+"['popularity', 'Luther', 'translation', 'contribute']",popularity,0,0,6
+"['popularity', 'Luther', 'translation', 'contribute']",translation,0,0,6
+"['portion', 'Luther', 'last', 'statement', 'German']",German,0,0,6
+"['portion', 'Luther', 'last', 'statement', 'German']",Luther,0,0,6
+"['portion', 'Luther', 'last', 'statement', 'German']",last,0,0,6
+"['portion', 'Luther', 'last', 'statement', 'German']",portion,0,0,6
+"['portion', 'Luther', 'last', 'statement', 'German']",statement,0,0,6
+"['position', 'Luther', 'Wittenberg']",Luther,0,0,6
+"['position', 'Luther', 'Wittenberg']",Wittenberg,0,0,6
+"['position', 'Luther', 'Wittenberg']",position,0,0,6
+"['presented', 'Edict', 'Worms', 'declaring', 'Luther', 'outlaw']",Edict,0,0,6
+"['presented', 'Edict', 'Worms', 'declaring', 'Luther', 'outlaw']",Luther,0,0,6
+"['presented', 'Edict', 'Worms', 'declaring', 'Luther', 'outlaw']",Worms,0,0,6
+"['presented', 'Edict', 'Worms', 'declaring', 'Luther', 'outlaw']",declaring,0,0,6
+"['presented', 'Edict', 'Worms', 'declaring', 'Luther', 'outlaw']",outlaw,0,0,6
+"['presented', 'Edict', 'Worms', 'declaring', 'Luther', 'outlaw']",presented,0,0,6
+"['presided', 'assembly']",assembly,0,0,6
+"['presided', 'assembly']",presided,0,0,6
+"['profession', 'Martin', 'father', 'want', 'son', 'pursue']",Martin,0,0,6
+"['profession', 'Martin', 'father', 'want', 'son', 'pursue']",father,0,0,6
+"['profession', 'Martin', 'father', 'want', 'son', 'pursue']",profession,0,0,6
+"['profession', 'Martin', 'father', 'want', 'son', 'pursue']",pursue,0,0,6
+"['profession', 'Martin', 'father', 'want', 'son', 'pursue']",son,0,0,6
+"['profession', 'Martin', 'father', 'want', 'son', 'pursue']",want,0,0,6
+"['prophecy', 'Daniel', 'interested', 'Luther']",Daniel,0,0,6
+"['prophecy', 'Daniel', 'interested', 'Luther']",Luther,0,0,6
+"['prophecy', 'Daniel', 'interested', 'Luther']",interested,0,0,6
+"['prophecy', 'Daniel', 'interested', 'Luther']",prophecy,0,0,6
+"['protection', 'caused', 'Luther', 'Reformation', 'flourish']",Luther,0,0,6
+"['protection', 'caused', 'Luther', 'Reformation', 'flourish']",Reformation,0,0,6
+"['protection', 'caused', 'Luther', 'Reformation', 'flourish']",caused,0,0,6
+"['protection', 'caused', 'Luther', 'Reformation', 'flourish']",flourish,0,0,6
+"['protection', 'caused', 'Luther', 'Reformation', 'flourish']",protection,0,0,6
+"['protester', 'Christ', 'counsel']",Christ,0,0,6
+"['protester', 'Christ', 'counsel']",counsel,0,0,6
+"['protester', 'Christ', 'counsel']",protester,0,0,6
+"['purpose', 'Turks', 'Luther', 'mind']",Luther,0,0,6
+"['purpose', 'Turks', 'Luther', 'mind']",Turks,0,0,6
+"['purpose', 'Turks', 'Luther', 'mind']",mind,0,0,6
+"['purpose', 'Turks', 'Luther', 'mind']",purpose,0,0,6
+"['purpose', 'would', 'Luther', 'wanting', 'ban', ""Qur'an""]",Luther,0,0,6
+"['purpose', 'would', 'Luther', 'wanting', 'ban', ""Qur'an""]",Qur'an,0,0,6
+"['purpose', 'would', 'Luther', 'wanting', 'ban', ""Qur'an""]",ban,0,0,6
+"['purpose', 'would', 'Luther', 'wanting', 'ban', ""Qur'an""]",purpose,0,0,6
+"['purpose', 'would', 'Luther', 'wanting', 'ban', ""Qur'an""]",wanting,0,0,6
+"['purpose', 'would', 'Luther', 'wanting', 'ban', ""Qur'an""]",would,0,0,6
+"['quick', 'effect', 'Luther', 'preaching']",Luther,0,0,6
+"['quick', 'effect', 'Luther', 'preaching']",effect,0,0,6
+"['quick', 'effect', 'Luther', 'preaching']",preaching,0,0,6
+"['quick', 'effect', 'Luther', 'preaching']",quick,0,0,6
+"['radical', 'reformer', 'cause', 'new', 'order']",cause,0,0,6
+"['radical', 'reformer', 'cause', 'new', 'order']",new,0,0,6
+"['radical', 'reformer', 'cause', 'new', 'order']",order,0,0,6
+"['radical', 'reformer', 'cause', 'new', 'order']",radical,0,0,6
+"['radical', 'reformer', 'cause', 'new', 'order']",reformer,0,0,6
+"['reform', 'cause']",cause,0,0,6
+"['reform', 'cause']",reform,0,0,6
+"['refusing', 'preach', 'Ten', 'Commandments']",Commandments,0,0,6
+"['refusing', 'preach', 'Ten', 'Commandments']",Ten,0,0,6
+"['refusing', 'preach', 'Ten', 'Commandments']",preach,0,0,6
+"['refusing', 'preach', 'Ten', 'Commandments']",refusing,0,0,6
+"['riot', 'cause', 'expulsion', 'Jews', 'several', 'German', 'state']",German,0,0,6
+"['riot', 'cause', 'expulsion', 'Jews', 'several', 'German', 'state']",Jews,0,0,6
+"['riot', 'cause', 'expulsion', 'Jews', 'several', 'German', 'state']",cause,0,0,6
+"['riot', 'cause', 'expulsion', 'Jews', 'several', 'German', 'state']",expulsion,0,0,6
+"['riot', 'cause', 'expulsion', 'Jews', 'several', 'German', 'state']",riot,0,0,6
+"['riot', 'cause', 'expulsion', 'Jews', 'several', 'German', 'state']",several,0,0,6
+"['riot', 'cause', 'expulsion', 'Jews', 'several', 'German', 'state']",state,0,0,6
+"['role', 'Luther', 'play', 'area', 'church']",Luther,0,0,6
+"['role', 'Luther', 'play', 'area', 'church']",area,0,0,6
+"['role', 'Luther', 'play', 'area', 'church']",church,0,0,6
+"['role', 'Luther', 'play', 'area', 'church']",play,0,0,6
+"['role', 'Luther', 'play', 'area', 'church']",role,0,0,6
+"['ruler', 'besides', 'John', 'Saxony', 'Philip', 'Hesse', 'formed', 'Schmalkaldic', 'League']",Hesse,0,0,6
+"['ruler', 'besides', 'John', 'Saxony', 'Philip', 'Hesse', 'formed', 'Schmalkaldic', 'League']",John,0,0,6
+"['ruler', 'besides', 'John', 'Saxony', 'Philip', 'Hesse', 'formed', 'Schmalkaldic', 'League']",League,0,0,6
+"['ruler', 'besides', 'John', 'Saxony', 'Philip', 'Hesse', 'formed', 'Schmalkaldic', 'League']",Philip,0,0,6
+"['ruler', 'besides', 'John', 'Saxony', 'Philip', 'Hesse', 'formed', 'Schmalkaldic', 'League']",Saxony,0,0,6
+"['ruler', 'besides', 'John', 'Saxony', 'Philip', 'Hesse', 'formed', 'Schmalkaldic', 'League']",Schmalkaldic,0,0,6
+"['ruler', 'besides', 'John', 'Saxony', 'Philip', 'Hesse', 'formed', 'Schmalkaldic', 'League']",besides,0,0,6
+"['ruler', 'besides', 'John', 'Saxony', 'Philip', 'Hesse', 'formed', 'Schmalkaldic', 'League']",formed,0,0,6
+"['ruler', 'besides', 'John', 'Saxony', 'Philip', 'Hesse', 'formed', 'Schmalkaldic', 'League']",ruler,0,0,6
+"['sacrament', 'accord', 'Christians', 'renewed', 'life']",Christians,0,0,6
+"['sacrament', 'accord', 'Christians', 'renewed', 'life']",accord,0,0,6
+"['sacrament', 'accord', 'Christians', 'renewed', 'life']",life,0,0,6
+"['sacrament', 'accord', 'Christians', 'renewed', 'life']",renewed,0,0,6
+"['sacrament', 'accord', 'Christians', 'renewed', 'life']",sacrament,0,0,6
+"['said', 'Here', 'stand']",Here,0,0,6
+"['said', 'Here', 'stand']",said,0,0,6
+"['said', 'Here', 'stand']",stand,0,0,6
+"['scholar', 'agree', 'posting', 'door', 'story']",agree,0,0,6
+"['scholar', 'agree', 'posting', 'door', 'story']",door,0,0,6
+"['scholar', 'agree', 'posting', 'door', 'story']",posting,0,0,6
+"['scholar', 'agree', 'posting', 'door', 'story']",scholar,0,0,6
+"['scholar', 'agree', 'posting', 'door', 'story']",story,0,0,6
+"['scholar', 'contend', 'Luther', 'word', 'lent', 'element', 'Christian', 'suspicion', 'Jews']",Christian,0,0,6
+"['scholar', 'contend', 'Luther', 'word', 'lent', 'element', 'Christian', 'suspicion', 'Jews']",Jews,0,0,6
+"['scholar', 'contend', 'Luther', 'word', 'lent', 'element', 'Christian', 'suspicion', 'Jews']",Luther,0,0,6
+"['scholar', 'contend', 'Luther', 'word', 'lent', 'element', 'Christian', 'suspicion', 'Jews']",contend,0,0,6
+"['scholar', 'contend', 'Luther', 'word', 'lent', 'element', 'Christian', 'suspicion', 'Jews']",element,0,0,6
+"['scholar', 'contend', 'Luther', 'word', 'lent', 'element', 'Christian', 'suspicion', 'Jews']",lent,0,0,6
+"['scholar', 'contend', 'Luther', 'word', 'lent', 'element', 'Christian', 'suspicion', 'Jews']",scholar,0,0,6
+"['scholar', 'contend', 'Luther', 'word', 'lent', 'element', 'Christian', 'suspicion', 'Jews']",suspicion,0,0,6
+"['scholar', 'contend', 'Luther', 'word', 'lent', 'element', 'Christian', 'suspicion', 'Jews']",word,0,0,6
+"['scholar', 'sometimes', 'assert', 'Luther', 'believed', 'faith', 'reason']",Luther,0,0,6
+"['scholar', 'sometimes', 'assert', 'Luther', 'believed', 'faith', 'reason']",assert,0,0,6
+"['scholar', 'sometimes', 'assert', 'Luther', 'believed', 'faith', 'reason']",believed,0,0,6
+"['scholar', 'sometimes', 'assert', 'Luther', 'believed', 'faith', 'reason']",faith,0,0,6
+"['scholar', 'sometimes', 'assert', 'Luther', 'believed', 'faith', 'reason']",reason,0,0,6
+"['scholar', 'sometimes', 'assert', 'Luther', 'believed', 'faith', 'reason']",scholar,0,0,6
+"['scholar', 'sometimes', 'assert', 'Luther', 'believed', 'faith', 'reason']",sometimes,0,0,6
+"['scholar', 'view', 'Nazi', 'use', 'Luther', 'work']",Luther,0,0,6
+"['scholar', 'view', 'Nazi', 'use', 'Luther', 'work']",Nazi,0,0,6
+"['scholar', 'view', 'Nazi', 'use', 'Luther', 'work']",scholar,0,0,6
+"['scholar', 'view', 'Nazi', 'use', 'Luther', 'work']",use,0,0,6
+"['scholar', 'view', 'Nazi', 'use', 'Luther', 'work']",view,0,0,6
+"['scholar', 'view', 'Nazi', 'use', 'Luther', 'work']",work,0,0,6
+"['scolded', 'Luther', 'rudeness']",Luther,0,0,6
+"['scolded', 'Luther', 'rudeness']",rudeness,0,0,6
+"['scolded', 'Luther', 'rudeness']",scolded,0,0,6
+"['scripture', 'Luther', 'use', 'back', 'opinion', 'churchman', 'infallible']",Luther,0,0,6
+"['scripture', 'Luther', 'use', 'back', 'opinion', 'churchman', 'infallible']",back,0,0,6
+"['scripture', 'Luther', 'use', 'back', 'opinion', 'churchman', 'infallible']",churchman,0,0,6
+"['scripture', 'Luther', 'use', 'back', 'opinion', 'churchman', 'infallible']",infallible,0,0,6
+"['scripture', 'Luther', 'use', 'back', 'opinion', 'churchman', 'infallible']",opinion,0,0,6
+"['scripture', 'Luther', 'use', 'back', 'opinion', 'churchman', 'infallible']",scripture,0,0,6
+"['scripture', 'Luther', 'use', 'back', 'opinion', 'churchman', 'infallible']",use,0,0,6
+"['section', 'Church', 'dogma', 'Luther', 'come', 'view', 'another', 'way']",Church,0,0,6
+"['section', 'Church', 'dogma', 'Luther', 'come', 'view', 'another', 'way']",Luther,0,0,6
+"['section', 'Church', 'dogma', 'Luther', 'come', 'view', 'another', 'way']",another,0,0,6
+"['section', 'Church', 'dogma', 'Luther', 'come', 'view', 'another', 'way']",come,0,0,6
+"['section', 'Church', 'dogma', 'Luther', 'come', 'view', 'another', 'way']",dogma,0,0,6
+"['section', 'Church', 'dogma', 'Luther', 'come', 'view', 'another', 'way']",section,0,0,6
+"['section', 'Church', 'dogma', 'Luther', 'come', 'view', 'another', 'way']",view,0,0,6
+"['section', 'Church', 'dogma', 'Luther', 'come', 'view', 'another', 'way']",way,0,0,6
+"['separating', 'faith', 'reason', 'Luther', 'honor']",Luther,0,0,6
+"['separating', 'faith', 'reason', 'Luther', 'honor']",faith,0,0,6
+"['separating', 'faith', 'reason', 'Luther', 'honor']",honor,0,0,6
+"['separating', 'faith', 'reason', 'Luther', 'honor']",reason,0,0,6
+"['separating', 'faith', 'reason', 'Luther', 'honor']",separating,0,0,6
+"['seven', 'Protestant', 'church', 'agree', 'Nazi', 'policy', 'forcing', 'Jews', 'wear', 'yellow', 'arm', 'band']",Jews,0,0,6
+"['seven', 'Protestant', 'church', 'agree', 'Nazi', 'policy', 'forcing', 'Jews', 'wear', 'yellow', 'arm', 'band']",Nazi,0,0,6
+"['seven', 'Protestant', 'church', 'agree', 'Nazi', 'policy', 'forcing', 'Jews', 'wear', 'yellow', 'arm', 'band']",Protestant,0,0,6
+"['seven', 'Protestant', 'church', 'agree', 'Nazi', 'policy', 'forcing', 'Jews', 'wear', 'yellow', 'arm', 'band']",agree,0,0,6
+"['seven', 'Protestant', 'church', 'agree', 'Nazi', 'policy', 'forcing', 'Jews', 'wear', 'yellow', 'arm', 'band']",arm,0,0,6
+"['seven', 'Protestant', 'church', 'agree', 'Nazi', 'policy', 'forcing', 'Jews', 'wear', 'yellow', 'arm', 'band']",band,0,0,6
+"['seven', 'Protestant', 'church', 'agree', 'Nazi', 'policy', 'forcing', 'Jews', 'wear', 'yellow', 'arm', 'band']",church,0,0,6
+"['seven', 'Protestant', 'church', 'agree', 'Nazi', 'policy', 'forcing', 'Jews', 'wear', 'yellow', 'arm', 'band']",forcing,0,0,6
+"['seven', 'Protestant', 'church', 'agree', 'Nazi', 'policy', 'forcing', 'Jews', 'wear', 'yellow', 'arm', 'band']",policy,0,0,6
+"['seven', 'Protestant', 'church', 'agree', 'Nazi', 'policy', 'forcing', 'Jews', 'wear', 'yellow', 'arm', 'band']",seven,0,0,6
+"['seven', 'Protestant', 'church', 'agree', 'Nazi', 'policy', 'forcing', 'Jews', 'wear', 'yellow', 'arm', 'band']",wear,0,0,6
+"['seven', 'Protestant', 'church', 'agree', 'Nazi', 'policy', 'forcing', 'Jews', 'wear', 'yellow', 'arm', 'band']",yellow,0,0,6
+"['spoke', 'Luther', 'book', 'behalf', 'Empire']",Empire,0,0,6
+"['spoke', 'Luther', 'book', 'behalf', 'Empire']",Luther,0,0,6
+"['spoke', 'Luther', 'book', 'behalf', 'Empire']",behalf,0,0,6
+"['spoke', 'Luther', 'book', 'behalf', 'Empire']",book,0,0,6
+"['spoke', 'Luther', 'book', 'behalf', 'Empire']",spoke,0,0,6
+"['stated', 'John', 'Jortin', 'misunderstood', 'Luther']",John,0,0,6
+"['stated', 'John', 'Jortin', 'misunderstood', 'Luther']",Jortin,0,0,6
+"['stated', 'John', 'Jortin', 'misunderstood', 'Luther']",Luther,0,0,6
+"['stated', 'John', 'Jortin', 'misunderstood', 'Luther']",misunderstood,0,0,6
+"['stated', 'John', 'Jortin', 'misunderstood', 'Luther']",stated,0,0,6
+"['statement', 'Tetzel', 'show']",Tetzel,0,0,6
+"['statement', 'Tetzel', 'show']",show,0,0,6
+"['statement', 'Tetzel', 'show']",statement,0,0,6
+"['statement', 'doubtful', 'eye', 'scholar']",doubtful,0,0,6
+"['statement', 'doubtful', 'eye', 'scholar']",eye,0,0,6
+"['statement', 'doubtful', 'eye', 'scholar']",scholar,0,0,6
+"['statement', 'doubtful', 'eye', 'scholar']",statement,0,0,6
+"['story', 'little', 'foundation', 'truth']",foundation,0,0,6
+"['story', 'little', 'foundation', 'truth']",little,0,0,6
+"['story', 'little', 'foundation', 'truth']",story,0,0,6
+"['story', 'little', 'foundation', 'truth']",truth,0,0,6
+"['story', 'little', 'truth', 'pillar', 'history']",history,0,0,6
+"['story', 'little', 'truth', 'pillar', 'history']",little,0,0,6
+"['story', 'little', 'truth', 'pillar', 'history']",pillar,0,0,6
+"['story', 'little', 'truth', 'pillar', 'history']",story,0,0,6
+"['story', 'little', 'truth', 'pillar', 'history']",truth,0,0,6
+"['style', 'Luther', 'salute', 'end', 'speech']",Luther,0,0,6
+"['style', 'Luther', 'salute', 'end', 'speech']",end,0,0,6
+"['style', 'Luther', 'salute', 'end', 'speech']",salute,0,0,6
+"['style', 'Luther', 'salute', 'end', 'speech']",speech,0,0,6
+"['style', 'Luther', 'salute', 'end', 'speech']",style,0,0,6
+"['supported', 'Andreas', 'Karistadt', 'reform', 'Wittenberg']",Andreas,0,0,6
+"['supported', 'Andreas', 'Karistadt', 'reform', 'Wittenberg']",Karistadt,0,0,6
+"['supported', 'Andreas', 'Karistadt', 'reform', 'Wittenberg']",Wittenberg,0,0,6
+"['supported', 'Andreas', 'Karistadt', 'reform', 'Wittenberg']",reform,0,0,6
+"['supported', 'Andreas', 'Karistadt', 'reform', 'Wittenberg']",supported,0,0,6
+"['survey', 'North', 'American', 'Lutherans', 'find', 'Lutherans', 'felt', 'Jews', 'compared', 'minority', 'group']",American,0,0,6
+"['survey', 'North', 'American', 'Lutherans', 'find', 'Lutherans', 'felt', 'Jews', 'compared', 'minority', 'group']",Jews,0,0,6
+"['survey', 'North', 'American', 'Lutherans', 'find', 'Lutherans', 'felt', 'Jews', 'compared', 'minority', 'group']",Lutherans,0,0,6
+"['survey', 'North', 'American', 'Lutherans', 'find', 'Lutherans', 'felt', 'Jews', 'compared', 'minority', 'group']",North,0,0,6
+"['survey', 'North', 'American', 'Lutherans', 'find', 'Lutherans', 'felt', 'Jews', 'compared', 'minority', 'group']",compared,0,0,6
+"['survey', 'North', 'American', 'Lutherans', 'find', 'Lutherans', 'felt', 'Jews', 'compared', 'minority', 'group']",felt,0,0,6
+"['survey', 'North', 'American', 'Lutherans', 'find', 'Lutherans', 'felt', 'Jews', 'compared', 'minority', 'group']",find,0,0,6
+"['survey', 'North', 'American', 'Lutherans', 'find', 'Lutherans', 'felt', 'Jews', 'compared', 'minority', 'group']",group,0,0,6
+"['survey', 'North', 'American', 'Lutherans', 'find', 'Lutherans', 'felt', 'Jews', 'compared', 'minority', 'group']",minority,0,0,6
+"['survey', 'North', 'American', 'Lutherans', 'find', 'Lutherans', 'felt', 'Jews', 'compared', 'minority', 'group']",survey,0,0,6
+"['theologian', 'differed', 'view', 'soul', 'Luther']",Luther,0,0,6
+"['theologian', 'differed', 'view', 'soul', 'Luther']",differed,0,0,6
+"['theologian', 'differed', 'view', 'soul', 'Luther']",soul,0,0,6
+"['theologian', 'differed', 'view', 'soul', 'Luther']",theologian,0,0,6
+"['theologian', 'differed', 'view', 'soul', 'Luther']",view,0,0,6
+"['theology', 'state', 'faith', 'alone', ""n't"", 'enough', 'justify', 'man']",alone,0,0,6
+"['theology', 'state', 'faith', 'alone', ""n't"", 'enough', 'justify', 'man']",enough,0,0,6
+"['theology', 'state', 'faith', 'alone', ""n't"", 'enough', 'justify', 'man']",faith,0,0,6
+"['theology', 'state', 'faith', 'alone', ""n't"", 'enough', 'justify', 'man']",justify,0,0,6
+"['theology', 'state', 'faith', 'alone', ""n't"", 'enough', 'justify', 'man']",man,0,0,6
+"['theology', 'state', 'faith', 'alone', ""n't"", 'enough', 'justify', 'man']",n't,0,0,6
+"['theology', 'state', 'faith', 'alone', ""n't"", 'enough', 'justify', 'man']",state,0,0,6
+"['theology', 'state', 'faith', 'alone', ""n't"", 'enough', 'justify', 'man']",theology,0,0,6
+"['think', 'Luther', 'added', 'antisemitism', 'cultural', 'element', 'Germany']",Germany,0,0,6
+"['think', 'Luther', 'added', 'antisemitism', 'cultural', 'element', 'Germany']",Luther,0,0,6
+"['think', 'Luther', 'added', 'antisemitism', 'cultural', 'element', 'Germany']",added,0,0,6
+"['think', 'Luther', 'added', 'antisemitism', 'cultural', 'element', 'Germany']",antisemitism,0,0,6
+"['think', 'Luther', 'added', 'antisemitism', 'cultural', 'element', 'Germany']",cultural,0,0,6
+"['think', 'Luther', 'added', 'antisemitism', 'cultural', 'element', 'Germany']",element,0,0,6
+"['think', 'Luther', 'added', 'antisemitism', 'cultural', 'element', 'Germany']",think,0,0,6
+"['third', 'visit', 'Mnafeld', 'scheduled']",Mnafeld,0,0,6
+"['third', 'visit', 'Mnafeld', 'scheduled']",scheduled,0,0,6
+"['third', 'visit', 'Mnafeld', 'scheduled']",third,0,0,6
+"['third', 'visit', 'Mnafeld', 'scheduled']",visit,0,0,6
+"['time', 'Luther', 'preach', 'Halle', '1545', '1546']",1545,0,0,6
+"['time', 'Luther', 'preach', 'Halle', '1545', '1546']",1546,0,0,6
+"['time', 'Luther', 'preach', 'Halle', '1545', '1546']",Halle,0,0,6
+"['time', 'Luther', 'preach', 'Halle', '1545', '1546']",Luther,0,0,6
+"['time', 'Luther', 'preach', 'Halle', '1545', '1546']",preach,0,0,6
+"['time', 'Luther', 'preach', 'Halle', '1545', '1546']",time,0,0,6
+"['time', 'limit', 'Luther', 'recantation', 'sentence']",Luther,0,0,6
+"['time', 'limit', 'Luther', 'recantation', 'sentence']",limit,0,0,6
+"['time', 'limit', 'Luther', 'recantation', 'sentence']",recantation,0,0,6
+"['time', 'limit', 'Luther', 'recantation', 'sentence']",sentence,0,0,6
+"['time', 'limit', 'Luther', 'recantation', 'sentence']",time,0,0,6
+"['title', 'Edwards', 'book', 'Luther']",Edwards,0,0,6
+"['title', 'Edwards', 'book', 'Luther']",Luther,0,0,6
+"['title', 'Edwards', 'book', 'Luther']",book,0,0,6
+"['title', 'Edwards', 'book', 'Luther']",title,0,0,6
+"['title', 'first', 'choral', 'hymnal']",choral,0,0,6
+"['title', 'first', 'choral', 'hymnal']",first,0,0,6
+"['title', 'first', 'choral', 'hymnal']",hymnal,0,0,6
+"['title', 'first', 'choral', 'hymnal']",title,0,0,6
+"['translated', 'printed', 'Luther', '95']",95,0,0,6
+"['translated', 'printed', 'Luther', '95']",Luther,0,0,6
+"['translated', 'printed', 'Luther', '95']",printed,0,0,6
+"['translated', 'printed', 'Luther', '95']",translated,0,0,6
+"['translation', 'Luther', 'used', 'today']",Luther,0,0,6
+"['translation', 'Luther', 'used', 'today']",today,0,0,6
+"['translation', 'Luther', 'used', 'today']",translation,0,0,6
+"['translation', 'Luther', 'used', 'today']",used,0,0,6
+"['type', 'education', 'assessed', 'time']",assessed,0,0,6
+"['type', 'education', 'assessed', 'time']",education,0,0,6
+"['type', 'education', 'assessed', 'time']",time,0,0,6
+"['type', 'education', 'assessed', 'time']",type,0,0,6
+"['type', 'people', 'brought', 'back', 'way', 'truth']",back,0,0,6
+"['type', 'people', 'brought', 'back', 'way', 'truth']",brought,0,0,6
+"['type', 'people', 'brought', 'back', 'way', 'truth']",people,0,0,6
+"['type', 'people', 'brought', 'back', 'way', 'truth']",truth,0,0,6
+"['type', 'people', 'brought', 'back', 'way', 'truth']",type,0,0,6
+"['type', 'people', 'brought', 'back', 'way', 'truth']",way,0,0,6
+"['type', 'work', 'Luther', 'prolific']",Luther,0,0,6
+"['type', 'work', 'Luther', 'prolific']",prolific,0,0,6
+"['type', 'work', 'Luther', 'prolific']",type,0,0,6
+"['type', 'work', 'Luther', 'prolific']",work,0,0,6
+"['type', 'writing', 'reading', ""Qur'an"", 'bring', 'Luther']",Luther,0,0,6
+"['type', 'writing', 'reading', ""Qur'an"", 'bring', 'Luther']",Qur'an,0,0,6
+"['type', 'writing', 'reading', ""Qur'an"", 'bring', 'Luther']",bring,0,0,6
+"['type', 'writing', 'reading', ""Qur'an"", 'bring', 'Luther']",reading,0,0,6
+"['type', 'writing', 'reading', ""Qur'an"", 'bring', 'Luther']",type,0,0,6
+"['type', 'writing', 'reading', ""Qur'an"", 'bring', 'Luther']",writing,0,0,6
+"['unintended', 'development', 'relationship', 'elector', 'church', 'government']",church,0,0,6
+"['unintended', 'development', 'relationship', 'elector', 'church', 'government']",development,0,0,6
+"['unintended', 'development', 'relationship', 'elector', 'church', 'government']",elector,0,0,6
+"['unintended', 'development', 'relationship', 'elector', 'church', 'government']",government,0,0,6
+"['unintended', 'development', 'relationship', 'elector', 'church', 'government']",relationship,0,0,6
+"['unintended', 'development', 'relationship', 'elector', 'church', 'government']",unintended,0,0,6
+"['use', 'law', 'Holy', 'Spirit']",Holy,0,0,6
+"['use', 'law', 'Holy', 'Spirit']",Spirit,0,0,6
+"['use', 'law', 'Holy', 'Spirit']",law,0,0,6
+"['use', 'law', 'Holy', 'Spirit']",use,0,0,6
+"['version', 'English', 'translation', 'Bible', 'Luther', 'translation', 'affect']",Bible,0,0,6
+"['version', 'English', 'translation', 'Bible', 'Luther', 'translation', 'affect']",English,0,0,6
+"['version', 'English', 'translation', 'Bible', 'Luther', 'translation', 'affect']",Luther,0,0,6
+"['version', 'English', 'translation', 'Bible', 'Luther', 'translation', 'affect']",affect,0,0,6
+"['version', 'English', 'translation', 'Bible', 'Luther', 'translation', 'affect']",translation,0,0,6
+"['version', 'English', 'translation', 'Bible', 'Luther', 'translation', 'affect']",version,0,0,6
+"['want', 'make', 'language', 'accessible', 'people']",accessible,0,0,6
+"['want', 'make', 'language', 'accessible', 'people']",language,0,0,6
+"['want', 'make', 'language', 'accessible', 'people']",make,0,0,6
+"['want', 'make', 'language', 'accessible', 'people']",people,0,0,6
+"['want', 'make', 'language', 'accessible', 'people']",want,0,0,6
+"['way', 'Luther', 'justify', 'opposition', 'revolt']",Luther,0,0,6
+"['way', 'Luther', 'justify', 'opposition', 'revolt']",justify,0,0,6
+"['way', 'Luther', 'justify', 'opposition', 'revolt']",opposition,0,0,6
+"['way', 'Luther', 'justify', 'opposition', 'revolt']",revolt,0,0,6
+"['way', 'Luther', 'justify', 'opposition', 'revolt']",way,0,0,6
+"['wedding', 'banquet', 'celebrated']",banquet,0,0,6
+"['wedding', 'banquet', 'celebrated']",celebrated,0,0,6
+"['wedding', 'banquet', 'celebrated']",wedding,0,0,6
+"['went', 'Wittenberg', 'hear', 'Luther', 'speak']",Luther,0,0,6
+"['went', 'Wittenberg', 'hear', 'Luther', 'speak']",Wittenberg,0,0,6
+"['went', 'Wittenberg', 'hear', 'Luther', 'speak']",hear,0,0,6
+"['went', 'Wittenberg', 'hear', 'Luther', 'speak']",speak,0,0,6
+"['went', 'Wittenberg', 'hear', 'Luther', 'speak']",went,0,0,6
+"['widely', 'read', 'writer', 'generation']",generation,0,0,6
+"['widely', 'read', 'writer', 'generation']",read,0,0,6
+"['widely', 'read', 'writer', 'generation']",widely,0,0,6
+"['widely', 'read', 'writer', 'generation']",writer,0,0,6
+"['word', 'Luther', 'criticized', 'adding', 'Romans3:28']",Luther,0,0,6
+"['word', 'Luther', 'criticized', 'adding', 'Romans3:28']",Romans3:28,0,0,6
+"['word', 'Luther', 'criticized', 'adding', 'Romans3:28']",adding,0,0,6
+"['word', 'Luther', 'criticized', 'adding', 'Romans3:28']",criticized,0,0,6
+"['word', 'Luther', 'criticized', 'adding', 'Romans3:28']",word,0,0,6
+"['work', 'Luther', 'became', 'popular']",Luther,0,0,6
+"['work', 'Luther', 'became', 'popular']",became,0,0,6
+"['work', 'Luther', 'became', 'popular']",popular,0,0,6
+"['work', 'Luther', 'became', 'popular']",work,0,0,6
+"['work', 'Luther', 'effective', 'teaching', 'child']",Luther,0,0,6
+"['work', 'Luther', 'effective', 'teaching', 'child']",child,0,0,6
+"['work', 'Luther', 'effective', 'teaching', 'child']",effective,0,0,6
+"['work', 'Luther', 'effective', 'teaching', 'child']",teaching,0,0,6
+"['work', 'Luther', 'effective', 'teaching', 'child']",work,0,0,6
+"['work', 'Luther', 'seen', 'clear', 'religious', 'teaching']",Luther,0,0,6
+"['work', 'Luther', 'seen', 'clear', 'religious', 'teaching']",clear,0,0,6
+"['work', 'Luther', 'seen', 'clear', 'religious', 'teaching']",religious,0,0,6
+"['work', 'Luther', 'seen', 'clear', 'religious', 'teaching']",seen,0,0,6
+"['work', 'Luther', 'seen', 'clear', 'religious', 'teaching']",teaching,0,0,6
+"['work', 'Luther', 'seen', 'clear', 'religious', 'teaching']",work,0,0,6
+"['work', 'refining', 'end', 'life']",end,0,0,6
+"['work', 'refining', 'end', 'life']",life,0,0,6
+"['work', 'refining', 'end', 'life']",refining,0,0,6
+"['work', 'refining', 'end', 'life']",work,0,0,6
+"['work', 'useful', 'pastor']",pastor,0,0,6
+"['work', 'useful', 'pastor']",useful,0,0,6
+"['work', 'useful', 'pastor']",work,0,0,6
+"['wrote', 'resounding', 'letter', 'elector', 'praising', 'Luther']",Luther,0,0,6
+"['wrote', 'resounding', 'letter', 'elector', 'praising', 'Luther']",elector,0,0,6
+"['wrote', 'resounding', 'letter', 'elector', 'praising', 'Luther']",letter,0,0,6
+"['wrote', 'resounding', 'letter', 'elector', 'praising', 'Luther']",praising,0,0,6
+"['wrote', 'resounding', 'letter', 'elector', 'praising', 'Luther']",resounding,0,0,6
+"['wrote', 'resounding', 'letter', 'elector', 'praising', 'Luther']",wrote,0,0,6
+"['year', 'Bach', 'use', 'Luther', 'hymn', 'composition']",Bach,0,0,6
+"['year', 'Bach', 'use', 'Luther', 'hymn', 'composition']",Luther,0,0,6
+"['year', 'Bach', 'use', 'Luther', 'hymn', 'composition']",composition,0,0,6
+"['year', 'Bach', 'use', 'Luther', 'hymn', 'composition']",hymn,0,0,6
+"['year', 'Bach', 'use', 'Luther', 'hymn', 'composition']",use,0,0,6
+"['year', 'Bach', 'use', 'Luther', 'hymn', 'composition']",year,0,0,6
+"['year', 'Luther', 'get', 'degree']",Luther,0,0,6
+"['year', 'Luther', 'get', 'degree']",degree,0,0,6
+"['year', 'Luther', 'get', 'degree']",get,0,0,6
+"['year', 'Luther', 'get', 'degree']",year,0,0,6
