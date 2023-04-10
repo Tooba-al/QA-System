@@ -2,17 +2,25 @@ import pandas as pd
 import csv
 
 import datetime
-e = datetime.datetime.now()
 
 ###############################################################################
 
-print("Start Time: = %s:%s:%s" % (e.hour, e.minute, e.second))
+# print("Start Time: = %s:%s:%s" % (e.hour, e.minute, e.second))
+# data = pd.read_csv("outputs/output_dev1.csv")
+
+# questions = data['question']
+# questions = questions.drop_duplicates()
+# qdf = pd.DataFrame(questions)
+# qdf.to_csv('questions1.csv', encoding='utf-8', index=False)
+
+###############################################################################
+
+print("Start Time: = %s:%s:%s" % (datetime.datetime.now().hour,
+      datetime.datetime.now().minute, datetime.datetime.now().second))
 data = pd.read_csv("outputs/output_dev1.csv")
 
-###############################################################################
-
 # delete duplicate questions
-with open('questions/questions1.csv', newline='') as f:
+with open('questions1.csv', newline='') as f:
     reader = csv.reader(f)
     questions_set = list(reader)
 
@@ -46,13 +54,12 @@ for item in questions_set:
         index = df.index
         filter_data = data[data.index.isin(index)].reset_index(drop=True)
 
-        question_list.append(filter_data['question'])
-        word_list.append(filter_data['word'])
-        TF_IDF_list.append(filter_data['TF_IDF'])
-        parag_no_list.append(
-            filter_data['paragraph_no'])
-        title_no_list.append(filter_data['title_no'])
-
+        for row_index in range(len(filter_data)):
+            question_list.append(filter_data.iloc[row_index]['question'])
+            word_list.append(filter_data.iloc[row_index]['word'])
+            TF_IDF_list.append(filter_data.iloc[row_index]['TF_IDF'])
+            parag_no_list.append(filter_data.iloc[row_index]['paragraph_no'])
+            title_no_list.append(filter_data.iloc[row_index]['title_no'])
 
 df = {
     'question': question_list,
@@ -67,4 +74,5 @@ df.to_csv('filtered_tfidf.csv', encoding='utf-8', index=False)
 
 ###############################################################################
 
-print("End Time: = %s:%s:%s" % (e.hour, e.minute, e.second))
+print("End Time: = %s:%s:%s" % (datetime.datetime.now().hour,
+      datetime.datetime.now().minute, datetime.datetime.now().second))
