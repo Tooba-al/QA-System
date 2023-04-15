@@ -98,7 +98,6 @@ for word in ques_word_set:
 
 # Term Frequency
 def termfreq(paragraph, word):
-    tf_list = []
     tf_result = 1
     for document in paragraph:
         occurance = 0
@@ -107,6 +106,7 @@ def termfreq(paragraph, word):
 
         if occurance != 0:
             tf_result *= (occurance/N)
+            # print(tf_result)
 
     return tf_result
 
@@ -114,9 +114,9 @@ def termfreq(paragraph, word):
 # Inverse Document Frequency
 def inverse_doc_freq(paragraph):
     if doc_contain_word != []:
-        idf = np.log(len(paragraph)+1 / len(doc_contain_word))
+        idf = np.log((len(paragraph)+1) / len(doc_contain_word))
     else:
-        idf = np.log(len(paragraph)+1 / 1)
+        idf = np.log((len(paragraph)+1) / 1)
 
     return idf
 
