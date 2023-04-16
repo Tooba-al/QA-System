@@ -40,26 +40,25 @@ parag_no_list = []
 title_no_list = []
 dict_list = []
 
-for item in questions_set:
-    tempData = data.loc[data['question'] == item].copy()
-    tempData['TF_IDF'].mul(1000)
+for question in questions_set:
+    tempData = data.loc[data['question'] == question].copy()
+    tempData['TF_IDF'] = tempData['TF_IDF'].mul(10**6)
     tempData['TF_IDF'] = tempData['TF_IDF'].astype(int)
-    tempData['TF_IDF'] = tempData['TF_IDF'].astype(str)
     words_2 = list(dict.fromkeys(tempData['word'].values))
 
     for word in words_2:
-        datatTempWord = tempData[tempData['word'] == word]
-        df = datatTempWord.sort_values(by=['TF_IDF'],
-                                       ascending=True).head(5)
-        index = df.index
-        filter_data = data[data.index.isin(index)].reset_index(drop=True)
+        dataTempWord = tempData[tempData['word'] == word]
+        dataTempWord = dataTempWord.sort_values(by=['TF_IDF'],
+                                                ascending=False).head(5)
+        dataTempWord['TF_IDF'] = dataTempWord['TF_IDF'].astype(float)
+        dataTempWord['TF_IDF'] = dataTempWord['TF_IDF'].mul(10**(-6))
 
-        for row_index in range(len(filter_data)):
-            question_list.append(filter_data.iloc[row_index]['question'])
-            word_list.append(filter_data.iloc[row_index]['word'])
-            TF_IDF_list.append(filter_data.iloc[row_index]['TF_IDF'])
-            parag_no_list.append(filter_data.iloc[row_index]['paragraph_no'])
-            title_no_list.append(filter_data.iloc[row_index]['title_no'])
+        for row_index in range(len(dataTempWord)):
+            question_list.append(dataTempWord.iloc[row_index]['question'])
+            word_list.append(dataTempWord.iloc[row_index]['word'])
+            TF_IDF_list.append(dataTempWord.iloc[row_index]['TF_IDF'])
+            parag_no_list.append(dataTempWord.iloc[row_index]['paragraph_no'])
+            title_no_list.append(dataTempWord.iloc[row_index]['title_no'])
 
 df = {
     'question': question_list,
@@ -70,7 +69,7 @@ df = {
 }
 
 df = pd.DataFrame(df)
-df.to_csv('Filtered_TFIDF/f_dev11.csv', encoding='utf-8', index=False)
+df.to_csv('Filtered_TFIDF/f_dev1.csv', encoding='utf-8', index=False)
 
 ###############################################################################
 
