@@ -50,7 +50,7 @@ for item in questions_set:
     for word in words_2:
         datatTempWord = tempData[tempData['word'] == word]
         df = datatTempWord.sort_values(by=['TF_IDF'],
-                                       ascending=False).head(5)
+                                       ascending=True).head(5)
         index = df.index
         filter_data = data[data.index.isin(index)].reset_index(drop=True)
 
@@ -70,7 +70,7 @@ df = {
 }
 
 df = pd.DataFrame(df)
-df.to_csv('filtered_tfidf.csv', encoding='utf-8', index=False)
+df.to_csv('Filtered_TFIDF/f_dev11.csv', encoding='utf-8', index=False)
 
 ###############################################################################
 

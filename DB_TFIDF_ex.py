@@ -1,70 +1,77 @@
-
 import pandas as pd
-from pathlib import Path
-import sqlite3
-import time
+import csv
 
-start_time = time.time()
-# Execute a query that’ll create a users table with user_id and username columns
-
-print("Reading Data..")
-data = pd.read_csv("outputs/output_dev42.csv")
-# data = pd.read_hdf('outputs/output_sampleH.h5', 'df')
-
-# Create a database connection and cursor to execute queries
-conn = sqlite3.connect('data_db.db')
-c = conn.cursor()
-c.execute('''DROP TABLE data_set''')
-c.execute('''CREATE TABLE data_set (question text,
-                                    word text,
-                                    TF_IDF float,
-                                    paragraph_no int,
-                                    title_no int
-                                    )''')
-
-end_time = time.time()
-print("execution time -> ", (end_time-start_time)/60, " minutes")
+import datetime
 
 ###############################################################################
 
-start_time = time.time()
-data.to_sql('data_set', conn, if_exists='append', index=False)
+# print("Start Time: = %s:%s:%s" % (e.hour, e.minute, e.second))
+# data = pd.read_csv("outputs/output_dev1.csv")
 
-# for row in c.fetchall():
-#     # can convert to dict if you want:
-#     print(dict(row))
-# data = c.execute('''SELECT * FROM data_set''')
-
-print("Selecting data from database..")
-
-max_select = c.execute('''SELECT question, word, MAX(TF_IDF), paragraph_no, title_no
-                            FROM data_set
-                                GROUP BY question, word''')
-# ORDER BY question''')
-
-end_time = time.time()
-print("execution time -> ", (end_time-start_time)/60, " minutes")
+# questions = data['question']
+# questions = questions.drop_duplicates()
+# qdf = pd.DataFrame(questions)
+# qdf.to_csv('questions1.csv', encoding='utf-8', index=False)
 
 ###############################################################################
 
-start_time = time.time()
+print("Start Time: = %s:%s:%s" % (datetime.datetime.now().hour,
+      datetime.datetime.now().minute, datetime.datetime.now().second))
+data = pd.read_csv("outputs/output_dev1.csv")
 
-print("Creating data frame..")
-df = pd.DataFrame(max_select)
-end_time = time.time()
-print("execution time -> ", (end_time-start_time)/60, " minutes")
+# delete duplicate questions
+with open('questions1.csv', newline='') as f:
+    reader = csv.reader(f)
+    questions_set = list(reader)
+
+questions_set = questions_set[1:]
+questions_set = [question[0] for question in questions_set]
+
+words = data['word'].to_list()
+TF_IDFs = data['TF_IDF'].to_list()
+parag_nos = data['paragraph_no'].to_list()
+title_nos = data['title_no'].to_list()
+
+
+question_list = []
+word_list = []
+TF_IDF_list = []
+parag_no_list = []
+title_no_list = []
+dict_list = []
+
+for question in questions_set:
+    tempData = data.loc[data['question'] == question].copy()
+    tempData['TF_IDF'] = tempData['TF_IDF'].mul(10**6)
+    tempData['TF_IDF'] = tempData['TF_IDF'].astype(int)
+    words_2 = list(dict.fromkeys(tempData['word'].values))
+
+    for word in words_2:
+        dataTempWord = tempData[tempData['word'] == word]
+        dataTempWord = dataTempWord.sort_values(by=['TF_IDF'],
+                                                ascending=False).head(5)
+        dataTempWord['TF_IDF'] = dataTempWord['TF_IDF'].astype(float)
+        dataTempWord['TF_IDF'] = dataTempWord['TF_IDF'].mul(10**(-6))
+
+        for row_index in range(len(dataTempWord)):
+            question_list.append(dataTempWord.iloc[row_index]['question'])
+            word_list.append(dataTempWord.iloc[row_index]['word'])
+            TF_IDF_list.append(dataTempWord.iloc[row_index]['TF_IDF'])
+            parag_no_list.append(dataTempWord.iloc[row_index]['paragraph_no'])
+            title_no_list.append(dataTempWord.iloc[row_index]['title_no'])
+
+df = {
+    'question': question_list,
+    'word': word_list,
+    'TF_IDF': TF_IDF_list,
+    'paragraph_no': parag_no_list,
+    'title_no': title_no_list,
+}
+
+df = pd.DataFrame(df)
+df.to_csv('Filtered_TFIDF/f_dev1.csv', encoding='utf-8', index=False)
 
 ###############################################################################
 
-start_time = time.time()
-print('Creating .csv file..')
-df.to_csv('MaxSelects/max_dev42.csv', encoding='utf-8', index=False)
-# df.to_hdf('MaxSelects/data_sample.csv', encoding='utf-8',
-#           key='df', index=False, mode='w')
-
-end_time = time.time()
-print("execution time -> ", (end_time-start_time)/60, " minutes")
-print('End of "DB_main.py"')
-
-conn.commit()
-conn.close()
+print("End Time: = %s:%s:%s" % (datetime.datetime.now().hour,
+      datetime.datetime.now().minute, datetime.datetime.now().second))
