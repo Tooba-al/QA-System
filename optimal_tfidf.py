@@ -114,9 +114,9 @@ def termfreq(paragraph, word):
 # Inverse Document Frequency
 def inverse_doc_freq(paragraph):
     if doc_contain_word != []:
-        idf = np.log(len(paragraph)+1 / len(doc_contain_word))
+        idf = np.log((len(paragraph)+1) / (len(doc_contain_word)))
     else:
-        idf = np.log(len(paragraph)+1 / 1)
+        idf = np.log((len(paragraph)+1) / 1)
 
     return idf
 
@@ -173,7 +173,7 @@ data = {
 }
 
 df = pd.DataFrame(data)
-df.to_csv('outputs/output_dev1.csv', encoding='utf-8', index=False)
+df.to_csv('outputs/output_dev_2.csv', encoding='utf-8', index=False)
 
 
 end_time = time.time()
