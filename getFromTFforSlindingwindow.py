@@ -5,15 +5,15 @@ from nltk.corpus import stopwords
 import itertools
 from sklearn.feature_extraction.text import CountVectorizer
 
-data = pd.read_csv("filtered_tfidf.csv")
+data = pd.read_csv("Filtered_TFIDF/f_dev1.csv")
 context = pd.read_csv("ContextList.csv")
 
 question_set = []
 question_set.append(data['question'][0])
 tempData = data.loc[data['question'].isin(question_set)].copy()
 
-# # df = pd.DataFrame(tempData)
-# # df.to_csv('filtered_info.csv', encoding='utf-8', index=False)
+# df = pd.DataFrame(tempData)
+# df.to_csv('filtered_info.csv', encoding='utf-8', index=False)
 
 # with open('filtered_info.csv', newline='') as f:
 #     reader = csv.reader(f)
@@ -44,86 +44,86 @@ tempData = data.loc[data['question'].isin(question_set)].copy()
 # df.to_csv('filtered_context.csv', encoding='utf-8', index=False)
 
 # ///////////////////////////////////////////////////////////////////////
-# df = pd.read_csv("filtered_context.csv")
-# dfq = question_set
+df = pd.read_csv("filtered_context.csv")
+dfq = question_set
 
-# dfTitleParagraph = df[df.columns[1]]
-# dfParagraph = df[df.columns[2]]
+dfTitleParagraph = df[df.columns[1]]
+dfParagraph = df[df.columns[2]]
 
-# stoplist = stopwords.words('english') + ['though', 'and', 'I', 'A', 'a', 'an', 'An', 'And', 'So', '.', ',', ')', 'By', '(', "''", 'Other', 'The',
-#                                          ';', 'however', 'still', 'the', 'They', 'For', 'for', 'also', 'In', 'This', 'When', 'It', 'so', 'Yes', 'yes', 'No', 'no', 'These', 'these', 'This']
+stoplist = stopwords.words('english') + ['though', 'and', 'I', 'A', 'a', 'an', 'An', 'And', 'So', '.', ',', ')', 'By', '(', "''", 'Other', 'The',
+                                         ';', 'however', 'still', 'the', 'They', 'For', 'for', 'also', 'In', 'This', 'When', 'It', 'so', 'Yes', 'yes', 'No', 'no', 'These', 'these', 'This']
 
-# c_vec = CountVectorizer(stop_words=stoplist, ngram_range=(2, 3))
-# ngrams = c_vec.fit_transform(df[df.columns[0]])
+c_vec = CountVectorizer(stop_words=stoplist, ngram_range=(2, 3))
+ngrams = c_vec.fit_transform(df[df.columns[0]])
 
-# vocab_ngrams = c_vec.vocabulary_
-# ngramsArrya = [((i, j), ngrams[i, j]) for i, j in zip(*ngrams.nonzero())]
+vocab_ngrams = c_vec.vocabulary_
+ngramsArrya = [((i, j), ngrams[i, j]) for i, j in zip(*ngrams.nonzero())]
 
-# c_vecq = CountVectorizer(ngram_range=(2, 3))
+c_vecq = CountVectorizer(ngram_range=(2, 3))
 
-# ngramsq = c_vecq.fit_transform(dfq)
-# vocab_ngramsq = c_vecq.vocabulary_
-# # print(vocab_ngramsq)
+ngramsq = c_vecq.fit_transform(dfq)
+vocab_ngramsq = c_vecq.vocabulary_
+# print(vocab_ngramsq)
 
-# ngramsqArrya = [((i, j), ngramsq[i, j]) for i, j in zip(*ngramsq.nonzero())]
-# key_vocab_ngramsq = vocab_ngrams.keys()
+ngramsqArrya = [((i, j), ngramsq[i, j]) for i, j in zip(*ngramsq.nonzero())]
+key_vocab_ngramsq = vocab_ngrams.keys()
 
-# wordArray = []
-# paragraphNo = []
-# titleNo = []
-# countRepeat = []
+wordArray = []
+paragraphNo = []
+titleNo = []
+countRepeat = []
 
-# for item in vocab_ngramsq:
-#     if (item in key_vocab_ngramsq):
+for item in vocab_ngramsq:
+    if (item in key_vocab_ngramsq):
 
-#         codeP = vocab_ngrams[item]
-#         codeQ = vocab_ngramsq[item]
-#         tekrar_pragarp = [v for i, v in enumerate(
-#             ngramsArrya) if v[0][1] == codeP]
-#         tekrar_soal = [v for i, v in enumerate(
-#             ngramsqArrya) if v[0][1] == codeQ]
-#         Cartesian = itertools.product(tekrar_pragarp, tekrar_soal)
-#         for itemCartesian in Cartesian:
+        codeP = vocab_ngrams[item]
+        codeQ = vocab_ngramsq[item]
+        tekrar_pragarp = [v for i, v in enumerate(
+            ngramsArrya) if v[0][1] == codeP]
+        tekrar_soal = [v for i, v in enumerate(
+            ngramsqArrya) if v[0][1] == codeQ]
+        Cartesian = itertools.product(tekrar_pragarp, tekrar_soal)
+        for itemCartesian in Cartesian:
 
-#             gav = itemCartesian[0][0][0]
-#             gav2 = dfParagraph.values[gav]
-#             gav3 = dfTitleParagraph.values[gav]
+            gav = itemCartesian[0][0][0]
+            gav2 = dfParagraph.values[gav]
+            gav3 = dfTitleParagraph.values[gav]
 
-#             if (item in wordArray):
-#                 if (gav2 not in paragraphNo):
-#                     if (gav3 not in titleNo):
+            if (item in wordArray):
+                if (gav2 not in paragraphNo):
+                    if (gav3 not in titleNo):
 
 
-#                         wordArray.append(item)
-#                         paragraphNo.append(gav2)
-#                         titleNo.append(gav3)
-#                         countRepeat.append(itemCartesian[0][1])
+                        wordArray.append(item)
+                        paragraphNo.append(gav2)
+                        titleNo.append(gav3)
+                        countRepeat.append(itemCartesian[0][1])
 
-#                     elif (gav3 in titleNo):
-#                         wordArray.append(item)
-#                         paragraphNo.append(gav2)
-#                         titleNo.append(gav3)
-#                         countRepeat.append(itemCartesian[0][1])
+                    elif (gav3 in titleNo):
+                        wordArray.append(item)
+                        paragraphNo.append(gav2)
+                        titleNo.append(gav3)
+                        countRepeat.append(itemCartesian[0][1])
 
-#                 elif (gav2 in paragraphNo):
-#                     if (gav3 not in titleNo):
-#                         wordArray.append(item)
-#                         paragraphNo.append(gav2)
-#                         titleNo.append(gav3)
-#                         countRepeat.append(itemCartesian[0][1])
-#             else:
-#                 wordArray.append(item)
-#                 paragraphNo.append(gav2)
-#                 titleNo.append(gav3)
-#                 countRepeat.append(itemCartesian[0][1])
+                elif (gav2 in paragraphNo):
+                    if (gav3 not in titleNo):
+                        wordArray.append(item)
+                        paragraphNo.append(gav2)
+                        titleNo.append(gav3)
+                        countRepeat.append(itemCartesian[0][1])
+            else:
+                wordArray.append(item)
+                paragraphNo.append(gav2)
+                titleNo.append(gav3)
+                countRepeat.append(itemCartesian[0][1])
 
-# data = {
-#     "word": wordArray,
-#     "paragraphNo": paragraphNo,
-#     "titleNo": titleNo,
-#     "count Repeat": countRepeat,
+data = {
+    "word": wordArray,
+    "paragraphNo": paragraphNo,
+    "titleNo": titleNo,
+    "count Repeat": countRepeat,
 
-# }
+}
 
 # df = pd.DataFrame(data)
 # df = df.sort_values(by="count Repeat", ascending=False, ignore_index=True)

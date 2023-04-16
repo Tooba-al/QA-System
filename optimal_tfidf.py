@@ -98,26 +98,42 @@ for word in ques_word_set:
 
 # Term Frequency
 def termfreq(paragraph, word):
-    tf_list = []
-    tf_result = 1
-    for document in paragraph:
-        occurance = 0
-        N = len(document)
-        occurance = document.count(word)
+    tf_result = 0
+    # for document in paragraph:
+    occurance = 0
+    N = len(paragraph)
+    occurance = paragraph.count(word)
 
-        if occurance != 0:
-            tf_result *= (occurance/N)
+    if occurance != 0:
+        tf_result = (occurance/N)
 
     return tf_result
 
 
 # Inverse Document Frequency
+<<<<<<< HEAD
 def inverse_doc_freq(paragraph):
     if doc_contain_word != []:
         idf = np.log((len(paragraph)+1) / (len(doc_contain_word)))
     else:
         idf = np.log((len(paragraph)+1) / 1)
 
+=======
+def inverse_doc_freq(word, paragraph_list):
+    # if doc_contain_word != []:
+    #     idf = np.log((len(paragraph)) / len(doc_contain_word))
+    # else:
+    count = 0
+    N = len(paragraph_list)     # total number of documents
+    for paragraph in paragraph_list:
+        if paragraph.count(word) > 0:
+            count += 1
+            # print(paragraph.count(word))
+    if count != 0:
+        idf = np.log(N+1 / count)
+    else:
+        idf = 0
+>>>>>>> 98d9cdd1bf795f11a595725461ad45d3e8ba6521
     return idf
 
 
@@ -134,14 +150,12 @@ for title_question_index in range(len(all_questions)):
                 question_title_index2.append(title_question_index)
 
 
-def tf_idf(title, question, all_words, index_dict):
+def tf_idf(title, question, tf_idf_vec, index_dict):
     # create Sparse matrix
-    tf_idf_vec = np.zeros((len(tfidf_word_paragraph_index),))
-
     for word in question:
         for paragraph in title:
             tf = termfreq(paragraph, word)
-            idf = inverse_doc_freq(paragraph)
+            idf = inverse_doc_freq(word, title)
             value = tf*idf
             tf_idf_vec[index_dict[word]] = value
 
@@ -152,13 +166,14 @@ def tf_idf(title, question, all_words, index_dict):
 print("for each title..")
 print("Use the TF/IDF function..")
 
+# print(index_dict_question)
+
+tf_idf_vec = np.zeros((len(tfidf_word_paragraph_index),))
 for title_question_index in range(len(all_questions)):
     for question in all_questions[title_question_index]:
-        #   tf_idf (title, question, all_question_word, index_dic)
-
         vec = tf_idf(all_sentences[title_question_index],
                      question,
-                     question_word_w2,
+                     tf_idf_vec,
                      index_dict_question)
 
 print("Number of all words in all questions: ", len(question_word_w2))

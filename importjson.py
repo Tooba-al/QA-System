@@ -15,7 +15,7 @@ document_answer = []
 # read json file
 def readFile():
     # with open('dev2.json') as f:
-    with open('devSplit/dev48.json') as f:
+    with open('devSplit/dev1.json') as f:
         data = json.load(f)
 
         # extract contexts1, questions1 and answers1
