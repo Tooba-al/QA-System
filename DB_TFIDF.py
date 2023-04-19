@@ -54,6 +54,7 @@ for question in questions_set:
         dataTempWord['TF_IDF'] = dataTempWord['TF_IDF'].mul(10**(-6))
 
         for row_index in range(len(dataTempWord)):
+
             question_list.append(dataTempWord.iloc[row_index]['question'])
             word_list.append(dataTempWord.iloc[row_index]['word'])
             TF_IDF_list.append(dataTempWord.iloc[row_index]['TF_IDF'])
