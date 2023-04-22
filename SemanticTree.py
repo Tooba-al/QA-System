@@ -70,7 +70,7 @@ data = {
 }
 
 df = pd.DataFrame(data)
-df.to_csv('Tags/tagged_dev1.csv', encoding='utf-8', index=False)
+df.to_csv('CSV-Files/tagged_dev1.csv', encoding='utf-8', index=False)
 
 # print(tagged_lst)
 print("End Time: = %s:%s:%s" % (datetime.datetime.now().hour,

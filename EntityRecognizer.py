@@ -32,7 +32,7 @@ data = {
     "title_no": titles_list,
 }
 df = pd.DataFrame(data)
-df.to_csv('NE_dev.csv', encoding='utf-8', index=False)
+df.to_csv('CSV-Files/NE_dev.csv', encoding='utf-8', index=False)
 
 print("End Time: = %s:%s:%s" % (datetime.datetime.now().hour,
       datetime.datetime.now().minute, datetime.datetime.now().second))

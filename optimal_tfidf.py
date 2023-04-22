@@ -179,7 +179,7 @@ data = {
 }
 
 df = pd.DataFrame(data)
-df.to_csv('outputs/output_dev_2.csv', encoding='utf-8', index=False)
+df.to_csv('outputs/TFIDF_dev1.csv', encoding='utf-8', index=False)
 
 
 end_time = time.time()

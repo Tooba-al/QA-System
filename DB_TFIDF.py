@@ -70,7 +70,7 @@ df = {
 }
 
 df = pd.DataFrame(df)
-df.to_csv('Filtered_TFIDF/f_dev1.csv', encoding='utf-8', index=False)
+df.to_csv('CSV-Files/MAX_TFIDF_dev1.csv', encoding='utf-8', index=False)
 
 ###############################################################################
 
