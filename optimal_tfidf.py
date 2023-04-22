@@ -107,6 +107,7 @@ def termfreq(paragraph, word):
     if occurance != 0:
         tf_result = (occurance/N)
 
+    tf_result = 1 - tf_result
     return tf_result
 
 
@@ -179,7 +180,7 @@ data = {
 }
 
 df = pd.DataFrame(data)
-df.to_csv('outputs/TFIDF_dev1.csv', encoding='utf-8', index=False)
+df.to_csv('CSV-Files/TFIDF_dev11.csv', encoding='utf-8', index=False)
 
 
 end_time = time.time()

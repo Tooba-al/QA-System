@@ -14,7 +14,7 @@ document_answer = []
 
 # read json file
 def readFile():
-    with open('devSplit/dev1.json') as f:
+    with open('CSV-Files/devSplit/dev1.json') as f:
         # with open('dev.json') as f:
         data = json.load(f)
 
