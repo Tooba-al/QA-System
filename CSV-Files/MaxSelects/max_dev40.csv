@@ -1,0 +1,1012 @@
+0,1,2,3,4
+"[""'gram-negative"", 'mean']",'gram-negative,0,0,39
+"[""'gram-negative"", 'mean']",mean,0,0,39
+"[""'plastid"", 'mean']",'plastid,0,0,39
+"[""'plastid"", 'mean']",mean,0,0,39
+"[""n't"", 'chloroplastidan', 'chloroplast']",chloroplast,0,0,39
+"[""n't"", 'chloroplastidan', 'chloroplast']",chloroplastidan,0,0,39
+"[""n't"", 'chloroplastidan', 'chloroplast']",n't,0,0,39
+"[""n't"", 'form', 'Hæmatococcus', 'pluvialis', 'green']",Hæmatococcus,0,0,39
+"[""n't"", 'form', 'Hæmatococcus', 'pluvialis', 'green']",form,0,0,39
+"[""n't"", 'form', 'Hæmatococcus', 'pluvialis', 'green']",green,0,0,39
+"[""n't"", 'form', 'Hæmatococcus', 'pluvialis', 'green']",n't,0,0,39
+"[""n't"", 'form', 'Hæmatococcus', 'pluvialis', 'green']",pluvialis,0,0,39
+"['ATP', 'mean']",ATP,0,0,39
+"['ATP', 'mean']",mean,0,0,39
+"['ATP', 'store']",ATP,0,0,39
+"['ATP', 'store']",store,4.234106505,20,39
+"['ATP', 'synthase', 'change', 'ATP']",ATP,0,0,39
+"['ATP', 'synthase', 'change', 'ATP']",change,0,0,39
+"['ATP', 'synthase', 'change', 'ATP']",synthase,0,0,39
+"['ATP', 'synthase', 'similar']",ATP,0,0,39
+"['ATP', 'synthase', 'similar']",similar,0,0,39
+"['ATP', 'synthase', 'similar']",synthase,0,0,39
+"['Apicomplexans', 'similar']",Apicomplexans,0,0,39
+"['Apicomplexans', 'similar']",similar,0,0,39
+"['Apicomplexans', 'store', 'energy']",Apicomplexans,0,0,39
+"['Apicomplexans', 'store', 'energy']",energy,0,0,39
+"['Apicomplexans', 'store', 'energy']",store,0,0,39
+"['Apicomplexans', 'type']",Apicomplexans,0,0,39
+"['Apicomplexans', 'type']",type,0,0,39
+"['C4', 'plant', 'need']",C4,0,0,39
+"['C4', 'plant', 'need']",need,0,0,39
+"['C4', 'plant', 'need']",plant,0,0,39
+"['Cairns', 'replication', 'intermediate']",Cairns,0,0,39
+"['Cairns', 'replication', 'intermediate']",intermediate,0,0,39
+"['Cairns', 'replication', 'intermediate']",replication,0,0,39
+"['Chlorophyta', 'euglenid', 'chloroplast', 'missing']",Chlorophyta,0,0,39
+"['Chlorophyta', 'euglenid', 'chloroplast', 'missing']",chloroplast,0,0,39
+"['Chlorophyta', 'euglenid', 'chloroplast', 'missing']",euglenid,0,0,39
+"['Chlorophyta', 'euglenid', 'chloroplast', 'missing']",missing,0,0,39
+"['D-loop', 'finish', 'replicating']",D-loop,0,0,39
+"['D-loop', 'finish', 'replicating']",finish,0,0,39
+"['D-loop', 'finish', 'replicating']",replicating,0,0,39
+['D-loop'],D-loop,0,0,39
+"['Dinophysis', 'chloroplast', 'lost']",Dinophysis,0,0,39
+"['Dinophysis', 'chloroplast', 'lost']",chloroplast,0,0,39
+"['Dinophysis', 'chloroplast', 'lost']",lost,0,0,39
+"['Dinophysis', 'get', 'chloroplast']",Dinophysis,0,0,39
+"['Dinophysis', 'get', 'chloroplast']",chloroplast,0,0,39
+"['Dinophysis', 'get', 'chloroplast']",get,0,0,39
+"['Durinskia', 'chloroplast']",Durinskia,0,0,39
+"['Durinskia', 'chloroplast']",chloroplast,0,0,39
+"['FtsZ1', 'FtsZ2', 'combine']",FtsZ1,0,0,39
+"['FtsZ1', 'FtsZ2', 'combine']",FtsZ2,0,0,39
+"['FtsZ1', 'FtsZ2', 'combine']",combine,0,0,39
+"['FtsZ1', 'FtsZ2', 'plus', 'ARC6', 'form']",ARC6,0,0,39
+"['FtsZ1', 'FtsZ2', 'plus', 'ARC6', 'form']",FtsZ1,0,0,39
+"['FtsZ1', 'FtsZ2', 'plus', 'ARC6', 'form']",FtsZ2,0,0,39
+"['FtsZ1', 'FtsZ2', 'plus', 'ARC6', 'form']",form,0,0,39
+"['FtsZ1', 'FtsZ2', 'plus', 'ARC6', 'form']",plus,0,0,39
+"['FtsZ1', 'FtsZ2']",FtsZ1,0,0,39
+"['FtsZ1', 'FtsZ2']",FtsZ2,0,0,39
+"['G3P', 'molecule', 'leave', 'cycle']",G3P,0,0,39
+"['G3P', 'molecule', 'leave', 'cycle']",cycle,0,0,39
+"['G3P', 'molecule', 'leave', 'cycle']",leave,0,0,39
+"['G3P', 'molecule', 'leave', 'cycle']",molecule,0,0,39
+"['Konstantin', 'Mereschkowski', 'career']",Konstantin,0,0,39
+"['Konstantin', 'Mereschkowski', 'career']",Mereschkowski,0,0,39
+"['Konstantin', 'Mereschkowski', 'career']",career,0,0,39
+"['Konstantin', 'Mereschkowski', 'suggest', 'origin', 'chloroplast']",Konstantin,0,0,39
+"['Konstantin', 'Mereschkowski', 'suggest', 'origin', 'chloroplast']",Mereschkowski,0,0,39
+"['Konstantin', 'Mereschkowski', 'suggest', 'origin', 'chloroplast']",chloroplast,0,0,39
+"['Konstantin', 'Mereschkowski', 'suggest', 'origin', 'chloroplast']",origin,0,0,39
+"['Konstantin', 'Mereschkowski', 'suggest', 'origin', 'chloroplast']",suggest,0,0,39
+"['Lepidodinium', 'viride', 'lose']",Lepidodinium,0,0,39
+"['Lepidodinium', 'viride', 'lose']",lose,0,0,39
+"['Lepidodinium', 'viride', 'lose']",viride,0,0,39
+"['Lepidodinium', 'viride', 'replace', 'original', 'chloroplast']",Lepidodinium,0,0,39
+"['Lepidodinium', 'viride', 'replace', 'original', 'chloroplast']",chloroplast,0,0,39
+"['Lepidodinium', 'viride', 'replace', 'original', 'chloroplast']",original,0,0,39
+"['Lepidodinium', 'viride', 'replace', 'original', 'chloroplast']",replace,0,0,39
+"['Lepidodinium', 'viride', 'replace', 'original', 'chloroplast']",viride,0,0,39
+"['NADPH', 'store']",NADPH,0,0,39
+"['NADPH', 'store']",store,0.302436179,10,39
+"['PD', 'ring']",PD,0,0,39
+"['PD', 'ring']",ring,0,0,39
+"['Peridinin', 'found']",Peridinin,0,0,39
+"['Peridinin', 'found']",found,0,0,39
+['Phosphorylation'],Phosphorylation,0,0,39
+['Phycobilins'],Phycobilins,0,0,39
+['Plasmodium'],Plasmodium,0,0,39
+"['Plastoglobuli', 'attached']",Plastoglobuli,0,0,39
+"['Plastoglobuli', 'attached']",attached,0,0,39
+"['Plastoglobuli', 'exchange', 'content']",Plastoglobuli,0,0,39
+"['Plastoglobuli', 'exchange', 'content']",content,0,0,39
+"['Plastoglobuli', 'exchange', 'content']",exchange,0,0,39
+"['Plastoglobuli', 'made']",Plastoglobuli,0,0,39
+"['Plastoglobuli', 'made']",made,0,0,39
+"['Plastoglobuli', 'occur', 'linked', 'group']",Plastoglobuli,0,0,39
+"['Plastoglobuli', 'occur', 'linked', 'group']",group,0,0,39
+"['Plastoglobuli', 'occur', 'linked', 'group']",linked,0,0,39
+"['Plastoglobuli', 'occur', 'linked', 'group']",occur,0,0,39
+"['Proplastids', 'usually', 'found']",Proplastids,0,0,39
+"['Proplastids', 'usually', 'found']",found,0,0,39
+"['Proplastids', 'usually', 'found']",usually,0,0,39
+['Z-ring'],Z-ring,0,0,39
+"['additional', 'membrane', 'secondary', 'chloroplast']",additional,0,0,39
+"['additional', 'membrane', 'secondary', 'chloroplast']",chloroplast,0,0,39
+"['additional', 'membrane', 'secondary', 'chloroplast']",membrane,0,0,39
+"['additional', 'membrane', 'secondary', 'chloroplast']",secondary,0,0,39
+"['alternate', 'way', 'make', 'starch']",alternate,0,0,39
+"['alternate', 'way', 'make', 'starch']",make,0,0,39
+"['alternate', 'way', 'make', 'starch']",starch,0,0,39
+"['alternate', 'way', 'make', 'starch']",way,0,0,39
+"['amino', 'acid', 'contain', 'sulfur']",acid,0,0,39
+"['amino', 'acid', 'contain', 'sulfur']",amino,0,0,39
+"['amino', 'acid', 'contain', 'sulfur']",contain,0,0,39
+"['amino', 'acid', 'contain', 'sulfur']",sulfur,0,0,39
+"['amyloplasts', 'become']",amyloplasts,0,0,39
+"['amyloplasts', 'become']",become,0,0,39
+"['ancestor', 'chloroplast']",ancestor,0,0,39
+"['ancestor', 'chloroplast']",chloroplast,0,0,39
+"['another', 'word', 'cryptophyte']",another,0,0,39
+"['another', 'word', 'cryptophyte']",cryptophyte,0,0,39
+"['another', 'word', 'cryptophyte']",word,0,0,39
+"['another', 'word', 'diatom']",another,0,0,39
+"['another', 'word', 'diatom']",diatom,0,0,39
+"['another', 'word', 'diatom']",word,0,0,39
+['apicoplast'],apicoplast,0,0,39
+"['apicoplasts', 'missing']",apicoplasts,0,0,39
+"['apicoplasts', 'missing']",missing,0,0,39
+"['apicoplasts', 'synthesize']",apicoplasts,0,0,39
+"['apicoplasts', 'synthesize']",synthesize,0,0,39
+"['base', 'pair', 'Chromatophore', 'DNA']",Chromatophore,0,0,39
+"['base', 'pair', 'Chromatophore', 'DNA']",DNA,0,0,39
+"['base', 'pair', 'Chromatophore', 'DNA']",base,0,0,39
+"['base', 'pair', 'Chromatophore', 'DNA']",pair,0,0,39
+"['base', 'pair', 'Synechococcus', 'DNA']",DNA,0,0,39
+"['base', 'pair', 'Synechococcus', 'DNA']",Synechococcus,0,0,39
+"['base', 'pair', 'Synechococcus', 'DNA']",base,0,0,39
+"['base', 'pair', 'Synechococcus', 'DNA']",pair,0,0,39
+"['benefit', 'polypeptide', 'binding']",benefit,0,0,39
+"['benefit', 'polypeptide', 'binding']",binding,0,0,39
+"['benefit', 'polypeptide', 'binding']",polypeptide,0,0,39
+"['benefit', 'red', 'algae', 'red']",algae,0,0,39
+"['benefit', 'red', 'algae', 'red']",benefit,0,0,39
+"['benefit', 'red', 'algae', 'red']",red,0,0,39
+"['beta', 'carotene']",beta,0,0,39
+"['beta', 'carotene']",carotene,0,0,39
+"['big', 'phycobilisomes']",big,0,0,39
+"['big', 'phycobilisomes']",phycobilisomes,0,0,39
+"['bundle', 'sheath', 'chloroplast', 'specialize']",bundle,0,0,39
+"['bundle', 'sheath', 'chloroplast', 'specialize']",chloroplast,0,0,39
+"['bundle', 'sheath', 'chloroplast', 'specialize']",sheath,0,0,39
+"['bundle', 'sheath', 'chloroplast', 'specialize']",specialize,0,0,39
+"['cactus', 'chloroplast']",cactus,0,0,39
+"['cactus', 'chloroplast']",chloroplast,0,0,39
+"['carotenoid', 'absorb']",absorb,0,0,39
+"['carotenoid', 'absorb']",carotenoid,0,0,39
+"['carotenoid', 'make', 'leaf', 'change', 'color', 'fall']",carotenoid,0,0,39
+"['carotenoid', 'make', 'leaf', 'change', 'color', 'fall']",change,0,0,39
+"['carotenoid', 'make', 'leaf', 'change', 'color', 'fall']",color,0,0,39
+"['carotenoid', 'make', 'leaf', 'change', 'color', 'fall']",fall,0,0,39
+"['carotenoid', 'make', 'leaf', 'change', 'color', 'fall']",leaf,0,0,39
+"['carotenoid', 'make', 'leaf', 'change', 'color', 'fall']",make,0,0,39
+"['chemical', 'energy', 'used', 'produce', 'plant']",chemical,0,0,39
+"['chemical', 'energy', 'used', 'produce', 'plant']",energy,0,0,39
+"['chemical', 'energy', 'used', 'produce', 'plant']",plant,0,0,39
+"['chemical', 'energy', 'used', 'produce', 'plant']",produce,0,0,39
+"['chemical', 'energy', 'used', 'produce', 'plant']",used,0,0,39
+"['chlorenchyma', 'cell']",cell,0,0,39
+"['chlorenchyma', 'cell']",chlorenchyma,0,0,39
+"['chlorophyll', 'absorb']",absorb,0,0,39
+"['chlorophyll', 'absorb']",chlorophyll,0,0,39
+"['chlorophyll', 'use', 'light', 'energy']",chlorophyll,0,0,39
+"['chlorophyll', 'use', 'light', 'energy']",energy,0,0,39
+"['chlorophyll', 'use', 'light', 'energy']",light,0,0,39
+"['chlorophyll', 'use', 'light', 'energy']",use,0,0,39
+"['chloroplast', 'DNA', 'abbreviated']",DNA,0,0,39
+"['chloroplast', 'DNA', 'abbreviated']",abbreviated,0,0,39
+"['chloroplast', 'DNA', 'abbreviated']",chloroplast,0,0,39
+"['chloroplast', 'Dinophysis']",Dinophysis,0,0,39
+"['chloroplast', 'Dinophysis']",chloroplast,0,0,39
+"['chloroplast', 'arrange', 'vertical', 'column', 'turn', 'sideways']",arrange,0,0,39
+"['chloroplast', 'arrange', 'vertical', 'column', 'turn', 'sideways']",chloroplast,0,0,39
+"['chloroplast', 'arrange', 'vertical', 'column', 'turn', 'sideways']",column,0,0,39
+"['chloroplast', 'arrange', 'vertical', 'column', 'turn', 'sideways']",sideways,0,0,39
+"['chloroplast', 'arrange', 'vertical', 'column', 'turn', 'sideways']",turn,0,0,39
+"['chloroplast', 'arrange', 'vertical', 'column', 'turn', 'sideways']",vertical,0,0,39
+"['chloroplast', 'change']",change,0,0,39
+"['chloroplast', 'change']",chloroplast,0,0,39
+"['chloroplast', 'come']",chloroplast,0,0,39
+"['chloroplast', 'come']",come,0,0,39
+"['chloroplast', 'descended']",chloroplast,0,0,39
+"['chloroplast', 'descended']",descended,0,0,39
+"['chloroplast', 'double', 'membrane', 'sometimes', 'compared']",chloroplast,0,0,39
+"['chloroplast', 'double', 'membrane', 'sometimes', 'compared']",compared,0,0,39
+"['chloroplast', 'double', 'membrane', 'sometimes', 'compared']",double,0,0,39
+"['chloroplast', 'double', 'membrane', 'sometimes', 'compared']",membrane,0,0,39
+"['chloroplast', 'double', 'membrane', 'sometimes', 'compared']",sometimes,0,0,39
+"['chloroplast', 'interest', 'GMO', 'crop']",GMO,0,0,39
+"['chloroplast', 'interest', 'GMO', 'crop']",chloroplast,0,0,39
+"['chloroplast', 'interest', 'GMO', 'crop']",crop,0,0,39
+"['chloroplast', 'interest', 'GMO', 'crop']",interest,0,0,39
+"['chloroplast', 'land', 'plant', 'usually', 'shaped']",chloroplast,0,0,39
+"['chloroplast', 'land', 'plant', 'usually', 'shaped']",land,0,0,39
+"['chloroplast', 'land', 'plant', 'usually', 'shaped']",plant,0,0,39
+"['chloroplast', 'land', 'plant', 'usually', 'shaped']",shaped,0,0,39
+"['chloroplast', 'land', 'plant', 'usually', 'shaped']",usually,0,0,39
+"['chloroplast', 'like', 'mitochondrion']",chloroplast,0,0,39
+"['chloroplast', 'like', 'mitochondrion']",like,0,0,39
+"['chloroplast', 'like', 'mitochondrion']",mitochondrion,0,0,39
+"['chloroplast', 'lineage', 'Cyanophora']",Cyanophora,0,0,39
+"['chloroplast', 'lineage', 'Cyanophora']",chloroplast,0,0,39
+"['chloroplast', 'lineage', 'Cyanophora']",lineage,0,0,39
+"['chloroplast', 'lineage']",chloroplast,0,0,39
+"['chloroplast', 'lineage']",lineage,0,0,39
+"['chloroplast', 'look', 'like', 'spinach', 'grown', 'green', 'light']",chloroplast,0,0,39
+"['chloroplast', 'look', 'like', 'spinach', 'grown', 'green', 'light']",green,0,0,39
+"['chloroplast', 'look', 'like', 'spinach', 'grown', 'green', 'light']",grown,0,0,39
+"['chloroplast', 'look', 'like', 'spinach', 'grown', 'green', 'light']",light,0,0,39
+"['chloroplast', 'look', 'like', 'spinach', 'grown', 'green', 'light']",like,0,0,39
+"['chloroplast', 'look', 'like', 'spinach', 'grown', 'green', 'light']",look,0,0,39
+"['chloroplast', 'look', 'like', 'spinach', 'grown', 'green', 'light']",spinach,0,0,39
+"['chloroplast', 'make', 'amino', 'acid']",acid,0,0,39
+"['chloroplast', 'make', 'amino', 'acid']",amino,0,0,39
+"['chloroplast', 'make', 'amino', 'acid']",chloroplast,0,0,39
+"['chloroplast', 'make', 'amino', 'acid']",make,0,0,39
+"['chloroplast', 'membrane', 'compare', 'cyanobacterium', 'original', 'double', 'membrane']",chloroplast,0,0,39
+"['chloroplast', 'membrane', 'compare', 'cyanobacterium', 'original', 'double', 'membrane']",compare,0,0,39
+"['chloroplast', 'membrane', 'compare', 'cyanobacterium', 'original', 'double', 'membrane']",cyanobacterium,0,0,39
+"['chloroplast', 'membrane', 'compare', 'cyanobacterium', 'original', 'double', 'membrane']",double,0,0,39
+"['chloroplast', 'membrane', 'compare', 'cyanobacterium', 'original', 'double', 'membrane']",membrane,0,0,39
+"['chloroplast', 'membrane', 'compare', 'cyanobacterium', 'original', 'double', 'membrane']",original,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'lack']",cell,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'lack']",chloroplast,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'lack']",lack,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'lack']",mesophyll,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'specialized', 'use', 'make', 'ATP']",ATP,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'specialized', 'use', 'make', 'ATP']",cell,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'specialized', 'use', 'make', 'ATP']",chloroplast,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'specialized', 'use', 'make', 'ATP']",make,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'specialized', 'use', 'make', 'ATP']",mesophyll,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'specialized', 'use', 'make', 'ATP']",specialized,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'specialized', 'use', 'make', 'ATP']",use,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'specialized']",cell,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'specialized']",chloroplast,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'specialized']",mesophyll,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'specialized']",specialized,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'store', 'carbon', 'dioxide']",carbon,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'store', 'carbon', 'dioxide']",cell,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'store', 'carbon', 'dioxide']",chloroplast,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'store', 'carbon', 'dioxide']",dioxide,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'store', 'carbon', 'dioxide']",mesophyll,0,0,39
+"['chloroplast', 'mesophyll', 'cell', 'store', 'carbon', 'dioxide']",store,0,0,39
+"['chloroplast', 'per', 'cell', 'algae']",algae,0,0,39
+"['chloroplast', 'per', 'cell', 'algae']",cell,0,0,39
+"['chloroplast', 'per', 'cell', 'algae']",chloroplast,0,0,39
+"['chloroplast', 'per', 'cell', 'algae']",per,0,0,39
+"['chloroplast', 'peripheral', 'reticulum', 'le', 'commonly', 'found']",chloroplast,0,0,39
+"['chloroplast', 'peripheral', 'reticulum', 'le', 'commonly', 'found']",commonly,0,0,39
+"['chloroplast', 'peripheral', 'reticulum', 'le', 'commonly', 'found']",found,0,0,39
+"['chloroplast', 'peripheral', 'reticulum', 'le', 'commonly', 'found']",le,0,0,39
+"['chloroplast', 'peripheral', 'reticulum', 'le', 'commonly', 'found']",peripheral,0,0,39
+"['chloroplast', 'peripheral', 'reticulum', 'le', 'commonly', 'found']",reticulum,0,0,39
+"['chloroplast', 'peripheral', 'reticulum', 'usually', 'found']",chloroplast,0,0,39
+"['chloroplast', 'peripheral', 'reticulum', 'usually', 'found']",found,0,0,39
+"['chloroplast', 'peripheral', 'reticulum', 'usually', 'found']",peripheral,0,0,39
+"['chloroplast', 'peripheral', 'reticulum', 'usually', 'found']",reticulum,0,0,39
+"['chloroplast', 'peripheral', 'reticulum', 'usually', 'found']",usually,0,0,39
+"['chloroplast', 'peripheral', 'reticulum']",chloroplast,0,0,39
+"['chloroplast', 'peripheral', 'reticulum']",peripheral,0,0,39
+"['chloroplast', 'peripheral', 'reticulum']",reticulum,0,0,39
+"['chloroplast', 'polypeptide', 'synthesized']",chloroplast,0,0,39
+"['chloroplast', 'polypeptide', 'synthesized']",polypeptide,0,0,39
+"['chloroplast', 'polypeptide', 'synthesized']",synthesized,0,0,39
+"['chloroplast', 'produce', 'defense', 'signal']",chloroplast,0,0,39
+"['chloroplast', 'produce', 'defense', 'signal']",defense,0,0,39
+"['chloroplast', 'produce', 'defense', 'signal']",produce,0,0,39
+"['chloroplast', 'produce', 'defense', 'signal']",signal,0,0,39
+"['chloroplast', 'pump', 'hydrogen']",chloroplast,0,0,39
+"['chloroplast', 'pump', 'hydrogen']",hydrogen,0,0,39
+"['chloroplast', 'pump', 'hydrogen']",pump,0,0,39
+"['chloroplast', 'replication', 'observed']",chloroplast,0,0,39
+"['chloroplast', 'replication', 'observed']",observed,0,0,39
+"['chloroplast', 'replication', 'observed']",replication,0,0,39
+"['chloroplast', 'reproduce']",chloroplast,0,0,39
+"['chloroplast', 'reproduce']",reproduce,0,0,39
+"['chloroplast', 'similar', 'mitochondrion']",chloroplast,0,0,39
+"['chloroplast', 'similar', 'mitochondrion']",mitochondrion,0,0,39
+"['chloroplast', 'similar', 'mitochondrion']",similar,0,0,39
+"['chloroplast', 'sometimes', 'found']",chloroplast,0,0,39
+"['chloroplast', 'sometimes', 'found']",found,0,0,39
+"['chloroplast', 'sometimes', 'found']",sometimes,0,0,39
+"['chloroplast', 'spread', 'flat']",chloroplast,0,0,39
+"['chloroplast', 'spread', 'flat']",flat,0,0,39
+"['chloroplast', 'spread', 'flat']",spread,0,0,39
+"['chloroplast', 'square', 'mm', 'leaf']",chloroplast,0,0,39
+"['chloroplast', 'square', 'mm', 'leaf']",leaf,0,0,39
+"['chloroplast', 'square', 'mm', 'leaf']",mm,0,0,39
+"['chloroplast', 'square', 'mm', 'leaf']",square,0,0,39
+"['chloroplast', 'stomatal', 'guard', 'cell']",cell,0,0,39
+"['chloroplast', 'stomatal', 'guard', 'cell']",chloroplast,0,0,39
+"['chloroplast', 'stomatal', 'guard', 'cell']",guard,0,0,39
+"['chloroplast', 'stomatal', 'guard', 'cell']",stomatal,0,0,39
+"['chloroplast', 'structure', 'similar', 'inner', 'mitochondrion', 'membrane']",chloroplast,0,0,39
+"['chloroplast', 'structure', 'similar', 'inner', 'mitochondrion', 'membrane']",inner,0,0,39
+"['chloroplast', 'structure', 'similar', 'inner', 'mitochondrion', 'membrane']",membrane,0,0,39
+"['chloroplast', 'structure', 'similar', 'inner', 'mitochondrion', 'membrane']",mitochondrion,0,0,39
+"['chloroplast', 'structure', 'similar', 'inner', 'mitochondrion', 'membrane']",similar,0,0,39
+"['chloroplast', 'structure', 'similar', 'inner', 'mitochondrion', 'membrane']",structure,0,0,39
+"['chloroplast', 'trigger', 'plant', 'immune', 'system']",chloroplast,0,0,39
+"['chloroplast', 'trigger', 'plant', 'immune', 'system']",immune,0,0,39
+"['chloroplast', 'trigger', 'plant', 'immune', 'system']",plant,0,0,39
+"['chloroplast', 'trigger', 'plant', 'immune', 'system']",system,0,0,39
+"['chloroplast', 'trigger', 'plant', 'immune', 'system']",trigger,0,0,39
+"['chloroplast', 'use', 'fix', 'carbon', 'dioxide', 'sugar']",carbon,0,0,39
+"['chloroplast', 'use', 'fix', 'carbon', 'dioxide', 'sugar']",chloroplast,0,0,39
+"['chloroplast', 'use', 'fix', 'carbon', 'dioxide', 'sugar']",dioxide,0,0,39
+"['chloroplast', 'use', 'fix', 'carbon', 'dioxide', 'sugar']",fix,0,0,39
+"['chloroplast', 'use', 'fix', 'carbon', 'dioxide', 'sugar']",sugar,0,0,39
+"['chloroplast', 'use', 'fix', 'carbon', 'dioxide', 'sugar']",use,0,0,39
+"['chloroplast', 'use', 'ribosome']",chloroplast,0,0,39
+"['chloroplast', 'use', 'ribosome']",ribosome,0,0,39
+"['chloroplast', 'use', 'ribosome']",use,0,0,39
+"['chloroplastidan', 'mean']",chloroplastidan,0,0,39
+"['chloroplastidan', 'mean']",mean,0,0,39
+['chromoplast'],chromoplast,0,0,39
+"['color', 'phycoerytherin']",color,0,0,39
+"['color', 'phycoerytherin']",phycoerytherin,0,0,39
+"['common', 'Xanthophyll']",Xanthophyll,0,0,39
+"['common', 'Xanthophyll']",common,0,0,39
+"['common', 'plastid', 'chloroplast']",chloroplast,0,0,39
+"['common', 'plastid', 'chloroplast']",common,0,0,39
+"['common', 'plastid', 'chloroplast']",plastid,0,0,39
+"['concentrated', 'hydrogen', 'ion', 'get', 'thylakoid', 'space']",concentrated,0,0,39
+"['concentrated', 'hydrogen', 'ion', 'get', 'thylakoid', 'space']",get,0,0,39
+"['concentrated', 'hydrogen', 'ion', 'get', 'thylakoid', 'space']",hydrogen,0,0,39
+"['concentrated', 'hydrogen', 'ion', 'get', 'thylakoid', 'space']",ion,0,0,39
+"['concentrated', 'hydrogen', 'ion', 'get', 'thylakoid', 'space']",space,0,0,39
+"['concentrated', 'hydrogen', 'ion', 'get', 'thylakoid', 'space']",thylakoid,0,0,39
+"['concentric', 'unstacked', 'thylakoids', 'surround']",concentric,0,0,39
+"['concentric', 'unstacked', 'thylakoids', 'surround']",surround,0,0,39
+"['concentric', 'unstacked', 'thylakoids', 'surround']",thylakoids,0,0,39
+"['concentric', 'unstacked', 'thylakoids', 'surround']",unstacked,0,0,39
+"['containment', 'failure', 'rate', 'tobacco', 'plant', 'study', 'using', 'plastid', 'transformation']",containment,0,0,39
+"['containment', 'failure', 'rate', 'tobacco', 'plant', 'study', 'using', 'plastid', 'transformation']",failure,0,0,39
+"['containment', 'failure', 'rate', 'tobacco', 'plant', 'study', 'using', 'plastid', 'transformation']",plant,0,0,39
+"['containment', 'failure', 'rate', 'tobacco', 'plant', 'study', 'using', 'plastid', 'transformation']",plastid,0,0,39
+"['containment', 'failure', 'rate', 'tobacco', 'plant', 'study', 'using', 'plastid', 'transformation']",rate,0,0,39
+"['containment', 'failure', 'rate', 'tobacco', 'plant', 'study', 'using', 'plastid', 'transformation']",study,0,0,39
+"['containment', 'failure', 'rate', 'tobacco', 'plant', 'study', 'using', 'plastid', 'transformation']",tobacco,0,0,39
+"['containment', 'failure', 'rate', 'tobacco', 'plant', 'study', 'using', 'plastid', 'transformation']",transformation,0,0,39
+"['containment', 'failure', 'rate', 'tobacco', 'plant', 'study', 'using', 'plastid', 'transformation']",using,0,0,39
+"['cpDNA', 'replication', 'similar']",cpDNA,0,0,39
+"['cpDNA', 'replication', 'similar']",replication,0,0,39
+"['cpDNA', 'replication', 'similar']",similar,0,0,39
+"['cross', 'reach', 'chloroplast', 'secondary', 'plastid']",chloroplast,0,0,39
+"['cross', 'reach', 'chloroplast', 'secondary', 'plastid']",cross,0,0,39
+"['cross', 'reach', 'chloroplast', 'secondary', 'plastid']",plastid,0,0,39
+"['cross', 'reach', 'chloroplast', 'secondary', 'plastid']",reach,0,0,39
+"['cross', 'reach', 'chloroplast', 'secondary', 'plastid']",secondary,0,0,39
+"['cryptophyte', 'chloroplast', 'arrange', 'pyrenoid', 'thylakoids']",arrange,0,0,39
+"['cryptophyte', 'chloroplast', 'arrange', 'pyrenoid', 'thylakoids']",chloroplast,0,0,39
+"['cryptophyte', 'chloroplast', 'arrange', 'pyrenoid', 'thylakoids']",cryptophyte,0,0,39
+"['cryptophyte', 'chloroplast', 'arrange', 'pyrenoid', 'thylakoids']",pyrenoid,0,0,39
+"['cryptophyte', 'chloroplast', 'arrange', 'pyrenoid', 'thylakoids']",thylakoids,0,0,39
+"['cryptophyte', 'chloroplast', 'store', 'starch']",chloroplast,0,0,39
+"['cryptophyte', 'chloroplast', 'store', 'starch']",cryptophyte,0,0,39
+"['cryptophyte', 'chloroplast', 'store', 'starch']",starch,0,0,39
+"['cryptophyte', 'chloroplast', 'store', 'starch']",store,0,0,39
+"['cyanobacteria', 'sometimes', 'wrongly', 'described']",cyanobacteria,0,0,39
+"['cyanobacteria', 'sometimes', 'wrongly', 'described']",described,0,0,39
+"['cyanobacteria', 'sometimes', 'wrongly', 'described']",sometimes,0,0,39
+"['cyanobacteria', 'sometimes', 'wrongly', 'described']",wrongly,0,0,39
+"['cycle', 'start', 'rubisco']",cycle,0,0,39
+"['cycle', 'start', 'rubisco']",rubisco,0,0,39
+"['cycle', 'start', 'rubisco']",start,0,0,39
+"['cyclic', 'photophosphorylation', 'common']",common,0,0,39
+"['cyclic', 'photophosphorylation', 'common']",cyclic,0,0,39
+"['cyclic', 'photophosphorylation', 'common']",photophosphorylation,0,0,39
+"['damaging', 'photosynthesis', 'system', 'create']",create,0,0,39
+"['damaging', 'photosynthesis', 'system', 'create']",damaging,0,0,39
+"['damaging', 'photosynthesis', 'system', 'create']",photosynthesis,0,0,39
+"['damaging', 'photosynthesis', 'system', 'create']",system,0,0,39
+"['diatom', 'endosymbiont', 'store', 'starch']",diatom,0,0,39
+"['diatom', 'endosymbiont', 'store', 'starch']",endosymbiont,0,0,39
+"['diatom', 'endosymbiont', 'store', 'starch']",starch,0,0,39
+"['diatom', 'endosymbiont', 'store', 'starch']",store,0,0,39
+"['different', 'Cyanidioschyzon', 'merolæ']",Cyanidioschyzon,0,0,39
+"['different', 'Cyanidioschyzon', 'merolæ']",different,0,0,39
+"['different', 'Cyanidioschyzon', 'merolæ']",merolæ,0,0,39
+"['different', 'Paulinella', 'chromatophora']",Paulinella,0,0,39
+"['different', 'Paulinella', 'chromatophora']",chromatophora,0,0,39
+"['different', 'Paulinella', 'chromatophora']",different,0,0,39
+"['differs', 'secondary', 'chloroplast', 'membrane']",chloroplast,0,0,39
+"['differs', 'secondary', 'chloroplast', 'membrane']",differs,0,0,39
+"['differs', 'secondary', 'chloroplast', 'membrane']",membrane,0,0,39
+"['differs', 'secondary', 'chloroplast', 'membrane']",secondary,0,0,39
+"['dinophyte', 'non-rhodoplast', 'chloroplast']",chloroplast,0,0,39
+"['dinophyte', 'non-rhodoplast', 'chloroplast']",dinophyte,0,0,39
+"['dinophyte', 'non-rhodoplast', 'chloroplast']",non-rhodoplast,0,0,39
+"['distinguishes', 'granal', 'thylakoids']",distinguishes,0,0,39
+"['distinguishes', 'granal', 'thylakoids']",granal,0,0,39
+"['distinguishes', 'granal', 'thylakoids']",thylakoids,0,0,39
+"['distinguishes', 'stromal', 'thylakoids']",distinguishes,0,0,39
+"['distinguishes', 'stromal', 'thylakoids']",stromal,0,0,39
+"['distinguishes', 'stromal', 'thylakoids']",thylakoids,0,0,39
+"['donated', 'gene', 'give', 'evidence']",donated,0,0,39
+"['donated', 'gene', 'give', 'evidence']",evidence,0,0,39
+"['donated', 'gene', 'give', 'evidence']",gene,0,0,39
+"['donated', 'gene', 'give', 'evidence']",give,0,0,39
+"['effect', 'rubisco', 'flaw']",effect,0,0,39
+"['effect', 'rubisco', 'flaw']",flaw,0,0,39
+"['effect', 'rubisco', 'flaw']",rubisco,0,0,39
+['etioplast'],etioplast,0,0,39
+"['etioplasts', 'instead', 'chlorophyll']",chlorophyll,0,0,39
+"['etioplasts', 'instead', 'chlorophyll']",etioplasts,0,0,39
+"['etioplasts', 'instead', 'chlorophyll']",instead,0,0,39
+"['etioplasts', 'internal', 'membrane']",etioplasts,0,0,39
+"['etioplasts', 'internal', 'membrane']",internal,0,0,39
+"['etioplasts', 'internal', 'membrane']",membrane,0,0,39
+"['evidence', 'chloroplast', 'descended', 'endosymbiotic', 'cyanobacteria']",chloroplast,0,0,39
+"['evidence', 'chloroplast', 'descended', 'endosymbiotic', 'cyanobacteria']",cyanobacteria,0,0,39
+"['evidence', 'chloroplast', 'descended', 'endosymbiotic', 'cyanobacteria']",descended,0,0,39
+"['evidence', 'chloroplast', 'descended', 'endosymbiotic', 'cyanobacteria']",endosymbiotic,0,0,39
+"['evidence', 'chloroplast', 'descended', 'endosymbiotic', 'cyanobacteria']",evidence,0,0,39
+"['far', 'apart', 'outer', 'PD', 'ring', 'filament']",PD,0,0,39
+"['far', 'apart', 'outer', 'PD', 'ring', 'filament']",apart,0,0,39
+"['far', 'apart', 'outer', 'PD', 'ring', 'filament']",far,0,0,39
+"['far', 'apart', 'outer', 'PD', 'ring', 'filament']",filament,0,0,39
+"['far', 'apart', 'outer', 'PD', 'ring', 'filament']",outer,0,0,39
+"['far', 'apart', 'outer', 'PD', 'ring', 'filament']",ring,0,0,39
+"['first', 'plastome', 'sequenced']",first,0,0,39
+"['first', 'plastome', 'sequenced']",plastome,0,0,39
+"['first', 'plastome', 'sequenced']",sequenced,0,0,39
+['floridean'],floridean,0,0,39
+"['found', 'peridinin-type', 'chloroplast']",chloroplast,0,0,39
+"['found', 'peridinin-type', 'chloroplast']",found,0,0,39
+"['found', 'peridinin-type', 'chloroplast']",peridinin-type,0,0,39
+['fret'],fret,0,0,39
+"['get', 'Z-ring', 'right', 'place']",Z-ring,0,0,39
+"['get', 'Z-ring', 'right', 'place']",get,0,0,39
+"['get', 'Z-ring', 'right', 'place']",place,0,0,39
+"['get', 'Z-ring', 'right', 'place']",right,0,0,39
+"['granal', 'thylakoids', 'granum']",granal,0,0,39
+"['granal', 'thylakoids', 'granum']",granum,0,0,39
+"['granal', 'thylakoids', 'granum']",thylakoids,0,0,39
+"['granal', 'thylakoids', 'usually', 'granum']",granal,0,0,39
+"['granal', 'thylakoids', 'usually', 'granum']",granum,0,0,39
+"['granal', 'thylakoids', 'usually', 'granum']",thylakoids,0,0,39
+"['granal', 'thylakoids', 'usually', 'granum']",usually,0,0,39
+"['green', 'chloroplast', 'Plastoglobuli', 'arranged']",Plastoglobuli,0,0,39
+"['green', 'chloroplast', 'Plastoglobuli', 'arranged']",arranged,0,0,39
+"['green', 'chloroplast', 'Plastoglobuli', 'arranged']",chloroplast,0,0,39
+"['green', 'chloroplast', 'Plastoglobuli', 'arranged']",green,0,0,39
+"['green', 'chloroplast', 'instead', 'phycobilisomes']",chloroplast,0,0,39
+"['green', 'chloroplast', 'instead', 'phycobilisomes']",green,0,0,39
+"['green', 'chloroplast', 'instead', 'phycobilisomes']",instead,0,0,39
+"['green', 'chloroplast', 'instead', 'phycobilisomes']",phycobilisomes,0,0,39
+"['happened', 'cyanobacteria', 'assimilated']",assimilated,0,0,39
+"['happened', 'cyanobacteria', 'assimilated']",cyanobacteria,0,0,39
+"['happened', 'cyanobacteria', 'assimilated']",happened,0,0,39
+"['happens', 'angiosperm', 'shoot', ""n't"", 'get', 'enough', 'light']",angiosperm,0,0,39
+"['happens', 'angiosperm', 'shoot', ""n't"", 'get', 'enough', 'light']",enough,0,0,39
+"['happens', 'angiosperm', 'shoot', ""n't"", 'get', 'enough', 'light']",get,0,0,39
+"['happens', 'angiosperm', 'shoot', ""n't"", 'get', 'enough', 'light']",happens,0,0,39
+"['happens', 'angiosperm', 'shoot', ""n't"", 'get', 'enough', 'light']",light,0,0,39
+"['happens', 'angiosperm', 'shoot', ""n't"", 'get', 'enough', 'light']",n't,0,0,39
+"['happens', 'angiosperm', 'shoot', ""n't"", 'get', 'enough', 'light']",shoot,0,0,39
+"['happens', 'reactive', 'oxygen', 'specie', 'signal', 'since', ""n't"", 'leave', 'chloroplast']",chloroplast,0,0,39
+"['happens', 'reactive', 'oxygen', 'specie', 'signal', 'since', ""n't"", 'leave', 'chloroplast']",happens,0,0,39
+"['happens', 'reactive', 'oxygen', 'specie', 'signal', 'since', ""n't"", 'leave', 'chloroplast']",leave,0,0,39
+"['happens', 'reactive', 'oxygen', 'specie', 'signal', 'since', ""n't"", 'leave', 'chloroplast']",n't,0,0,39
+"['happens', 'reactive', 'oxygen', 'specie', 'signal', 'since', ""n't"", 'leave', 'chloroplast']",oxygen,0,0,39
+"['happens', 'reactive', 'oxygen', 'specie', 'signal', 'since', ""n't"", 'leave', 'chloroplast']",reactive,0,0,39
+"['happens', 'reactive', 'oxygen', 'specie', 'signal', 'since', ""n't"", 'leave', 'chloroplast']",signal,0,0,39
+"['happens', 'reactive', 'oxygen', 'specie', 'signal', 'since', ""n't"", 'leave', 'chloroplast']",since,0,0,39
+"['happens', 'reactive', 'oxygen', 'specie', 'signal', 'since', ""n't"", 'leave', 'chloroplast']",specie,0,0,39
+"['happens', 'starch', 'grain', 'become', 'overly', 'large']",become,0,0,39
+"['happens', 'starch', 'grain', 'become', 'overly', 'large']",grain,0,0,39
+"['happens', 'starch', 'grain', 'become', 'overly', 'large']",happens,0,0,39
+"['happens', 'starch', 'grain', 'become', 'overly', 'large']",large,0,0,39
+"['happens', 'starch', 'grain', 'become', 'overly', 'large']",overly,0,0,39
+"['happens', 'starch', 'grain', 'become', 'overly', 'large']",starch,0,0,39
+"['hypersensitive', 'response', 'plant', 'immune', 'system']",hypersensitive,0,0,39
+"['hypersensitive', 'response', 'plant', 'immune', 'system']",immune,0,0,39
+"['hypersensitive', 'response', 'plant', 'immune', 'system']",plant,0,0,39
+"['hypersensitive', 'response', 'plant', 'immune', 'system']",response,0,0,39
+"['hypersensitive', 'response', 'plant', 'immune', 'system']",system,0,0,39
+"['important', 'role', 'chloroplast']",chloroplast,0,0,39
+"['important', 'role', 'chloroplast']",important,0,0,39
+"['important', 'role', 'chloroplast']",role,0,0,39
+"['important', 'thing', 'apicoplasts']",apicoplasts,0,0,39
+"['important', 'thing', 'apicoplasts']",important,0,0,39
+"['important', 'thing', 'apicoplasts']",thing,0,0,39
+"['incorrectly', 'thought', 'outer', 'chloroplast', 'membrane']",chloroplast,0,0,39
+"['incorrectly', 'thought', 'outer', 'chloroplast', 'membrane']",incorrectly,0,0,39
+"['incorrectly', 'thought', 'outer', 'chloroplast', 'membrane']",membrane,0,0,39
+"['incorrectly', 'thought', 'outer', 'chloroplast', 'membrane']",outer,0,0,39
+"['incorrectly', 'thought', 'outer', 'chloroplast', 'membrane']",thought,0,0,39
+"['influence', 'chloroplast', 'behavior']",behavior,0,0,39
+"['influence', 'chloroplast', 'behavior']",chloroplast,0,0,39
+"['influence', 'chloroplast', 'behavior']",influence,0,0,39
+"['inner', 'mitochondrion', 'membrane']",inner,0,0,39
+"['inner', 'mitochondrion', 'membrane']",membrane,0,0,39
+"['inner', 'mitochondrion', 'membrane']",mitochondrion,0,0,39
+"['inverted', 'repeat', 'become']",become,0,0,39
+"['inverted', 'repeat', 'become']",inverted,0,0,39
+"['inverted', 'repeat', 'become']",repeat,0,0,39
+"['inverted', 'repeat', 'help']",help,0,0,39
+"['inverted', 'repeat', 'help']",inverted,0,0,39
+"['inverted', 'repeat', 'help']",repeat,0,0,39
+"['kind', 'cell', 'cynaobacteria', 'enter', 'long', 'ago']",ago,0,0,39
+"['kind', 'cell', 'cynaobacteria', 'enter', 'long', 'ago']",cell,0,0,39
+"['kind', 'cell', 'cynaobacteria', 'enter', 'long', 'ago']",cynaobacteria,0,0,39
+"['kind', 'cell', 'cynaobacteria', 'enter', 'long', 'ago']",enter,0,0,39
+"['kind', 'cell', 'cynaobacteria', 'enter', 'long', 'ago']",kind,0,0,39
+"['kind', 'cell', 'cynaobacteria', 'enter', 'long', 'ago']",long,0,0,39
+"['kind', 'cell', 'wall', 'cyanobacteria']",cell,0,0,39
+"['kind', 'cell', 'wall', 'cyanobacteria']",cyanobacteria,0,0,39
+"['kind', 'cell', 'wall', 'cyanobacteria']",kind,0,0,39
+"['kind', 'cell', 'wall', 'cyanobacteria']",wall,0,0,39
+"['kind', 'chloroplast', 'Euglenophytes']",Euglenophytes,0,0,39
+"['kind', 'chloroplast', 'Euglenophytes']",chloroplast,0,0,39
+"['kind', 'chloroplast', 'Euglenophytes']",kind,0,0,39
+"['kind', 'chloroplast', 'cryptophyte']",chloroplast,0,0,39
+"['kind', 'chloroplast', 'cryptophyte']",cryptophyte,0,0,39
+"['kind', 'chloroplast', 'cryptophyte']",kind,0,0,39
+"['kind', 'chloroplast', 'diatom', 'lost']",chloroplast,0,0,39
+"['kind', 'chloroplast', 'diatom', 'lost']",diatom,0,0,39
+"['kind', 'chloroplast', 'diatom', 'lost']",kind,0,0,39
+"['kind', 'chloroplast', 'diatom', 'lost']",lost,0,0,39
+"['kind', 'chloroplast', 'diatom']",chloroplast,0,0,39
+"['kind', 'chloroplast', 'diatom']",diatom,0,0,39
+"['kind', 'chloroplast', 'diatom']",kind,0,0,39
+"['kind', 'cpDNA', 'maize']",cpDNA,0,0,39
+"['kind', 'cpDNA', 'maize']",kind,0,0,39
+"['kind', 'cpDNA', 'maize']",maize,0,0,39
+"['kind', 'disease', 'drug', 'target', 'apicoplasts']",apicoplasts,0,0,39
+"['kind', 'disease', 'drug', 'target', 'apicoplasts']",disease,0,0,39
+"['kind', 'disease', 'drug', 'target', 'apicoplasts']",drug,0,0,39
+"['kind', 'disease', 'drug', 'target', 'apicoplasts']",kind,0,0,39
+"['kind', 'disease', 'drug', 'target', 'apicoplasts']",target,0,0,39
+"['kind', 'gradient', 'cpDNA']",cpDNA,0,0,39
+"['kind', 'gradient', 'cpDNA']",gradient,0,0,39
+"['kind', 'gradient', 'cpDNA']",kind,0,0,39
+"['kind', 'light', 'important', 'chloroplast', 'divide']",chloroplast,0,0,39
+"['kind', 'light', 'important', 'chloroplast', 'divide']",divide,0,0,39
+"['kind', 'light', 'important', 'chloroplast', 'divide']",important,0,0,39
+"['kind', 'light', 'important', 'chloroplast', 'divide']",kind,0,0,39
+"['kind', 'light', 'important', 'chloroplast', 'divide']",light,0,0,39
+"['kind', 'light', 'inadequate', 'chloroplast', 'divide']",chloroplast,0,0,39
+"['kind', 'light', 'inadequate', 'chloroplast', 'divide']",divide,0,0,39
+"['kind', 'light', 'inadequate', 'chloroplast', 'divide']",inadequate,0,0,39
+"['kind', 'light', 'inadequate', 'chloroplast', 'divide']",kind,0,0,39
+"['kind', 'light', 'inadequate', 'chloroplast', 'divide']",light,0,0,39
+"['kind', 'membrane', 'came', 'host']",came,0,0,39
+"['kind', 'membrane', 'came', 'host']",host,0,0,39
+"['kind', 'membrane', 'came', 'host']",kind,0,0,39
+"['kind', 'membrane', 'came', 'host']",membrane,0,0,39
+"['kind', 'membrane', 'primary', 'chloroplast']",chloroplast,0,0,39
+"['kind', 'membrane', 'primary', 'chloroplast']",kind,0,0,39
+"['kind', 'membrane', 'primary', 'chloroplast']",membrane,0,0,39
+"['kind', 'membrane', 'primary', 'chloroplast']",primary,0,0,39
+"['kind', 'organism', 'Cyanophora']",Cyanophora,0,0,39
+"['kind', 'organism', 'Cyanophora']",kind,0,0,39
+"['kind', 'organism', 'Cyanophora']",organism,0,0,39
+"['kind', 'pigment', 'rhodoplasts']",kind,0,0,39
+"['kind', 'pigment', 'rhodoplasts']",pigment,0,0,39
+"['kind', 'pigment', 'rhodoplasts']",rhodoplasts,0,0,39
+"['kind', 'protist', 'Euglenophytes']",Euglenophytes,0,0,39
+"['kind', 'protist', 'Euglenophytes']",kind,0,0,39
+"['kind', 'protist', 'Euglenophytes']",protist,0,0,39
+"['kind', 'structure', 'carboxysome']",carboxysome,0,0,39
+"['kind', 'structure', 'carboxysome']",kind,0,0,39
+"['kind', 'structure', 'carboxysome']",structure,0,0,39
+"['land', 'plant', 'smaller', 'chloroplast']",chloroplast,0,0,39
+"['land', 'plant', 'smaller', 'chloroplast']",land,0,0,39
+"['land', 'plant', 'smaller', 'chloroplast']",plant,0,0,39
+"['land', 'plant', 'smaller', 'chloroplast']",smaller,0,0,39
+"['large', 'Chloroplast', 'ribosome']",Chloroplast,0,0,39
+"['large', 'Chloroplast', 'ribosome']",large,0,0,39
+"['large', 'Chloroplast', 'ribosome']",ribosome,0,0,39
+"['large', 'Cytoplasmic', 'ribosome']",Cytoplasmic,0,0,39
+"['large', 'Cytoplasmic', 'ribosome']",large,0,0,39
+"['large', 'Cytoplasmic', 'ribosome']",ribosome,0,0,39
+"['large', 'Plastoglobuli']",Plastoglobuli,0,0,39
+"['large', 'Plastoglobuli']",large,0,0,39
+"['large', 'across', 'chloroplast', 'land', 'plant']",across,0,0,39
+"['large', 'across', 'chloroplast', 'land', 'plant']",chloroplast,0,0,39
+"['large', 'across', 'chloroplast', 'land', 'plant']",land,0,0,39
+"['large', 'across', 'chloroplast', 'land', 'plant']",large,0,0,39
+"['large', 'across', 'chloroplast', 'land', 'plant']",plant,0,0,39
+"['large', 'granal', 'thylakoids']",granal,0,0,39
+"['large', 'granal', 'thylakoids']",large,0,0,39
+"['large', 'granal', 'thylakoids']",thylakoids,0,0,39
+"['large', 'outer', 'PD', 'ring', 'filament']",PD,0,0,39
+"['large', 'outer', 'PD', 'ring', 'filament']",filament,0,0,39
+"['large', 'outer', 'PD', 'ring', 'filament']",large,0,0,39
+"['large', 'outer', 'PD', 'ring', 'filament']",outer,0,0,39
+"['large', 'outer', 'PD', 'ring', 'filament']",ring,0,0,39
+"['layer', 'leaf', 'chloroplast']",chloroplast,0,0,39
+"['layer', 'leaf', 'chloroplast']",layer,0,0,39
+"['layer', 'leaf', 'chloroplast']",leaf,0,0,39
+"['left', 'Dinophysis', 'chloroplast']",Dinophysis,0,0,39
+"['left', 'Dinophysis', 'chloroplast']",chloroplast,0,0,39
+"['left', 'Dinophysis', 'chloroplast']",left,0,0,39
+"['left', 'engulfed', 'algae', 'broken']",algae,0,0,39
+"['left', 'engulfed', 'algae', 'broken']",broken,0,0,39
+"['left', 'engulfed', 'algae', 'broken']",engulfed,0,0,39
+"['left', 'engulfed', 'algae', 'broken']",left,0,0,39
+"['lineage', 'Karenia']",Karenia,0,0,39
+"['lineage', 'Karenia']",lineage,0,0,39
+"['lineage', 'Karlodinium']",Karlodinium,0,0,39
+"['lineage', 'Karlodinium']",lineage,0,0,39
+"['lineage', 'includes', 'land', 'plant']",includes,0,0,39
+"['lineage', 'includes', 'land', 'plant']",land,0,0,39
+"['lineage', 'includes', 'land', 'plant']",lineage,0,0,39
+"['lineage', 'includes', 'land', 'plant']",plant,0,0,39
+"['long', 'ago', 'cyanobacteria', 'enter', 'cell']",ago,0,0,39
+"['long', 'ago', 'cyanobacteria', 'enter', 'cell']",cell,0,0,39
+"['long', 'ago', 'cyanobacteria', 'enter', 'cell']",cyanobacteria,0,0,39
+"['long', 'ago', 'cyanobacteria', 'enter', 'cell']",enter,0,0,39
+"['long', 'ago', 'cyanobacteria', 'enter', 'cell']",long,0,0,39
+"['major', 'chloroplast', 'replication', 'model', 'suggested']",chloroplast,0,0,39
+"['major', 'chloroplast', 'replication', 'model', 'suggested']",major,0,0,39
+"['major', 'chloroplast', 'replication', 'model', 'suggested']",model,0,0,39
+"['major', 'chloroplast', 'replication', 'model', 'suggested']",replication,0,0,39
+"['major', 'chloroplast', 'replication', 'model', 'suggested']",suggested,0,0,39
+"['major', 'immune', 'response', 'plant']",immune,0,0,39
+"['major', 'immune', 'response', 'plant']",major,0,0,39
+"['major', 'immune', 'response', 'plant']",plant,0,0,39
+"['major', 'immune', 'response', 'plant']",response,0,0,39
+"['make', 'DNA', 'vulnerable', 'deamination']",DNA,0,0,39
+"['make', 'DNA', 'vulnerable', 'deamination']",deamination,0,0,39
+"['make', 'DNA', 'vulnerable', 'deamination']",make,0,0,39
+"['make', 'DNA', 'vulnerable', 'deamination']",vulnerable,0,0,39
+"['make', 'plant', 'green']",green,0,0,39
+"['make', 'plant', 'green']",make,0,0,39
+"['make', 'plant', 'green']",plant,0,0,39
+"['make', 'red', 'algae', 'red']",algae,0,0,39
+"['make', 'red', 'algae', 'red']",make,0,0,39
+"['make', 'red', 'algae', 'red']",red,0,0,39
+"['maze', 'membranous', 'tube']",maze,0,0,39
+"['maze', 'membranous', 'tube']",membranous,0,0,39
+"['maze', 'membranous', 'tube']",tube,0,0,39
+"['membrane', 'Durinskia', 'chloroplast']",Durinskia,0,0,39
+"['membrane', 'Durinskia', 'chloroplast']",chloroplast,0,0,39
+"['membrane', 'Durinskia', 'chloroplast']",membrane,0,0,39
+"['membrane', 'apicoplasts']",apicoplasts,0,0,39
+"['membrane', 'apicoplasts']",membrane,0,0,39
+"['membrane', 'haptophyte', 'chloroplast']",chloroplast,0,0,39
+"['membrane', 'haptophyte', 'chloroplast']",haptophyte,0,0,39
+"['membrane', 'haptophyte', 'chloroplast']",membrane,0,0,39
+"['membrane', 'lost', 'euglenophyte', 'chloroplast']",chloroplast,0,0,39
+"['membrane', 'lost', 'euglenophyte', 'chloroplast']",euglenophyte,0,0,39
+"['membrane', 'lost', 'euglenophyte', 'chloroplast']",lost,0,0,39
+"['membrane', 'lost', 'euglenophyte', 'chloroplast']",membrane,0,0,39
+"['might', 'starch', 'grain', 'become', 'overly', 'large']",become,0,0,39
+"['might', 'starch', 'grain', 'become', 'overly', 'large']",grain,0,0,39
+"['might', 'starch', 'grain', 'become', 'overly', 'large']",large,0,0,39
+"['might', 'starch', 'grain', 'become', 'overly', 'large']",might,0,0,39
+"['might', 'starch', 'grain', 'become', 'overly', 'large']",overly,0,0,39
+"['might', 'starch', 'grain', 'become', 'overly', 'large']",starch,0,0,39
+"['might', 'starch', 'grain', 'side', 'effect']",effect,0,0,39
+"['might', 'starch', 'grain', 'side', 'effect']",grain,0,0,39
+"['might', 'starch', 'grain', 'side', 'effect']",might,0,0,39
+"['might', 'starch', 'grain', 'side', 'effect']",side,0,0,39
+"['might', 'starch', 'grain', 'side', 'effect']",starch,0,0,39
+"['model', 'grana', 'look', 'like', 'pancake']",grana,0,0,39
+"['model', 'grana', 'look', 'like', 'pancake']",like,0,0,39
+"['model', 'grana', 'look', 'like', 'pancake']",look,0,0,39
+"['model', 'grana', 'look', 'like', 'pancake']",model,0,0,39
+"['model', 'grana', 'look', 'like', 'pancake']",pancake,0,0,39
+"['molecular', 'input', 'photosynthesis']",input,0,0,39
+"['molecular', 'input', 'photosynthesis']",molecular,0,0,39
+"['molecular', 'input', 'photosynthesis']",photosynthesis,0,0,39
+"['molecular', 'output', 'photosynthesis']",molecular,0,0,39
+"['molecular', 'output', 'photosynthesis']",output,0,0,39
+"['molecular', 'output', 'photosynthesis']",photosynthesis,0,0,39
+"['molecule', 'act', 'defense', 'signal']",act,0,0,39
+"['molecule', 'act', 'defense', 'signal']",defense,0,0,39
+"['molecule', 'act', 'defense', 'signal']",molecule,0,0,39
+"['molecule', 'act', 'defense', 'signal']",signal,0,0,39
+"['much', 'carbon', 'get', 'wasted', 'using', 'O2', 'instead', 'CO2']",CO2,0,0,39
+"['much', 'carbon', 'get', 'wasted', 'using', 'O2', 'instead', 'CO2']",O2,0,0,39
+"['much', 'carbon', 'get', 'wasted', 'using', 'O2', 'instead', 'CO2']",carbon,0,0,39
+"['much', 'carbon', 'get', 'wasted', 'using', 'O2', 'instead', 'CO2']",get,0,0,39
+"['much', 'carbon', 'get', 'wasted', 'using', 'O2', 'instead', 'CO2']",instead,0,0,39
+"['much', 'carbon', 'get', 'wasted', 'using', 'O2', 'instead', 'CO2']",much,0,0,39
+"['much', 'carbon', 'get', 'wasted', 'using', 'O2', 'instead', 'CO2']",using,0,0,39
+"['much', 'carbon', 'get', 'wasted', 'using', 'O2', 'instead', 'CO2']",wasted,0,0,39
+"['much', 'protein', 'product', 'transferred', 'gene', ""n't"", 'go', 'back', 'chloroplast']",back,0,0,39
+"['much', 'protein', 'product', 'transferred', 'gene', ""n't"", 'go', 'back', 'chloroplast']",chloroplast,0,0,39
+"['much', 'protein', 'product', 'transferred', 'gene', ""n't"", 'go', 'back', 'chloroplast']",gene,0,0,39
+"['much', 'protein', 'product', 'transferred', 'gene', ""n't"", 'go', 'back', 'chloroplast']",go,0,0,39
+"['much', 'protein', 'product', 'transferred', 'gene', ""n't"", 'go', 'back', 'chloroplast']",much,0,0,39
+"['much', 'protein', 'product', 'transferred', 'gene', ""n't"", 'go', 'back', 'chloroplast']",n't,0,0,39
+"['much', 'protein', 'product', 'transferred', 'gene', ""n't"", 'go', 'back', 'chloroplast']",product,0,0,39
+"['much', 'protein', 'product', 'transferred', 'gene', ""n't"", 'go', 'back', 'chloroplast']",protein,0,0,39
+"['much', 'protein', 'product', 'transferred', 'gene', ""n't"", 'go', 'back', 'chloroplast']",transferred,0,0,39
+['muroplasts'],muroplasts,0,0,39
+"['nationality', 'Konstantin', 'Mereschkowski']",Konstantin,0,0,39
+"['nationality', 'Konstantin', 'Mereschkowski']",Mereschkowski,0,0,39
+"['nationality', 'Konstantin', 'Mereschkowski']",nationality,0,0,39
+"['necessary', 'chloroplast', 'replicate']",chloroplast,0,0,39
+"['necessary', 'chloroplast', 'replicate']",necessary,0,0,39
+"['necessary', 'chloroplast', 'replicate']",replicate,0,0,39
+"['new', 'task', 'protein', 'product', 'transferred', 'gene', 'take']",gene,0,0,39
+"['new', 'task', 'protein', 'product', 'transferred', 'gene', 'take']",new,0,0,39
+"['new', 'task', 'protein', 'product', 'transferred', 'gene', 'take']",product,0,0,39
+"['new', 'task', 'protein', 'product', 'transferred', 'gene', 'take']",protein,0,0,39
+"['new', 'task', 'protein', 'product', 'transferred', 'gene', 'take']",take,0,0,39
+"['new', 'task', 'protein', 'product', 'transferred', 'gene', 'take']",task,0,0,39
+"['new', 'task', 'protein', 'product', 'transferred', 'gene', 'take']",transferred,0,0,39
+"['nucleomorph', 'gene', 'transfer']",gene,0,0,39
+"['nucleomorph', 'gene', 'transfer']",nucleomorph,0,0,39
+"['nucleomorph', 'gene', 'transfer']",transfer,0,0,39
+"['often', 'seen', 'root', 'tip', 'maristems']",maristems,0,0,39
+"['often', 'seen', 'root', 'tip', 'maristems']",often,0,0,39
+"['often', 'seen', 'root', 'tip', 'maristems']",root,0,0,39
+"['often', 'seen', 'root', 'tip', 'maristems']",seen,0,0,39
+"['often', 'seen', 'root', 'tip', 'maristems']",tip,0,0,39
+"['organism', 'chloroplast']",chloroplast,0,0,39
+"['organism', 'chloroplast']",organism,0,0,39
+"['oxidative', 'phosphorylation']",oxidative,0,0,39
+"['oxidative', 'phosphorylation']",phosphorylation,0,0,39
+"['paramylon', 'store']",paramylon,0,0,39
+"['paramylon', 'store']",store,0,0,39
+"['part', 'chloroplast', ""n't"", 'similar', 'mitochondrion']",chloroplast,0,0,39
+"['part', 'chloroplast', ""n't"", 'similar', 'mitochondrion']",mitochondrion,0,0,39
+"['part', 'chloroplast', ""n't"", 'similar', 'mitochondrion']",n't,0,0,39
+"['part', 'chloroplast', ""n't"", 'similar', 'mitochondrion']",part,0,0,39
+"['part', 'chloroplast', ""n't"", 'similar', 'mitochondrion']",similar,0,0,39
+"['part', 'cryptophyte', 'chloroplast', 'similar', 'chlorarachniophytes']",chlorarachniophytes,0,0,39
+"['part', 'cryptophyte', 'chloroplast', 'similar', 'chlorarachniophytes']",chloroplast,0,0,39
+"['part', 'cryptophyte', 'chloroplast', 'similar', 'chlorarachniophytes']",cryptophyte,0,0,39
+"['part', 'cryptophyte', 'chloroplast', 'similar', 'chlorarachniophytes']",part,0,0,39
+"['part', 'cryptophyte', 'chloroplast', 'similar', 'chlorarachniophytes']",similar,0,0,39
+"['part', 'plant', 'chloroplast']",chloroplast,0,0,39
+"['part', 'plant', 'chloroplast']",part,0,0,39
+"['part', 'plant', 'chloroplast']",plant,0,0,39
+"['peridinin-type', 'chloroplast', 'lost']",chloroplast,0,0,39
+"['peridinin-type', 'chloroplast', 'lost']",lost,0,0,39
+"['peridinin-type', 'chloroplast', 'lost']",peridinin-type,0,0,39
+"['peridinin-type', 'chloroplast', 'thylakoids', 'arranged']",arranged,0,0,39
+"['peridinin-type', 'chloroplast', 'thylakoids', 'arranged']",chloroplast,0,0,39
+"['peridinin-type', 'chloroplast', 'thylakoids', 'arranged']",peridinin-type,0,0,39
+"['peridinin-type', 'chloroplast', 'thylakoids', 'arranged']",thylakoids,0,0,39
+"['photorespiration', 'happen']",happen,0,0,39
+"['photorespiration', 'happen']",photorespiration,0,0,39
+"['photosynthetic', 'carotenoid']",carotenoid,0,0,39
+"['photosynthetic', 'carotenoid']",photosynthetic,0,0,39
+['phycobilisomes'],phycobilisomes,0,0,39
+"['phycoerytherin', 'appear']",appear,0,0,39
+"['phycoerytherin', 'appear']",phycoerytherin,0,0,39
+"['plant', ""n't"", 'need', 'light', 'make', 'chloroplast']",chloroplast,0,0,39
+"['plant', ""n't"", 'need', 'light', 'make', 'chloroplast']",light,0,0,39
+"['plant', ""n't"", 'need', 'light', 'make', 'chloroplast']",make,0,0,39
+"['plant', ""n't"", 'need', 'light', 'make', 'chloroplast']",n't,0,0,39
+"['plant', ""n't"", 'need', 'light', 'make', 'chloroplast']",need,0,0,39
+"['plant', ""n't"", 'need', 'light', 'make', 'chloroplast']",plant,0,0,39
+"['plant', 'cell', 'chloroplast']",cell,0,0,39
+"['plant', 'cell', 'chloroplast']",chloroplast,0,0,39
+"['plant', 'cell', 'chloroplast']",plant,0,0,39
+"['plant', 'chloroplast', 'descend']",chloroplast,0,0,39
+"['plant', 'chloroplast', 'descend']",descend,0,0,39
+"['plant', 'chloroplast', 'descend']",plant,0,0,39
+"['plant', 'chloroplast']",chloroplast,0,0,39
+"['plant', 'chloroplast']",plant,0,0,39
+"['plant', 'cpDNA', 'arranged']",arranged,0,0,39
+"['plant', 'cpDNA', 'arranged']",cpDNA,0,0,39
+"['plant', 'cpDNA', 'arranged']",plant,0,0,39
+"['plant', 'cpDNA', 'replicate']",cpDNA,0,0,39
+"['plant', 'cpDNA', 'replicate']",plant,0,0,39
+"['plant', 'cpDNA', 'replicate']",replicate,0,0,39
+"['plant', 'get', 'chloroplast']",chloroplast,0,0,39
+"['plant', 'get', 'chloroplast']",get,0,0,39
+"['plant', 'get', 'chloroplast']",plant,0,0,39
+"['plant', 'injured', 'become', 'proplastids']",become,0,0,39
+"['plant', 'injured', 'become', 'proplastids']",injured,0,0,39
+"['plant', 'injured', 'become', 'proplastids']",plant,0,0,39
+"['plant', 'injured', 'become', 'proplastids']",proplastids,0,0,39
+"['plant', 'plastid', 'gene', 'transformation', 'called']",called,0,0,39
+"['plant', 'plastid', 'gene', 'transformation', 'called']",gene,0,0,39
+"['plant', 'plastid', 'gene', 'transformation', 'called']",plant,0,0,39
+"['plant', 'plastid', 'gene', 'transformation', 'called']",plastid,0,0,39
+"['plant', 'plastid', 'gene', 'transformation', 'called']",transformation,0,0,39
+"['plant', 'repurposed', 'peptidoglycan', 'layer', 'gene']",gene,0,0,39
+"['plant', 'repurposed', 'peptidoglycan', 'layer', 'gene']",layer,0,0,39
+"['plant', 'repurposed', 'peptidoglycan', 'layer', 'gene']",peptidoglycan,0,0,39
+"['plant', 'repurposed', 'peptidoglycan', 'layer', 'gene']",plant,0,0,39
+"['plant', 'repurposed', 'peptidoglycan', 'layer', 'gene']",repurposed,0,0,39
+"['plastome', 'discovered']",discovered,0,0,39
+"['plastome', 'discovered']",plastome,0,0,39
+['prasinophyte'],prasinophyte,0,0,39
+"['primary', 'purpose', 'chloroplast']",chloroplast,0,0,39
+"['primary', 'purpose', 'chloroplast']",primary,0.086410337,31,39
+"['primary', 'purpose', 'chloroplast']",purpose,0.003888068,38,39
+"['problem', 'cysteine']",cysteine,0,0,39
+"['problem', 'cysteine']",problem,0,0,39
+"['process', 'changing', 'light', 'chemical', 'energy']",changing,0,0,39
+"['process', 'changing', 'light', 'chemical', 'energy']",chemical,0,0,39
+"['process', 'changing', 'light', 'chemical', 'energy']",energy,0,0,39
+"['process', 'changing', 'light', 'chemical', 'energy']",light,0,0,39
+"['process', 'changing', 'light', 'chemical', 'energy']",process,0,0,39
+"['process', 'electron', 'recycled']",electron,0,0,39
+"['process', 'electron', 'recycled']",process,0,0,39
+"['process', 'electron', 'recycled']",recycled,0,0,39
+"['process', 'line', 'rubisco', 'flaw', 'interfere']",flaw,0,0,39
+"['process', 'line', 'rubisco', 'flaw', 'interfere']",interfere,0,0,39
+"['process', 'line', 'rubisco', 'flaw', 'interfere']",line,0,0,39
+"['process', 'line', 'rubisco', 'flaw', 'interfere']",process,0,0,39
+"['process', 'line', 'rubisco', 'flaw', 'interfere']",rubisco,0,0,39
+"['process', 'turning', 'CO2', 'organic', 'molecule', 'called']",CO2,0,0,39
+"['process', 'turning', 'CO2', 'organic', 'molecule', 'called']",called,0,0,39
+"['process', 'turning', 'CO2', 'organic', 'molecule', 'called']",molecule,0,0,39
+"['process', 'turning', 'CO2', 'organic', 'molecule', 'called']",organic,0,0,39
+"['process', 'turning', 'CO2', 'organic', 'molecule', 'called']",process,0,0,39
+"['process', 'turning', 'CO2', 'organic', 'molecule', 'called']",turning,0,0,39
+"['proplastids', 'become']",become,0,0,39
+"['proplastids', 'become']",proplastids,0,0,39
+"['protein-encoding', 'gene', 'Chromatophore', 'DNA']",Chromatophore,0,0,39
+"['protein-encoding', 'gene', 'Chromatophore', 'DNA']",DNA,0,0,39
+"['protein-encoding', 'gene', 'Chromatophore', 'DNA']",gene,0,0,39
+"['protein-encoding', 'gene', 'Chromatophore', 'DNA']",protein-encoding,0,0,39
+"['pyrenoid', 'thylakoids', 'arranged']",arranged,0,0,39
+"['pyrenoid', 'thylakoids', 'arranged']",pyrenoid,0,0,39
+"['pyrenoid', 'thylakoids', 'arranged']",thylakoids,0,0,39
+"['pyrenoids', 'found']",found,0,0,39
+"['pyrenoids', 'found']",pyrenoids,0,0,39
+"['pyrenoids', 'look', 'like']",like,0,0,39
+"['pyrenoids', 'look', 'like']",look,0,0,39
+"['pyrenoids', 'look', 'like']",pyrenoids,0,0,39
+"['pyrenoids', 'replicate']",pyrenoids,0,0,39
+"['pyrenoids', 'replicate']",replicate,0,0,39
+"['pyrenoids', 'store']",pyrenoids,0,0,39
+"['pyrenoids', 'store']",store,0,0,39
+"['red', 'algal', 'chloroplast', 'green', 'chloroplast', ""n't""]",algal,0,0,39
+"['red', 'algal', 'chloroplast', 'green', 'chloroplast', ""n't""]",chloroplast,0,0,39
+"['red', 'algal', 'chloroplast', 'green', 'chloroplast', ""n't""]",green,0,0,39
+"['red', 'algal', 'chloroplast', 'green', 'chloroplast', ""n't""]",n't,0,0,39
+"['red', 'algal', 'chloroplast', 'green', 'chloroplast', ""n't""]",red,0,0,39
+"['reduced', 'using', 'plastid', 'transformation', 'gene', 'modification']",gene,0,0,39
+"['reduced', 'using', 'plastid', 'transformation', 'gene', 'modification']",modification,0,0,39
+"['reduced', 'using', 'plastid', 'transformation', 'gene', 'modification']",plastid,0,0,39
+"['reduced', 'using', 'plastid', 'transformation', 'gene', 'modification']",reduced,0,0,39
+"['reduced', 'using', 'plastid', 'transformation', 'gene', 'modification']",transformation,0,0,39
+"['reduced', 'using', 'plastid', 'transformation', 'gene', 'modification']",using,0,0,39
+"['result', 'Calvin', 'cycle']",Calvin,0,0,39
+"['result', 'Calvin', 'cycle']",cycle,0,0,39
+"['result', 'Calvin', 'cycle']",result,0,0,39
+"['retrograde', 'signaling']",retrograde,0,0,39
+"['retrograde', 'signaling']",signaling,0,0,39
+"['rhodophyte', 'mean']",mean,0,0,39
+"['rhodophyte', 'mean']",rhodophyte,0,0,39
+"['rhodoplasts', 'phycobilin', 'pigment', 'combined']",combined,0,0,39
+"['rhodoplasts', 'phycobilin', 'pigment', 'combined']",phycobilin,0,0,39
+"['rhodoplasts', 'phycobilin', 'pigment', 'combined']",pigment,0,0,39
+"['rhodoplasts', 'phycobilin', 'pigment', 'combined']",rhodoplasts,0,0,39
+"['root', 'problem', 'cause', 'starch', 'buildup']",buildup,0,0,39
+"['root', 'problem', 'cause', 'starch', 'buildup']",cause,0,0,39
+"['root', 'problem', 'cause', 'starch', 'buildup']",problem,0,0,39
+"['root', 'problem', 'cause', 'starch', 'buildup']",root,0,0,39
+"['root', 'problem', 'cause', 'starch', 'buildup']",starch,0,0,39
+"['rubisco', 'flaw']",flaw,0,0,39
+"['rubisco', 'flaw']",rubisco,0,0,39
+"['rubisco', 'mistake']",mistake,0,0,39
+"['rubisco', 'mistake']",rubisco,0,0,39
+"['said', 'chloroplast', 'similar', 'cyanobacteria']",chloroplast,0,0,39
+"['said', 'chloroplast', 'similar', 'cyanobacteria']",cyanobacteria,0,0,39
+"['said', 'chloroplast', 'similar', 'cyanobacteria']",said,0,0,39
+"['said', 'chloroplast', 'similar', 'cyanobacteria']",similar,0,0,39
+"['secondary', 'endosymbiotic', 'event']",endosymbiotic,0,0,39
+"['secondary', 'endosymbiotic', 'event']",event,0,0,39
+"['secondary', 'endosymbiotic', 'event']",secondary,0,0,39
+"['secondary', 'theory', 'say', 'cpDNA', 'replicates']",cpDNA,0,0,39
+"['secondary', 'theory', 'say', 'cpDNA', 'replicates']",replicates,0,0,39
+"['secondary', 'theory', 'say', 'cpDNA', 'replicates']",say,0,0,39
+"['secondary', 'theory', 'say', 'cpDNA', 'replicates']",secondary,0,0,39
+"['secondary', 'theory', 'say', 'cpDNA', 'replicates']",theory,0,0,39
+"['secondary', 'theory', 'say', 'cpDNA', 'structured']",cpDNA,0,0,39
+"['secondary', 'theory', 'say', 'cpDNA', 'structured']",say,0,0,39
+"['secondary', 'theory', 'say', 'cpDNA', 'structured']",secondary,0,0,39
+"['secondary', 'theory', 'say', 'cpDNA', 'structured']",structured,0,0,39
+"['secondary', 'theory', 'say', 'cpDNA', 'structured']",theory,0,0,39
+"['secondary', 'theory', 'say', 'gene', 'kept']",gene,0,0,39
+"['secondary', 'theory', 'say', 'gene', 'kept']",kept,0,0,39
+"['secondary', 'theory', 'say', 'gene', 'kept']",say,0,0,39
+"['secondary', 'theory', 'say', 'gene', 'kept']",secondary,0,0,39
+"['secondary', 'theory', 'say', 'gene', 'kept']",theory,0,0,39
+"['seldom', 'mutates']",mutates,0,0,39
+"['seldom', 'mutates']",seldom,0,0,39
+"['sequenced', 'first', 'plastome']",first,0,0,39
+"['sequenced', 'first', 'plastome']",plastome,0,0,39
+"['sequenced', 'first', 'plastome']",sequenced,0,0,39
+"['shape', 'Chlamydomonas', 'chloroplast']",Chlamydomonas,0,0,39
+"['shape', 'Chlamydomonas', 'chloroplast']",chloroplast,0,0,39
+"['shape', 'Chlamydomonas', 'chloroplast']",shape,0,0,39
+"['shape', 'Oedogonium', 'chloroplast']",Oedogonium,0,0,39
+"['shape', 'Oedogonium', 'chloroplast']",chloroplast,0,0,39
+"['shape', 'Oedogonium', 'chloroplast']",shape,0,0,39
+"['shape', 'Plastoglobuli']",Plastoglobuli,0,0,39
+"['shape', 'Plastoglobuli']",shape,0,0,39
+"['shape', 'granal', 'thylakoids']",granal,0,0,39
+"['shape', 'granal', 'thylakoids']",shape,0,0,39
+"['shape', 'granal', 'thylakoids']",thylakoids,0,0,39
+"['shape', 'pyrenoids']",pyrenoids,0,0,39
+"['shape', 'pyrenoids']",shape,0,0,39
+"['shine-dalgarno', 'sequence', 'recognition', 'important']",important,0,0,39
+"['shine-dalgarno', 'sequence', 'recognition', 'important']",recognition,0,0,39
+"['shine-dalgarno', 'sequence', 'recognition', 'important']",sequence,0,0,39
+"['shine-dalgarno', 'sequence', 'recognition', 'important']",shine-dalgarno,0,0,39
+"['show', 'u', 'lost', 'chloroplast']",chloroplast,0,0,39
+"['show', 'u', 'lost', 'chloroplast']",lost,0,0,39
+"['show', 'u', 'lost', 'chloroplast']",show,0,0,39
+"['show', 'u', 'lost', 'chloroplast']",u,0,0,39
+"['single', 'Plastoglobuli', 'called']",Plastoglobuli,0,0,39
+"['single', 'Plastoglobuli', 'called']",called,0,0,39
+"['single', 'Plastoglobuli', 'called']",single,0,0,39
+"['sometimes', 'always', 'counted', 'regarding', 'Durinskia', 'chloroplast', 'membrane']",Durinskia,0,0,39
+"['sometimes', 'always', 'counted', 'regarding', 'Durinskia', 'chloroplast', 'membrane']",always,0,0,39
+"['sometimes', 'always', 'counted', 'regarding', 'Durinskia', 'chloroplast', 'membrane']",chloroplast,0,0,39
+"['sometimes', 'always', 'counted', 'regarding', 'Durinskia', 'chloroplast', 'membrane']",counted,0,0,39
+"['sometimes', 'always', 'counted', 'regarding', 'Durinskia', 'chloroplast', 'membrane']",membrane,0,0,39
+"['sometimes', 'always', 'counted', 'regarding', 'Durinskia', 'chloroplast', 'membrane']",regarding,0,0,39
+"['sometimes', 'always', 'counted', 'regarding', 'Durinskia', 'chloroplast', 'membrane']",sometimes,0,0,39
+"['sometimes', 'follows', 'moving', 'chloroplast']",chloroplast,0,0,39
+"['sometimes', 'follows', 'moving', 'chloroplast']",follows,0,0,39
+"['sometimes', 'follows', 'moving', 'chloroplast']",moving,0,0,39
+"['sometimes', 'follows', 'moving', 'chloroplast']",sometimes,0,0,39
+"['sometimes', 'used', 'interchangeably', ""'plastids""]",'plastids,0,0,39
+"['sometimes', 'used', 'interchangeably', ""'plastids""]",interchangeably,0,0,39
+"['sometimes', 'used', 'interchangeably', ""'plastids""]",sometimes,0,0,39
+"['sometimes', 'used', 'interchangeably', ""'plastids""]",used,0,0,39
+"['status', 'chloroplast', 'gene', 'mitochondrion']",chloroplast,0,0,39
+"['status', 'chloroplast', 'gene', 'mitochondrion']",gene,0,0,39
+"['status', 'chloroplast', 'gene', 'mitochondrion']",mitochondrion,0,0,39
+"['status', 'chloroplast', 'gene', 'mitochondrion']",status,0,0,39
+['stromule'],stromule,0,0,39
+"['stromules', 'discovered']",discovered,0,0,39
+"['stromules', 'discovered']",stromules,0,0,39
+"['stromules', 'exist']",exist,0,0,39
+"['stromules', 'exist']",stromules,0,0,39
+"['surround', 'Plastoglobuli']",Plastoglobuli,0,0,39
+"['surround', 'Plastoglobuli']",surround,0,0,39
+"['surround', 'chloroplast']",chloroplast,0,0,39
+"['surround', 'chloroplast']",surround,0,0,39
+"['synonym', 'chloroplast', 'DNA']",DNA,0,0,39
+"['synonym', 'chloroplast', 'DNA']",chloroplast,0,0,39
+"['synonym', 'chloroplast', 'DNA']",synonym,0,0,39
+"['systemic', 'acquired', 'resistance', 'response', 'plant', 'immune', 'system']",acquired,0,0,39
+"['systemic', 'acquired', 'resistance', 'response', 'plant', 'immune', 'system']",immune,0,0,39
+"['systemic', 'acquired', 'resistance', 'response', 'plant', 'immune', 'system']",plant,0,0,39
+"['systemic', 'acquired', 'resistance', 'response', 'plant', 'immune', 'system']",resistance,0,0,39
+"['systemic', 'acquired', 'resistance', 'response', 'plant', 'immune', 'system']",response,0,0,39
+"['systemic', 'acquired', 'resistance', 'response', 'plant', 'immune', 'system']",system,0,0,39
+"['systemic', 'acquired', 'resistance', 'response', 'plant', 'immune', 'system']",systemic,0,0,39
+"['tertiary', 'endosymbiosis', 'haptophyte', 'chloroplast', 'expected', 'create']",chloroplast,0,0,39
+"['tertiary', 'endosymbiosis', 'haptophyte', 'chloroplast', 'expected', 'create']",create,0,0,39
+"['tertiary', 'endosymbiosis', 'haptophyte', 'chloroplast', 'expected', 'create']",endosymbiosis,0,0,39
+"['tertiary', 'endosymbiosis', 'haptophyte', 'chloroplast', 'expected', 'create']",expected,0,0,39
+"['tertiary', 'endosymbiosis', 'haptophyte', 'chloroplast', 'expected', 'create']",haptophyte,0,0,39
+"['tertiary', 'endosymbiosis', 'haptophyte', 'chloroplast', 'expected', 'create']",tertiary,0,0,39
+"['thick', 'chloroplast', 'land', 'plant']",chloroplast,0,0,39
+"['thick', 'chloroplast', 'land', 'plant']",land,0,0,39
+"['thick', 'chloroplast', 'land', 'plant']",plant,0,0,39
+"['thick', 'chloroplast', 'land', 'plant']",thick,0,0,39
+"['thylakoid', 'membrane', 'use', 'energized', 'electron']",electron,0,0,39
+"['thylakoid', 'membrane', 'use', 'energized', 'electron']",energized,0,0,39
+"['thylakoid', 'membrane', 'use', 'energized', 'electron']",membrane,0,0,39
+"['thylakoid', 'membrane', 'use', 'energized', 'electron']",thylakoid,0,0,39
+"['thylakoid', 'membrane', 'use', 'energized', 'electron']",use,0,0,39
+"['transport', 'vesicle', 'move']",move,0,0,39
+"['transport', 'vesicle', 'move']",transport,0,0,39
+"['transport', 'vesicle', 'move']",vesicle,0,0,39
+"['turning', 'sideways', 'protect', 'chloroplast']",chloroplast,0,0,39
+"['turning', 'sideways', 'protect', 'chloroplast']",protect,0,0,39
+"['turning', 'sideways', 'protect', 'chloroplast']",sideways,0,0,39
+"['turning', 'sideways', 'protect', 'chloroplast']",turning,0,0,39
+"['type', 'organism', 'cyanobacteria']",cyanobacteria,0,0,39
+"['type', 'organism', 'cyanobacteria']",organism,0,0,39
+"['type', 'organism', 'cyanobacteria']",type,0,0,39
+"['type', 'thylakoids']",thylakoids,0,0,39
+"['type', 'thylakoids']",type,0,0,39
+"['unstable', '6-carbon', 'molecule', 'become']",6-carbon,0,0,39
+"['unstable', '6-carbon', 'molecule', 'become']",become,0,0,39
+"['unstable', '6-carbon', 'molecule', 'become']",molecule,0,0,39
+"['unstable', '6-carbon', 'molecule', 'become']",unstable,0,0,39
+"['unsure', 'chloroplast', 'make', 'methionine', 'precursor']",chloroplast,0,0,39
+"['unsure', 'chloroplast', 'make', 'methionine', 'precursor']",make,0,0,39
+"['unsure', 'chloroplast', 'make', 'methionine', 'precursor']",methionine,0,0,39
+"['unsure', 'chloroplast', 'make', 'methionine', 'precursor']",precursor,0,0,39
+"['unsure', 'chloroplast', 'make', 'methionine', 'precursor']",unsure,0,0,39
+"['unusual', 'C4', 'plant', 'chloroplast']",C4,0,0,39
+"['unusual', 'C4', 'plant', 'chloroplast']",chloroplast,0,0,39
+"['unusual', 'C4', 'plant', 'chloroplast']",plant,0,0,39
+"['unusual', 'C4', 'plant', 'chloroplast']",unusual,0,0,39
+"['using', 'O2', 'instead', 'CO2', 'le', 'efficient']",CO2,0,0,39
+"['using', 'O2', 'instead', 'CO2', 'le', 'efficient']",O2,0,0,39
+"['using', 'O2', 'instead', 'CO2', 'le', 'efficient']",efficient,0,0,39
+"['using', 'O2', 'instead', 'CO2', 'le', 'efficient']",instead,0,0,39
+"['using', 'O2', 'instead', 'CO2', 'le', 'efficient']",le,0,0,39
+"['using', 'O2', 'instead', 'CO2', 'le', 'efficient']",using,0,0,39
+"['usually', 'take', 'reenergized', 'electron']",electron,0,0,39
+"['usually', 'take', 'reenergized', 'electron']",reenergized,0,0,39
+"['usually', 'take', 'reenergized', 'electron']",take,0,0,39
+"['usually', 'take', 'reenergized', 'electron']",usually,0,0,39
+"['wasted', 'rubisco', 'flaw']",flaw,0,0,39
+"['wasted', 'rubisco', 'flaw']",rubisco,0,0,39
+"['wasted', 'rubisco', 'flaw']",wasted,0,0,39

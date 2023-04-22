@@ -1,0 +1,329 @@
+0,1,2,3,4
+"['199', 'university', 'connected']",199,0,0,19
+"['199', 'university', 'connected']",connected,0,0,19
+"['199', 'university', 'connected']",university,0,0,19
+"['2', 'difference', 'betwen', 'X.25', 'ARPNET', 'CITA', 'technology']",2,0,0,19
+"['2', 'difference', 'betwen', 'X.25', 'ARPNET', 'CITA', 'technology']",ARPNET,0,0,19
+"['2', 'difference', 'betwen', 'X.25', 'ARPNET', 'CITA', 'technology']",CITA,0,0,19
+"['2', 'difference', 'betwen', 'X.25', 'ARPNET', 'CITA', 'technology']",X.25,0,0,19
+"['2', 'difference', 'betwen', 'X.25', 'ARPNET', 'CITA', 'technology']",betwen,0,0,19
+"['2', 'difference', 'betwen', 'X.25', 'ARPNET', 'CITA', 'technology']",difference,0,0,19
+"['2', 'difference', 'betwen', 'X.25', 'ARPNET', 'CITA', 'technology']",technology,0,0,19
+"['3', 'thing', 'Air', 'Force', 'work', 'key']",3,0,0,19
+"['3', 'thing', 'Air', 'Force', 'work', 'key']",Air,0,0,19
+"['3', 'thing', 'Air', 'Force', 'work', 'key']",Force,0,0,19
+"['3', 'thing', 'Air', 'Force', 'work', 'key']",key,0,0,19
+"['3', 'thing', 'Air', 'Force', 'work', 'key']",thing,0,0,19
+"['3', 'thing', 'Air', 'Force', 'work', 'key']",work,0,0,19
+"['4', 'sale', 'service', 'center', 'viewed']",4,0,0,19
+"['4', 'sale', 'service', 'center', 'viewed']",center,0,0,19
+"['4', 'sale', 'service', 'center', 'viewed']",sale,0,0,19
+"['4', 'sale', 'service', 'center', 'viewed']",service,0,0,19
+"['4', 'sale', 'service', 'center', 'viewed']",viewed,0,0,19
+"['AUSTPAC', 'connection', 'made']",AUSTPAC,0,0,19
+"['AUSTPAC', 'connection', 'made']",connection,0,0,19
+"['AUSTPAC', 'connection', 'made']",made,0,0,19
+"['AUSTPAC', 'support']",AUSTPAC,0,0,19
+"['AUSTPAC', 'support']",support,0,0,19
+['AUSTPAC'],AUSTPAC,0,0,19
+"['Air', 'force', 'message', 'delivered']",Air,0,0,19
+"['Air', 'force', 'message', 'delivered']",delivered,0,0,19
+"['Air', 'force', 'message', 'delivered']",force,0,0,19
+"['Air', 'force', 'message', 'delivered']",message,0,0,19
+"['Apple', 'Talk']",Apple,0,0,19
+"['Apple', 'Talk']",Talk,0,0,19
+"['Apple', 'system', 'assign', 'automatically']",Apple,0,0,19
+"['Apple', 'system', 'assign', 'automatically']",assign,0,0,19
+"['Apple', 'system', 'assign', 'automatically']",automatically,0,0,19
+"['Apple', 'system', 'assign', 'automatically']",system,0,0,19
+"['Baran', 'develop', 'research', 'RAND']",Baran,0,0,19
+"['Baran', 'develop', 'research', 'RAND']",RAND,0,0,19
+"['Baran', 'develop', 'research', 'RAND']",develop,0,0,19
+"['Baran', 'develop', 'research', 'RAND']",research,0,0,19
+['CSNET'],CSNET,0,0,19
+"['DATANET', '1']",1,0,0,19
+"['DATANET', '1']",DATANET,0,0,19
+"['DEC', 'originally', '3', 'layer', 'evolved', 'layer']",3,0,0,19
+"['DEC', 'originally', '3', 'layer', 'evolved', 'layer']",DEC,0,0,19
+"['DEC', 'originally', '3', 'layer', 'evolved', 'layer']",evolved,0,0,19
+"['DEC', 'originally', '3', 'layer', 'evolved', 'layer']",layer,0,0,19
+"['DEC', 'originally', '3', 'layer', 'evolved', 'layer']",originally,0,0,19
+"['DECnet', 'originally']",DECnet,0,0,19
+"['DECnet', 'originally']",originally,0,0,19
+"['DECnet', 'phase', '2', 'become']",2,0,0,19
+"['DECnet', 'phase', '2', 'become']",DECnet,0,0,19
+"['DECnet', 'phase', '2', 'become']",become,0,0,19
+"['DECnet', 'phase', '2', 'become']",phase,0,0,19
+['DECnet'],DECnet,0,0,19
+"['Davies', 'call', 'System']",Davies,0,0,19
+"['Davies', 'call', 'System']",System,0,0,19
+"['Davies', 'call', 'System']",call,0,0,19
+"['Davies', 'call', 'system']",Davies,0,0,19
+"['Davies', 'call', 'system']",call,0,0,19
+"['Davies', 'call', 'system']",system,0,0,19
+"['Davies', 'want', 'build']",Davies,0,0,19
+"['Davies', 'want', 'build']",build,0,0,19
+"['Davies', 'want', 'build']",want,0,0,19
+"['Distributed', 'Adaptive', 'Message', 'Block', 'Switching']",Adaptive,0,0,19
+"['Distributed', 'Adaptive', 'Message', 'Block', 'Switching']",Block,0,0,19
+"['Distributed', 'Adaptive', 'Message', 'Block', 'Switching']",Distributed,0,0,19
+"['Distributed', 'Adaptive', 'Message', 'Block', 'Switching']",Message,0.634664465,8,19
+"['Distributed', 'Adaptive', 'Message', 'Block', 'Switching']",Switching,0,0,19
+"['Donald', 'Davies', 'Develop']",Davies,0,0,19
+"['Donald', 'Davies', 'Develop']",Develop,0,0,19
+"['Donald', 'Davies', 'Develop']",Donald,0,0,19
+"['Donald', 'Davies', 'credited']",Davies,0,0,19
+"['Donald', 'Davies', 'credited']",Donald,0,0,19
+"['Donald', 'Davies', 'credited']",credited,0,0,19
+"['Funding', 'limitation', 'allowed', 'CSNET']",CSNET,0,0,19
+"['Funding', 'limitation', 'allowed', 'CSNET']",Funding,0,0,19
+"['Funding', 'limitation', 'allowed', 'CSNET']",allowed,0,0,19
+"['Funding', 'limitation', 'allowed', 'CSNET']",limitation,0,0,19
+"['Gateways', 'allowed', 'private', 'company']",Gateways,0,0,19
+"['Gateways', 'allowed', 'private', 'company']",allowed,0,0,19
+"['Gateways', 'allowed', 'private', 'company']",company,0,0,19
+"['Gateways', 'allowed', 'private', 'company']",private,0,0,19
+['Internet2'],Internet2,0,0,19
+"['Is', 'packet', 'header', 'long']",Is,0,0,19
+"['Is', 'packet', 'header', 'long']",header,0,0,19
+"['Is', 'packet', 'header', 'long']",long,0,0,19
+"['Is', 'packet', 'header', 'long']",packet,0,0,19
+"['NSFNET', 'eventually', 'provide']",NSFNET,0,0,19
+"['NSFNET', 'eventually', 'provide']",eventually,0,0,19
+"['NSFNET', 'eventually', 'provide']",provide,0,0,19
+"['NSFNET', 'promote']",NSFNET,0,0,19
+"['NSFNET', 'promote']",promote,0,0,19
+['NSFNET'],NSFNET,0,0,19
+"['Packet', 'Switching', 'contrast', 'principal']",Packet,0,0,19
+"['Packet', 'Switching', 'contrast', 'principal']",Switching,0,0,19
+"['Packet', 'Switching', 'contrast', 'principal']",contrast,0,0,19
+"['Packet', 'Switching', 'contrast', 'principal']",principal,0,0,19
+"['Packet', 'switching', 'contrast']",Packet,0,0,19
+"['Packet', 'switching', 'contrast']",contrast,0,0,19
+"['Packet', 'switching', 'contrast']",switching,0,0,19
+"['Paul', 'Baran', 'develop', 'late', '1950']",1950,0,0,19
+"['Paul', 'Baran', 'develop', 'late', '1950']",Baran,0,0,19
+"['Paul', 'Baran', 'develop', 'late', '1950']",Paul,0,0,19
+"['Paul', 'Baran', 'develop', 'late', '1950']",develop,0,0,19
+"['Paul', 'Baran', 'develop', 'late', '1950']",late,0,0,19
+"['Paul', 'Baran', 'develop']",Baran,0,0,19
+"['Paul', 'Baran', 'develop']",Paul,0,0,19
+"['Paul', 'Baran', 'develop']",develop,0,0,19
+"['Purpose', 'Telnet']",Purpose,0,0,19
+"['Purpose', 'Telnet']",Telnet,0,0,19
+"['Strictly', 'speaking', 'included', 'DATANET', '1']",1,0,0,19
+"['Strictly', 'speaking', 'included', 'DATANET', '1']",DATANET,0,0,19
+"['Strictly', 'speaking', 'included', 'DATANET', '1']",Strictly,0,0,19
+"['Strictly', 'speaking', 'included', 'DATANET', '1']",included,0,0,19
+"['Strictly', 'speaking', 'included', 'DATANET', '1']",speaking,0,0,19
+"['Telnet', 'Used', 'Interface', 'technology']",Interface,0,0,19
+"['Telnet', 'Used', 'Interface', 'technology']",Telnet,0,0,19
+"['Telnet', 'Used', 'Interface', 'technology']",Used,0,0,19
+"['Telnet', 'Used', 'Interface', 'technology']",technology,0,0,19
+"['Telnet', 'sold']",Telnet,0,0,19
+"['Telnet', 'sold']",sold,0,0,19
+"['Tymnet', 'connect']",Tymnet,0,0,19
+"['Tymnet', 'connect']",connect,0,0,19
+['Tymnet'],Tymnet,0,0,19
+"['WHat', 'UserDatagram', 'Protocol', 'gaurentee']",Protocol,0,0,19
+"['WHat', 'UserDatagram', 'Protocol', 'gaurentee']",UserDatagram,0,0,19
+"['WHat', 'UserDatagram', 'Protocol', 'gaurentee']",WHat,0,0,19
+"['WHat', 'UserDatagram', 'Protocol', 'gaurentee']",gaurentee,0,0,19
+"['WHat', 'feature', 'Apple', 'Talk']",Apple,0,0,19
+"['WHat', 'feature', 'Apple', 'Talk']",Talk,0,0,19
+"['WHat', 'feature', 'Apple', 'Talk']",WHat,0,0,19
+"['WHat', 'feature', 'Apple', 'Talk']",feature,0,0,19
+"['WHat', 'foreign', 'clone', 'DATAPAC', 'allow']",DATAPAC,0,0,19
+"['WHat', 'foreign', 'clone', 'DATAPAC', 'allow']",WHat,0,0,19
+"['WHat', 'foreign', 'clone', 'DATAPAC', 'allow']",allow,0,0,19
+"['WHat', 'foreign', 'clone', 'DATAPAC', 'allow']",clone,0,0,19
+"['WHat', 'foreign', 'clone', 'DATAPAC', 'allow']",foreign,0,0,19
+"['WHat', 'x.25', 'Frame', 'Relay', 'require']",Frame,0,0,19
+"['WHat', 'x.25', 'Frame', 'Relay', 'require']",Relay,0,0,19
+"['WHat', 'x.25', 'Frame', 'Relay', 'require']",WHat,0,0,19
+"['WHat', 'x.25', 'Frame', 'Relay', 'require']",require,0,0,19
+"['WHat', 'x.25', 'Frame', 'Relay', 'require']",x.25,0,0,19
+"['WHen', 'ARPNET', 'SITA', 'become', 'operational']",ARPNET,0,0,19
+"['WHen', 'ARPNET', 'SITA', 'become', 'operational']",SITA,0,0,19
+"['WHen', 'ARPNET', 'SITA', 'become', 'operational']",WHen,0,0,19
+"['WHen', 'ARPNET', 'SITA', 'become', 'operational']",become,0,0,19
+"['WHen', 'ARPNET', 'SITA', 'become', 'operational']",operational,0,0,19
+"['WHy', 'Merit', 'network', 'formed', 'Michigan']",Merit,0,0,19
+"['WHy', 'Merit', 'network', 'formed', 'Michigan']",Michigan,0,0,19
+"['WHy', 'Merit', 'network', 'formed', 'Michigan']",WHy,0,0,19
+"['WHy', 'Merit', 'network', 'formed', 'Michigan']",formed,0,0,19
+"['WHy', 'Merit', 'network', 'formed', 'Michigan']",network,0,0,19
+"['Warner', 'Sinback', 'decide']",Sinback,0,0,19
+"['Warner', 'Sinback', 'decide']",Warner,0,0,19
+"['Warner', 'Sinback', 'decide']",decide,0,0,19
+"['Warner', 'Sinback']",Sinback,0,0,19
+"['Warner', 'Sinback']",Warner,0,0,19
+"['Was', 'Use', 'DATANET', '1', 'name', 'correct']",1,0,0,19
+"['Was', 'Use', 'DATANET', '1', 'name', 'correct']",DATANET,0,0,19
+"['Was', 'Use', 'DATANET', '1', 'name', 'correct']",Use,0,0,19
+"['Was', 'Use', 'DATANET', '1', 'name', 'correct']",Was,0,0,19
+"['Was', 'Use', 'DATANET', '1', 'name', 'correct']",correct,0,0,19
+"['Was', 'Use', 'DATANET', '1', 'name', 'correct']",name,0,0,19
+"['Were', 'center', 'profitable']",Were,0,0,19
+"['Were', 'center', 'profitable']",center,0,0,19
+"['Were', 'center', 'profitable']",profitable,0,0,19
+"['X.25', 'Frame', 'relay', 'used']",Frame,0,0,19
+"['X.25', 'Frame', 'relay', 'used']",X.25,0,0,19
+"['X.25', 'Frame', 'relay', 'used']",relay,0,0,19
+"['X.25', 'Frame', 'relay', 'used']",used,0,0,19
+"['X.25', 'us', 'type', 'network', 'type']",X.25,0,0,19
+"['X.25', 'us', 'type', 'network', 'type']",network,0,0,19
+"['X.25', 'us', 'type', 'network', 'type']",type,0,0,19
+"['X.25', 'us', 'type', 'network', 'type']",us,0,0,19
+"['ableine', 'retired', 'new', 'platform', 'called']",ableine,0,0,19
+"['ableine', 'retired', 'new', 'platform', 'called']",called,0,0,19
+"['ableine', 'retired', 'new', 'platform', 'called']",new,0,0,19
+"['ableine', 'retired', 'new', 'platform', 'called']",platform,0,0,19
+"['ableine', 'retired', 'new', 'platform', 'called']",retired,0,0,19
+"['business', 'allowed', 'private', 'company']",allowed,0,0,19
+"['business', 'allowed', 'private', 'company']",business,0,0,19
+"['business', 'allowed', 'private', 'company']",company,0,0,19
+"['business', 'allowed', 'private', 'company']",private,0,0,19
+"['case', 'shared', 'medium', 'delivered']",case,0,0,19
+"['case', 'shared', 'medium', 'delivered']",delivered,0,0,19
+"['case', 'shared', 'medium', 'delivered']",medium,0,0,19
+"['case', 'shared', 'medium', 'delivered']",shared,0,0,19
+"['case', 'shared', 'physical', 'medium', 'delivered']",case,0,0,19
+"['case', 'shared', 'physical', 'medium', 'delivered']",delivered,0,0,19
+"['case', 'shared', 'physical', 'medium', 'delivered']",medium,0,0,19
+"['case', 'shared', 'physical', 'medium', 'delivered']",physical,0,0,19
+"['case', 'shared', 'physical', 'medium', 'delivered']",shared,0,0,19
+"['circuit', 'switching', 'allocated']",allocated,0,0,19
+"['circuit', 'switching', 'allocated']",circuit,0,0,19
+"['circuit', 'switching', 'allocated']",switching,0,0,19
+"['circuit', 'switching', 'characterized']",characterized,0,0,19
+"['circuit', 'switching', 'characterized']",circuit,0,0,19
+"['circuit', 'switching', 'characterized']",switching,0,0,19
+"['circuit', 'switching', 'charecterized']",charecterized,0,0,19
+"['circuit', 'switching', 'charecterized']",circuit,0,0,19
+"['circuit', 'switching', 'charecterized']",switching,0,0,19
+"['completed', 'triad']",completed,0,0,19
+"['completed', 'triad']",triad,0,0,19
+"['concept', 'contradict']",concept,1.110662814,5,19
+"['concept', 'contradict']",contradict,0,0,19
+"['concept', 'developed', 'Baran', 'researching', 'RAND']",Baran,0,0,19
+"['concept', 'developed', 'Baran', 'researching', 'RAND']",RAND,0,0,19
+"['concept', 'developed', 'Baran', 'researching', 'RAND']",concept,0,0,19
+"['concept', 'developed', 'Baran', 'researching', 'RAND']",developed,0,0,19
+"['concept', 'developed', 'Baran', 'researching', 'RAND']",researching,0,0,19
+"['connection', 'identifier']",connection,0,0,19
+"['connection', 'identifier']",identifier,0,0,19
+"['connection', 'orientation', 'require']",connection,0,0,19
+"['connection', 'orientation', 'require']",orientation,0,0,19
+"['connection', 'orientation', 'require']",require,0,0,19
+"['credited', 'modern', 'name', 'system']",credited,0,0,19
+"['credited', 'modern', 'name', 'system']",modern,0,0,19
+"['credited', 'modern', 'name', 'system']",name,0,0,19
+"['credited', 'modern', 'name', 'system']",system,0,0,19
+"['delivery', 'message', 'used']",delivery,0,0,19
+"['delivery', 'message', 'used']",message,0,0,19
+"['delivery', 'message', 'used']",used,0,0,19
+"['developed', 'Air', 'Force']",Air,0,0,19
+"['developed', 'Air', 'Force']",Force,0,0,19
+"['developed', 'Air', 'Force']",developed,0,0,19
+"['developed', 'DATAPAC']",DATAPAC,0,0,19
+"['developed', 'DATAPAC']",developed,0,0,19
+"['developed', 'technology', 'Baran']",Baran,0,0,19
+"['developed', 'technology', 'Baran']",developed,0,0,19
+"['developed', 'technology', 'Baran']",technology,0,0,19
+"['else', 'DATNET', '1', 'refer']",1,0,0,19
+"['else', 'DATNET', '1', 'refer']",DATNET,0,0,19
+"['else', 'DATNET', '1', 'refer']",else,0,0,19
+"['else', 'DATNET', '1', 'refer']",refer,0,0,19
+"['first', 'internet2', 'network', 'named']",first,0,0,19
+"['first', 'internet2', 'network', 'named']",internet2,0,0,19
+"['first', 'internet2', 'network', 'named']",named,0,0,19
+"['first', 'internet2', 'network', 'named']",network,0,0,19
+"['first', 'network']",first,0,0,19
+"['first', 'network']",network,0,0,19
+"['founded', 'Telnet']",Telnet,0,0,19
+"['founded', 'Telnet']",founded,0,0,19
+"['goal', 'system']",goal,0,0,19
+"['goal', 'system']",system,0,0,19
+"['happens', 'packet', 'destination']",destination,0,0,19
+"['happens', 'packet', 'destination']",happens,0,0,19
+"['happens', 'packet', 'destination']",packet,0,0,19
+"['included', 'packet', 'label']",included,0,0,19
+"['included', 'packet', 'label']",label,0,0,19
+"['included', 'packet', 'label']",packet,0,0,19
+"['internet2', 'partner']",internet2,0,0,19
+"['internet2', 'partner']",partner,0,0,19
+"['network', 'designed', 'french']",designed,0,0,19
+"['network', 'designed', 'french']",french,0,0,19
+"['network', 'designed', 'french']",network,0,0,19
+"['network', 'influenced', 'later', 'model']",influenced,0,0,19
+"['network', 'influenced', 'later', 'model']",later,0,0,19
+"['network', 'influenced', 'later', 'model']",model,0,0,19
+"['network', 'influenced', 'later', 'model']",network,0,0,19
+"['network', 'install', '1999']",1999,0,0,19
+"['network', 'install', '1999']",install,0,0,19
+"['network', 'install', '1999']",network,0,0,19
+"['node', 'requiered', 'look']",look,0,0,19
+"['node', 'requiered', 'look']",node,0,0,19
+"['node', 'requiered', 'look']",requiered,0,0,19
+"['operated', 'vBSN', 'network']",network,0,0,19
+"['operated', 'vBSN', 'network']",operated,0,0,19
+"['operated', 'vBSN', 'network']",vBSN,0,0,19
+"['packet', 'includ', 'connectionless', 'mode']",connectionless,0,0,19
+"['packet', 'includ', 'connectionless', 'mode']",includ,0,0,19
+"['packet', 'includ', 'connectionless', 'mode']",mode,0,0,19
+"['packet', 'includ', 'connectionless', 'mode']",packet,0,0,19
+"['packet', 'mode', 'communication', 'implemented']",communication,0,0,19
+"['packet', 'mode', 'communication', 'implemented']",implemented,0,0,19
+"['packet', 'mode', 'communication', 'implemented']",mode,0,0,19
+"['packet', 'mode', 'communication', 'implemented']",packet,0,0,19
+"['packet', 'normally', 'forwarded']",forwarded,0,0,19
+"['packet', 'normally', 'forwarded']",normally,0,0,19
+"['packet', 'normally', 'forwarded']",packet,0,0,19
+"['packet', 'routed']",packet,0,0,19
+"['packet', 'routed']",routed,0,0,19
+"['packet', 'switching', 'characterized']",characterized,0,0,19
+"['packet', 'switching', 'characterized']",packet,0,0,19
+"['packet', 'switching', 'characterized']",switching,0,0,19
+"['packet', 'switching', 'charecterized']",charecterized,0,0,19
+"['packet', 'switching', 'charecterized']",packet,0,0,19
+"['packet', 'switching', 'charecterized']",switching,0,0,19
+['possible'],possible,0,0,19
+"['purpose', 'CSNET']",CSNET,0,0,19
+"['purpose', 'CSNET']",purpose,0,0,19
+"['report', 'P-2626']",P-2626,0,0,19
+"['report', 'P-2626']",report,0,0,19
+"['set', 'stage', 'Merits', 'role', 'NSFNET']",Merits,0,0,19
+"['set', 'stage', 'Merits', 'role', 'NSFNET']",NSFNET,0,0,19
+"['set', 'stage', 'Merits', 'role', 'NSFNET']",role,0,0,19
+"['set', 'stage', 'Merits', 'role', 'NSFNET']",set,0,0,19
+"['set', 'stage', 'Merits', 'role', 'NSFNET']",stage,0,0,19
+"['suggested', 'Symposium', '1967']",1967,0,0,19
+"['suggested', 'Symposium', '1967']",Symposium,0,0,19
+"['suggested', 'Symposium', '1967']",suggested,0,0,19
+"['supplanted', 'Frame', 'Relay', 'X.25']",Frame,0,0,19
+"['supplanted', 'Frame', 'Relay', 'X.25']",Relay,0,0,19
+"['supplanted', 'Frame', 'Relay', 'X.25']",X.25,0,0,19
+"['supplanted', 'Frame', 'Relay', 'X.25']",supplanted,0,0,19
+['telenet'],telenet,0,0,19
+"['thing', 'network', 'concentrate']",concentrate,0,0,19
+"['thing', 'network', 'concentrate']",network,0,0,19
+"['thing', 'network', 'concentrate']",thing,0,0,19
+"['type', 'X.25', 'network', 'originally']",X.25,0,0,19
+"['type', 'X.25', 'network', 'originally']",network,0,0,19
+"['type', 'X.25', 'network', 'originally']",originally,0,0,19
+"['type', 'X.25', 'network', 'originally']",type,0,0,19
+"['type', 'system', 'known']",known,0,0,19
+"['type', 'system', 'known']",system,0,0,19
+"['type', 'system', 'known']",type,0,0,19
+"['typical', 'configuration']",configuration,0,0,19
+"['typical', 'configuration']",typical,0,0,19
+"['use', 'suggested', 'system']",suggested,0,0,19
+"['use', 'suggested', 'system']",system,0,0,19
+"['use', 'suggested', 'system']",use,0,0,19
+"['user', 'Tymnet', 'connect']",Tymnet,0,0,19
+"['user', 'Tymnet', 'connect']",connect,0,0,19
+"['user', 'Tymnet', 'connect']",user,0,0,19
+"['vBNS', 'stand']",stand,0,0,19
+"['vBNS', 'stand']",vBNS,0,0,19
+['vBNS'],vBNS,0,0,19

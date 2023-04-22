@@ -1,0 +1,510 @@
+0,1,2,3,4
+"[""'grey"", 'literature']",'grey,0,0,38
+"[""'grey"", 'literature']",literature,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', '2001-2006']",2001,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', '2001-2006']",2001-2006,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', '2001-2006']",IPCC,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', '2001-2006']",compare,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', '2001-2006']",reality,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', '2001-2006']",report,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', 'sea', 'level']",2001,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', 'sea', 'level']",IPCC,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', 'sea', 'level']",compare,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', 'sea', 'level']",level,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', 'sea', 'level']",reality,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', 'sea', 'level']",report,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', 'sea', 'level']",sea,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', 'temperature', 'level']",2001,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', 'temperature', 'level']",IPCC,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', 'temperature', 'level']",compare,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', 'temperature', 'level']",level,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', 'temperature', 'level']",reality,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', 'temperature', 'level']",report,0,0,38
+"['2001', 'IPCC', 'report', 'compare', 'reality', 'temperature', 'level']",temperature,0,0,38
+"['2011', 'Special', 'Reports', 'issued']",2011,0,0,38
+"['2011', 'Special', 'Reports', 'issued']",Reports,0,0,38
+"['2011', 'Special', 'Reports', 'issued']",Special,0,0,38
+"['2011', 'Special', 'Reports', 'issued']",issued,0,0,38
+"['Barton', 'Whitfield', 'demand', 'climate', 'research', 'record']",Barton,0,0,38
+"['Barton', 'Whitfield', 'demand', 'climate', 'research', 'record']",Whitfield,0,0,38
+"['Barton', 'Whitfield', 'demand', 'climate', 'research', 'record']",climate,0,0,38
+"['Barton', 'Whitfield', 'demand', 'climate', 'research', 'record']",demand,0,0,38
+"['Barton', 'Whitfield', 'demand', 'climate', 'research', 'record']",record,0,0,38
+"['Barton', 'Whitfield', 'demand', 'climate', 'research', 'record']",research,0,0,38
+"['Chairman', 'Subcommittee', 'Oversight', 'Investigations']",Chairman,0,0,38
+"['Chairman', 'Subcommittee', 'Oversight', 'Investigations']",Investigations,0,0,38
+"['Chairman', 'Subcommittee', 'Oversight', 'Investigations']",Oversight,0,0,38
+"['Chairman', 'Subcommittee', 'Oversight', 'Investigations']",Subcommittee,0,0,38
+"['Feb', '2010', 'call', 'change', 'published']",2010,0,0,38
+"['Feb', '2010', 'call', 'change', 'published']",Feb,0,0,38
+"['Feb', '2010', 'call', 'change', 'published']",call,0,0,38
+"['Feb', '2010', 'call', 'change', 'published']",change,0,0,38
+"['Feb', '2010', 'call', 'change', 'published']",published,0,0,38
+"['Houghton', 'role']",Houghton,0,0,38
+"['Houghton', 'role']",role,0,0,38
+"['Houghton', 'say', 'necessary', 'change', 'SPM']",Houghton,0,0,38
+"['Houghton', 'say', 'necessary', 'change', 'SPM']",SPM,0,0,38
+"['Houghton', 'say', 'necessary', 'change', 'SPM']",change,0,0,38
+"['Houghton', 'say', 'necessary', 'change', 'SPM']",necessary,0,0,38
+"['Houghton', 'say', 'necessary', 'change', 'SPM']",say,0,0,38
+"['IPCC', 'Fourth', 'Assessment', 'Report', 'published']",Assessment,0,0,38
+"['IPCC', 'Fourth', 'Assessment', 'Report', 'published']",Fourth,0,0,38
+"['IPCC', 'Fourth', 'Assessment', 'Report', 'published']",IPCC,0,0,38
+"['IPCC', 'Fourth', 'Assessment', 'Report', 'published']",Report,0,0,38
+"['IPCC', 'Fourth', 'Assessment', 'Report', 'published']",published,0,0,38
+"['IPCC', 'Panel']",IPCC,0,0,38
+"['IPCC', 'Panel']",Panel,0,0,38
+"['IPCC', 'Third', 'Assessment', 'Report', 'published']",Assessment,0,0,38
+"['IPCC', 'Third', 'Assessment', 'Report', 'published']",IPCC,0,0,38
+"['IPCC', 'Third', 'Assessment', 'Report', 'published']",Report,0,0,38
+"['IPCC', 'Third', 'Assessment', 'Report', 'published']",Third,0,0,38
+"['IPCC', 'Third', 'Assessment', 'Report', 'published']",published,0,0,38
+"['IPCC', 'Trust', 'Fund', 'founded']",Fund,0,0,38
+"['IPCC', 'Trust', 'Fund', 'founded']",IPCC,0,0,38
+"['IPCC', 'Trust', 'Fund', 'founded']",Trust,0,0,38
+"['IPCC', 'Trust', 'Fund', 'founded']",founded,0,0,38
+"['IPCC', 'apologize']",IPCC,0,0,38
+"['IPCC', 'apologize']",apologize,0,0,38
+"['IPCC', 'author', 'criticized', 'TAR']",IPCC,0,0,38
+"['IPCC', 'author', 'criticized', 'TAR']",TAR,0,0,38
+"['IPCC', 'author', 'criticized', 'TAR']",author,0,0,38
+"['IPCC', 'author', 'criticized', 'TAR']",criticized,0,0,38
+"['IPCC', 'prepare', 'Special', 'Reports']",IPCC,0,0,38
+"['IPCC', 'prepare', 'Special', 'Reports']",Reports,0,0,38
+"['IPCC', 'prepare', 'Special', 'Reports']",Special,0,0,38
+"['IPCC', 'prepare', 'Special', 'Reports']",prepare,0,0,38
+"['IPCC', 'rely', 'research']",IPCC,0,0,38
+"['IPCC', 'rely', 'research']",rely,0,0,38
+"['IPCC', 'rely', 'research']",research,0,0,38
+"['IPCC', 'report', 'deadline', 'cause', 'omitted']",IPCC,0,0,38
+"['IPCC', 'report', 'deadline', 'cause', 'omitted']",cause,0,0,38
+"['IPCC', 'report', 'deadline', 'cause', 'omitted']",deadline,0,0,38
+"['IPCC', 'report', 'deadline', 'cause', 'omitted']",omitted,0,0,38
+"['IPCC', 'report', 'deadline', 'cause', 'omitted']",report,0,0,38
+"['IPCC', 'report', 'get', 'information']",IPCC,0,0,38
+"['IPCC', 'report', 'get', 'information']",get,0,0,38
+"['IPCC', 'report', 'get', 'information']",information,0,0,38
+"['IPCC', 'report', 'get', 'information']",report,0,0,38
+"['IPCC', 'say', 'mistaken']",IPCC,0,0,38
+"['IPCC', 'say', 'mistaken']",mistaken,0,0,38
+"['IPCC', 'say', 'mistaken']",say,0,0,38
+['IPCC'],IPCC,0,0,38
+"['Kyoto', 'Protocol', 'try', 'address']",Kyoto,0,0,38
+"['Kyoto', 'Protocol', 'try', 'address']",Protocol,0,0,38
+"['Kyoto', 'Protocol', 'try', 'address']",address,0,0,38
+"['Kyoto', 'Protocol', 'try', 'address']",try,0,0,38
+"['Levels', 'thing', 'used', 'determine', 'emission', 'factor']",Levels,0,0,38
+"['Levels', 'thing', 'used', 'determine', 'emission', 'factor']",determine,0,0,38
+"['Levels', 'thing', 'used', 'determine', 'emission', 'factor']",emission,0,0,38
+"['Levels', 'thing', 'used', 'determine', 'emission', 'factor']",factor,0,0,38
+"['Levels', 'thing', 'used', 'determine', 'emission', 'factor']",thing,0,0,38
+"['Levels', 'thing', 'used', 'determine', 'emission', 'factor']",used,0,0,38
+"['Lindzen', 'criticize', 'Summary', 'Policymakers']",Lindzen,0,0,38
+"['Lindzen', 'criticize', 'Summary', 'Policymakers']",Policymakers,0,0,38
+"['Lindzen', 'criticize', 'Summary', 'Policymakers']",Summary,0,0,38
+"['Lindzen', 'criticize', 'Summary', 'Policymakers']",criticize,0,0,38
+"['Martin', 'Parry', 'role', 'IPCC']",IPCC,0,0,38
+"['Martin', 'Parry', 'role', 'IPCC']",Martin,0,0,38
+"['Martin', 'Parry', 'role', 'IPCC']",Parry,0,0,38
+"['Martin', 'Parry', 'role', 'IPCC']",role,0,0,38
+"['Medieval', 'Warm', 'Period', 'reconstruction', 'covered', '1,000+', 'year']","1,000+",0,0,38
+"['Medieval', 'Warm', 'Period', 'reconstruction', 'covered', '1,000+', 'year']",Medieval,0,0,38
+"['Medieval', 'Warm', 'Period', 'reconstruction', 'covered', '1,000+', 'year']",Period,0,0,38
+"['Medieval', 'Warm', 'Period', 'reconstruction', 'covered', '1,000+', 'year']",Warm,0,0,38
+"['Medieval', 'Warm', 'Period', 'reconstruction', 'covered', '1,000+', 'year']",covered,0,0,38
+"['Medieval', 'Warm', 'Period', 'reconstruction', 'covered', '1,000+', 'year']",reconstruction,0,0,38
+"['Medieval', 'Warm', 'Period', 'reconstruction', 'covered', '1,000+', 'year']",year,0,0,38
+"['Medieval', 'Warm', 'Period', 'reconstruction', 'used']",Medieval,0,0,38
+"['Medieval', 'Warm', 'Period', 'reconstruction', 'used']",Period,0,0,38
+"['Medieval', 'Warm', 'Period', 'reconstruction', 'used']",Warm,0,0,38
+"['Medieval', 'Warm', 'Period', 'reconstruction', 'used']",reconstruction,0,0,38
+"['Medieval', 'Warm', 'Period', 'reconstruction', 'used']",used,0,0,38
+"['Pachauri', 'resign', 'chair', 'IPCC']",IPCC,0,0,38
+"['Pachauri', 'resign', 'chair', 'IPCC']",Pachauri,0,0,38
+"['Pachauri', 'resign', 'chair', 'IPCC']",chair,0,0,38
+"['Pachauri', 'resign', 'chair', 'IPCC']",resign,0,0,38
+"['Robert', 'Watson', 'role', 'IPCC']",IPCC,0,0,38
+"['Robert', 'Watson', 'role', 'IPCC']",Robert,0,0,38
+"['Robert', 'Watson', 'role', 'IPCC']",Watson,0,0,38
+"['Robert', 'Watson', 'role', 'IPCC']",role,0,0,38
+"['Senate', 'committee', 'Singer', 'speak', 'July', '2000']",2000,0,0,38
+"['Senate', 'committee', 'Singer', 'speak', 'July', '2000']",July,0,0,38
+"['Senate', 'committee', 'Singer', 'speak', 'July', '2000']",Senate,0,0,38
+"['Senate', 'committee', 'Singer', 'speak', 'July', '2000']",Singer,0,0,38
+"['Senate', 'committee', 'Singer', 'speak', 'July', '2000']",committee,0,0,38
+"['Senate', 'committee', 'Singer', 'speak', 'July', '2000']",speak,0,0,38
+"['Singer', 'dispute', 'graph', 'Senate', 'hearing']",Senate,0,0,38
+"['Singer', 'dispute', 'graph', 'Senate', 'hearing']",Singer,0,0,38
+"['Singer', 'dispute', 'graph', 'Senate', 'hearing']",dispute,0,0,38
+"['Singer', 'dispute', 'graph', 'Senate', 'hearing']",graph,0,0,38
+"['Singer', 'dispute', 'graph', 'Senate', 'hearing']",hearing,0,0,38
+"['Singer', 'hold', 'press', 'conference', 'May', '2000']",2000,0,0,38
+"['Singer', 'hold', 'press', 'conference', 'May', '2000']",May,0,0,38
+"['Singer', 'hold', 'press', 'conference', 'May', '2000']",Singer,0,0,38
+"['Singer', 'hold', 'press', 'conference', 'May', '2000']",conference,0,0,38
+"['Singer', 'hold', 'press', 'conference', 'May', '2000']",hold,0,0,38
+"['Singer', 'hold', 'press', 'conference', 'May', '2000']",press,0,0,38
+"['Special', 'Report', 'Managing', 'Risks', 'Extreme', 'Events', 'Disasters', 'Advance', 'Climate', 'Change', 'Adaptation', 'SREX', 'issued']",Adaptation,0,0,38
+"['Special', 'Report', 'Managing', 'Risks', 'Extreme', 'Events', 'Disasters', 'Advance', 'Climate', 'Change', 'Adaptation', 'SREX', 'issued']",Advance,0,0,38
+"['Special', 'Report', 'Managing', 'Risks', 'Extreme', 'Events', 'Disasters', 'Advance', 'Climate', 'Change', 'Adaptation', 'SREX', 'issued']",Change,0,0,38
+"['Special', 'Report', 'Managing', 'Risks', 'Extreme', 'Events', 'Disasters', 'Advance', 'Climate', 'Change', 'Adaptation', 'SREX', 'issued']",Climate,0,0,38
+"['Special', 'Report', 'Managing', 'Risks', 'Extreme', 'Events', 'Disasters', 'Advance', 'Climate', 'Change', 'Adaptation', 'SREX', 'issued']",Disasters,0,0,38
+"['Special', 'Report', 'Managing', 'Risks', 'Extreme', 'Events', 'Disasters', 'Advance', 'Climate', 'Change', 'Adaptation', 'SREX', 'issued']",Events,0,0,38
+"['Special', 'Report', 'Managing', 'Risks', 'Extreme', 'Events', 'Disasters', 'Advance', 'Climate', 'Change', 'Adaptation', 'SREX', 'issued']",Extreme,0,0,38
+"['Special', 'Report', 'Managing', 'Risks', 'Extreme', 'Events', 'Disasters', 'Advance', 'Climate', 'Change', 'Adaptation', 'SREX', 'issued']",Managing,0,0,38
+"['Special', 'Report', 'Managing', 'Risks', 'Extreme', 'Events', 'Disasters', 'Advance', 'Climate', 'Change', 'Adaptation', 'SREX', 'issued']",Report,0,0,38
+"['Special', 'Report', 'Managing', 'Risks', 'Extreme', 'Events', 'Disasters', 'Advance', 'Climate', 'Change', 'Adaptation', 'SREX', 'issued']",Risks,0,0,38
+"['Special', 'Report', 'Managing', 'Risks', 'Extreme', 'Events', 'Disasters', 'Advance', 'Climate', 'Change', 'Adaptation', 'SREX', 'issued']",SREX,0,0,38
+"['Special', 'Report', 'Managing', 'Risks', 'Extreme', 'Events', 'Disasters', 'Advance', 'Climate', 'Change', 'Adaptation', 'SREX', 'issued']",Special,0,0,38
+"['Special', 'Report', 'Managing', 'Risks', 'Extreme', 'Events', 'Disasters', 'Advance', 'Climate', 'Change', 'Adaptation', 'SREX', 'issued']",issued,0,0,38
+"['Special', 'Report', 'Renewable', 'Energy', 'Sources', 'Climate', 'Change', 'Mitigation', 'SRREN', 'issued']",Change,0,0,38
+"['Special', 'Report', 'Renewable', 'Energy', 'Sources', 'Climate', 'Change', 'Mitigation', 'SRREN', 'issued']",Climate,0,0,38
+"['Special', 'Report', 'Renewable', 'Energy', 'Sources', 'Climate', 'Change', 'Mitigation', 'SRREN', 'issued']",Energy,0,0,38
+"['Special', 'Report', 'Renewable', 'Energy', 'Sources', 'Climate', 'Change', 'Mitigation', 'SRREN', 'issued']",Mitigation,0,0,38
+"['Special', 'Report', 'Renewable', 'Energy', 'Sources', 'Climate', 'Change', 'Mitigation', 'SRREN', 'issued']",Renewable,0,0,38
+"['Special', 'Report', 'Renewable', 'Energy', 'Sources', 'Climate', 'Change', 'Mitigation', 'SRREN', 'issued']",Report,0,0,38
+"['Special', 'Report', 'Renewable', 'Energy', 'Sources', 'Climate', 'Change', 'Mitigation', 'SRREN', 'issued']",SRREN,0,0,38
+"['Special', 'Report', 'Renewable', 'Energy', 'Sources', 'Climate', 'Change', 'Mitigation', 'SRREN', 'issued']",Sources,0,0,38
+"['Special', 'Report', 'Renewable', 'Energy', 'Sources', 'Climate', 'Change', 'Mitigation', 'SRREN', 'issued']",Special,0,0,38
+"['Special', 'Report', 'Renewable', 'Energy', 'Sources', 'Climate', 'Change', 'Mitigation', 'SRREN', 'issued']",issued,0,0,38
+"['Third', 'Assessment', 'Report', 'published']",Assessment,0,0,38
+"['Third', 'Assessment', 'Report', 'published']",Report,0,0,38
+"['Third', 'Assessment', 'Report', 'published']",Third,0,0,38
+"['Third', 'Assessment', 'Report', 'published']",published,0,0,38
+"['UN', 'climate', 'change', 'treaty']",UN,0.46209812,12,38
+"['UN', 'climate', 'change', 'treaty']",change,0,0,38
+"['UN', 'climate', 'change', 'treaty']",climate,4.158883083,16,38
+"['UN', 'climate', 'change', 'treaty']",treaty,0,0,38
+"['UN', 'organization', 'established', 'IPCC']",IPCC,0.46209812,11,38
+"['UN', 'organization', 'established', 'IPCC']",UN,0,0,38
+"['UN', 'organization', 'established', 'IPCC']",established,0.018566442,5,38
+"['UN', 'organization', 'established', 'IPCC']",organization,0,0,38
+"['UN', 'resolution', 'endorsed', 'IPCC']",IPCC,0,0,38
+"['UN', 'resolution', 'endorsed', 'IPCC']",UN,0,0,38
+"['UN', 'resolution', 'endorsed', 'IPCC']",endorsed,0,0,38
+"['UN', 'resolution', 'endorsed', 'IPCC']",resolution,0,0,38
+"['UN', 'want', 'stabilize']",UN,0,0,38
+"['UN', 'want', 'stabilize']",stabilize,0,0,38
+"['UN', 'want', 'stabilize']",want,0.831776617,20,38
+"['WG', 'Summary', 'Policymakers', 'report', 'say', 'human', 'activity', 'greenhouse', 'gas']",Policymakers,0,0,38
+"['WG', 'Summary', 'Policymakers', 'report', 'say', 'human', 'activity', 'greenhouse', 'gas']",Summary,0,0,38
+"['WG', 'Summary', 'Policymakers', 'report', 'say', 'human', 'activity', 'greenhouse', 'gas']",WG,0,0,38
+"['WG', 'Summary', 'Policymakers', 'report', 'say', 'human', 'activity', 'greenhouse', 'gas']",activity,0,0,38
+"['WG', 'Summary', 'Policymakers', 'report', 'say', 'human', 'activity', 'greenhouse', 'gas']",gas,0,0,38
+"['WG', 'Summary', 'Policymakers', 'report', 'say', 'human', 'activity', 'greenhouse', 'gas']",greenhouse,0,0,38
+"['WG', 'Summary', 'Policymakers', 'report', 'say', 'human', 'activity', 'greenhouse', 'gas']",human,0,0,38
+"['WG', 'Summary', 'Policymakers', 'report', 'say', 'human', 'activity', 'greenhouse', 'gas']",report,0,0,38
+"['WG', 'Summary', 'Policymakers', 'report', 'say', 'human', 'activity', 'greenhouse', 'gas']",say,0,0,38
+"['Whose', 'goal', 'often', 'oppose', 'IPCC']",IPCC,0,0,38
+"['Whose', 'goal', 'often', 'oppose', 'IPCC']",Whose,0,0,38
+"['Whose', 'goal', 'often', 'oppose', 'IPCC']",goal,0,0,38
+"['Whose', 'goal', 'often', 'oppose', 'IPCC']",often,0,0,38
+"['Whose', 'goal', 'often', 'oppose', 'IPCC']",oppose,0,0,38
+"['activity', 'UNFCCC', 'require', 'IPCC', 'run']",IPCC,0,0,38
+"['activity', 'UNFCCC', 'require', 'IPCC', 'run']",UNFCCC,0,0,38
+"['activity', 'UNFCCC', 'require', 'IPCC', 'run']",activity,0,0,38
+"['activity', 'UNFCCC', 'require', 'IPCC', 'run']",require,0,0,38
+"['activity', 'UNFCCC', 'require', 'IPCC', 'run']",run,0,0,38
+"['approach', 'Oppenheimer', 'advocate']",Oppenheimer,0,0,38
+"['approach', 'Oppenheimer', 'advocate']",advocate,0,0,38
+"['approach', 'Oppenheimer', 'advocate']",approach,0,0,38
+"['assembles', 'author', 'contribution']",assembles,0,0,38
+"['assembles', 'author', 'contribution']",author,0,0,38
+"['assembles', 'author', 'contribution']",contribution,0,0,38
+"['chair', 'IPCC']",IPCC,0,0,38
+"['chair', 'IPCC']",chair,0,0,38
+"['chairman', 'House', 'Committee', 'Energy', 'Commerce']",Commerce,0,0,38
+"['chairman', 'House', 'Committee', 'Energy', 'Commerce']",Committee,0,0,38
+"['chairman', 'House', 'Committee', 'Energy', 'Commerce']",Energy,0,0,38
+"['chairman', 'House', 'Committee', 'Energy', 'Commerce']",House,0,0,38
+"['chairman', 'House', 'Committee', 'Energy', 'Commerce']",chairman,0,0,38
+"['chairman', 'House', 'Science', 'Committee']",Committee,0,0,38
+"['chairman', 'House', 'Science', 'Committee']",House,0,0,38
+"['chairman', 'House', 'Science', 'Committee']",Science,0,0,38
+"['chairman', 'House', 'Science', 'Committee']",chairman,0,0,38
+"['conflict', 'ozone', 'mitigation', 'reduce']",conflict,0,0,38
+"['conflict', 'ozone', 'mitigation', 'reduce']",mitigation,0,0,38
+"['conflict', 'ozone', 'mitigation', 'reduce']",ozone,0,0,38
+"['conflict', 'ozone', 'mitigation', 'reduce']",reduce,0,0,38
+"['contributing', 'author', 'IPCC', 'report', 'chapter']",IPCC,0,0,38
+"['contributing', 'author', 'IPCC', 'report', 'chapter']",author,0,0,38
+"['contributing', 'author', 'IPCC', 'report', 'chapter']",chapter,0,0,38
+"['contributing', 'author', 'IPCC', 'report', 'chapter']",contributing,0,0,38
+"['contributing', 'author', 'IPCC', 'report', 'chapter']",report,0,0,38
+"['coordinating', 'lead', 'author', 'IPCC', 'report', 'chapter']",IPCC,0,0,38
+"['coordinating', 'lead', 'author', 'IPCC', 'report', 'chapter']",author,0,0,38
+"['coordinating', 'lead', 'author', 'IPCC', 'report', 'chapter']",chapter,0,0,38
+"['coordinating', 'lead', 'author', 'IPCC', 'report', 'chapter']",coordinating,0,0,38
+"['coordinating', 'lead', 'author', 'IPCC', 'report', 'chapter']",lead,0,0,38
+"['coordinating', 'lead', 'author', 'IPCC', 'report', 'chapter']",report,0,0,38
+"['coordinating', 'lead', 'author', 'report']",author,0,0,38
+"['coordinating', 'lead', 'author', 'report']",coordinating,0,0,38
+"['coordinating', 'lead', 'author', 'report']",lead,0,0,38
+"['coordinating', 'lead', 'author', 'report']",report,0,0,38
+"['council', 'assign', 'task', 'IPCC']",IPCC,0,0,38
+"['council', 'assign', 'task', 'IPCC']",assign,0,0,38
+"['council', 'assign', 'task', 'IPCC']",council,0,0,38
+"['council', 'assign', 'task', 'IPCC']",task,0,0,38
+"['danger', 'IPCC', 'understate']",IPCC,0,0,38
+"['danger', 'IPCC', 'understate']",danger,0,0,38
+"['danger', 'IPCC', 'understate']",understate,0,0,38
+"['direction', 'Watson', 'say', 'mistake', 'went']",Watson,0,0,38
+"['direction', 'Watson', 'say', 'mistake', 'went']",direction,0,0,38
+"['direction', 'Watson', 'say', 'mistake', 'went']",mistake,0,0,38
+"['direction', 'Watson', 'say', 'mistake', 'went']",say,0,0,38
+"['direction', 'Watson', 'say', 'mistake', 'went']",went,0,0,38
+"['first', 'chair', 'IPCC']",IPCC,0,0,38
+"['first', 'chair', 'IPCC']",chair,0,0,38
+"['first', 'chair', 'IPCC']",first,0,0,38
+"['fund', 'IPCC', 'Deputy', 'Secretary']",Deputy,0,0,38
+"['fund', 'IPCC', 'Deputy', 'Secretary']",IPCC,0,0,38
+"['fund', 'IPCC', 'Deputy', 'Secretary']",Secretary,0,0,38
+"['fund', 'IPCC', 'Deputy', 'Secretary']",fund,0,0,38
+"['fund', 'IPCC', 'Secretary']",IPCC,0,0,38
+"['fund', 'IPCC', 'Secretary']",Secretary,0,0,38
+"['fund', 'IPCC', 'Secretary']",fund,0,0,38
+"['increased', 'greenhouse', 'gas', 'cause']",cause,0,0,38
+"['increased', 'greenhouse', 'gas', 'cause']",gas,0,0,38
+"['increased', 'greenhouse', 'gas', 'cause']",greenhouse,0,0,38
+"['increased', 'greenhouse', 'gas', 'cause']",increased,0,0,38
+"['joint', 'statement', 'climate', 'change', 'issued']",change,0,0,38
+"['joint', 'statement', 'climate', 'change', 'issued']",climate,0,0,38
+"['joint', 'statement', 'climate', 'change', 'issued']",issued,0,0,38
+"['joint', 'statement', 'climate', 'change', 'issued']",joint,0,0,38
+"['joint', 'statement', 'climate', 'change', 'issued']",statement,0,0,38
+"['journal', 'joint', 'statement', 'published']",joint,0,0,38
+"['journal', 'joint', 'statement', 'published']",journal,0,0,38
+"['journal', 'joint', 'statement', 'published']",published,0,0,38
+"['journal', 'joint', 'statement', 'published']",statement,0,0,38
+"['kind', 'non-peer-reviewed', 'source', 'IPCC', 'use']",IPCC,0,0,38
+"['kind', 'non-peer-reviewed', 'source', 'IPCC', 'use']",kind,0,0,38
+"['kind', 'non-peer-reviewed', 'source', 'IPCC', 'use']",non-peer-reviewed,0,0,38
+"['kind', 'non-peer-reviewed', 'source', 'IPCC', 'use']",source,0,0,38
+"['kind', 'non-peer-reviewed', 'source', 'IPCC', 'use']",use,0,0,38
+"['kind', 'people', 'attend', 'IPCC', 'meeting']",IPCC,0,0,38
+"['kind', 'people', 'attend', 'IPCC', 'meeting']",attend,0,0,38
+"['kind', 'people', 'attend', 'IPCC', 'meeting']",kind,0,0,38
+"['kind', 'people', 'attend', 'IPCC', 'meeting']",meeting,0,0,38
+"['kind', 'people', 'attend', 'IPCC', 'meeting']",people,0,0,38
+"['lead', 'author', 'IPCC', 'report', 'chapter']",IPCC,0,0,38
+"['lead', 'author', 'IPCC', 'report', 'chapter']",author,0,0,38
+"['lead', 'author', 'IPCC', 'report', 'chapter']",chapter,0,0,38
+"['lead', 'author', 'IPCC', 'report', 'chapter']",lead,0,0,38
+"['lead', 'author', 'IPCC', 'report', 'chapter']",report,0,0,38
+"['led', 'Science', 'Environmental', 'Policy', 'Project']",Environmental,0,0,38
+"['led', 'Science', 'Environmental', 'Policy', 'Project']",Policy,0,0,38
+"['led', 'Science', 'Environmental', 'Policy', 'Project']",Project,0,0,38
+"['led', 'Science', 'Environmental', 'Policy', 'Project']",Science,0,0,38
+"['led', 'Science', 'Environmental', 'Policy', 'Project']",led,0,0,38
+"['much', 'IPCC', 'Third', 'Assessment', 'Report', 'say', 'sea', 'level', 'rise', '1990', '2100']",1990,0,0,38
+"['much', 'IPCC', 'Third', 'Assessment', 'Report', 'say', 'sea', 'level', 'rise', '1990', '2100']",2100,0,0,38
+"['much', 'IPCC', 'Third', 'Assessment', 'Report', 'say', 'sea', 'level', 'rise', '1990', '2100']",Assessment,0,0,38
+"['much', 'IPCC', 'Third', 'Assessment', 'Report', 'say', 'sea', 'level', 'rise', '1990', '2100']",IPCC,0,0,38
+"['much', 'IPCC', 'Third', 'Assessment', 'Report', 'say', 'sea', 'level', 'rise', '1990', '2100']",Report,0,0,38
+"['much', 'IPCC', 'Third', 'Assessment', 'Report', 'say', 'sea', 'level', 'rise', '1990', '2100']",Third,0,0,38
+"['much', 'IPCC', 'Third', 'Assessment', 'Report', 'say', 'sea', 'level', 'rise', '1990', '2100']",level,0,0,38
+"['much', 'IPCC', 'Third', 'Assessment', 'Report', 'say', 'sea', 'level', 'rise', '1990', '2100']",much,0,0,38
+"['much', 'IPCC', 'Third', 'Assessment', 'Report', 'say', 'sea', 'level', 'rise', '1990', '2100']",rise,0,0,38
+"['much', 'IPCC', 'Third', 'Assessment', 'Report', 'say', 'sea', 'level', 'rise', '1990', '2100']",say,0,0,38
+"['much', 'IPCC', 'Third', 'Assessment', 'Report', 'say', 'sea', 'level', 'rise', '1990', '2100']",sea,0,0,38
+"['much', 'IPCC', 'attendee', 'government', 'representative']",IPCC,0,0,38
+"['much', 'IPCC', 'attendee', 'government', 'representative']",attendee,0,0,38
+"['much', 'IPCC', 'attendee', 'government', 'representative']",government,0,0,38
+"['much', 'IPCC', 'attendee', 'government', 'representative']",much,0,0,38
+"['much', 'IPCC', 'attendee', 'government', 'representative']",representative,0,0,38
+"['much', 'global', 'mean', 'surface', 'air', 'temperature', 'changed', 'last', 'century']",air,0,0,38
+"['much', 'global', 'mean', 'surface', 'air', 'temperature', 'changed', 'last', 'century']",century,0,0,38
+"['much', 'global', 'mean', 'surface', 'air', 'temperature', 'changed', 'last', 'century']",changed,0,0,38
+"['much', 'global', 'mean', 'surface', 'air', 'temperature', 'changed', 'last', 'century']",global,0,0,38
+"['much', 'global', 'mean', 'surface', 'air', 'temperature', 'changed', 'last', 'century']",last,0,0,38
+"['much', 'global', 'mean', 'surface', 'air', 'temperature', 'changed', 'last', 'century']",mean,0,0,38
+"['much', 'global', 'mean', 'surface', 'air', 'temperature', 'changed', 'last', 'century']",much,0,0,38
+"['much', 'global', 'mean', 'surface', 'air', 'temperature', 'changed', 'last', 'century']",surface,0,0,38
+"['much', 'global', 'mean', 'surface', 'air', 'temperature', 'changed', 'last', 'century']",temperature,0,0,38
+"['much', 'greenhouse', 'effect', 'due', 'carbon', 'dioxide']",carbon,0,0,38
+"['much', 'greenhouse', 'effect', 'due', 'carbon', 'dioxide']",dioxide,0,0,38
+"['much', 'greenhouse', 'effect', 'due', 'carbon', 'dioxide']",due,0,0,38
+"['much', 'greenhouse', 'effect', 'due', 'carbon', 'dioxide']",effect,0,0,38
+"['much', 'greenhouse', 'effect', 'due', 'carbon', 'dioxide']",greenhouse,0,0,38
+"['much', 'greenhouse', 'effect', 'due', 'carbon', 'dioxide']",much,0,0,38
+"['much', 'researcher', 'think', 'sea', 'level', 'rise', '1990', '2100']",1990,0,0,38
+"['much', 'researcher', 'think', 'sea', 'level', 'rise', '1990', '2100']",2100,0,0,38
+"['much', 'researcher', 'think', 'sea', 'level', 'rise', '1990', '2100']",level,0,0,38
+"['much', 'researcher', 'think', 'sea', 'level', 'rise', '1990', '2100']",much,0,0,38
+"['much', 'researcher', 'think', 'sea', 'level', 'rise', '1990', '2100']",researcher,0,0,38
+"['much', 'researcher', 'think', 'sea', 'level', 'rise', '1990', '2100']",rise,0,0,38
+"['much', 'researcher', 'think', 'sea', 'level', 'rise', '1990', '2100']",sea,0,0,38
+"['much', 'researcher', 'think', 'sea', 'level', 'rise', '1990', '2100']",think,0,0,38
+"['much', 'statement', 'predict', 'global', 'surface', 'temperature', 'would', 'increase', '2100']",2100,0,0,38
+"['much', 'statement', 'predict', 'global', 'surface', 'temperature', 'would', 'increase', '2100']",global,0,0,38
+"['much', 'statement', 'predict', 'global', 'surface', 'temperature', 'would', 'increase', '2100']",increase,0,0,38
+"['much', 'statement', 'predict', 'global', 'surface', 'temperature', 'would', 'increase', '2100']",much,0,0,38
+"['much', 'statement', 'predict', 'global', 'surface', 'temperature', 'would', 'increase', '2100']",predict,0,0,38
+"['much', 'statement', 'predict', 'global', 'surface', 'temperature', 'would', 'increase', '2100']",statement,0,0,38
+"['much', 'statement', 'predict', 'global', 'surface', 'temperature', 'would', 'increase', '2100']",surface,0,0,38
+"['much', 'statement', 'predict', 'global', 'surface', 'temperature', 'would', 'increase', '2100']",temperature,0,0,38
+"['much', 'statement', 'predict', 'global', 'surface', 'temperature', 'would', 'increase', '2100']",would,0,0,38
+"['nationality', 'Hoesung', 'Lee']",Hoesung,0,0,38
+"['nationality', 'Hoesung', 'Lee']",Lee,0,0,38
+"['nationality', 'Hoesung', 'Lee']",nationality,0,0,38
+"['nickname', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph']",Hemisphere,0,0,38
+"['nickname', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph']",Millennial,0,0,38
+"['nickname', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph']",Northern,0,0,38
+"['nickname', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph']",graph,0,0,38
+"['nickname', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph']",nickname,0,0,38
+"['nickname', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph']",reconstruction,0,0,38
+"['nickname', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph']",temperature,0,0,38
+"['one', 'proposal', 'let', 'IPCC', 'respond', 'new', 'evidence', 'faster']",IPCC,0,0,38
+"['one', 'proposal', 'let', 'IPCC', 'respond', 'new', 'evidence', 'faster']",evidence,0,0,38
+"['one', 'proposal', 'let', 'IPCC', 'respond', 'new', 'evidence', 'faster']",faster,0,0,38
+"['one', 'proposal', 'let', 'IPCC', 'respond', 'new', 'evidence', 'faster']",let,0,0,38
+"['one', 'proposal', 'let', 'IPCC', 'respond', 'new', 'evidence', 'faster']",new,0,0,38
+"['one', 'proposal', 'let', 'IPCC', 'respond', 'new', 'evidence', 'faster']",one,0,0,38
+"['one', 'proposal', 'let', 'IPCC', 'respond', 'new', 'evidence', 'faster']",proposal,0,0,38
+"['one', 'proposal', 'let', 'IPCC', 'respond', 'new', 'evidence', 'faster']",respond,0,0,38
+"['ordered', 'Stern', 'Review']",Review,0,0,38
+"['ordered', 'Stern', 'Review']",Stern,0,0,38
+"['ordered', 'Stern', 'Review']",ordered,0,0,38
+"['organization', 'IPCC', 'part']",IPCC,0,0,38
+"['organization', 'IPCC', 'part']",organization,0,0,38
+"['organization', 'IPCC', 'part']",part,0,0,38
+"['organization', 'issued', 'joint', 'statement', 'climate', 'change']",change,0,0,38
+"['organization', 'issued', 'joint', 'statement', 'climate', 'change']",climate,0,0,38
+"['organization', 'issued', 'joint', 'statement', 'climate', 'change']",issued,0,0,38
+"['organization', 'issued', 'joint', 'statement', 'climate', 'change']",joint,0,0,38
+"['organization', 'issued', 'joint', 'statement', 'climate', 'change']",organization,0,0,38
+"['organization', 'issued', 'joint', 'statement', 'climate', 'change']",statement,0,0,38
+"['paper', 'published', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",Hemisphere,0,0,38
+"['paper', 'published', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",Millennial,0,0,38
+"['paper', 'published', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",Northern,0,0,38
+"['paper', 'published', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",based,0,0,38
+"['paper', 'published', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",graph,0,0,38
+"['paper', 'published', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",paper,0,0,38
+"['paper', 'published', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",published,0,0,38
+"['paper', 'published', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",reconstruction,0,0,38
+"['paper', 'published', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",temperature,0,0,38
+"['people', 'attended', '2003', 'IPCC', 'meeting']",2003,0,0,38
+"['people', 'attended', '2003', 'IPCC', 'meeting']",IPCC,0,0,38
+"['people', 'attended', '2003', 'IPCC', 'meeting']",attended,0,0,38
+"['people', 'attended', '2003', 'IPCC', 'meeting']",meeting,0,0,38
+"['people', 'attended', '2003', 'IPCC', 'meeting']",people,0,0,38
+"['problem', 'tree', 'ring', 'data']",data,0,0,38
+"['problem', 'tree', 'ring', 'data']",problem,0,0,38
+"['problem', 'tree', 'ring', 'data']",ring,0,0,38
+"['problem', 'tree', 'ring', 'data']",tree,0,0,38
+"['published', 'State', 'Planet', '2008-2009', 'report']",2008-2009,0,0,38
+"['published', 'State', 'Planet', '2008-2009', 'report']",Planet,0,0,38
+"['published', 'State', 'Planet', '2008-2009', 'report']",State,0,0,38
+"['published', 'State', 'Planet', '2008-2009', 'report']",published,0,0,38
+"['published', 'State', 'Planet', '2008-2009', 'report']",report,0,0,38
+"['range', 'year', 'current', 'warming', 'compared']",compared,0,0,38
+"['range', 'year', 'current', 'warming', 'compared']",current,0,0,38
+"['range', 'year', 'current', 'warming', 'compared']",range,0,0,38
+"['range', 'year', 'current', 'warming', 'compared']",warming,0,0,38
+"['range', 'year', 'current', 'warming', 'compared']",year,0,0,38
+"['reconstruction', 'supported', '1999', 'paper', 'information']",1999,0,0,38
+"['reconstruction', 'supported', '1999', 'paper', 'information']",information,0,0,38
+"['reconstruction', 'supported', '1999', 'paper', 'information']",paper,0,0,38
+"['reconstruction', 'supported', '1999', 'paper', 'information']",reconstruction,0,0,38
+"['reconstruction', 'supported', '1999', 'paper', 'information']",supported,0,0,38
+"['remain', 'unsolved', 'problem', 'Kyoto', 'Protocol']",Kyoto,0,0,38
+"['remain', 'unsolved', 'problem', 'Kyoto', 'Protocol']",Protocol,0,0,38
+"['remain', 'unsolved', 'problem', 'Kyoto', 'Protocol']",problem,0,0,38
+"['remain', 'unsolved', 'problem', 'Kyoto', 'Protocol']",remain,0,0,38
+"['remain', 'unsolved', 'problem', 'Kyoto', 'Protocol']",unsolved,0,0,38
+"['report', 'correct', 'date']",correct,0,0,38
+"['report', 'correct', 'date']",date,0,0,38
+"['report', 'correct', 'date']",report,0,0,38
+"['responded', 'Lindzen', 'criticism']",Lindzen,0,0,38
+"['responded', 'Lindzen', 'criticism']",criticism,0,0,38
+"['responded', 'Lindzen', 'criticism']",responded,0,0,38
+"['role', 'Michael', 'Oppenheimer', 'IPCC', 'report']",IPCC,0,0,38
+"['role', 'Michael', 'Oppenheimer', 'IPCC', 'report']",Michael,0,0,38
+"['role', 'Michael', 'Oppenheimer', 'IPCC', 'report']",Oppenheimer,0,0,38
+"['role', 'Michael', 'Oppenheimer', 'IPCC', 'report']",report,0,0,38
+"['role', 'Michael', 'Oppenheimer', 'IPCC', 'report']",role,0,0,38
+"['rule', 'IPCC', 'follow']",IPCC,0,0,38
+"['rule', 'IPCC', 'follow']",follow,0,0,38
+"['rule', 'IPCC', 'follow']",rule,0,0,38
+"['said', 'Barton', 'investigation', 'misguided', 'illegitimate']",Barton,0,0,38
+"['said', 'Barton', 'investigation', 'misguided', 'illegitimate']",illegitimate,0,0,38
+"['said', 'Barton', 'investigation', 'misguided', 'illegitimate']",investigation,0,0,38
+"['said', 'Barton', 'investigation', 'misguided', 'illegitimate']",misguided,0,0,38
+"['said', 'Barton', 'investigation', 'misguided', 'illegitimate']",said,0,0,38
+"['said', 'people', 'involved', 'ozone', 'situation', 'better', 'understanding', 'scientific', 'ignorance', 'uncertainty']",better,0,0,38
+"['said', 'people', 'involved', 'ozone', 'situation', 'better', 'understanding', 'scientific', 'ignorance', 'uncertainty']",ignorance,0,0,38
+"['said', 'people', 'involved', 'ozone', 'situation', 'better', 'understanding', 'scientific', 'ignorance', 'uncertainty']",involved,0,0,38
+"['said', 'people', 'involved', 'ozone', 'situation', 'better', 'understanding', 'scientific', 'ignorance', 'uncertainty']",ozone,0,0,38
+"['said', 'people', 'involved', 'ozone', 'situation', 'better', 'understanding', 'scientific', 'ignorance', 'uncertainty']",people,0,0,38
+"['said', 'people', 'involved', 'ozone', 'situation', 'better', 'understanding', 'scientific', 'ignorance', 'uncertainty']",said,0,0,38
+"['said', 'people', 'involved', 'ozone', 'situation', 'better', 'understanding', 'scientific', 'ignorance', 'uncertainty']",scientific,0,0,38
+"['said', 'people', 'involved', 'ozone', 'situation', 'better', 'understanding', 'scientific', 'ignorance', 'uncertainty']",situation,0,0,38
+"['said', 'people', 'involved', 'ozone', 'situation', 'better', 'understanding', 'scientific', 'ignorance', 'uncertainty']",uncertainty,0,0,38
+"['said', 'people', 'involved', 'ozone', 'situation', 'better', 'understanding', 'scientific', 'ignorance', 'uncertainty']",understanding,0,0,38
+"['scenario', 'called', ""n't"", 'change', 'greenhouse', 'gas', 'creation', 'practice']",called,0,0,38
+"['scenario', 'called', ""n't"", 'change', 'greenhouse', 'gas', 'creation', 'practice']",change,0,0,38
+"['scenario', 'called', ""n't"", 'change', 'greenhouse', 'gas', 'creation', 'practice']",creation,0,0,38
+"['scenario', 'called', ""n't"", 'change', 'greenhouse', 'gas', 'creation', 'practice']",gas,0,0,38
+"['scenario', 'called', ""n't"", 'change', 'greenhouse', 'gas', 'creation', 'practice']",greenhouse,0,0,38
+"['scenario', 'called', ""n't"", 'change', 'greenhouse', 'gas', 'creation', 'practice']",n't,0,0,38
+"['scenario', 'called', ""n't"", 'change', 'greenhouse', 'gas', 'creation', 'practice']",practice,0,0,38
+"['scenario', 'called', ""n't"", 'change', 'greenhouse', 'gas', 'creation', 'practice']",scenario,0,0,38
+"['scientist', 'called', 'change', 'IPCC', 'Feb', '2010']",2010,0,0,38
+"['scientist', 'called', 'change', 'IPCC', 'Feb', '2010']",Feb,0,0,38
+"['scientist', 'called', 'change', 'IPCC', 'Feb', '2010']",IPCC,0,0,38
+"['scientist', 'called', 'change', 'IPCC', 'Feb', '2010']",called,0,0,38
+"['scientist', 'called', 'change', 'IPCC', 'Feb', '2010']",change,0,0,38
+"['scientist', 'called', 'change', 'IPCC', 'Feb', '2010']",scientist,0,0,38
+"['seen', 'ultimate', 'climate', 'change', 'authority']",authority,0,0,38
+"['seen', 'ultimate', 'climate', 'change', 'authority']",change,0,0,38
+"['seen', 'ultimate', 'climate', 'change', 'authority']",climate,0,0,38
+"['seen', 'ultimate', 'climate', 'change', 'authority']",seen,0,0,38
+"['seen', 'ultimate', 'climate', 'change', 'authority']",ultimate,0,0,38
+"['source', 'mistake']",mistake,0,0,38
+"['source', 'mistake']",source,0,0,38
+"['started', 'IPCC', 'Trust', 'Fund']",Fund,0,0,38
+"['started', 'IPCC', 'Trust', 'Fund']",IPCC,0,0,38
+"['started', 'IPCC', 'Trust', 'Fund']",Trust,0,0,38
+"['started', 'IPCC', 'Trust', 'Fund']",started,0,0,38
+"['study', 'published', 'confirming', '2001', 'IPCC', 'projection']",2001,0,0,38
+"['study', 'published', 'confirming', '2001', 'IPCC', 'projection']",IPCC,0,0,38
+"['study', 'published', 'confirming', '2001', 'IPCC', 'projection']",confirming,0,0,38
+"['study', 'published', 'confirming', '2001', 'IPCC', 'projection']",projection,0,0,38
+"['study', 'published', 'confirming', '2001', 'IPCC', 'projection']",published,0,0,38
+"['study', 'published', 'confirming', '2001', 'IPCC', 'projection']",study,0,0,38
+"['successfully', 'dealt', 'ozone', 'depletion']",dealt,0,0,38
+"['successfully', 'dealt', 'ozone', 'depletion']",depletion,0,0,38
+"['successfully', 'dealt', 'ozone', 'depletion']",ozone,0,0,38
+"['successfully', 'dealt', 'ozone', 'depletion']",successfully,0,0,38
+"['suggested', 'IPCC', 'avoid', 'political', 'problem']",IPCC,0,0,38
+"['suggested', 'IPCC', 'avoid', 'political', 'problem']",avoid,0,0,38
+"['suggested', 'IPCC', 'avoid', 'political', 'problem']",political,0,0,38
+"['suggested', 'IPCC', 'avoid', 'political', 'problem']",problem,0,0,38
+"['suggested', 'IPCC', 'avoid', 'political', 'problem']",suggested,0,0,38
+"['sure', 'statement', 'say', 'scientist', 'temperature', 'would', 'keep', 'rising']",keep,0,0,38
+"['sure', 'statement', 'say', 'scientist', 'temperature', 'would', 'keep', 'rising']",rising,0,0,38
+"['sure', 'statement', 'say', 'scientist', 'temperature', 'would', 'keep', 'rising']",say,0,0,38
+"['sure', 'statement', 'say', 'scientist', 'temperature', 'would', 'keep', 'rising']",scientist,0,0,38
+"['sure', 'statement', 'say', 'scientist', 'temperature', 'would', 'keep', 'rising']",statement,0,0,38
+"['sure', 'statement', 'say', 'scientist', 'temperature', 'would', 'keep', 'rising']",sure,0,0,38
+"['sure', 'statement', 'say', 'scientist', 'temperature', 'would', 'keep', 'rising']",temperature,0,0,38
+"['sure', 'statement', 'say', 'scientist', 'temperature', 'would', 'keep', 'rising']",would,0,0,38
+"['topic', 'error']",error,0,0,38
+"['topic', 'error']",topic,0,0,38
+"['used', 'estimate', 'emission']",emission,0,0,38
+"['used', 'estimate', 'emission']",estimate,0,0,38
+"['used', 'estimate', 'emission']",used,0,0,38
+"['verdict', 'alleged', 'error']",alleged,0,0,38
+"['verdict', 'alleged', 'error']",error,0,0,38
+"['verdict', 'alleged', 'error']",verdict,0,0,38
+"['vice-chair', 'IPCC']",IPCC,0,0,38
+"['vice-chair', 'IPCC']",vice-chair,0,0,38
+"['wrote', 'paper', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",Hemisphere,0,0,38
+"['wrote', 'paper', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",Millennial,0,0,38
+"['wrote', 'paper', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",Northern,0,0,38
+"['wrote', 'paper', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",based,0,0,38
+"['wrote', 'paper', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",graph,0,0,38
+"['wrote', 'paper', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",paper,0,0,38
+"['wrote', 'paper', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",reconstruction,0,0,38
+"['wrote', 'paper', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",temperature,0,0,38
+"['wrote', 'paper', 'Millennial', 'Northern', 'Hemisphere', 'temperature', 'reconstruction', 'graph', 'based']",wrote,0,0,38

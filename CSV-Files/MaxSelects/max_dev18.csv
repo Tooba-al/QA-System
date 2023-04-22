@@ -1,0 +1,703 @@
+0,1,2,3,4
+"['9', '+3', 'pattern', 'cilium', 'thought']",3,0,0,17
+"['9', '+3', 'pattern', 'cilium', 'thought']",9,0,0,17
+"['9', '+3', 'pattern', 'cilium', 'thought']",cilium,0,0,17
+"['9', '+3', 'pattern', 'cilium', 'thought']",pattern,0,0,17
+"['9', '+3', 'pattern', 'cilium', 'thought']",thought,0,0,17
+"['Are', 'ctenophore', 'predator', 'vegetarian', 'parasitic']",Are,0,0,17
+"['Are', 'ctenophore', 'predator', 'vegetarian', 'parasitic']",ctenophore,0,0,17
+"['Are', 'ctenophore', 'predator', 'vegetarian', 'parasitic']",parasitic,0,0,17
+"['Are', 'ctenophore', 'predator', 'vegetarian', 'parasitic']",predator,0,0,17
+"['Are', 'ctenophore', 'predator', 'vegetarian', 'parasitic']",vegetarian,0,0,17
+"['Are', 'juiveniles', 'capable', 'reproduction']",Are,0,0,17
+"['Are', 'juiveniles', 'capable', 'reproduction']",capable,0,0,17
+"['Are', 'juiveniles', 'capable', 'reproduction']",juiveniles,0,0,17
+"['Are', 'juiveniles', 'capable', 'reproduction']",reproduction,0,0,17
+"['Beriods', 'use', 'teeth']",Beriods,0,0,17
+"['Beriods', 'use', 'teeth']",teeth,0,0,17
+"['Beriods', 'use', 'teeth']",use,0,0,17
+"['Beroe', 'eat']",Beroe,0,0,17
+"['Beroe', 'eat']",eat,0,0,17
+"['Beroida', 'known', 'name']",Beroida,0,0,17
+"['Beroida', 'known', 'name']",known,0,0,17
+"['Beroida', 'known', 'name']",name,0,0,17
+"['Cilia', 'g', 'ow', 'length']",Cilia,0,0,17
+"['Cilia', 'g', 'ow', 'length']",g,0,0,17
+"['Cilia', 'g', 'ow', 'length']",length,0,0,17
+"['Cilia', 'g', 'ow', 'length']",ow,0,0,17
+"['Ciliary', 'rosette', 'pump', 'water', 'control', 'buoyancy']",Ciliary,0,0,17
+"['Ciliary', 'rosette', 'pump', 'water', 'control', 'buoyancy']",buoyancy,0,0,17
+"['Ciliary', 'rosette', 'pump', 'water', 'control', 'buoyancy']",control,0,0,17
+"['Ciliary', 'rosette', 'pump', 'water', 'control', 'buoyancy']",pump,0,0,17
+"['Ciliary', 'rosette', 'pump', 'water', 'control', 'buoyancy']",rosette,0,0,17
+"['Ciliary', 'rosette', 'pump', 'water', 'control', 'buoyancy']",water,0,0,17
+"['Comb', 'like', 'band', 'cilium', 'called']",Comb,0,0,17
+"['Comb', 'like', 'band', 'cilium', 'called']",band,0,0,17
+"['Comb', 'like', 'band', 'cilium', 'called']",called,0,0,17
+"['Comb', 'like', 'band', 'cilium', 'called']",cilium,0,0,17
+"['Comb', 'like', 'band', 'cilium', 'called']",like,0,0,17
+"['Combs', 'called']",Combs,0,0,17
+"['Combs', 'called']",called,0,0,17
+"['Cretaceous-Paleogen', 'extinction', 'occur']",Cretaceous-Paleogen,0,0,17
+"['Cretaceous-Paleogen', 'extinction', 'occur']",extinction,0,0,17
+"['Cretaceous-Paleogen', 'extinction', 'occur']",occur,0,0,17
+"['Cretaceous-Paleogene', 'extinction', 'happen']",Cretaceous-Paleogene,0,0,17
+"['Cretaceous-Paleogene', 'extinction', 'happen']",extinction,0,0,17
+"['Cretaceous-Paleogene', 'extinction', 'happen']",happen,0,0,17
+"['Ctenophora', 'commonly', 'known']",Ctenophora,0,0,17
+"['Ctenophora', 'commonly', 'known']",commonly,4.852030264,13,17
+"['Ctenophora', 'commonly', 'known']",known,0,0,17
+"['Ctenophora', 'le', 'complex', 'phylum']",Ctenophora,0,0,17
+"['Ctenophora', 'le', 'complex', 'phylum']",complex,0,0,17
+"['Ctenophora', 'le', 'complex', 'phylum']",le,0,0,17
+"['Ctenophora', 'le', 'complex', 'phylum']",phylum,0,0,17
+"['Ctenophora', 'live']",Ctenophora,0,0,17
+"['Ctenophora', 'live']",live,0,0,17
+"['Ctenophores', 'cnidarian', 'classified']",Ctenophores,0,0,17
+"['Ctenophores', 'cnidarian', 'classified']",classified,0,0,17
+"['Ctenophores', 'cnidarian', 'classified']",cnidarian,0,0,17
+"['Ctenophores', 'cnidarian', 'group', 'labelled', 'diploblastic']",Ctenophores,0,0,17
+"['Ctenophores', 'cnidarian', 'group', 'labelled', 'diploblastic']",cnidarian,0,0,17
+"['Ctenophores', 'cnidarian', 'group', 'labelled', 'diploblastic']",diploblastic,0,0,17
+"['Ctenophores', 'cnidarian', 'group', 'labelled', 'diploblastic']",group,0,0,17
+"['Ctenophores', 'cnidarian', 'group', 'labelled', 'diploblastic']",labelled,0,0,17
+"['Ctenophores', 'le', 'complex', 'group']",Ctenophores,0,0,17
+"['Ctenophores', 'le', 'complex', 'group']",complex,0,0,17
+"['Ctenophores', 'le', 'complex', 'group']",group,0,0,17
+"['Ctenophores', 'le', 'complex', 'group']",le,0,0,17
+"['Cydippid', 'typically', 'shape']",Cydippid,0,0,17
+"['Cydippid', 'typically', 'shape']",shape,0,0,17
+"['Cydippid', 'typically', 'shape']",typically,0,0,17
+"['Cydippids', 'comb', 'controlled']",Cydippids,0,0,17
+"['Cydippids', 'comb', 'controlled']",comb,0,0,17
+"['Cydippids', 'comb', 'controlled']",controlled,0,0,17
+"['Cydippids', 'use', 'capture', 'prey']",Cydippids,0,0,17
+"['Cydippids', 'use', 'capture', 'prey']",capture,0,0,17
+"['Cydippids', 'use', 'capture', 'prey']",prey,0,0,17
+"['Cydippids', 'use', 'capture', 'prey']",use,0,0,17
+['Cypiddids'],Cypiddids,0,0,17
+"['Do', 'adult', 'juvenile', 'secretion', 'luminesce', 'brighter']",Do,0,0,17
+"['Do', 'adult', 'juvenile', 'secretion', 'luminesce', 'brighter']",adult,0,0,17
+"['Do', 'adult', 'juvenile', 'secretion', 'luminesce', 'brighter']",brighter,0,0,17
+"['Do', 'adult', 'juvenile', 'secretion', 'luminesce', 'brighter']",juvenile,0,0,17
+"['Do', 'adult', 'juvenile', 'secretion', 'luminesce', 'brighter']",luminesce,0,0,17
+"['Do', 'adult', 'juvenile', 'secretion', 'luminesce', 'brighter']",secretion,0,0,17
+"['Ediacaran', 'eoandromeda', 'regarded', 'represent']",Ediacaran,0,0,17
+"['Ediacaran', 'eoandromeda', 'regarded', 'represent']",eoandromeda,0,0,17
+"['Ediacaran', 'eoandromeda', 'regarded', 'represent']",regarded,0,0,17
+"['Ediacaran', 'eoandromeda', 'regarded', 'represent']",represent,0,0,17
+"['Evidence', 'indicates', 'Cydippids']",Cydippids,0,0,17
+"['Evidence', 'indicates', 'Cydippids']",Evidence,0,0,17
+"['Evidence', 'indicates', 'Cydippids']",indicates,0,0,17
+"['Fossils', 'found', 'believed', 'ctenophore', 'old']",Fossils,0,0,17
+"['Fossils', 'found', 'believed', 'ctenophore', 'old']",believed,0,0,17
+"['Fossils', 'found', 'believed', 'ctenophore', 'old']",ctenophore,0,0,17
+"['Fossils', 'found', 'believed', 'ctenophore', 'old']",found,0,0,17
+"['Fossils', 'found', 'believed', 'ctenophore', 'old']",old,0,0,17
+"['Haeckelia', 'prey', 'mostly', 'animal']",Haeckelia,0,0,17
+"['Haeckelia', 'prey', 'mostly', 'animal']",animal,0,0,17
+"['Haeckelia', 'prey', 'mostly', 'animal']",mostly,0,0,17
+"['Haeckelia', 'prey', 'mostly', 'animal']",prey,0,0,17
+"['Is', 'fertilization', 'internal', 'exeternal', 'specie']",Is,0,0,17
+"['Is', 'fertilization', 'internal', 'exeternal', 'specie']",exeternal,0,0,17
+"['Is', 'fertilization', 'internal', 'exeternal', 'specie']",fertilization,0,0,17
+"['Is', 'fertilization', 'internal', 'exeternal', 'specie']",internal,0,0,17
+"['Is', 'fertilization', 'internal', 'exeternal', 'specie']",specie,0,0,17
+"['Jellyfish', 'an', 'sea', 'anemone', 'belong', 'phylum']",Jellyfish,0,0,17
+"['Jellyfish', 'an', 'sea', 'anemone', 'belong', 'phylum']",an,0,0,17
+"['Jellyfish', 'an', 'sea', 'anemone', 'belong', 'phylum']",anemone,0,0,17
+"['Jellyfish', 'an', 'sea', 'anemone', 'belong', 'phylum']",belong,0,0,17
+"['Jellyfish', 'an', 'sea', 'anemone', 'belong', 'phylum']",phylum,0,0,17
+"['Jellyfish', 'an', 'sea', 'anemone', 'belong', 'phylum']",sea,0,0,17
+"['Jellyfish', 'sea', 'anemone', 'belong', 'group/']",Jellyfish,0,0,17
+"['Jellyfish', 'sea', 'anemone', 'belong', 'group/']",anemone,0,0,17
+"['Jellyfish', 'sea', 'anemone', 'belong', 'group/']",belong,0,0,17
+"['Jellyfish', 'sea', 'anemone', 'belong', 'group/']",group/,0,0,17
+"['Jellyfish', 'sea', 'anemone', 'belong', 'group/']",sea,0,0,17
+"['Juvenile', 'adult', 'beroe', 'lack']",Juvenile,0,0,17
+"['Juvenile', 'adult', 'beroe', 'lack']",adult,0,0,17
+"['Juvenile', 'adult', 'beroe', 'lack']",beroe,0,0,17
+"['Juvenile', 'adult', 'beroe', 'lack']",lack,0,0,17
+"['Juvenile', 'platyctenids', 'act', 'like']",Juvenile,0,0,17
+"['Juvenile', 'platyctenids', 'act', 'like']",act,0,0,17
+"['Juvenile', 'platyctenids', 'act', 'like']",like,0,0,17
+"['Juvenile', 'platyctenids', 'act', 'like']",platyctenids,0,0,17
+"['Recent', 'study', 'believe', 'ctenophore', 'sister', 'lineage']",Recent,0,0,17
+"['Recent', 'study', 'believe', 'ctenophore', 'sister', 'lineage']",believe,0,0,17
+"['Recent', 'study', 'believe', 'ctenophore', 'sister', 'lineage']",ctenophore,0,0,17
+"['Recent', 'study', 'believe', 'ctenophore', 'sister', 'lineage']",lineage,0,0,17
+"['Recent', 'study', 'believe', 'ctenophore', 'sister', 'lineage']",sister,0,0,17
+"['Recent', 'study', 'believe', 'ctenophore', 'sister', 'lineage']",study,0,0,17
+"['Some', 'specie', 'beroe', 'pair', 'strip', 'adhesive', 'cell', 'stomach', 'wall']",Some,0,0,17
+"['Some', 'specie', 'beroe', 'pair', 'strip', 'adhesive', 'cell', 'stomach', 'wall']",adhesive,0,0,17
+"['Some', 'specie', 'beroe', 'pair', 'strip', 'adhesive', 'cell', 'stomach', 'wall']",beroe,0,0,17
+"['Some', 'specie', 'beroe', 'pair', 'strip', 'adhesive', 'cell', 'stomach', 'wall']",cell,0,0,17
+"['Some', 'specie', 'beroe', 'pair', 'strip', 'adhesive', 'cell', 'stomach', 'wall']",pair,0,0,17
+"['Some', 'specie', 'beroe', 'pair', 'strip', 'adhesive', 'cell', 'stomach', 'wall']",specie,0,0,17
+"['Some', 'specie', 'beroe', 'pair', 'strip', 'adhesive', 'cell', 'stomach', 'wall']",stomach,0,0,17
+"['Some', 'specie', 'beroe', 'pair', 'strip', 'adhesive', 'cell', 'stomach', 'wall']",strip,0,0,17
+"['Some', 'specie', 'beroe', 'pair', 'strip', 'adhesive', 'cell', 'stomach', 'wall']",wall,0,0,17
+"['Stromatoveris', 'similair', 'genus']",Stromatoveris,0,0,17
+"['Stromatoveris', 'similair', 'genus']",genus,0,0,17
+"['Stromatoveris', 'similair', 'genus']",similair,0,0,17
+"['Turtles', 'jellyfish', 'eat', 'large', 'quantity']",Turtles,0,0,17
+"['Turtles', 'jellyfish', 'eat', 'large', 'quantity']",eat,0,0,17
+"['Turtles', 'jellyfish', 'eat', 'large', 'quantity']",jellyfish,0,0,17
+"['Turtles', 'jellyfish', 'eat', 'large', 'quantity']",large,0,0,17
+"['Turtles', 'jellyfish', 'eat', 'large', 'quantity']",quantity,0,0,17
+"['Vendobionta', 'lived', 'period']",Vendobionta,0,0,17
+"['Vendobionta', 'lived', 'period']",lived,0,0,17
+"['Vendobionta', 'lived', 'period']",period,0,0,17
+"['aboral', 'organ', 'located']",aboral,0,0,17
+"['aboral', 'organ', 'located']",located,0,0,17
+"['aboral', 'organ', 'located']",organ,0,0,17
+"['active', 'part', 'ctenophora']",active,0,0,17
+"['active', 'part', 'ctenophora']",ctenophora,0,0,17
+"['active', 'part', 'ctenophora']",part,0,0,17
+"['auricle', 'specie']",auricle,0,0,17
+"['auricle', 'specie']",specie,0,0,17
+['auricle'],auricle,0,0,17
+"['bathocyroe', 'ocyropsis', 'escape', 'danger']",bathocyroe,0,0,17
+"['bathocyroe', 'ocyropsis', 'escape', 'danger']",danger,0,0,17
+"['bathocyroe', 'ocyropsis', 'escape', 'danger']",escape,0,0,17
+"['bathocyroe', 'ocyropsis', 'escape', 'danger']",ocyropsis,0,0,17
+"['bathyctena', 'chuni', 'euplokamis', 'stationis', 'eurhamphaea', 'vexilligera', 'common']",bathyctena,0,0,17
+"['bathyctena', 'chuni', 'euplokamis', 'stationis', 'eurhamphaea', 'vexilligera', 'common']",chuni,0,0,17
+"['bathyctena', 'chuni', 'euplokamis', 'stationis', 'eurhamphaea', 'vexilligera', 'common']",common,0,0,17
+"['bathyctena', 'chuni', 'euplokamis', 'stationis', 'eurhamphaea', 'vexilligera', 'common']",euplokamis,0,0,17
+"['bathyctena', 'chuni', 'euplokamis', 'stationis', 'eurhamphaea', 'vexilligera', 'common']",eurhamphaea,0,0,17
+"['bathyctena', 'chuni', 'euplokamis', 'stationis', 'eurhamphaea', 'vexilligera', 'common']",stationis,0,0,17
+"['bathyctena', 'chuni', 'euplokamis', 'stationis', 'eurhamphaea', 'vexilligera', 'common']",vexilligera,0,0,17
+"['bathyctena', 'chuni', 'euplokamis', 'stationis', 'eurhamphaea', 'vexilligera', 'excrete', 'secretion']",bathyctena,0,0,17
+"['bathyctena', 'chuni', 'euplokamis', 'stationis', 'eurhamphaea', 'vexilligera', 'excrete', 'secretion']",chuni,0,0,17
+"['bathyctena', 'chuni', 'euplokamis', 'stationis', 'eurhamphaea', 'vexilligera', 'excrete', 'secretion']",euplokamis,0,0,17
+"['bathyctena', 'chuni', 'euplokamis', 'stationis', 'eurhamphaea', 'vexilligera', 'excrete', 'secretion']",eurhamphaea,0,0,17
+"['bathyctena', 'chuni', 'euplokamis', 'stationis', 'eurhamphaea', 'vexilligera', 'excrete', 'secretion']",excrete,0,0,17
+"['bathyctena', 'chuni', 'euplokamis', 'stationis', 'eurhamphaea', 'vexilligera', 'excrete', 'secretion']",secretion,0,0,17
+"['bathyctena', 'chuni', 'euplokamis', 'stationis', 'eurhamphaea', 'vexilligera', 'excrete', 'secretion']",stationis,0,0,17
+"['bathyctena', 'chuni', 'euplokamis', 'stationis', 'eurhamphaea', 'vexilligera', 'excrete', 'secretion']",vexilligera,0,0,17
+"['beroe', 'pursuing', 'prey']",beroe,0,0,17
+"['beroe', 'pursuing', 'prey']",prey,0,0,17
+"['beroe', 'pursuing', 'prey']",pursuing,0,0,17
+"['beroida', 'instead', 'feeding', 'appendage']",appendage,0,0,17
+"['beroida', 'instead', 'feeding', 'appendage']",beroida,0,0,17
+"['beroida', 'instead', 'feeding', 'appendage']",feeding,0,0,17
+"['beroida', 'instead', 'feeding', 'appendage']",instead,0,0,17
+"['beroids', 'typically', 'eat']",beroids,0,0,17
+"['beroids', 'typically', 'eat']",eat,0,0,17
+"['beroids', 'typically', 'eat']",typically,0,0,17
+"['big', 'ctenophora', 'grow']",big,0,0,17
+"['big', 'ctenophora', 'grow']",ctenophora,0,0,17
+"['big', 'ctenophora', 'grow']",grow,0,0,17
+"['blamed', 'causing', 'sharp', 'drop', 'fish', 'catch', 'Black', 'Sea', 'Sea', 'Azov']",Azov,0,0,17
+"['blamed', 'causing', 'sharp', 'drop', 'fish', 'catch', 'Black', 'Sea', 'Sea', 'Azov']",Black,0,0,17
+"['blamed', 'causing', 'sharp', 'drop', 'fish', 'catch', 'Black', 'Sea', 'Sea', 'Azov']",Sea,0,0,17
+"['blamed', 'causing', 'sharp', 'drop', 'fish', 'catch', 'Black', 'Sea', 'Sea', 'Azov']",blamed,0,0,17
+"['blamed', 'causing', 'sharp', 'drop', 'fish', 'catch', 'Black', 'Sea', 'Sea', 'Azov']",catch,0,0,17
+"['blamed', 'causing', 'sharp', 'drop', 'fish', 'catch', 'Black', 'Sea', 'Sea', 'Azov']",causing,0,0,17
+"['blamed', 'causing', 'sharp', 'drop', 'fish', 'catch', 'Black', 'Sea', 'Sea', 'Azov']",drop,0,0,17
+"['blamed', 'causing', 'sharp', 'drop', 'fish', 'catch', 'Black', 'Sea', 'Sea', 'Azov']",fish,0,0,17
+"['blamed', 'causing', 'sharp', 'drop', 'fish', 'catch', 'Black', 'Sea', 'Sea', 'Azov']",sharp,0,0,17
+"['bolinopsis', 'generally', 'eat']",bolinopsis,0,0,17
+"['bolinopsis', 'generally', 'eat']",eat,0,0,17
+"['bolinopsis', 'generally', 'eat']",generally,0,0,17
+"['cause', 'population', 'ctenophora', 'grow', 'explosive', 'rate']",cause,0,0,17
+"['cause', 'population', 'ctenophora', 'grow', 'explosive', 'rate']",ctenophora,0,0,17
+"['cause', 'population', 'ctenophora', 'grow', 'explosive', 'rate']",explosive,0,0,17
+"['cause', 'population', 'ctenophora', 'grow', 'explosive', 'rate']",grow,0,0,17
+"['cause', 'population', 'ctenophora', 'grow', 'explosive', 'rate']",population,0,0,17
+"['cause', 'population', 'ctenophora', 'grow', 'explosive', 'rate']",rate,0,0,17
+"['cestida', 'called']",called,0,0,17
+"['cestida', 'called']",cestida,0,0,17
+"['cestids', 'swim']",cestids,0,0,17
+"['cestids', 'swim']",swim,0,0,17
+"['cidippid', 'used', 'description', 'ctenophore', 'textbook']",cidippid,0,0,17
+"['cidippid', 'used', 'description', 'ctenophore', 'textbook']",ctenophore,0,0,17
+"['cidippid', 'used', 'description', 'ctenophore', 'textbook']",description,0,0,17
+"['cidippid', 'used', 'description', 'ctenophore', 'textbook']",textbook,0,0,17
+"['cidippid', 'used', 'description', 'ctenophore', 'textbook']",used,0,0,17
+"['ciliary', 'rosette', 'decease', 'bulk', 'increase', 'density']",bulk,0,0,17
+"['ciliary', 'rosette', 'decease', 'bulk', 'increase', 'density']",ciliary,0,0,17
+"['ciliary', 'rosette', 'decease', 'bulk', 'increase', 'density']",decease,0,0,17
+"['ciliary', 'rosette', 'decease', 'bulk', 'increase', 'density']",density,0,0,17
+"['ciliary', 'rosette', 'decease', 'bulk', 'increase', 'density']",increase,0,0,17
+"['ciliary', 'rosette', 'decease', 'bulk', 'increase', 'density']",rosette,0,0,17
+"['cilium', 'used']",cilium,0,0,17
+"['cilium', 'used']",used,0,0,17
+"['coastal', 'beriods', 'use', 'teeth']",beriods,0,0,17
+"['coastal', 'beriods', 'use', 'teeth']",coastal,0,0,17
+"['coastal', 'beriods', 'use', 'teeth']",teeth,0,0,17
+"['coastal', 'beriods', 'use', 'teeth']",use,0,0,17
+"['coastal', 'beroids', 'ctenophora']",beroids,0,0,17
+"['coastal', 'beroids', 'ctenophora']",coastal,0,0,17
+"['coastal', 'beroids', 'ctenophora']",ctenophora,0,0,17
+"['coastal', 'specie', 'tough']",coastal,0,0,17
+"['coastal', 'specie', 'tough']",specie,0,0,17
+"['coastal', 'specie', 'tough']",tough,0,0,17
+['colloblasts'],colloblasts,0,0,17
+"['comb', 'spaced']",comb,0,0,17
+"['comb', 'spaced']",spaced,0,0,17
+"['common', 'coastal', 'pleurobrachia', 'called']",called,0,0,17
+"['common', 'coastal', 'pleurobrachia', 'called']",coastal,0,0,17
+"['common', 'coastal', 'pleurobrachia', 'called']",common,0,0,17
+"['common', 'coastal', 'pleurobrachia', 'called']",pleurobrachia,0,0,17
+"['cooling', 'local', 'environment', 'affect', 'mnemiopsis']",affect,0,0,17
+"['cooling', 'local', 'environment', 'affect', 'mnemiopsis']",cooling,0,0,17
+"['cooling', 'local', 'environment', 'affect', 'mnemiopsis']",environment,0,0,17
+"['cooling', 'local', 'environment', 'affect', 'mnemiopsis']",local,0,0,17
+"['cooling', 'local', 'environment', 'affect', 'mnemiopsis']",mnemiopsis,0,0,17
+"['ctenophora', 'commonly', 'known']",commonly,0,0,17
+"['ctenophora', 'commonly', 'known']",ctenophora,0,0,17
+"['ctenophora', 'commonly', 'known']",known,0,0,17
+"['ctenophora', 'live']",ctenophora,0,0,17
+"['ctenophora', 'live']",live,0,0,17
+"['ctenophora', 'mean', 'Greek']",Greek,0,0,17
+"['ctenophora', 'mean', 'Greek']",ctenophora,0,0,17
+"['ctenophora', 'mean', 'Greek']",mean,0,0,17
+"['ctenophora', 'rely', 'digestion', 'respiration']",ctenophora,0,0,17
+"['ctenophora', 'rely', 'digestion', 'respiration']",digestion,0,0,17
+"['ctenophora', 'rely', 'digestion', 'respiration']",rely,0,0,17
+"['ctenophora', 'rely', 'digestion', 'respiration']",respiration,0,0,17
+"['ctenophora', 'study']",ctenophora,0,0,17
+"['ctenophora', 'study']",study,0,0,17
+"['ctenophora', 'use', 'digestion', 'respiration']",ctenophora,0,0,17
+"['ctenophora', 'use', 'digestion', 'respiration']",digestion,0,0,17
+"['ctenophora', 'use', 'digestion', 'respiration']",respiration,0,0,17
+"['ctenophora', 'use', 'digestion', 'respiration']",use,0,0,17
+"['ctenophora', 'use', 'swim']",ctenophora,0.006655734,28,17
+"['ctenophora', 'use', 'swim']",swim,0,0,17
+"['ctenophora', 'use', 'swim']",use,1.213007566,24,17
+['ctenophora'],ctenophora,0,0,17
+"['ctenophore', 'accidentally', 'introduced', 'Black', 'Sea']",Black,0,0,17
+"['ctenophore', 'accidentally', 'introduced', 'Black', 'Sea']",Sea,0,0,17
+"['ctenophore', 'accidentally', 'introduced', 'Black', 'Sea']",accidentally,0,0,17
+"['ctenophore', 'accidentally', 'introduced', 'Black', 'Sea']",ctenophore,0,0,17
+"['ctenophore', 'accidentally', 'introduced', 'Black', 'Sea']",introduced,0,0,17
+"['ctenophore', 'animal']",animal,0,0,17
+"['ctenophore', 'animal']",ctenophore,0,0,17
+"['ctenophore', 'control', 'buoyancy']",buoyancy,0,0,17
+"['ctenophore', 'control', 'buoyancy']",control,0,0,17
+"['ctenophore', 'control', 'buoyancy']",ctenophore,0,0,17
+"['ctenophore', 'extremely', 'rare', 'fossil']",ctenophore,0,0,17
+"['ctenophore', 'extremely', 'rare', 'fossil']",extremely,0,0,17
+"['ctenophore', 'extremely', 'rare', 'fossil']",fossil,0,0,17
+"['ctenophore', 'extremely', 'rare', 'fossil']",rare,0,0,17
+"['ctenophore', 'found', 'large', 'amount']",amount,0,0,17
+"['ctenophore', 'found', 'large', 'amount']",ctenophore,0,0,17
+"['ctenophore', 'found', 'large', 'amount']",found,0,0,17
+"['ctenophore', 'found', 'large', 'amount']",large,0,0,17
+"['ctenophore', 'found', 'large', 'number']",ctenophore,0,0,17
+"['ctenophore', 'found', 'large', 'number']",found,0,0,17
+"['ctenophore', 'found', 'large', 'number']",large,0,0,17
+"['ctenophore', 'found', 'large', 'number']",number,0,0,17
+"['ctenophore', 'mean', 'Greek']",Greek,0,0,17
+"['ctenophore', 'mean', 'Greek']",ctenophore,0,0,17
+"['ctenophore', 'mean', 'Greek']",mean,0,0,17
+"['ctenophore', 'mnemiopsis', 'leidyi', 'introduced', 'Black', 'Sea', 'Sea', 'Azov']",Azov,0,0,17
+"['ctenophore', 'mnemiopsis', 'leidyi', 'introduced', 'Black', 'Sea', 'Sea', 'Azov']",Black,0,0,17
+"['ctenophore', 'mnemiopsis', 'leidyi', 'introduced', 'Black', 'Sea', 'Sea', 'Azov']",Sea,0,0,17
+"['ctenophore', 'mnemiopsis', 'leidyi', 'introduced', 'Black', 'Sea', 'Sea', 'Azov']",ctenophore,0,0,17
+"['ctenophore', 'mnemiopsis', 'leidyi', 'introduced', 'Black', 'Sea', 'Sea', 'Azov']",introduced,0,0,17
+"['ctenophore', 'mnemiopsis', 'leidyi', 'introduced', 'Black', 'Sea', 'Sea', 'Azov']",leidyi,0,0,17
+"['ctenophore', 'mnemiopsis', 'leidyi', 'introduced', 'Black', 'Sea', 'Sea', 'Azov']",mnemiopsis,0,0,17
+"['ctenophore', 'use', 'capture', 'prey']",capture,0,0,17
+"['ctenophore', 'use', 'capture', 'prey']",ctenophore,0,0,17
+"['ctenophore', 'use', 'capture', 'prey']",prey,0,0,17
+"['ctenophore', 'use', 'capture', 'prey']",use,0,0,17
+"['current', 'ctenophore', 'fossil', 'found']",ctenophore,0,0,17
+"['current', 'ctenophore', 'fossil', 'found']",current,0,0,17
+"['current', 'ctenophore', 'fossil', 'found']",fossil,0,0,17
+"['current', 'ctenophore', 'fossil', 'found']",found,0,0,17
+"['different', 'specie', 'ctenohore']",ctenohore,0,0,17
+"['different', 'specie', 'ctenohore']",different,0,0,17
+"['different', 'specie', 'ctenohore']",specie,0,0,17
+"['direction', 'ctenophore', 'swim']",ctenophore,0,0,17
+"['direction', 'ctenophore', 'swim']",direction,0,0,17
+"['direction', 'ctenophore', 'swim']",swim,0,0,17
+"['distinctive', 'feature', 'ctenophora']",ctenophora,0,0,17
+"['distinctive', 'feature', 'ctenophora']",distinctive,0,0,17
+"['distinctive', 'feature', 'ctenophora']",feature,0,0,17
+"['done', 'counteract', 'overpopulation', 'mnemiopsis', 'Black', 'Sea']",Black,0,0,17
+"['done', 'counteract', 'overpopulation', 'mnemiopsis', 'Black', 'Sea']",Sea,0,0,17
+"['done', 'counteract', 'overpopulation', 'mnemiopsis', 'Black', 'Sea']",counteract,0,0,17
+"['done', 'counteract', 'overpopulation', 'mnemiopsis', 'Black', 'Sea']",done,0,0,17
+"['done', 'counteract', 'overpopulation', 'mnemiopsis', 'Black', 'Sea']",mnemiopsis,0,0,17
+"['done', 'counteract', 'overpopulation', 'mnemiopsis', 'Black', 'Sea']",overpopulation,0,0,17
+"['egg', 'sperm', 'released']",egg,0,0,17
+"['egg', 'sperm', 'released']",released,0,0,17
+"['egg', 'sperm', 'released']",sperm,0,0,17
+"['eight', 'comb', 'row', 'outer', 'surface', 'called']",called,0,0,17
+"['eight', 'comb', 'row', 'outer', 'surface', 'called']",comb,0,0,17
+"['eight', 'comb', 'row', 'outer', 'surface', 'called']",eight,0,0,17
+"['eight', 'comb', 'row', 'outer', 'surface', 'called']",outer,0,0,17
+"['eight', 'comb', 'row', 'outer', 'surface', 'called']",row,0,0,17
+"['eight', 'comb', 'row', 'outer', 'surface', 'called']",surface,0,0,17
+"['euplokamis', 'use', 'three', 'type', 'movement']",euplokamis,0,0,17
+"['euplokamis', 'use', 'three', 'type', 'movement']",movement,0,0,17
+"['euplokamis', 'use', 'three', 'type', 'movement']",three,0,0,17
+"['euplokamis', 'use', 'three', 'type', 'movement']",type,0,0,17
+"['euplokamis', 'use', 'three', 'type', 'movement']",use,0,0,17
+"['event', 'blamed', 'introduction', 'mnemiopsis', 'Black', 'Sea']",Black,0,0,17
+"['event', 'blamed', 'introduction', 'mnemiopsis', 'Black', 'Sea']",Sea,0,0,17
+"['event', 'blamed', 'introduction', 'mnemiopsis', 'Black', 'Sea']",blamed,0,0,17
+"['event', 'blamed', 'introduction', 'mnemiopsis', 'Black', 'Sea']",event,0,0,17
+"['event', 'blamed', 'introduction', 'mnemiopsis', 'Black', 'Sea']",introduction,0,0,17
+"['event', 'blamed', 'introduction', 'mnemiopsis', 'Black', 'Sea']",mnemiopsis,0,0,17
+"['event', 'happened', '66', 'million', 'year', 'ago']",66,0,0,17
+"['event', 'happened', '66', 'million', 'year', 'ago']",ago,0,0,17
+"['event', 'happened', '66', 'million', 'year', 'ago']",event,0,0,17
+"['event', 'happened', '66', 'million', 'year', 'ago']",happened,0,0,17
+"['event', 'happened', '66', 'million', 'year', 'ago']",million,0,0,17
+"['event', 'happened', '66', 'million', 'year', 'ago']",year,0,0,17
+"['fossil', 'found', 'Burgess', 'Shale', 'lack']",Burgess,0,0,17
+"['fossil', 'found', 'Burgess', 'Shale', 'lack']",Shale,0,0,17
+"['fossil', 'found', 'Burgess', 'Shale', 'lack']",fossil,0,0,17
+"['fossil', 'found', 'Burgess', 'Shale', 'lack']",found,0,0,17
+"['fossil', 'found', 'Burgess', 'Shale', 'lack']",lack,0,0,17
+"['fossil', 'found', 'represent', 'ctenphores', 'missing', 'current', 'ctenphora']",ctenphora,0,0,17
+"['fossil', 'found', 'represent', 'ctenphores', 'missing', 'current', 'ctenphora']",ctenphores,0,0,17
+"['fossil', 'found', 'represent', 'ctenphores', 'missing', 'current', 'ctenphora']",current,0,0,17
+"['fossil', 'found', 'represent', 'ctenphores', 'missing', 'current', 'ctenphora']",fossil,0,0,17
+"['fossil', 'found', 'represent', 'ctenphores', 'missing', 'current', 'ctenphora']",found,0,0,17
+"['fossil', 'found', 'represent', 'ctenphores', 'missing', 'current', 'ctenphora']",missing,0,0,17
+"['fossil', 'found', 'represent', 'ctenphores', 'missing', 'current', 'ctenphora']",represent,0,0,17
+"['gender', 'specie', 'Ctenophores']",Ctenophores,0,0,17
+"['gender', 'specie', 'Ctenophores']",gender,0,0,17
+"['gender', 'specie', 'Ctenophores']",specie,0,0,17
+"['genus', 'considered', 'aunt', 'ctenophore']",aunt,0,0,17
+"['genus', 'considered', 'aunt', 'ctenophore']",considered,0,0,17
+"['genus', 'considered', 'aunt', 'ctenophore']",ctenophore,0,0,17
+"['genus', 'considered', 'aunt', 'ctenophore']",genus,0,0,17
+"['genus', 'ctenophore', 'cydipped-like', 'larva']",ctenophore,0,0,17
+"['genus', 'ctenophore', 'cydipped-like', 'larva']",cydipped-like,0,0,17
+"['genus', 'ctenophore', 'cydipped-like', 'larva']",genus,0,0,17
+"['genus', 'ctenophore', 'cydipped-like', 'larva']",larva,0,0,17
+"['genus', 'lack', 'tentacle', 'sheath']",genus,0,0,17
+"['genus', 'lack', 'tentacle', 'sheath']",lack,0,0,17
+"['genus', 'lack', 'tentacle', 'sheath']",sheath,0,0,17
+"['genus', 'lack', 'tentacle', 'sheath']",tentacle,0,0,17
+"['genus', 'self-fertilization', 'seen']",genus,0,0,17
+"['genus', 'self-fertilization', 'seen']",seen,0,0,17
+"['genus', 'self-fertilization', 'seen']",self-fertilization,0,0,17
+"['gonad', 'located']",gonad,0,0,17
+"['gonad', 'located']",located,0,0,17
+"['group', 'ctenophore', 'hardest', 'study']",ctenophore,0,0,17
+"['group', 'ctenophore', 'hardest', 'study']",group,0,0,17
+"['group', 'ctenophore', 'hardest', 'study']",hardest,0,0,17
+"['group', 'ctenophore', 'hardest', 'study']",study,0,0,17
+"['group', 'feeding', 'appendage']",appendage,0,0,17
+"['group', 'feeding', 'appendage']",feeding,0,0,17
+"['group', 'feeding', 'appendage']",group,0,0,17
+"['group', 'keep', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatch']",body,0,0,17
+"['group', 'keep', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatch']",egg,0,0,17
+"['group', 'keep', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatch']",fertilized,0,0,17
+"['group', 'keep', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatch']",group,0,0,17
+"['group', 'keep', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatch']",hatch,0,0,17
+"['group', 'keep', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatch']",inside,0,0,17
+"['group', 'keep', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatch']",keep,0,0,17
+"['group', 'keep', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatch']",kept,0,0,17
+"['group', 'keep', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatch']",parent,0,0,17
+"['group', 'two', 'layer', 'cell', 'middle', 'layer', 'mesoglea']",cell,0,0,17
+"['group', 'two', 'layer', 'cell', 'middle', 'layer', 'mesoglea']",group,0,0,17
+"['group', 'two', 'layer', 'cell', 'middle', 'layer', 'mesoglea']",layer,0,0,17
+"['group', 'two', 'layer', 'cell', 'middle', 'layer', 'mesoglea']",mesoglea,0,0,17
+"['group', 'two', 'layer', 'cell', 'middle', 'layer', 'mesoglea']",middle,0,0,17
+"['group', 'two', 'layer', 'cell', 'middle', 'layer', 'mesoglea']",two,0,0,17
+"['group', 'young', 'born', 'tentacle', 'large', 'mouth']",born,0,0,17
+"['group', 'young', 'born', 'tentacle', 'large', 'mouth']",group,0,0,17
+"['group', 'young', 'born', 'tentacle', 'large', 'mouth']",large,0,0,17
+"['group', 'young', 'born', 'tentacle', 'large', 'mouth']",mouth,0,0,17
+"['group', 'young', 'born', 'tentacle', 'large', 'mouth']",tentacle,0,0,17
+"['group', 'young', 'born', 'tentacle', 'large', 'mouth']",young,0,0,17
+"['hair', 'ctenophore', 'called']",called,0,0,17
+"['hair', 'ctenophore', 'called']",ctenophore,0,0,17
+"['hair', 'ctenophore', 'called']",hair,0,0,17
+"['happens', 'bathocyroe', 'ocyropsis', 'clap', 'lobe', 'together']",bathocyroe,0,0,17
+"['happens', 'bathocyroe', 'ocyropsis', 'clap', 'lobe', 'together']",clap,0,0,17
+"['happens', 'bathocyroe', 'ocyropsis', 'clap', 'lobe', 'together']",happens,0,0,17
+"['happens', 'bathocyroe', 'ocyropsis', 'clap', 'lobe', 'together']",lobe,0,0,17
+"['happens', 'bathocyroe', 'ocyropsis', 'clap', 'lobe', 'together']",ocyropsis,0,0,17
+"['happens', 'bathocyroe', 'ocyropsis', 'clap', 'lobe', 'together']",together,0,0,17
+"['happens', 'jellyfish', 'nematocysts', 'eaten', 'haeckelia']",eaten,0,0,17
+"['happens', 'jellyfish', 'nematocysts', 'eaten', 'haeckelia']",haeckelia,0,0,17
+"['happens', 'jellyfish', 'nematocysts', 'eaten', 'haeckelia']",happens,0,0,17
+"['happens', 'jellyfish', 'nematocysts', 'eaten', 'haeckelia']",jellyfish,0,0,17
+"['happens', 'jellyfish', 'nematocysts', 'eaten', 'haeckelia']",nematocysts,0,0,17
+"['herbivorous', 'fish', 'seen', 'feeding', 'gelatinous', 'zooplankton']",feeding,0,0,17
+"['herbivorous', 'fish', 'seen', 'feeding', 'gelatinous', 'zooplankton']",fish,0,0,17
+"['herbivorous', 'fish', 'seen', 'feeding', 'gelatinous', 'zooplankton']",gelatinous,0,0,17
+"['herbivorous', 'fish', 'seen', 'feeding', 'gelatinous', 'zooplankton']",herbivorous,0,0,17
+"['herbivorous', 'fish', 'seen', 'feeding', 'gelatinous', 'zooplankton']",seen,0,0,17
+"['herbivorous', 'fish', 'seen', 'feeding', 'gelatinous', 'zooplankton']",zooplankton,0,0,17
+['hermaphrodite'],hermaphrodite,0,0,17
+"['inside', 'ctenophore', 'lined']",ctenophore,0,0,17
+"['inside', 'ctenophore', 'lined']",inside,0,0,17
+"['inside', 'ctenophore', 'lined']",lined,0,0,17
+"['internal', 'cavity', 'contain']",cavity,0,0,17
+"['internal', 'cavity', 'contain']",contain,0,0,17
+"['internal', 'cavity', 'contain']",internal,0,0,17
+"['introduces', 'Black', 'Sea']",Black,0,0,17
+"['introduces', 'Black', 'Sea']",Sea,0,0,17
+"['introduces', 'Black', 'Sea']",introduces,0,0,17
+"['jelly-like', 'susbtance', 'called']",called,0,0,17
+"['jelly-like', 'susbtance', 'called']",jelly-like,0,0,17
+"['jelly-like', 'susbtance', 'called']",susbtance,0,0,17
+"['juvenile', 'develop', 'adult']",adult,0,0,17
+"['juvenile', 'develop', 'adult']",develop,0,0,17
+"['juvenile', 'develop', 'adult']",juvenile,0,0,17
+"['juvenile', 'platyctenids', 'live']",juvenile,0,0,17
+"['juvenile', 'platyctenids', 'live']",live,0,0,17
+"['juvenile', 'platyctenids', 'live']",platyctenids,0,0,17
+"['large', 'ctenophora', 'grow']",ctenophora,0,0,17
+"['large', 'ctenophora', 'grow']",grow,0,0,17
+"['large', 'ctenophora', 'grow']",large,0,0,17
+"['largest', 'ctenophore']",ctenophore,0,0,17
+"['largest', 'ctenophore']",largest,0,0,17
+"['largest', 'sensory', 'feature', 'ctenophora']",ctenophora,0,0,17
+"['largest', 'sensory', 'feature', 'ctenophora']",feature,0,0,17
+"['largest', 'sensory', 'feature', 'ctenophora']",largest,0,0,17
+"['largest', 'sensory', 'feature', 'ctenophora']",sensory,0,0,17
+"['little', 'tentacle', 'cydippids', 'called']",called,0,0,17
+"['little', 'tentacle', 'cydippids', 'called']",cydippids,0,0,17
+"['little', 'tentacle', 'cydippids', 'called']",little,0,0,17
+"['little', 'tentacle', 'cydippids', 'called']",tentacle,0,0,17
+"['lobata', 'pair']",lobata,0,0,17
+"['lobata', 'pair']",pair,0,0,17
+"['lobates', 'feed']",feed,0,0,17
+"['lobates', 'feed']",lobates,0,0,17
+"['long', 'tentacle', 'pleurbrachia', 'protected']",long,0,0,17
+"['long', 'tentacle', 'pleurbrachia', 'protected']",pleurbrachia,0,0,17
+"['long', 'tentacle', 'pleurbrachia', 'protected']",protected,0,0,17
+"['long', 'tentacle', 'pleurbrachia', 'protected']",tentacle,0,0,17
+"['main', 'component', 'aboral', 'organ']",aboral,0,0,17
+"['main', 'component', 'aboral', 'organ']",component,0,0,17
+"['main', 'component', 'aboral', 'organ']",main,0,0,17
+"['main', 'component', 'aboral', 'organ']",organ,0,0,17
+"['make', 'ctenophore', 'different', 'animal']",animal,0,0,17
+"['make', 'ctenophore', 'different', 'animal']",ctenophore,0,0,17
+"['make', 'ctenophore', 'different', 'animal']",different,0,0,17
+"['make', 'ctenophore', 'different', 'animal']",make,0,0,17
+"['make', 'tentilla', 'euplokamis', 'different', 'cysippids']",cysippids,0,0,17
+"['make', 'tentilla', 'euplokamis', 'different', 'cysippids']",different,0,0,17
+"['make', 'tentilla', 'euplokamis', 'different', 'cysippids']",euplokamis,0,0,17
+"['make', 'tentilla', 'euplokamis', 'different', 'cysippids']",make,0,0,17
+"['make', 'tentilla', 'euplokamis', 'different', 'cysippids']",tentilla,0,0,17
+"['mnemiopsis', 'eat']",eat,0,0,17
+"['mnemiopsis', 'eat']",mnemiopsis,0,0,17
+"['molecular', 'phylogeny', 'analysis', 'confirmed', 'cydippid']",analysis,0,0,17
+"['molecular', 'phylogeny', 'analysis', 'confirmed', 'cydippid']",confirmed,0,0,17
+"['molecular', 'phylogeny', 'analysis', 'confirmed', 'cydippid']",cydippid,0,0,17
+"['molecular', 'phylogeny', 'analysis', 'confirmed', 'cydippid']",molecular,0,0,17
+"['molecular', 'phylogeny', 'analysis', 'confirmed', 'cydippid']",phylogeny,0,0,17
+"['morphologically', 'analysis', '1985', 'concluded', 'cydippids', 'monophyletic']",1985,0,0,17
+"['morphologically', 'analysis', '1985', 'concluded', 'cydippids', 'monophyletic']",analysis,0,0,17
+"['morphologically', 'analysis', '1985', 'concluded', 'cydippids', 'monophyletic']",concluded,0,0,17
+"['morphologically', 'analysis', '1985', 'concluded', 'cydippids', 'monophyletic']",cydippids,0,0,17
+"['morphologically', 'analysis', '1985', 'concluded', 'cydippids', 'monophyletic']",monophyletic,0,0,17
+"['morphologically', 'analysis', '1985', 'concluded', 'cydippids', 'monophyletic']",morphologically,0,0,17
+"['mouth', 'located', 'pleuobrachia', 'located']",located,0,0,17
+"['mouth', 'located', 'pleuobrachia', 'located']",mouth,0,0,17
+"['mouth', 'located', 'pleuobrachia', 'located']",pleuobrachia,0,0,17
+"['movement', 'lobates', 'comb', 'controlled']",comb,0,0,17
+"['movement', 'lobates', 'comb', 'controlled']",controlled,0,0,17
+"['movement', 'lobates', 'comb', 'controlled']",lobates,0,0,17
+"['movement', 'lobates', 'comb', 'controlled']",movement,0,0,17
+"['much', 'Ctenophores', 'eat', 'one', 'day']",Ctenophores,0,0,17
+"['much', 'Ctenophores', 'eat', 'one', 'day']",day,0,0,17
+"['much', 'Ctenophores', 'eat', 'one', 'day']",eat,0,0,17
+"['much', 'Ctenophores', 'eat', 'one', 'day']",much,0,0,17
+"['much', 'Ctenophores', 'eat', 'one', 'day']",one,0,0,17
+"['much', 'ctenophore', 'eat', 'day']",ctenophore,0,0,17
+"['much', 'ctenophore', 'eat', 'day']",day,0,0,17
+"['much', 'ctenophore', 'eat', 'day']",eat,0,0,17
+"['much', 'ctenophore', 'eat', 'day']",much,0,0,17
+"['much', 'food', 'ctenophora', 'eat', 'day']",ctenophora,0,0,17
+"['much', 'food', 'ctenophora', 'eat', 'day']",day,0,0,17
+"['much', 'food', 'ctenophora', 'eat', 'day']",eat,0,0,17
+"['much', 'food', 'ctenophora', 'eat', 'day']",food,0,0,17
+"['much', 'food', 'ctenophora', 'eat', 'day']",much,0,0,17
+"['name', 'two-tentacled', 'cydippid', 'feedsentirely', 'salp', 'called']",called,0,0,17
+"['name', 'two-tentacled', 'cydippid', 'feedsentirely', 'salp', 'called']",cydippid,0,0,17
+"['name', 'two-tentacled', 'cydippid', 'feedsentirely', 'salp', 'called']",feedsentirely,0,0,17
+"['name', 'two-tentacled', 'cydippid', 'feedsentirely', 'salp', 'called']",name,0,0,17
+"['name', 'two-tentacled', 'cydippid', 'feedsentirely', 'salp', 'called']",salp,0,0,17
+"['name', 'two-tentacled', 'cydippid', 'feedsentirely', 'salp', 'called']",two-tentacled,0,0,17
+"['old', 'fossil', 'found', 'China']",China,0,0,17
+"['old', 'fossil', 'found', 'China']",fossil,0,0,17
+"['old', 'fossil', 'found', 'China']",found,0,0,17
+"['old', 'fossil', 'found', 'China']",old,0,0,17
+"['old', 'fossil', 'found', 'represent', 'ctenophhores']",ctenophhores,0,0,17
+"['old', 'fossil', 'found', 'represent', 'ctenophhores']",fossil,0,0,17
+"['old', 'fossil', 'found', 'represent', 'ctenophhores']",found,0,0,17
+"['old', 'fossil', 'found', 'represent', 'ctenophhores']",old,0,0,17
+"['old', 'fossil', 'found', 'represent', 'ctenophhores']",represent,0,0,17
+"['oncorhynchus', 'called']",called,0,0,17
+"['oncorhynchus', 'called']",oncorhynchus,0,0,17
+"['one', 'platycenida', 'specie', 'lack']",lack,0,0,17
+"['one', 'platycenida', 'specie', 'lack']",one,0,0,17
+"['one', 'platycenida', 'specie', 'lack']",platycenida,0,0,17
+"['one', 'platycenida', 'specie', 'lack']",specie,0,0,17
+"['period', 'called', '505', 'million', 'year', 'ago']",505,0,0,17
+"['period', 'called', '505', 'million', 'year', 'ago']",ago,0,0,17
+"['period', 'called', '505', 'million', 'year', 'ago']",called,0,0,17
+"['period', 'called', '505', 'million', 'year', 'ago']",million,0,0,17
+"['period', 'called', '505', 'million', 'year', 'ago']",period,0,0,17
+"['period', 'called', '505', 'million', 'year', 'ago']",year,0,0,17
+"['photocytes', 'produce']",photocytes,0,0,17
+"['photocytes', 'produce']",produce,0,0,17
+"['phylum', 'complex', 'sponge']",complex,0,0,17
+"['phylum', 'complex', 'sponge']",phylum,0,0,17
+"['phylum', 'complex', 'sponge']",sponge,0,0,17
+['phytoplankton'],phytoplankton,0,0,17
+"['platycenida', 'live']",live,0,0,17
+"['platycenida', 'live']",platycenida,0,0,17
+"['platyctenida', 'aboral', 'surface']",aboral,0,0,17
+"['platyctenida', 'aboral', 'surface']",platyctenida,0,0,17
+"['platyctenida', 'aboral', 'surface']",surface,0,0,17
+"['platyctenida', 'use', 'pharynx']",pharynx,0,0,17
+"['platyctenida', 'use', 'pharynx']",platyctenida,0,0,17
+"['platyctenida', 'use', 'pharynx']",use,0,0,17
+"['platyctenids', 'reproduce']",platyctenids,0,0,17
+"['platyctenids', 'reproduce']",reproduce,0,0,17
+"['pleurobrachia', 'opposite', 'side', 'body']",body,0,0,17
+"['pleurobrachia', 'opposite', 'side', 'body']",opposite,0,0,17
+"['pleurobrachia', 'opposite', 'side', 'body']",pleurobrachia,0,0,17
+"['pleurobrachia', 'opposite', 'side', 'body']",side,0,0,17
+"['population', 'mnemiopsis', 'black', 'Sea', 'Sea', 'Azov', 'brought', 'control']",Azov,0,0,17
+"['population', 'mnemiopsis', 'black', 'Sea', 'Sea', 'Azov', 'brought', 'control']",Sea,0,0,17
+"['population', 'mnemiopsis', 'black', 'Sea', 'Sea', 'Azov', 'brought', 'control']",black,0,0,17
+"['population', 'mnemiopsis', 'black', 'Sea', 'Sea', 'Azov', 'brought', 'control']",brought,0,0,17
+"['population', 'mnemiopsis', 'black', 'Sea', 'Sea', 'Azov', 'brought', 'control']",control,0,0,17
+"['population', 'mnemiopsis', 'black', 'Sea', 'Sea', 'Azov', 'brought', 'control']",mnemiopsis,0,0,17
+"['population', 'mnemiopsis', 'black', 'Sea', 'Sea', 'Azov', 'brought', 'control']",population,0,0,17
+"['promoted', 'growrth', 'Mnemiposis', 'Black', 'Sea']",Black,0,0,17
+"['promoted', 'growrth', 'Mnemiposis', 'Black', 'Sea']",Mnemiposis,0,0,17
+"['promoted', 'growrth', 'Mnemiposis', 'Black', 'Sea']",Sea,0,0,17
+"['promoted', 'growrth', 'Mnemiposis', 'Black', 'Sea']",growrth,0,0,17
+"['promoted', 'growrth', 'Mnemiposis', 'Black', 'Sea']",promoted,0,0,17
+"['protects', 'statocyst']",protects,0,0,17
+"['protects', 'statocyst']",statocyst,0,0,17
+"['pumping', 'water', 'mesoglea']",mesoglea,0,0,17
+"['pumping', 'water', 'mesoglea']",pumping,0,0,17
+"['pumping', 'water', 'mesoglea']",water,0,0,17
+"['researcher', 'believe', 'earliest-diverging', 'animal', 'phylum']",animal,0,0,17
+"['researcher', 'believe', 'earliest-diverging', 'animal', 'phylum']",believe,0,0,17
+"['researcher', 'believe', 'earliest-diverging', 'animal', 'phylum']",earliest-diverging,0,0,17
+"['researcher', 'believe', 'earliest-diverging', 'animal', 'phylum']",phylum,0,0,17
+"['researcher', 'believe', 'earliest-diverging', 'animal', 'phylum']",researcher,0,0,17
+"['row', 'comb', 'located']",comb,0,0,17
+"['row', 'comb', 'located']",located,0,0,17
+"['row', 'comb', 'located']",row,0,0,17
+"['row', 'comb']",comb,0,0,17
+"['row', 'comb']",row,0,0,17
+"['run', 'balancer', 'statocyst', 'comb', 'row']",balancer,0,0,17
+"['run', 'balancer', 'statocyst', 'comb', 'row']",comb,0,0,17
+"['run', 'balancer', 'statocyst', 'comb', 'row']",row,0,0,17
+"['run', 'balancer', 'statocyst', 'comb', 'row']",run,0,0,17
+"['run', 'balancer', 'statocyst', 'comb', 'row']",statocyst,0,0,17
+"['sea', 'Ctenophores', 'accidently', 'introduced']",Ctenophores,0,0,17
+"['sea', 'Ctenophores', 'accidently', 'introduced']",accidently,0,0,17
+"['sea', 'Ctenophores', 'accidently', 'introduced']",introduced,0,0,17
+"['sea', 'Ctenophores', 'accidently', 'introduced']",sea,0,0,17
+"['secretion', 'commonly', 'called']",called,0,0,17
+"['secretion', 'commonly', 'called']",commonly,0,0,17
+"['secretion', 'commonly', 'called']",secretion,0,0,17
+"['simultaneous', 'hermaphrodite']",hermaphrodite,0,0,17
+"['simultaneous', 'hermaphrodite']",simultaneous,0,0,17
+"['size', 'adult', 'Ctenophora']",Ctenophora,0.000739526,15,17
+"['size', 'adult', 'Ctenophora']",adult,0,0,17
+"['size', 'adult', 'Ctenophora']",size,0.033694655,2,17
+"['small', 'tentacle', 'Cydippids', 'called']",Cydippids,0,0,17
+"['small', 'tentacle', 'Cydippids', 'called']",called,0,0,17
+"['small', 'tentacle', 'Cydippids', 'called']",small,0,0,17
+"['small', 'tentacle', 'Cydippids', 'called']",tentacle,0,0,17
+"['specie', 'Ctenophora', 'validated']",Ctenophora,0,0,17
+"['specie', 'Ctenophora', 'validated']",specie,0,0,17
+"['specie', 'Ctenophora', 'validated']",validated,0,0,17
+"['specie', 'Ctenophores', 'fully', 'described', 'named']",Ctenophores,0,0,17
+"['specie', 'Ctenophores', 'fully', 'described', 'named']",described,0,0,17
+"['specie', 'Ctenophores', 'fully', 'described', 'named']",fully,0,0,17
+"['specie', 'Ctenophores', 'fully', 'described', 'named']",named,0,0,17
+"['specie', 'Ctenophores', 'fully', 'described', 'named']",specie,0,0,17
+"['specie', 'Ctenophores', 'validated']",Ctenophores,0,0,17
+"['specie', 'Ctenophores', 'validated']",specie,0,0,17
+"['specie', 'Ctenophores', 'validated']",validated,0,0,17
+"['specie', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatched']",body,0,0,17
+"['specie', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatched']",egg,0,0,17
+"['specie', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatched']",fertilized,0,0,17
+"['specie', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatched']",hatched,0,0,17
+"['specie', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatched']",inside,0,0,17
+"['specie', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatched']",kept,0,0,17
+"['specie', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatched']",parent,0,0,17
+"['specie', 'egg', 'fertilized', 'kept', 'inside', 'parent', 'body', 'hatched']",specie,0,0,17
+"['specie', 'found', 'Burgess', 'Shale']",Burgess,0,0,17
+"['specie', 'found', 'Burgess', 'Shale']",Shale,0,0,17
+"['specie', 'found', 'Burgess', 'Shale']",found,0,0,17
+"['specie', 'found', 'Burgess', 'Shale']",specie,0,0,17
+"['specie', 'move', 'darting', 'motion']",darting,0,0,17
+"['specie', 'move', 'darting', 'motion']",motion,0,0,17
+"['specie', 'move', 'darting', 'motion']",move,0,0,17
+"['specie', 'move', 'darting', 'motion']",specie,0,0,17
+"['specie', 'ribbon-shaped', 'planktonic', 'animal']",animal,0,0,17
+"['specie', 'ribbon-shaped', 'planktonic', 'animal']",planktonic,0,0,17
+"['specie', 'ribbon-shaped', 'planktonic', 'animal']",ribbon-shaped,0,0,17
+"['specie', 'ribbon-shaped', 'planktonic', 'animal']",specie,0,0,17
+"['specific', 'type', 'Ctenophore', 'introduced', 'Black', 'Sea']",Black,0,0,17
+"['specific', 'type', 'Ctenophore', 'introduced', 'Black', 'Sea']",Ctenophore,0,0,17
+"['specific', 'type', 'Ctenophore', 'introduced', 'Black', 'Sea']",Sea,0,0,17
+"['specific', 'type', 'Ctenophore', 'introduced', 'Black', 'Sea']",introduced,0,0,17
+"['specific', 'type', 'Ctenophore', 'introduced', 'Black', 'Sea']",specific,0,0,17
+"['specific', 'type', 'Ctenophore', 'introduced', 'Black', 'Sea']",type,0,0,17
+['statocyst'],statocyst,0,0,17
+"['tentacle', 'cydipped', 'ctenophore', 'usually', 'fringed']",ctenophore,0,0,17
+"['tentacle', 'cydipped', 'ctenophore', 'usually', 'fringed']",cydipped,0,0,17
+"['tentacle', 'cydipped', 'ctenophore', 'usually', 'fringed']",fringed,0,0,17
+"['tentacle', 'cydipped', 'ctenophore', 'usually', 'fringed']",tentacle,0,0,17
+"['tentacle', 'cydipped', 'ctenophore', 'usually', 'fringed']",usually,0,0,17
+"['thought', 'ctenophore', 'poor', 'diet', 'animal']",animal,0,0,17
+"['thought', 'ctenophore', 'poor', 'diet', 'animal']",ctenophore,0,0,17
+"['thought', 'ctenophore', 'poor', 'diet', 'animal']",diet,0,0,17
+"['thought', 'ctenophore', 'poor', 'diet', 'animal']",poor,0,0,17
+"['thought', 'ctenophore', 'poor', 'diet', 'animal']",thought,0,0,17
+"['throat', 'called']",called,0,0,17
+"['throat', 'called']",throat,0,0,17
+"['trait', 'sequential', 'hermaphrodite']",hermaphrodite,0,0,17
+"['trait', 'sequential', 'hermaphrodite']",sequential,0,0,17
+"['trait', 'sequential', 'hermaphrodite']",trait,0,0,17
+"['two', 'group', 'cell', 'bound', 'inter-cell', 'connection', 'membrane', 'muscle', 'nervous', 'system', 'sensory', 'organ']",bound,0,0,17
+"['two', 'group', 'cell', 'bound', 'inter-cell', 'connection', 'membrane', 'muscle', 'nervous', 'system', 'sensory', 'organ']",cell,0,0,17
+"['two', 'group', 'cell', 'bound', 'inter-cell', 'connection', 'membrane', 'muscle', 'nervous', 'system', 'sensory', 'organ']",connection,0,0,17
+"['two', 'group', 'cell', 'bound', 'inter-cell', 'connection', 'membrane', 'muscle', 'nervous', 'system', 'sensory', 'organ']",group,0,0,17
+"['two', 'group', 'cell', 'bound', 'inter-cell', 'connection', 'membrane', 'muscle', 'nervous', 'system', 'sensory', 'organ']",inter-cell,0,0,17
+"['two', 'group', 'cell', 'bound', 'inter-cell', 'connection', 'membrane', 'muscle', 'nervous', 'system', 'sensory', 'organ']",membrane,0,0,17
+"['two', 'group', 'cell', 'bound', 'inter-cell', 'connection', 'membrane', 'muscle', 'nervous', 'system', 'sensory', 'organ']",muscle,0,0,17
+"['two', 'group', 'cell', 'bound', 'inter-cell', 'connection', 'membrane', 'muscle', 'nervous', 'system', 'sensory', 'organ']",nervous,0,0,17
+"['two', 'group', 'cell', 'bound', 'inter-cell', 'connection', 'membrane', 'muscle', 'nervous', 'system', 'sensory', 'organ']",organ,0,0,17
+"['two', 'group', 'cell', 'bound', 'inter-cell', 'connection', 'membrane', 'muscle', 'nervous', 'system', 'sensory', 'organ']",sensory,0,0,17
+"['two', 'group', 'cell', 'bound', 'inter-cell', 'connection', 'membrane', 'muscle', 'nervous', 'system', 'sensory', 'organ']",system,0,0,17
+"['two', 'group', 'cell', 'bound', 'inter-cell', 'connection', 'membrane', 'muscle', 'nervous', 'system', 'sensory', 'organ']",two,0,0,17
+"['type', 'fossil', 'found', 'China']",China,0,0,17
+"['type', 'fossil', 'found', 'China']",fossil,0,0,17
+"['type', 'fossil', 'found', 'China']",found,0,0,17
+"['type', 'fossil', 'found', 'China']",type,0,0,17
+"['type', 'hermaphrodite', 'produce', 'egg', 'sperm', 'different', 'time']",different,0,0,17
+"['type', 'hermaphrodite', 'produce', 'egg', 'sperm', 'different', 'time']",egg,0,0,17
+"['type', 'hermaphrodite', 'produce', 'egg', 'sperm', 'different', 'time']",hermaphrodite,0,0,17
+"['type', 'hermaphrodite', 'produce', 'egg', 'sperm', 'different', 'time']",produce,0,0,17
+"['type', 'hermaphrodite', 'produce', 'egg', 'sperm', 'different', 'time']",sperm,0,0,17
+"['type', 'hermaphrodite', 'produce', 'egg', 'sperm', 'different', 'time']",time,0,0,17
+"['type', 'hermaphrodite', 'produce', 'egg', 'sperm', 'different', 'time']",type,0,0,17
+"['type', 'movement', 'euplokamis', 'tentilla']",euplokamis,0,0,17
+"['type', 'movement', 'euplokamis', 'tentilla']",movement,0,0,17
+"['type', 'movement', 'euplokamis', 'tentilla']",tentilla,0,0,17
+"['type', 'movement', 'euplokamis', 'tentilla']",type,0,0,17
+"['unique', 'hermaphrodite']",hermaphrodite,0,0,17
+"['unique', 'hermaphrodite']",unique,0,0,17
+"['unique', 'simultaneous', 'hermaphrodite']",hermaphrodite,0,0,17
+"['unique', 'simultaneous', 'hermaphrodite']",simultaneous,0,0,17
+"['unique', 'simultaneous', 'hermaphrodite']",unique,0,0,17
+"['young', 'Ctenophores', 'generaly', 'look', 'like']",Ctenophores,0,0,17
+"['young', 'Ctenophores', 'generaly', 'look', 'like']",generaly,0,0,17
+"['young', 'Ctenophores', 'generaly', 'look', 'like']",like,0,0,17
+"['young', 'Ctenophores', 'generaly', 'look', 'like']",look,0,0,17
+"['young', 'Ctenophores', 'generaly', 'look', 'like']",young,0,0,17

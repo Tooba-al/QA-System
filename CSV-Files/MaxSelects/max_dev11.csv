@@ -1,0 +1,1085 @@
+0,1,2,3,4
+"[""D'Olier"", 'Street', 'named']",D'Olier,0,0,10
+"[""D'Olier"", 'Street', 'named']",Street,0,0,10
+"[""D'Olier"", 'Street', 'named']",named,0,0,10
+"[""D'Olier"", 'Street']",D'Olier,0,0,10
+"[""D'Olier"", 'Street']",Street,0,0,10
+"['18th', 'century', 'Huguenot', 'group', 'call']",18th,0,0,10
+"['18th', 'century', 'Huguenot', 'group', 'call']",Huguenot,0,0,10
+"['18th', 'century', 'Huguenot', 'group', 'call']",call,0,0,10
+"['18th', 'century', 'Huguenot', 'group', 'call']",century,0,0,10
+"['18th', 'century', 'Huguenot', 'group', 'call']",group,0,0,10
+"['About', 'Walloons', 'Huguenots', 'emigrated', 'England', 'Ireland', 'era']",About,0,0,10
+"['About', 'Walloons', 'Huguenots', 'emigrated', 'England', 'Ireland', 'era']",England,0,0,10
+"['About', 'Walloons', 'Huguenots', 'emigrated', 'England', 'Ireland', 'era']",Huguenots,0,0,10
+"['About', 'Walloons', 'Huguenots', 'emigrated', 'England', 'Ireland', 'era']",Ireland,0,0,10
+"['About', 'Walloons', 'Huguenots', 'emigrated', 'England', 'Ireland', 'era']",Walloons,0,0,10
+"['About', 'Walloons', 'Huguenots', 'emigrated', 'England', 'Ireland', 'era']",emigrated,0,0,10
+"['About', 'Walloons', 'Huguenots', 'emigrated', 'England', 'Ireland', 'era']",era,0,0,10
+"['According', 'theory', 'name', 'Huguenot', 'mean']",According,0,0,10
+"['According', 'theory', 'name', 'Huguenot', 'mean']",Huguenot,0,0,10
+"['According', 'theory', 'name', 'Huguenot', 'mean']",mean,0,0,10
+"['According', 'theory', 'name', 'Huguenot', 'mean']",name,0,0,10
+"['According', 'theory', 'name', 'Huguenot', 'mean']",theory,0,0,10
+"['After', 'Huguenots', 'fled', 'France', 'last', 'remaining', 'bastion']",After,0,0,10
+"['After', 'Huguenots', 'fled', 'France', 'last', 'remaining', 'bastion']",France,0,0,10
+"['After', 'Huguenots', 'fled', 'France', 'last', 'remaining', 'bastion']",Huguenots,0,0,10
+"['After', 'Huguenots', 'fled', 'France', 'last', 'remaining', 'bastion']",bastion,0,0,10
+"['After', 'Huguenots', 'fled', 'France', 'last', 'remaining', 'bastion']",fled,0,0,10
+"['After', 'Huguenots', 'fled', 'France', 'last', 'remaining', 'bastion']",last,0,0,10
+"['After', 'Huguenots', 'fled', 'France', 'last', 'remaining', 'bastion']",remaining,0,0,10
+"['Against', 'Camisards', 'rise', 'fight']",Against,0,0,10
+"['Against', 'Camisards', 'rise', 'fight']",Camisards,0,0,10
+"['Against', 'Camisards', 'rise', 'fight']",fight,0,0,10
+"['Against', 'Camisards', 'rise', 'fight']",rise,0,0,10
+"['An', 'illustrated', 'paraphrased', 'version', 'appeared']",An,0,0,10
+"['An', 'illustrated', 'paraphrased', 'version', 'appeared']",appeared,0,0,10
+"['An', 'illustrated', 'paraphrased', 'version', 'appeared']",illustrated,0,0,10
+"['An', 'illustrated', 'paraphrased', 'version', 'appeared']",paraphrased,0,0,10
+"['An', 'illustrated', 'paraphrased', 'version', 'appeared']",version,0,0,10
+"['Berlin', 'Huguenots', 'switch', 'German', 'French', 'service']",Berlin,0,0,10
+"['Berlin', 'Huguenots', 'switch', 'German', 'French', 'service']",French,0,0,10
+"['Berlin', 'Huguenots', 'switch', 'German', 'French', 'service']",German,0,0,10
+"['Berlin', 'Huguenots', 'switch', 'German', 'French', 'service']",Huguenots,0,0,10
+"['Berlin', 'Huguenots', 'switch', 'German', 'French', 'service']",service,0,0,10
+"['Berlin', 'Huguenots', 'switch', 'German', 'French', 'service']",switch,0,0,10
+"['Besides', 'Britain', 'North', 'America', 'else', 'Huguenot', 'refugee', 'settle']",America,0,0,10
+"['Besides', 'Britain', 'North', 'America', 'else', 'Huguenot', 'refugee', 'settle']",Besides,0,0,10
+"['Besides', 'Britain', 'North', 'America', 'else', 'Huguenot', 'refugee', 'settle']",Britain,0,0,10
+"['Besides', 'Britain', 'North', 'America', 'else', 'Huguenot', 'refugee', 'settle']",Huguenot,0,0,10
+"['Besides', 'Britain', 'North', 'America', 'else', 'Huguenot', 'refugee', 'settle']",North,0,0,10
+"['Besides', 'Britain', 'North', 'America', 'else', 'Huguenot', 'refugee', 'settle']",else,0,0,10
+"['Besides', 'Britain', 'North', 'America', 'else', 'Huguenot', 'refugee', 'settle']",refugee,0,0,10
+"['Besides', 'Britain', 'North', 'America', 'else', 'Huguenot', 'refugee', 'settle']",settle,0,0,10
+"['Brazilian', 'French', 'colony', 'called']",Brazilian,0,0,10
+"['Brazilian', 'French', 'colony', 'called']",French,0,0,10
+"['Brazilian', 'French', 'colony', 'called']",called,0,0,10
+"['Brazilian', 'French', 'colony', 'called']",colony,0,0,10
+"['British', 'defeat', 'New', 'France']",British,0,0,10
+"['British', 'defeat', 'New', 'France']",France,0,0,10
+"['British', 'defeat', 'New', 'France']",New,0,0,10
+"['British', 'defeat', 'New', 'France']",defeat,0,0,10
+"['Catholic', 'Church', 'liturgical', 'belief', 'Lortie', 'criticize', 'openly']",Catholic,0,0,10
+"['Catholic', 'Church', 'liturgical', 'belief', 'Lortie', 'criticize', 'openly']",Church,0,0,10
+"['Catholic', 'Church', 'liturgical', 'belief', 'Lortie', 'criticize', 'openly']",Lortie,0,0,10
+"['Catholic', 'Church', 'liturgical', 'belief', 'Lortie', 'criticize', 'openly']",belief,0,0,10
+"['Catholic', 'Church', 'liturgical', 'belief', 'Lortie', 'criticize', 'openly']",criticize,0,0,10
+"['Catholic', 'Church', 'liturgical', 'belief', 'Lortie', 'criticize', 'openly']",liturgical,0,0,10
+"['Catholic', 'Church', 'liturgical', 'belief', 'Lortie', 'criticize', 'openly']",openly,0,0,10
+"['Charleston', 'settler', 'Elie', 'Prioleau', 'French', 'town']",Charleston,0,0,10
+"['Charleston', 'settler', 'Elie', 'Prioleau', 'French', 'town']",Elie,0,0,10
+"['Charleston', 'settler', 'Elie', 'Prioleau', 'French', 'town']",French,0,0,10
+"['Charleston', 'settler', 'Elie', 'Prioleau', 'French', 'town']",Prioleau,0,0,10
+"['Charleston', 'settler', 'Elie', 'Prioleau', 'French', 'town']",settler,0,0,10
+"['Charleston', 'settler', 'Elie', 'Prioleau', 'French', 'town']",town,0,0,10
+"['Count', 'Prince', 'strike', 'arrangement']",Count,0,0,10
+"['Count', 'Prince', 'strike', 'arrangement']",Prince,0,0,10
+"['Count', 'Prince', 'strike', 'arrangement']",arrangement,0,0,10
+"['Count', 'Prince', 'strike', 'arrangement']",strike,0,0,10
+"['Dutch', 'Revolt']",Dutch,0,0,10
+"['Dutch', 'Revolt']",Revolt,0,0,10
+"['Dutch', 'document', 'condemned', 'Spanish', 'Inquisition']",Dutch,0,0,10
+"['Dutch', 'document', 'condemned', 'Spanish', 'Inquisition']",Inquisition,0,0,10
+"['Dutch', 'document', 'condemned', 'Spanish', 'Inquisition']",Spanish,0,0,10
+"['Dutch', 'document', 'condemned', 'Spanish', 'Inquisition']",condemned,0,0,10
+"['Dutch', 'document', 'condemned', 'Spanish', 'Inquisition']",document,0,0,10
+"['Dutch', 'fight', 'Dutch', 'Revolt']",Dutch,0,0,10
+"['Dutch', 'fight', 'Dutch', 'Revolt']",Revolt,0,0,10
+"['Dutch', 'fight', 'Dutch', 'Revolt']",fight,0,0,10
+"['Dutch', 'leader', 'religious', 'affiliation']",Dutch,0,0,10
+"['Dutch', 'leader', 'religious', 'affiliation']",affiliation,0,0,10
+"['Dutch', 'leader', 'religious', 'affiliation']",leader,0,0,10
+"['Dutch', 'leader', 'religious', 'affiliation']",religious,0,0,10
+"['Edict', 'Huguenots', 'France']",Edict,0,0,10
+"['Edict', 'Huguenots', 'France']",France,0,0,10
+"['Edict', 'Huguenots', 'France']",Huguenots,0,0,10
+"['English', 'colony', 'Huguenot', 'settler', 'promised', 'land']",English,0,0,10
+"['English', 'colony', 'Huguenot', 'settler', 'promised', 'land']",Huguenot,0,0,10
+"['English', 'colony', 'Huguenot', 'settler', 'promised', 'land']",colony,0,0,10
+"['English', 'colony', 'Huguenot', 'settler', 'promised', 'land']",land,0,0,10
+"['English', 'colony', 'Huguenot', 'settler', 'promised', 'land']",promised,0,0,10
+"['English', 'colony', 'Huguenot', 'settler', 'promised', 'land']",settler,0,0,10
+"['English', 'law', 'made', 'country', 'welcoming', 'Huguenots']",English,0,0,10
+"['English', 'law', 'made', 'country', 'welcoming', 'Huguenots']",Huguenots,0,0,10
+"['English', 'law', 'made', 'country', 'welcoming', 'Huguenots']",country,0,0,10
+"['English', 'law', 'made', 'country', 'welcoming', 'Huguenots']",law,0,0,10
+"['English', 'law', 'made', 'country', 'welcoming', 'Huguenots']",made,0,0,10
+"['English', 'law', 'made', 'country', 'welcoming', 'Huguenots']",welcoming,0,0,10
+"['English', 'town', 'site', 'Huguenot', 'settlement']",English,0,0,10
+"['English', 'town', 'site', 'Huguenot', 'settlement']",Huguenot,0,0,10
+"['English', 'town', 'site', 'Huguenot', 'settlement']",settlement,0,0,10
+"['English', 'town', 'site', 'Huguenot', 'settlement']",site,0,0,10
+"['English', 'town', 'site', 'Huguenot', 'settlement']",town,0,0,10
+"['European', 'Protestant', 'leader', 'educated', 'University', 'Paris']",European,0,0,10
+"['European', 'Protestant', 'leader', 'educated', 'University', 'Paris']",Paris,0,0,10
+"['European', 'Protestant', 'leader', 'educated', 'University', 'Paris']",Protestant,0,0,10
+"['European', 'Protestant', 'leader', 'educated', 'University', 'Paris']",University,0,0,10
+"['European', 'Protestant', 'leader', 'educated', 'University', 'Paris']",educated,0,0,10
+"['European', 'Protestant', 'leader', 'educated', 'University', 'Paris']",leader,0,0,10
+"['European', 'event', 'caused', 'Huguenots', 'abandon', 'Charlesfort']",Charlesfort,0,0,10
+"['European', 'event', 'caused', 'Huguenots', 'abandon', 'Charlesfort']",European,0,0,10
+"['European', 'event', 'caused', 'Huguenots', 'abandon', 'Charlesfort']",Huguenots,0,0,10
+"['European', 'event', 'caused', 'Huguenots', 'abandon', 'Charlesfort']",abandon,0,0,10
+"['European', 'event', 'caused', 'Huguenots', 'abandon', 'Charlesfort']",caused,0,0,10
+"['European', 'event', 'caused', 'Huguenots', 'abandon', 'Charlesfort']",event,0,0,10
+"['Families', 'French', 'name', 'South', 'Africa', 'speak', 'language', 'today']",Africa,0,0,10
+"['Families', 'French', 'name', 'South', 'Africa', 'speak', 'language', 'today']",Families,0,0,10
+"['Families', 'French', 'name', 'South', 'Africa', 'speak', 'language', 'today']",French,0,0,10
+"['Families', 'French', 'name', 'South', 'Africa', 'speak', 'language', 'today']",South,0,0,10
+"['Families', 'French', 'name', 'South', 'Africa', 'speak', 'language', 'today']",language,0,0,10
+"['Families', 'French', 'name', 'South', 'Africa', 'speak', 'language', 'today']",name,0,0,10
+"['Families', 'French', 'name', 'South', 'Africa', 'speak', 'language', 'today']",speak,0,0,10
+"['Families', 'French', 'name', 'South', 'Africa', 'speak', 'language', 'today']",today,0,0,10
+"['France', 'Dutch', 'fight', '17th', 'century']",17th,0,0,10
+"['France', 'Dutch', 'fight', '17th', 'century']",Dutch,0,0,10
+"['France', 'Dutch', 'fight', '17th', 'century']",France,0,0,10
+"['France', 'Dutch', 'fight', '17th', 'century']",century,0,0,10
+"['France', 'Dutch', 'fight', '17th', 'century']",fight,0,0,10
+"['France', 'Huguenot', 'population', 'largely', 'centered']",France,0,0,10
+"['France', 'Huguenot', 'population', 'largely', 'centered']",Huguenot,4.356708827,8,10
+"['France', 'Huguenot', 'population', 'largely', 'centered']",centered,4.356708827,27,10
+"['France', 'Huguenot', 'population', 'largely', 'centered']",largely,0,0,10
+"['France', 'Huguenot', 'population', 'largely', 'centered']",population,0.726118138,23,10
+"['France', 'laid', 'siege', 'Montpellier', 'year']",France,0,0,10
+"['France', 'laid', 'siege', 'Montpellier', 'year']",Montpellier,0,0,10
+"['France', 'laid', 'siege', 'Montpellier', 'year']",laid,0,0,10
+"['France', 'laid', 'siege', 'Montpellier', 'year']",siege,0,0,10
+"['France', 'laid', 'siege', 'Montpellier', 'year']",year,0,0,10
+"['French', 'Church', 'Street', 'Irish', 'town']",Church,0,0,10
+"['French', 'Church', 'Street', 'Irish', 'town']",French,0,0,10
+"['French', 'Church', 'Street', 'Irish', 'town']",Irish,0,0,10
+"['French', 'Church', 'Street', 'Irish', 'town']",Street,0,0,10
+"['French', 'Church', 'Street', 'Irish', 'town']",town,0,0,10
+"['French', 'City', 'New', 'Rochelle', 'named']",City,0,0,10
+"['French', 'City', 'New', 'Rochelle', 'named']",French,0,0,10
+"['French', 'City', 'New', 'Rochelle', 'named']",New,0,0,10
+"['French', 'City', 'New', 'Rochelle', 'named']",Rochelle,0,0,10
+"['French', 'City', 'New', 'Rochelle', 'named']",named,0,0,10
+"['French', 'Indian', 'War', 'New', 'World', 'aspect', 'European', 'conflict']",European,0,0,10
+"['French', 'Indian', 'War', 'New', 'World', 'aspect', 'European', 'conflict']",French,0,0,10
+"['French', 'Indian', 'War', 'New', 'World', 'aspect', 'European', 'conflict']",Indian,0,0,10
+"['French', 'Indian', 'War', 'New', 'World', 'aspect', 'European', 'conflict']",New,0,0,10
+"['French', 'Indian', 'War', 'New', 'World', 'aspect', 'European', 'conflict']",War,0,0,10
+"['French', 'Indian', 'War', 'New', 'World', 'aspect', 'European', 'conflict']",World,0,0,10
+"['French', 'Indian', 'War', 'New', 'World', 'aspect', 'European', 'conflict']",aspect,0,0,10
+"['French', 'Indian', 'War', 'New', 'World', 'aspect', 'European', 'conflict']",conflict,0,0,10
+"['French', 'church', 'Portarlington', 'built']",French,0,0,10
+"['French', 'church', 'Portarlington', 'built']",Portarlington,0,0,10
+"['French', 'church', 'Portarlington', 'built']",built,0,0,10
+"['French', 'church', 'Portarlington', 'built']",church,0,0,10
+"['French', 'colony', 'modern', 'day', 'Brazil', 'founded']",Brazil,0,0,10
+"['French', 'colony', 'modern', 'day', 'Brazil', 'founded']",French,0,0,10
+"['French', 'colony', 'modern', 'day', 'Brazil', 'founded']",colony,0,0,10
+"['French', 'colony', 'modern', 'day', 'Brazil', 'founded']",day,0,0,10
+"['French', 'colony', 'modern', 'day', 'Brazil', 'founded']",founded,0,0,10
+"['French', 'colony', 'modern', 'day', 'Brazil', 'founded']",modern,0,0,10
+"['French', 'kind', 'issued', 'declaration']",French,0,0,10
+"['French', 'kind', 'issued', 'declaration']",declaration,0,0,10
+"['French', 'kind', 'issued', 'declaration']",issued,0,0,10
+"['French', 'kind', 'issued', 'declaration']",kind,0,0,10
+"['French', 'troop', 'put', 'Camisard', 'uprising', 'year']",Camisard,0,0,10
+"['French', 'troop', 'put', 'Camisard', 'uprising', 'year']",French,0,0,10
+"['French', 'troop', 'put', 'Camisard', 'uprising', 'year']",put,0,0,10
+"['French', 'troop', 'put', 'Camisard', 'uprising', 'year']",troop,0,0,10
+"['French', 'troop', 'put', 'Camisard', 'uprising', 'year']",uprising,0,0,10
+"['French', 'troop', 'put', 'Camisard', 'uprising', 'year']",year,0,0,10
+"['From', 'French', 'King', 'Huguenot', 'name', 'possibly', 'descend']",French,0,0,10
+"['From', 'French', 'King', 'Huguenot', 'name', 'possibly', 'descend']",From,0,0,10
+"['From', 'French', 'King', 'Huguenot', 'name', 'possibly', 'descend']",Huguenot,0,0,10
+"['From', 'French', 'King', 'Huguenot', 'name', 'possibly', 'descend']",King,0,0,10
+"['From', 'French', 'King', 'Huguenot', 'name', 'possibly', 'descend']",descend,0,0,10
+"['From', 'French', 'King', 'Huguenot', 'name', 'possibly', 'descend']",name,0,0,10
+"['From', 'French', 'King', 'Huguenot', 'name', 'possibly', 'descend']",possibly,0,0,10
+"['From', 'Huguenots', 'South', 'Carolina', 'purchase', 'land']",Carolina,0,0,10
+"['From', 'Huguenots', 'South', 'Carolina', 'purchase', 'land']",From,0,0,10
+"['From', 'Huguenots', 'South', 'Carolina', 'purchase', 'land']",Huguenots,0,0,10
+"['From', 'Huguenots', 'South', 'Carolina', 'purchase', 'land']",South,0,0,10
+"['From', 'Huguenots', 'South', 'Carolina', 'purchase', 'land']",land,0,0,10
+"['From', 'Huguenots', 'South', 'Carolina', 'purchase', 'land']",purchase,0,0,10
+"['From', 'Huguenots', 'purchase', 'land', 'settled']",From,0,0,10
+"['From', 'Huguenots', 'purchase', 'land', 'settled']",Huguenots,0,0,10
+"['From', 'Huguenots', 'purchase', 'land', 'settled']",land,0,0,10
+"['From', 'Huguenots', 'purchase', 'land', 'settled']",purchase,0,0,10
+"['From', 'Huguenots', 'purchase', 'land', 'settled']",settled,0,0,10
+"['Gate', 'King', 'Hugo']",Gate,0,0,10
+"['Gate', 'King', 'Hugo']",Hugo,0,0,10
+"['Gate', 'King', 'Hugo']",King,0,0,10
+"['German', 'general', 'fighter', 'pilot', 'Huguenot', 'ancestry']",German,0,0,10
+"['German', 'general', 'fighter', 'pilot', 'Huguenot', 'ancestry']",Huguenot,0,0,10
+"['German', 'general', 'fighter', 'pilot', 'Huguenot', 'ancestry']",ancestry,0,0,10
+"['German', 'general', 'fighter', 'pilot', 'Huguenot', 'ancestry']",fighter,0,0,10
+"['German', 'general', 'fighter', 'pilot', 'Huguenot', 'ancestry']",general,0,0,10
+"['German', 'general', 'fighter', 'pilot', 'Huguenot', 'ancestry']",pilot,0,0,10
+"['German', 'poet', 'descended', 'Huguenots']",German,0,0,10
+"['German', 'poet', 'descended', 'Huguenots']",Huguenots,0,0,10
+"['German', 'poet', 'descended', 'Huguenots']",descended,0,0,10
+"['German', 'poet', 'descended', 'Huguenots']",poet,0,0,10
+"['German', 'ruler', 'invited', 'Huguenot', 'immigration']",German,0,0,10
+"['German', 'ruler', 'invited', 'Huguenot', 'immigration']",Huguenot,0,0,10
+"['German', 'ruler', 'invited', 'Huguenot', 'immigration']",immigration,0,0,10
+"['German', 'ruler', 'invited', 'Huguenot', 'immigration']",invited,0,0,10
+"['German', 'ruler', 'invited', 'Huguenot', 'immigration']",ruler,0,0,10
+"['Henry', 'IV', 'known', 'taking', 'throne']",Henry,0,0,10
+"['Henry', 'IV', 'known', 'taking', 'throne']",IV,0,0,10
+"['Henry', 'IV', 'known', 'taking', 'throne']",known,0,0,10
+"['Henry', 'IV', 'known', 'taking', 'throne']",taking,0,0,10
+"['Henry', 'IV', 'known', 'taking', 'throne']",throne,0,0,10
+"['Henry', 'issue', 'Edict', 'Nantes']",Edict,0,0,10
+"['Henry', 'issue', 'Edict', 'Nantes']",Henry,0,0,10
+"['Henry', 'issue', 'Edict', 'Nantes']",Nantes,0,0,10
+"['Henry', 'issue', 'Edict', 'Nantes']",issue,0,0,10
+"['Huguenot', 'area', 'designated', 'historical', 'landmark']",Huguenot,0,0,10
+"['Huguenot', 'area', 'designated', 'historical', 'landmark']",area,0,0,10
+"['Huguenot', 'area', 'designated', 'historical', 'landmark']",designated,0,0,10
+"['Huguenot', 'area', 'designated', 'historical', 'landmark']",historical,0,0,10
+"['Huguenot', 'area', 'designated', 'historical', 'landmark']",landmark,0,0,10
+"['Huguenot', 'settler', 'assimilated', 'North', 'American', 'society', 'large']",American,0,0,10
+"['Huguenot', 'settler', 'assimilated', 'North', 'American', 'society', 'large']",Huguenot,0,0,10
+"['Huguenot', 'settler', 'assimilated', 'North', 'American', 'society', 'large']",North,0,0,10
+"['Huguenot', 'settler', 'assimilated', 'North', 'American', 'society', 'large']",assimilated,0,0,10
+"['Huguenot', 'settler', 'assimilated', 'North', 'American', 'society', 'large']",large,0,0,10
+"['Huguenot', 'settler', 'assimilated', 'North', 'American', 'society', 'large']",settler,0,0,10
+"['Huguenot', 'settler', 'assimilated', 'North', 'American', 'society', 'large']",society,0,0,10
+"['Huguenots', 'Killeshandra', 'County', 'Cavan', 'expanded', 'agricultural', 'industry']",Cavan,0,0,10
+"['Huguenots', 'Killeshandra', 'County', 'Cavan', 'expanded', 'agricultural', 'industry']",County,0,0,10
+"['Huguenots', 'Killeshandra', 'County', 'Cavan', 'expanded', 'agricultural', 'industry']",Huguenots,0,0,10
+"['Huguenots', 'Killeshandra', 'County', 'Cavan', 'expanded', 'agricultural', 'industry']",Killeshandra,0,0,10
+"['Huguenots', 'Killeshandra', 'County', 'Cavan', 'expanded', 'agricultural', 'industry']",agricultural,0,0,10
+"['Huguenots', 'Killeshandra', 'County', 'Cavan', 'expanded', 'agricultural', 'industry']",expanded,0,0,10
+"['Huguenots', 'Killeshandra', 'County', 'Cavan', 'expanded', 'agricultural', 'industry']",industry,0,0,10
+"['Huguenots', 'Walloons', 'settle', 'England']",England,0,0,10
+"['Huguenots', 'Walloons', 'settle', 'England']",Huguenots,0,0,10
+"['Huguenots', 'Walloons', 'settle', 'England']",Walloons,0,0,10
+"['Huguenots', 'Walloons', 'settle', 'England']",settle,0,0,10
+"['Huguenots', 'colonize', 'North', 'America']",America,0,0,10
+"['Huguenots', 'colonize', 'North', 'America']",Huguenots,0,0,10
+"['Huguenots', 'colonize', 'North', 'America']",North,0,0,10
+"['Huguenots', 'colonize', 'North', 'America']",colonize,0,0,10
+"['Huguenots', 'defend']",Huguenots,0,0,10
+"['Huguenots', 'defend']",defend,0,0,10
+"['Huguenots', 'emigrated', 'North', 'America', 'colonist']",America,0,0,10
+"['Huguenots', 'emigrated', 'North', 'America', 'colonist']",Huguenots,0,0,10
+"['Huguenots', 'emigrated', 'North', 'America', 'colonist']",North,0,0,10
+"['Huguenots', 'emigrated', 'North', 'America', 'colonist']",colonist,0,0,10
+"['Huguenots', 'emigrated', 'North', 'America', 'colonist']",emigrated,0,0,10
+"['Huguenots', 'evolve', 'religious', 'belief', 'New', 'World']",Huguenots,0,0,10
+"['Huguenots', 'evolve', 'religious', 'belief', 'New', 'World']",New,0,0,10
+"['Huguenots', 'evolve', 'religious', 'belief', 'New', 'World']",World,0,0,10
+"['Huguenots', 'evolve', 'religious', 'belief', 'New', 'World']",belief,0,0,10
+"['Huguenots', 'evolve', 'religious', 'belief', 'New', 'World']",evolve,0,0,10
+"['Huguenots', 'evolve', 'religious', 'belief', 'New', 'World']",religious,0,0,10
+"['Huguenots', 'first', 'Europeans', 'live', 'modern', 'New', 'York', 'borough']",Europeans,0,0,10
+"['Huguenots', 'first', 'Europeans', 'live', 'modern', 'New', 'York', 'borough']",Huguenots,0,0,10
+"['Huguenots', 'first', 'Europeans', 'live', 'modern', 'New', 'York', 'borough']",New,0,0,10
+"['Huguenots', 'first', 'Europeans', 'live', 'modern', 'New', 'York', 'borough']",York,0,0,10
+"['Huguenots', 'first', 'Europeans', 'live', 'modern', 'New', 'York', 'borough']",borough,0,0,10
+"['Huguenots', 'first', 'Europeans', 'live', 'modern', 'New', 'York', 'borough']",first,0,0,10
+"['Huguenots', 'first', 'Europeans', 'live', 'modern', 'New', 'York', 'borough']",live,0,0,10
+"['Huguenots', 'first', 'Europeans', 'live', 'modern', 'New', 'York', 'borough']",modern,0,0,10
+"['Huguenots', 'fled', 'France', '1700s']",1700s,0,0,10
+"['Huguenots', 'fled', 'France', '1700s']",France,0,0,10
+"['Huguenots', 'fled', 'France', '1700s']",Huguenots,0,0,10
+"['Huguenots', 'fled', 'France', '1700s']",fled,0,0,10
+"['Huguenots', 'killed', 'Toulouse']",Huguenots,0,0,10
+"['Huguenots', 'killed', 'Toulouse']",Toulouse,0,0,10
+"['Huguenots', 'killed', 'Toulouse']",killed,0,0,10
+"['Huguenots', 'killed', 'purge']",Huguenots,0,0,10
+"['Huguenots', 'killed', 'purge']",killed,0,0,10
+"['Huguenots', 'killed', 'purge']",purge,0,0,10
+"['Huguenots', 'land', 'New', 'York', 'originally']",Huguenots,0,0,10
+"['Huguenots', 'land', 'New', 'York', 'originally']",New,0,0,10
+"['Huguenots', 'land', 'New', 'York', 'originally']",York,0,0,10
+"['Huguenots', 'land', 'New', 'York', 'originally']",land,0,0,10
+"['Huguenots', 'land', 'New', 'York', 'originally']",originally,0,0,10
+"['Huguenots', 'secure', 'right', 'land', 'Baronies']",Baronies,0,0,10
+"['Huguenots', 'secure', 'right', 'land', 'Baronies']",Huguenots,0,0,10
+"['Huguenots', 'secure', 'right', 'land', 'Baronies']",land,0,0,10
+"['Huguenots', 'secure', 'right', 'land', 'Baronies']",right,0,0,10
+"['Huguenots', 'secure', 'right', 'land', 'Baronies']",secure,0,0,10
+"['Huguenots', 'stayed', 'France', 'eventually', 'known']",France,0,0,10
+"['Huguenots', 'stayed', 'France', 'eventually', 'known']",Huguenots,0,0,10
+"['Huguenots', 'stayed', 'France', 'eventually', 'known']",eventually,0,0,10
+"['Huguenots', 'stayed', 'France', 'eventually', 'known']",known,0,0,10
+"['Huguenots', 'stayed', 'France', 'eventually', 'known']",stayed,0,0,10
+"['Irish', 'city', 'Huguenot', 'mayor', '1600s', '1700s']",1600s,0,0,10
+"['Irish', 'city', 'Huguenot', 'mayor', '1600s', '1700s']",1700s,0,0,10
+"['Irish', 'city', 'Huguenot', 'mayor', '1600s', '1700s']",Huguenot,0,0,10
+"['Irish', 'city', 'Huguenot', 'mayor', '1600s', '1700s']",Irish,0,0,10
+"['Irish', 'city', 'Huguenot', 'mayor', '1600s', '1700s']",city,0,0,10
+"['Irish', 'city', 'Huguenot', 'mayor', '1600s', '1700s']",mayor,0,0,10
+"['Irish', 'city', 'large', 'Huguenot', 'enclave']",Huguenot,0,0,10
+"['Irish', 'city', 'large', 'Huguenot', 'enclave']",Irish,0,0,10
+"['Irish', 'city', 'large', 'Huguenot', 'enclave']",city,0,0,10
+"['Irish', 'city', 'large', 'Huguenot', 'enclave']",enclave,0,0,10
+"['Irish', 'city', 'large', 'Huguenot', 'enclave']",large,0,0,10
+"['Jean', 'De', 'Rely', 'illustrated', 'French-language', 'scripture', 'first', 'published', 'city']",De,0,0,10
+"['Jean', 'De', 'Rely', 'illustrated', 'French-language', 'scripture', 'first', 'published', 'city']",French-language,0,0,10
+"['Jean', 'De', 'Rely', 'illustrated', 'French-language', 'scripture', 'first', 'published', 'city']",Jean,0,0,10
+"['Jean', 'De', 'Rely', 'illustrated', 'French-language', 'scripture', 'first', 'published', 'city']",Rely,0,0,10
+"['Jean', 'De', 'Rely', 'illustrated', 'French-language', 'scripture', 'first', 'published', 'city']",city,0,0,10
+"['Jean', 'De', 'Rely', 'illustrated', 'French-language', 'scripture', 'first', 'published', 'city']",first,0,0,10
+"['Jean', 'De', 'Rely', 'illustrated', 'French-language', 'scripture', 'first', 'published', 'city']",illustrated,0,0,10
+"['Jean', 'De', 'Rely', 'illustrated', 'French-language', 'scripture', 'first', 'published', 'city']",published,0,0,10
+"['Jean', 'De', 'Rely', 'illustrated', 'French-language', 'scripture', 'first', 'published', 'city']",scripture,0,0,10
+"['King', 'former', 'Huguenot', 'looked', 'welfare', 'group']",Huguenot,0,0,10
+"['King', 'former', 'Huguenot', 'looked', 'welfare', 'group']",King,0,0,10
+"['King', 'former', 'Huguenot', 'looked', 'welfare', 'group']",former,0,0,10
+"['King', 'former', 'Huguenot', 'looked', 'welfare', 'group']",group,0,0,10
+"['King', 'former', 'Huguenot', 'looked', 'welfare', 'group']",looked,0,0,10
+"['King', 'former', 'Huguenot', 'looked', 'welfare', 'group']",welfare,0,0,10
+"['London', 'neighborhood', 'attracted', 'Huguenot', 'refugee']",Huguenot,0,0,10
+"['London', 'neighborhood', 'attracted', 'Huguenot', 'refugee']",London,0,0,10
+"['London', 'neighborhood', 'attracted', 'Huguenot', 'refugee']",attracted,0,0,10
+"['London', 'neighborhood', 'attracted', 'Huguenot', 'refugee']",neighborhood,0,0,10
+"['London', 'neighborhood', 'attracted', 'Huguenot', 'refugee']",refugee,0,0,10
+"['Louis', 'XIV', 'main', 'rival']",Louis,0,0,10
+"['Louis', 'XIV', 'main', 'rival']",XIV,0,0,10
+"['Louis', 'XIV', 'main', 'rival']",main,0,0,10
+"['Louis', 'XIV', 'main', 'rival']",rival,0,0,10
+"['Mechlin', 'lace', 'develop']",Mechlin,0,0,10
+"['Mechlin', 'lace', 'develop']",develop,0,0,10
+"['Mechlin', 'lace', 'develop']",lace,0,0,10
+"['Northern', 'European', 'city', 'Huguenot', 'congregation']",European,0,0,10
+"['Northern', 'European', 'city', 'Huguenot', 'congregation']",Huguenot,0,0,10
+"['Northern', 'European', 'city', 'Huguenot', 'congregation']",Northern,0,0,10
+"['Northern', 'European', 'city', 'Huguenot', 'congregation']",city,0,0,10
+"['Northern', 'European', 'city', 'Huguenot', 'congregation']",congregation,0,0,10
+"['Old', 'Truman', 'Brewery', 'founded']",Brewery,0,0,10
+"['Old', 'Truman', 'Brewery', 'founded']",Old,0,0,10
+"['Old', 'Truman', 'Brewery', 'founded']",Truman,0,0,10
+"['Old', 'Truman', 'Brewery', 'founded']",founded,0,0,10
+"['Reports', 'document', 'Parisien', 'Protestants', 'killed', 'September', '17']",17,0,0,10
+"['Reports', 'document', 'Parisien', 'Protestants', 'killed', 'September', '17']",Parisien,0,0,10
+"['Reports', 'document', 'Parisien', 'Protestants', 'killed', 'September', '17']",Protestants,0,0,10
+"['Reports', 'document', 'Parisien', 'Protestants', 'killed', 'September', '17']",Reports,0,0,10
+"['Reports', 'document', 'Parisien', 'Protestants', 'killed', 'September', '17']",September,0,0,10
+"['Reports', 'document', 'Parisien', 'Protestants', 'killed', 'September', '17']",document,0,0,10
+"['Reports', 'document', 'Parisien', 'Protestants', 'killed', 'September', '17']",killed,0,0,10
+"['Revolutionary', 'War', 'midnight', 'rider', 'Huguenot', 'descendant']",Huguenot,0,0,10
+"['Revolutionary', 'War', 'midnight', 'rider', 'Huguenot', 'descendant']",Revolutionary,0,0,10
+"['Revolutionary', 'War', 'midnight', 'rider', 'Huguenot', 'descendant']",War,0,0,10
+"['Revolutionary', 'War', 'midnight', 'rider', 'Huguenot', 'descendant']",descendant,0,0,10
+"['Revolutionary', 'War', 'midnight', 'rider', 'Huguenot', 'descendant']",midnight,0,0,10
+"['Revolutionary', 'War', 'midnight', 'rider', 'Huguenot', 'descendant']",rider,0,0,10
+"['Ribault', 'first', 'establish', 'settlement', 'South', 'Carolina']",Carolina,0,0,10
+"['Ribault', 'first', 'establish', 'settlement', 'South', 'Carolina']",Ribault,0,0,10
+"['Ribault', 'first', 'establish', 'settlement', 'South', 'Carolina']",South,0,0,10
+"['Ribault', 'first', 'establish', 'settlement', 'South', 'Carolina']",establish,0,0,10
+"['Ribault', 'first', 'establish', 'settlement', 'South', 'Carolina']",first,0,0,10
+"['Ribault', 'first', 'establish', 'settlement', 'South', 'Carolina']",settlement,0,0,10
+"['South', 'African', 'industry', 'descended', 'Huguenot', 'settler']",African,0,0,10
+"['South', 'African', 'industry', 'descended', 'Huguenot', 'settler']",Huguenot,0,0,10
+"['South', 'African', 'industry', 'descended', 'Huguenot', 'settler']",South,0,0,10
+"['South', 'African', 'industry', 'descended', 'Huguenot', 'settler']",descended,0,0,10
+"['South', 'African', 'industry', 'descended', 'Huguenot', 'settler']",industry,0,0,10
+"['South', 'African', 'industry', 'descended', 'Huguenot', 'settler']",settler,0,0,10
+"['South', 'Carolina', 'Huguenot', 'nobility', 'settle']",Carolina,0,0,10
+"['South', 'Carolina', 'Huguenot', 'nobility', 'settle']",Huguenot,0,0,10
+"['South', 'Carolina', 'Huguenot', 'nobility', 'settle']",South,0,0,10
+"['South', 'Carolina', 'Huguenot', 'nobility', 'settle']",nobility,0,0,10
+"['South', 'Carolina', 'Huguenot', 'nobility', 'settle']",settle,0,0,10
+"['Spanish', 'officer', 'established', 'settlement', 'St.', 'Augustine']",Augustine,0,0,10
+"['Spanish', 'officer', 'established', 'settlement', 'St.', 'Augustine']",Spanish,0,0,10
+"['Spanish', 'officer', 'established', 'settlement', 'St.', 'Augustine']",St.,0,0,10
+"['Spanish', 'officer', 'established', 'settlement', 'St.', 'Augustine']",established,0,0,10
+"['Spanish', 'officer', 'established', 'settlement', 'St.', 'Augustine']",officer,0,0,10
+"['Spanish', 'officer', 'established', 'settlement', 'St.', 'Augustine']",settlement,0,0,10
+"['St.', 'Bartholomew', 'Day', 'Massacre']",Bartholomew,0,0,10
+"['St.', 'Bartholomew', 'Day', 'Massacre']",Day,0,0,10
+"['St.', 'Bartholomew', 'Day', 'Massacre']",Massacre,0,0,10
+"['St.', 'Bartholomew', 'Day', 'Massacre']",St.,0,0,10
+"['Swiss', 'city', 'center', 'Calvinist', 'movement']",Calvinist,0,0,10
+"['Swiss', 'city', 'center', 'Calvinist', 'movement']",Swiss,0,0,10
+"['Swiss', 'city', 'center', 'Calvinist', 'movement']",center,0,0,10
+"['Swiss', 'city', 'center', 'Calvinist', 'movement']",city,0,0,10
+"['Swiss', 'city', 'center', 'Calvinist', 'movement']",movement,0,0,10
+"['There', '16th', 'century', 'Huguenot', 'settlement', 'near', 'modern', 'day', 'Florida', 'city']",16th,0,0,10
+"['There', '16th', 'century', 'Huguenot', 'settlement', 'near', 'modern', 'day', 'Florida', 'city']",Florida,0,0,10
+"['There', '16th', 'century', 'Huguenot', 'settlement', 'near', 'modern', 'day', 'Florida', 'city']",Huguenot,0,0,10
+"['There', '16th', 'century', 'Huguenot', 'settlement', 'near', 'modern', 'day', 'Florida', 'city']",There,0,0,10
+"['There', '16th', 'century', 'Huguenot', 'settlement', 'near', 'modern', 'day', 'Florida', 'city']",century,0,0,10
+"['There', '16th', 'century', 'Huguenot', 'settlement', 'near', 'modern', 'day', 'Florida', 'city']",city,0,0,10
+"['There', '16th', 'century', 'Huguenot', 'settlement', 'near', 'modern', 'day', 'Florida', 'city']",day,0,0,10
+"['There', '16th', 'century', 'Huguenot', 'settlement', 'near', 'modern', 'day', 'Florida', 'city']",modern,0,0,10
+"['There', '16th', 'century', 'Huguenot', 'settlement', 'near', 'modern', 'day', 'Florida', 'city']",near,0,0,10
+"['There', '16th', 'century', 'Huguenot', 'settlement', 'near', 'modern', 'day', 'Florida', 'city']",settlement,0,0,10
+"['Thomas', 'de', 'Maiziere', 'serf', 'role', 'German', 'cabinet']",German,0,0,10
+"['Thomas', 'de', 'Maiziere', 'serf', 'role', 'German', 'cabinet']",Maiziere,0,0,10
+"['Thomas', 'de', 'Maiziere', 'serf', 'role', 'German', 'cabinet']",Thomas,0,0,10
+"['Thomas', 'de', 'Maiziere', 'serf', 'role', 'German', 'cabinet']",cabinet,0,0,10
+"['Thomas', 'de', 'Maiziere', 'serf', 'role', 'German', 'cabinet']",de,0,0,10
+"['Thomas', 'de', 'Maiziere', 'serf', 'role', 'German', 'cabinet']",role,0,0,10
+"['Thomas', 'de', 'Maiziere', 'serf', 'role', 'German', 'cabinet']",serf,0,0,10
+"['Under', 'leader', 'Huguenots', 'fight', 'conflict']",Huguenots,0,0,10
+"['Under', 'leader', 'Huguenots', 'fight', 'conflict']",Under,0,0,10
+"['Under', 'leader', 'Huguenots', 'fight', 'conflict']",conflict,0,0,10
+"['Under', 'leader', 'Huguenots', 'fight', 'conflict']",fight,0,0,10
+"['Under', 'leader', 'Huguenots', 'fight', 'conflict']",leader,0,0,10
+"['Wars', 'Religion', 'fought']",Religion,4.356708827,21,10
+"['Wars', 'Religion', 'fought']",Wars,0.020169948,20,10
+"['Wars', 'Religion', 'fought']",fought,0,0,10
+"['William', 'would', 'eventually', 'gain', 'throne']",William,0,0,10
+"['William', 'would', 'eventually', 'gain', 'throne']",eventually,0,0,10
+"['William', 'would', 'eventually', 'gain', 'throne']",gain,0,0,10
+"['William', 'would', 'eventually', 'gain', 'throne']",throne,0,0,10
+"['William', 'would', 'eventually', 'gain', 'throne']",would,0,0,10
+"['With', 'European', 'country', 'Huguenots', 'feel', 'kinship', 'emigration']",European,0,0,10
+"['With', 'European', 'country', 'Huguenots', 'feel', 'kinship', 'emigration']",Huguenots,0,0,10
+"['With', 'European', 'country', 'Huguenots', 'feel', 'kinship', 'emigration']",With,0,0,10
+"['With', 'European', 'country', 'Huguenots', 'feel', 'kinship', 'emigration']",country,0,0,10
+"['With', 'European', 'country', 'Huguenots', 'feel', 'kinship', 'emigration']",emigration,0,0,10
+"['With', 'European', 'country', 'Huguenots', 'feel', 'kinship', 'emigration']",feel,0,0,10
+"['With', 'European', 'country', 'Huguenots', 'feel', 'kinship', 'emigration']",kinship,0,0,10
+['agreement'],agreement,0,0,10
+"['allegedly', 'haunted', 'gate']",allegedly,0,0,10
+"['allegedly', 'haunted', 'gate']",gate,0,0,10
+"['allegedly', 'haunted', 'gate']",haunted,0,0,10
+"['amnesty', 'granted', 'responsible', 'massacre']",amnesty,0,0,10
+"['amnesty', 'granted', 'responsible', 'massacre']",granted,0,0,10
+"['amnesty', 'granted', 'responsible', 'massacre']",massacre,0,0,10
+"['amnesty', 'granted', 'responsible', 'massacre']",responsible,0,0,10
+"['area', 'British', 'colony', 'Huguenot', 'land', 'grant']",British,0,0,10
+"['area', 'British', 'colony', 'Huguenot', 'land', 'grant']",Huguenot,0,0,10
+"['area', 'British', 'colony', 'Huguenot', 'land', 'grant']",area,0,0,10
+"['area', 'British', 'colony', 'Huguenot', 'land', 'grant']",colony,0,0,10
+"['area', 'British', 'colony', 'Huguenot', 'land', 'grant']",grant,0,0,10
+"['area', 'British', 'colony', 'Huguenot', 'land', 'grant']",land,0,0,10
+"['area', 'Northern', 'Europe', 'practiced', 'religion']",Europe,0,0,10
+"['area', 'Northern', 'Europe', 'practiced', 'religion']",Northern,0,0,10
+"['area', 'Northern', 'Europe', 'practiced', 'religion']",area,0,0,10
+"['area', 'Northern', 'Europe', 'practiced', 'religion']",practiced,0,0,10
+"['area', 'Northern', 'Europe', 'practiced', 'religion']",religion,0,0,10
+"['area', 'South', 'Africa', 'accepted', 'Huguenot', 'colonist']",Africa,0,0,10
+"['area', 'South', 'Africa', 'accepted', 'Huguenot', 'colonist']",Huguenot,0,0,10
+"['area', 'South', 'Africa', 'accepted', 'Huguenot', 'colonist']",South,0,0,10
+"['area', 'South', 'Africa', 'accepted', 'Huguenot', 'colonist']",accepted,0,0,10
+"['area', 'South', 'Africa', 'accepted', 'Huguenot', 'colonist']",area,0,0,10
+"['area', 'South', 'Africa', 'accepted', 'Huguenot', 'colonist']",colonist,0,0,10
+"['area', 'modern-day', 'Canada', 'received', 'Huguenot', 'immigrant']",Canada,0,0,10
+"['area', 'modern-day', 'Canada', 'received', 'Huguenot', 'immigrant']",Huguenot,0,0,10
+"['area', 'modern-day', 'Canada', 'received', 'Huguenot', 'immigrant']",area,0,0,10
+"['area', 'modern-day', 'Canada', 'received', 'Huguenot', 'immigrant']",immigrant,0,0,10
+"['area', 'modern-day', 'Canada', 'received', 'Huguenot', 'immigrant']",modern-day,0,0,10
+"['area', 'modern-day', 'Canada', 'received', 'Huguenot', 'immigrant']",received,0,0,10
+"['army', 'attacked', 'destroyed', 'colony']",army,0,0,10
+"['army', 'attacked', 'destroyed', 'colony']",attacked,0,0,10
+"['army', 'attacked', 'destroyed', 'colony']",colony,0,0,10
+"['army', 'attacked', 'destroyed', 'colony']",destroyed,0,0,10
+"['attempt', 'take', 'place']",attempt,0,0,10
+"['attempt', 'take', 'place']",place,0,0,10
+"['attempt', 'take', 'place']",take,0,0,10
+"['became', 'king', '1643']",1643,0,0,10
+"['became', 'king', '1643']",became,0,0,10
+"['became', 'king', '1643']",king,0,0,10
+"['begin', 'teaching']",begin,0,0,10
+"['begin', 'teaching']",teaching,0,0,10
+"['book', 'Bayle', 'publish']",Bayle,0,0,10
+"['book', 'Bayle', 'publish']",book,0,0,10
+"['book', 'Bayle', 'publish']",publish,0,0,10
+"['book', 'became', 'foundational', 'text', 'library']",became,0,0,10
+"['book', 'became', 'foundational', 'text', 'library']",book,0,0,10
+"['book', 'became', 'foundational', 'text', 'library']",foundational,0,0,10
+"['book', 'became', 'foundational', 'text', 'library']",library,0,0,10
+"['book', 'became', 'foundational', 'text', 'library']",text,0,0,10
+"['borough', 'neighborhood', 'called', 'Huguenot']",Huguenot,0,0,10
+"['borough', 'neighborhood', 'called', 'Huguenot']",borough,0,0,10
+"['borough', 'neighborhood', 'called', 'Huguenot']",called,0,0,10
+"['borough', 'neighborhood', 'called', 'Huguenot']",neighborhood,0,0,10
+"['central', 'European', 'country', 'Calvinist', 'ruler']",Calvinist,0,0,10
+"['central', 'European', 'country', 'Calvinist', 'ruler']",European,0,0,10
+"['central', 'European', 'country', 'Calvinist', 'ruler']",central,0,0,10
+"['central', 'European', 'country', 'Calvinist', 'ruler']",country,0,0,10
+"['central', 'European', 'country', 'Calvinist', 'ruler']",ruler,0,0,10
+"['characteristic', 'identifies', 'French', 'ancestry', 'South', 'Africans']",Africans,0,0,10
+"['characteristic', 'identifies', 'French', 'ancestry', 'South', 'Africans']",French,0,0,10
+"['characteristic', 'identifies', 'French', 'ancestry', 'South', 'Africans']",South,0,0,10
+"['characteristic', 'identifies', 'French', 'ancestry', 'South', 'Africans']",ancestry,0,0,10
+"['characteristic', 'identifies', 'French', 'ancestry', 'South', 'Africans']",characteristic,0,0,10
+"['characteristic', 'identifies', 'French', 'ancestry', 'South', 'Africans']",identifies,0,0,10
+"['charter', 'church', 'signed']",charter,0,0,10
+"['charter', 'church', 'signed']",church,0,0,10
+"['charter', 'church', 'signed']",signed,0,0,10
+"['church', 'Virginia', 'maintained', 'Huguenots', 'historic', 'shrine']",Huguenots,0,0,10
+"['church', 'Virginia', 'maintained', 'Huguenots', 'historic', 'shrine']",Virginia,0,0,10
+"['church', 'Virginia', 'maintained', 'Huguenots', 'historic', 'shrine']",church,0,0,10
+"['church', 'Virginia', 'maintained', 'Huguenots', 'historic', 'shrine']",historic,0,0,10
+"['church', 'Virginia', 'maintained', 'Huguenots', 'historic', 'shrine']",maintained,0,0,10
+"['church', 'Virginia', 'maintained', 'Huguenots', 'historic', 'shrine']",shrine,0,0,10
+"['city', 'last', 'Huguenot', 'congregation', 'US']",Huguenot,0,0,10
+"['city', 'last', 'Huguenot', 'congregation', 'US']",US,0,0,10
+"['city', 'last', 'Huguenot', 'congregation', 'US']",city,0,0,10
+"['city', 'last', 'Huguenot', 'congregation', 'US']",congregation,0,0,10
+"['city', 'last', 'Huguenot', 'congregation', 'US']",last,0,0,10
+"['city', 'north', 'New', 'York', 'settled', 'Huguenots']",Huguenots,0,0,10
+"['city', 'north', 'New', 'York', 'settled', 'Huguenots']",New,0,0,10
+"['city', 'north', 'New', 'York', 'settled', 'Huguenots']",York,0,0,10
+"['city', 'north', 'New', 'York', 'settled', 'Huguenots']",city,0,0,10
+"['city', 'north', 'New', 'York', 'settled', 'Huguenots']",north,0,0,10
+"['city', 'north', 'New', 'York', 'settled', 'Huguenots']",settled,0,0,10
+"['civil', 'war', 'caused', 'Huguenots', 'called']",Huguenots,0,0,10
+"['civil', 'war', 'caused', 'Huguenots', 'called']",called,0,0,10
+"['civil', 'war', 'caused', 'Huguenots', 'called']",caused,0,0,10
+"['civil', 'war', 'caused', 'Huguenots', 'called']",civil,0,0,10
+"['civil', 'war', 'caused', 'Huguenots', 'called']",war,0,0,10
+"['coalition', 'rose', 'oppose', 'Louis', 'XIV', 'France']",France,0,0,10
+"['coalition', 'rose', 'oppose', 'Louis', 'XIV', 'France']",Louis,0,0,10
+"['coalition', 'rose', 'oppose', 'Louis', 'XIV', 'France']",XIV,0,0,10
+"['coalition', 'rose', 'oppose', 'Louis', 'XIV', 'France']",coalition,0,0,10
+"['coalition', 'rose', 'oppose', 'Louis', 'XIV', 'France']",oppose,0,0,10
+"['coalition', 'rose', 'oppose', 'Louis', 'XIV', 'France']",rose,0,0,10
+"['colony', 'destroyed']",colony,0,0,10
+"['colony', 'destroyed']",destroyed,0,0,10
+"['common', 'term', 'loss', 'key', 'member', 'French', 'society', 'Huguenot', 'emigration']",French,0,0,10
+"['common', 'term', 'loss', 'key', 'member', 'French', 'society', 'Huguenot', 'emigration']",Huguenot,0,0,10
+"['common', 'term', 'loss', 'key', 'member', 'French', 'society', 'Huguenot', 'emigration']",common,0,0,10
+"['common', 'term', 'loss', 'key', 'member', 'French', 'society', 'Huguenot', 'emigration']",emigration,0,0,10
+"['common', 'term', 'loss', 'key', 'member', 'French', 'society', 'Huguenot', 'emigration']",key,0,0,10
+"['common', 'term', 'loss', 'key', 'member', 'French', 'society', 'Huguenot', 'emigration']",loss,0,0,10
+"['common', 'term', 'loss', 'key', 'member', 'French', 'society', 'Huguenot', 'emigration']",member,0,0,10
+"['common', 'term', 'loss', 'key', 'member', 'French', 'society', 'Huguenot', 'emigration']",society,0,0,10
+"['common', 'term', 'loss', 'key', 'member', 'French', 'society', 'Huguenot', 'emigration']",term,0,0,10
+"['country', 'currently', 'group', 'call', 'Huguenots']",Huguenots,0,0,10
+"['country', 'currently', 'group', 'call', 'Huguenots']",call,0,0,10
+"['country', 'currently', 'group', 'call', 'Huguenots']",country,0,0,10
+"['country', 'currently', 'group', 'call', 'Huguenots']",currently,0,0,10
+"['country', 'currently', 'group', 'call', 'Huguenots']",group,0,0,10
+"['country', 'initially', 'received', 'largest', 'number', 'Huguenot', 'refugee']",Huguenot,0,0,10
+"['country', 'initially', 'received', 'largest', 'number', 'Huguenot', 'refugee']",country,0,0,10
+"['country', 'initially', 'received', 'largest', 'number', 'Huguenot', 'refugee']",initially,0,0,10
+"['country', 'initially', 'received', 'largest', 'number', 'Huguenot', 'refugee']",largest,0,0,10
+"['country', 'initially', 'received', 'largest', 'number', 'Huguenot', 'refugee']",number,0,0,10
+"['country', 'initially', 'received', 'largest', 'number', 'Huguenot', 'refugee']",received,0,0,10
+"['country', 'initially', 'received', 'largest', 'number', 'Huguenot', 'refugee']",refugee,0,0,10
+"['declaration', 'predicated', 'emigration', 'Huguenot', 'refugee']",Huguenot,0,0,10
+"['declaration', 'predicated', 'emigration', 'Huguenot', 'refugee']",declaration,0,0,10
+"['declaration', 'predicated', 'emigration', 'Huguenot', 'refugee']",emigration,0,0,10
+"['declaration', 'predicated', 'emigration', 'Huguenot', 'refugee']",predicated,0,0,10
+"['declaration', 'predicated', 'emigration', 'Huguenot', 'refugee']",refugee,0,0,10
+"['document', 'Huguenots', 'confess', 'faith', 'Portuguese', 'Brazil']",Brazil,0,0,10
+"['document', 'Huguenots', 'confess', 'faith', 'Portuguese', 'Brazil']",Huguenots,0,0,10
+"['document', 'Huguenots', 'confess', 'faith', 'Portuguese', 'Brazil']",Portuguese,0,0,10
+"['document', 'Huguenots', 'confess', 'faith', 'Portuguese', 'Brazil']",confess,0,0,10
+"['document', 'Huguenots', 'confess', 'faith', 'Portuguese', 'Brazil']",document,0,0,10
+"['document', 'Huguenots', 'confess', 'faith', 'Portuguese', 'Brazil']",faith,0,0,10
+"['dual', 'title', 'Frederick', 'William', 'hold']",Frederick,0,0,10
+"['dual', 'title', 'Frederick', 'William', 'hold']",William,0,0,10
+"['dual', 'title', 'Frederick', 'William', 'hold']",dual,0,0,10
+"['dual', 'title', 'Frederick', 'William', 'hold']",hold,0,0,10
+"['dual', 'title', 'Frederick', 'William', 'hold']",title,0,0,10
+"['early', 'Huguenot', 'Church', 'established', 'England']",Church,0,0,10
+"['early', 'Huguenot', 'Church', 'established', 'England']",England,0,0,10
+"['early', 'Huguenot', 'Church', 'established', 'England']",Huguenot,0,0,10
+"['early', 'Huguenot', 'Church', 'established', 'England']",early,0,0,10
+"['early', 'Huguenot', 'Church', 'established', 'England']",established,0,0,10
+"['edict', 'declared']",declared,0,0,10
+"['edict', 'declared']",edict,0,0,10
+"['edict', 'protected', 'Catholics', 'discouraging']",Catholics,0,0,10
+"['edict', 'protected', 'Catholics', 'discouraging']",discouraging,0,0,10
+"['edict', 'protected', 'Catholics', 'discouraging']",edict,0,0,10
+"['edict', 'protected', 'Catholics', 'discouraging']",protected,0,0,10
+"['era', 'member', 'community', 'emigrate', 'US']",US,0,0,10
+"['era', 'member', 'community', 'emigrate', 'US']",community,0,0,10
+"['era', 'member', 'community', 'emigrate', 'US']",emigrate,0,0,10
+"['era', 'member', 'community', 'emigrate', 'US']",era,0,0,10
+"['era', 'member', 'community', 'emigrate', 'US']",member,0,0,10
+"['event', 'worst', 'example', 'Huguenot', 'persecution']",Huguenot,0,0,10
+"['event', 'worst', 'example', 'Huguenot', 'persecution']",event,0,0,10
+"['event', 'worst', 'example', 'Huguenot', 'persecution']",example,0,0,10
+"['event', 'worst', 'example', 'Huguenot', 'persecution']",persecution,0,0,10
+"['event', 'worst', 'example', 'Huguenot', 'persecution']",worst,0,0,10
+"['famous', 'Huguenot', 'theologian', 'writer', 'London']",Huguenot,0,0,10
+"['famous', 'Huguenot', 'theologian', 'writer', 'London']",London,0,0,10
+"['famous', 'Huguenot', 'theologian', 'writer', 'London']",famous,0,0,10
+"['famous', 'Huguenot', 'theologian', 'writer', 'London']",theologian,0,0,10
+"['famous', 'Huguenot', 'theologian', 'writer', 'London']",writer,0,0,10
+"['final', 'Prime', 'Minister', 'East', 'Germany']",East,0,0,10
+"['final', 'Prime', 'Minister', 'East', 'Germany']",Germany,0,0,10
+"['final', 'Prime', 'Minister', 'East', 'Germany']",Minister,0,0,10
+"['final', 'Prime', 'Minister', 'East', 'Germany']",Prime,0,0,10
+"['final', 'Prime', 'Minister', 'East', 'Germany']",final,0,0,10
+"['first', 'French', 'language', 'bible', 'appear']",French,0,0,10
+"['first', 'French', 'language', 'bible', 'appear']",appear,0,0,10
+"['first', 'French', 'language', 'bible', 'appear']",bible,0,0,10
+"['first', 'French', 'language', 'bible', 'appear']",first,0,0,10
+"['first', 'French', 'language', 'bible', 'appear']",language,0,0,10
+"['first', 'Huguenot', 'arrive', 'Cape', 'Good', 'Hope']",Cape,0,0,10
+"['first', 'Huguenot', 'arrive', 'Cape', 'Good', 'Hope']",Good,0,0,10
+"['first', 'Huguenot', 'arrive', 'Cape', 'Good', 'Hope']",Hope,0,0,10
+"['first', 'Huguenot', 'arrive', 'Cape', 'Good', 'Hope']",Huguenot,0,0,10
+"['first', 'Huguenot', 'arrive', 'Cape', 'Good', 'Hope']",arrive,0,0,10
+"['first', 'Huguenot', 'arrive', 'Cape', 'Good', 'Hope']",first,0,0,10
+"['first', 'Huguenot', 'colonist', 'settle']",Huguenot,0,0,10
+"['first', 'Huguenot', 'colonist', 'settle']",colonist,0,0,10
+"['first', 'Huguenot', 'colonist', 'settle']",first,0,0,10
+"['first', 'Huguenot', 'colonist', 'settle']",settle,0,0,10
+"['first', 'two', 'destination', 'Huguenot', 'emigre']",Huguenot,0,0,10
+"['first', 'two', 'destination', 'Huguenot', 'emigre']",destination,0,0,10
+"['first', 'two', 'destination', 'Huguenot', 'emigre']",emigre,0,0,10
+"['first', 'two', 'destination', 'Huguenot', 'emigre']",first,0,0,10
+"['first', 'two', 'destination', 'Huguenot', 'emigre']",two,0,0,10
+"['general', 'religious', 'belief', 'nation', 'received', 'Huguenot', 'refugee', 'common']",Huguenot,0,0,10
+"['general', 'religious', 'belief', 'nation', 'received', 'Huguenot', 'refugee', 'common']",belief,0,0,10
+"['general', 'religious', 'belief', 'nation', 'received', 'Huguenot', 'refugee', 'common']",common,0,0,10
+"['general', 'religious', 'belief', 'nation', 'received', 'Huguenot', 'refugee', 'common']",general,0,0,10
+"['general', 'religious', 'belief', 'nation', 'received', 'Huguenot', 'refugee', 'common']",nation,0,0,10
+"['general', 'religious', 'belief', 'nation', 'received', 'Huguenot', 'refugee', 'common']",received,0,0,10
+"['general', 'religious', 'belief', 'nation', 'received', 'Huguenot', 'refugee', 'common']",refugee,0,0,10
+"['general', 'religious', 'belief', 'nation', 'received', 'Huguenot', 'refugee', 'common']",religious,0,0,10
+"['group', 'killed', 'thousand', 'Huguenots']",Huguenots,0,0,10
+"['group', 'killed', 'thousand', 'Huguenots']",group,0,0,10
+"['group', 'killed', 'thousand', 'Huguenots']",killed,0,0,10
+"['group', 'killed', 'thousand', 'Huguenots']",thousand,0,0,10
+"['group', 'specifically', 'opposed', 'Huguenots']",Huguenots,0,0,10
+"['group', 'specifically', 'opposed', 'Huguenots']",group,0,0,10
+"['group', 'specifically', 'opposed', 'Huguenots']",opposed,0,0,10
+"['group', 'specifically', 'opposed', 'Huguenots']",specifically,0,0,10
+"['helped', 'spread', 'Protestantism', 'France']",France,0,0,10
+"['helped', 'spread', 'Protestantism', 'France']",Protestantism,0,0,10
+"['helped', 'spread', 'Protestantism', 'France']",helped,0,0,10
+"['helped', 'spread', 'Protestantism', 'France']",spread,0,0,10
+"['house', 'site', 'weaving', 'school', 'Canterbury']",Canterbury,0,0,10
+"['house', 'site', 'weaving', 'school', 'Canterbury']",house,0,0,10
+"['house', 'site', 'weaving', 'school', 'Canterbury']",school,0,0,10
+"['house', 'site', 'weaving', 'school', 'Canterbury']",site,0,0,10
+"['house', 'site', 'weaving', 'school', 'Canterbury']",weaving,0,0,10
+"['important', 'city', 'town']",city,0,0,10
+"['important', 'city', 'town']",important,0,0,10
+"['important', 'city', 'town']",town,0,0,10
+"['industry', 'centered', 'Bedfordshire']",Bedfordshire,0,0,10
+"['industry', 'centered', 'Bedfordshire']",centered,0,0,10
+"['industry', 'centered', 'Bedfordshire']",industry,0,0,10
+"['industry', 'nobleman', 'establish', 'settlement']",establish,0,0,10
+"['industry', 'nobleman', 'establish', 'settlement']",industry,0,0,10
+"['industry', 'nobleman', 'establish', 'settlement']",nobleman,0,0,10
+"['industry', 'nobleman', 'establish', 'settlement']",settlement,0,0,10
+"['king', 'first', 'approach', 'Huguenots']",Huguenots,0,0,10
+"['king', 'first', 'approach', 'Huguenots']",approach,0,0,10
+"['king', 'first', 'approach', 'Huguenots']",first,0,0,10
+"['king', 'first', 'approach', 'Huguenots']",king,0,0,10
+"['king', 'regarding', 'Huguenot', 'education']",Huguenot,0,0,10
+"['king', 'regarding', 'Huguenot', 'education']",education,0,0,10
+"['king', 'regarding', 'Huguenot', 'education']",king,0,0,10
+"['king', 'regarding', 'Huguenot', 'education']",regarding,0,0,10
+"['leader', 'Swiss', 'reformation', 'student', 'Lefevre']",Lefevre,0,0,10
+"['leader', 'Swiss', 'reformation', 'student', 'Lefevre']",Swiss,0,0,10
+"['leader', 'Swiss', 'reformation', 'student', 'Lefevre']",leader,0,0,10
+"['leader', 'Swiss', 'reformation', 'student', 'Lefevre']",reformation,0,0,10
+"['leader', 'Swiss', 'reformation', 'student', 'Lefevre']",student,0,0,10
+"['leader', 'established', 'colony', 'Florida']",Florida,0,0,10
+"['leader', 'established', 'colony', 'Florida']",colony,0,0,10
+"['leader', 'established', 'colony', 'Florida']",established,0,0,10
+"['leader', 'established', 'colony', 'Florida']",leader,0,0,10
+"['leader', 'led', 'Dutch', 'Revolt', 'wrote', 'Apologie']",Apologie,0,0,10
+"['leader', 'led', 'Dutch', 'Revolt', 'wrote', 'Apologie']",Dutch,0,0,10
+"['leader', 'led', 'Dutch', 'Revolt', 'wrote', 'Apologie']",Revolt,0,0,10
+"['leader', 'led', 'Dutch', 'Revolt', 'wrote', 'Apologie']",leader,0,0,10
+"['leader', 'led', 'Dutch', 'Revolt', 'wrote', 'Apologie']",led,0,0,10
+"['leader', 'led', 'Dutch', 'Revolt', 'wrote', 'Apologie']",wrote,0,0,10
+"['leader', 'publish', 'French', 'language', 'Bible']",Bible,0,0,10
+"['leader', 'publish', 'French', 'language', 'Bible']",French,0,0,10
+"['leader', 'publish', 'French', 'language', 'Bible']",language,0,0,10
+"['leader', 'publish', 'French', 'language', 'Bible']",leader,0,0,10
+"['leader', 'publish', 'French', 'language', 'Bible']",publish,0,0,10
+"['led', 'North', 'American', 'Huguenot', 'colonial', 'expedition']",American,0,0,10
+"['led', 'North', 'American', 'Huguenot', 'colonial', 'expedition']",Huguenot,0,0,10
+"['led', 'North', 'American', 'Huguenot', 'colonial', 'expedition']",North,0,0,10
+"['led', 'North', 'American', 'Huguenot', 'colonial', 'expedition']",colonial,0,0,10
+"['led', 'North', 'American', 'Huguenot', 'colonial', 'expedition']",expedition,0,0,10
+"['led', 'North', 'American', 'Huguenot', 'colonial', 'expedition']",led,0,0,10
+"['located', 'site', 'Weaving', 'House', 'currently']",House,0,0,10
+"['located', 'site', 'Weaving', 'House', 'currently']",Weaving,0,0,10
+"['located', 'site', 'Weaving', 'House', 'currently']",currently,0,0,10
+"['located', 'site', 'Weaving', 'House', 'currently']",located,0,0,10
+"['located', 'site', 'Weaving', 'House', 'currently']",site,0,0,10
+"['located', 'within', 'district']",district,0,0,10
+"['located', 'within', 'district']",located,0,0,10
+"['located', 'within', 'district']",within,0,0,10
+"['long', 'Huguenots', 'continue', 'use', 'French', 'name']",French,0,0,10
+"['long', 'Huguenots', 'continue', 'use', 'French', 'name']",Huguenots,0,0,10
+"['long', 'Huguenots', 'continue', 'use', 'French', 'name']",continue,0,0,10
+"['long', 'Huguenots', 'continue', 'use', 'French', 'name']",long,0,0,10
+"['long', 'Huguenots', 'continue', 'use', 'French', 'name']",name,0,0,10
+"['long', 'Huguenots', 'continue', 'use', 'French', 'name']",use,0,0,10
+"['made', 'emigration', 'colony', 'attractive']",attractive,0,0,10
+"['made', 'emigration', 'colony', 'attractive']",colony,0,0,10
+"['made', 'emigration', 'colony', 'attractive']",emigration,0,0,10
+"['made', 'emigration', 'colony', 'attractive']",made,0,0,10
+"['military', 'impact', 'Huguenot', 'immigration', 'Frederick', 'army']",Frederick,0,0,10
+"['military', 'impact', 'Huguenot', 'immigration', 'Frederick', 'army']",Huguenot,0,0,10
+"['military', 'impact', 'Huguenot', 'immigration', 'Frederick', 'army']",army,0,0,10
+"['military', 'impact', 'Huguenot', 'immigration', 'Frederick', 'army']",immigration,0,0,10
+"['military', 'impact', 'Huguenot', 'immigration', 'Frederick', 'army']",impact,0,0,10
+"['military', 'impact', 'Huguenot', 'immigration', 'Frederick', 'army']",military,0,0,10
+"['modern', 'city', 'located', 'original', 'Huguenot', 'colony']",Huguenot,0,0,10
+"['modern', 'city', 'located', 'original', 'Huguenot', 'colony']",city,0,0,10
+"['modern', 'city', 'located', 'original', 'Huguenot', 'colony']",colony,0,0,10
+"['modern', 'city', 'located', 'original', 'Huguenot', 'colony']",located,0,0,10
+"['modern', 'city', 'located', 'original', 'Huguenot', 'colony']",modern,0,0,10
+"['modern', 'city', 'located', 'original', 'Huguenot', 'colony']",original,0,0,10
+"['name', 'Florida', 'Huguenot', 'colony']",Florida,0,0,10
+"['name', 'Florida', 'Huguenot', 'colony']",Huguenot,0,0,10
+"['name', 'Florida', 'Huguenot', 'colony']",colony,0,0,10
+"['name', 'Florida', 'Huguenot', 'colony']",name,0,0,10
+"['name', 'France', 'primary', 'colony', 'New', 'World']",France,0,0,10
+"['name', 'France', 'primary', 'colony', 'New', 'World']",New,0,0,10
+"['name', 'France', 'primary', 'colony', 'New', 'World']",World,0,0,10
+"['name', 'France', 'primary', 'colony', 'New', 'World']",colony,0,0,10
+"['name', 'France', 'primary', 'colony', 'New', 'World']",name,0,0,10
+"['name', 'France', 'primary', 'colony', 'New', 'World']",primary,0,0,10
+"['name', 'Gate', 'known']",Gate,0,0,10
+"['name', 'Gate', 'known']",known,0,0,10
+"['name', 'Gate', 'known']",name,0,0,10
+"['name', 'du', 'Pont', 'gunpowder', 'operation']",Pont,0,0,10
+"['name', 'du', 'Pont', 'gunpowder', 'operation']",du,0,0,10
+"['name', 'du', 'Pont', 'gunpowder', 'operation']",gunpowder,0,0,10
+"['name', 'du', 'Pont', 'gunpowder', 'operation']",name,0,0,10
+"['name', 'du', 'Pont', 'gunpowder', 'operation']",operation,0,0,10
+"['name', 'first', 'Huguenot', 'church', 'New', 'World']",Huguenot,0,0,10
+"['name', 'first', 'Huguenot', 'church', 'New', 'World']",New,0,0,10
+"['name', 'first', 'Huguenot', 'church', 'New', 'World']",World,0,0,10
+"['name', 'first', 'Huguenot', 'church', 'New', 'World']",church,0,0,10
+"['name', 'first', 'Huguenot', 'church', 'New', 'World']",first,0,0,10
+"['name', 'first', 'Huguenot', 'church', 'New', 'World']",name,0,0,10
+"['name', 'first', 'Huguenot', 'church', 'known', 'today']",Huguenot,0,0,10
+"['name', 'first', 'Huguenot', 'church', 'known', 'today']",church,0,0,10
+"['name', 'first', 'Huguenot', 'church', 'known', 'today']",first,0,0,10
+"['name', 'first', 'Huguenot', 'church', 'known', 'today']",known,0,0,10
+"['name', 'first', 'Huguenot', 'church', 'known', 'today']",name,0,0,10
+"['name', 'first', 'Huguenot', 'church', 'known', 'today']",today,0,0,10
+"['name', 'first', 'Huguenot', 'outpost', 'South', 'Carolina']",Carolina,0,0,10
+"['name', 'first', 'Huguenot', 'outpost', 'South', 'Carolina']",Huguenot,0,0,10
+"['name', 'first', 'Huguenot', 'outpost', 'South', 'Carolina']",South,0,0,10
+"['name', 'first', 'Huguenot', 'outpost', 'South', 'Carolina']",first,0,0,10
+"['name', 'first', 'Huguenot', 'outpost', 'South', 'Carolina']",name,0,0,10
+"['name', 'first', 'Huguenot', 'outpost', 'South', 'Carolina']",outpost,0,0,10
+"['name', 'given', 'plot', 'usurp', 'power', 'French', 'House', 'Guise']",French,0,0,10
+"['name', 'given', 'plot', 'usurp', 'power', 'French', 'House', 'Guise']",Guise,0,0,10
+"['name', 'given', 'plot', 'usurp', 'power', 'French', 'House', 'Guise']",House,0,0,10
+"['name', 'given', 'plot', 'usurp', 'power', 'French', 'House', 'Guise']",given,0,0,10
+"['name', 'given', 'plot', 'usurp', 'power', 'French', 'House', 'Guise']",name,0,0,10
+"['name', 'given', 'plot', 'usurp', 'power', 'French', 'House', 'Guise']",plot,0,0,10
+"['name', 'given', 'plot', 'usurp', 'power', 'French', 'House', 'Guise']",power,0,0,10
+"['name', 'given', 'plot', 'usurp', 'power', 'French', 'House', 'Guise']",usurp,0,0,10
+"['name', 'supposedly', 'reformed', 'known']",known,0,0,10
+"['name', 'supposedly', 'reformed', 'known']",name,0,0,10
+"['name', 'supposedly', 'reformed', 'known']",reformed,0,0,10
+"['name', 'supposedly', 'reformed', 'known']",supposedly,0,0,10
+"['name', 'third', 'permanent', 'Huguenot', 'church', 'New', 'Rochelle']",Huguenot,0,0,10
+"['name', 'third', 'permanent', 'Huguenot', 'church', 'New', 'Rochelle']",New,0,0,10
+"['name', 'third', 'permanent', 'Huguenot', 'church', 'New', 'Rochelle']",Rochelle,0,0,10
+"['name', 'third', 'permanent', 'Huguenot', 'church', 'New', 'Rochelle']",church,0,0,10
+"['name', 'third', 'permanent', 'Huguenot', 'church', 'New', 'Rochelle']",name,0,0,10
+"['name', 'third', 'permanent', 'Huguenot', 'church', 'New', 'Rochelle']",permanent,0,0,10
+"['name', 'third', 'permanent', 'Huguenot', 'church', 'New', 'Rochelle']",third,0,0,10
+"['naturalization', 'act', 'passed']",act,0,0,10
+"['naturalization', 'act', 'passed']",naturalization,0,0,10
+"['naturalization', 'act', 'passed']",passed,0,0,10
+"['new', 'king', 'react', 'Huguenots']",Huguenots,0,0,10
+"['new', 'king', 'react', 'Huguenots']",king,0,0,10
+"['new', 'king', 'react', 'Huguenots']",new,0,0,10
+"['new', 'king', 'react', 'Huguenots']",react,0,0,10
+"['noble', 'helped', 'establish', 'Huguenot', 'settlement', 'Saarland']",Huguenot,0,0,10
+"['noble', 'helped', 'establish', 'Huguenot', 'settlement', 'Saarland']",Saarland,0,0,10
+"['noble', 'helped', 'establish', 'Huguenot', 'settlement', 'Saarland']",establish,0,0,10
+"['noble', 'helped', 'establish', 'Huguenot', 'settlement', 'Saarland']",helped,0,0,10
+"['noble', 'helped', 'establish', 'Huguenot', 'settlement', 'Saarland']",noble,0,0,10
+"['noble', 'helped', 'establish', 'Huguenot', 'settlement', 'Saarland']",settlement,0,0,10
+"['non-religious', 'reason', 'massacre']",massacre,0,0,10
+"['non-religious', 'reason', 'massacre']",non-religious,0,0,10
+"['non-religious', 'reason', 'massacre']",reason,0,0,10
+"['northern', 'province', 'France', 'large', 'protestant', 'population']",France,0,0,10
+"['northern', 'province', 'France', 'large', 'protestant', 'population']",large,0,0,10
+"['northern', 'province', 'France', 'large', 'protestant', 'population']",northern,0,0,10
+"['northern', 'province', 'France', 'large', 'protestant', 'population']",population,0,0,10
+"['northern', 'province', 'France', 'large', 'protestant', 'population']",protestant,0,0,10
+"['northern', 'province', 'France', 'large', 'protestant', 'population']",province,0,0,10
+"['number', 'new', 'Huguenot', 'colonist', 'declined', 'year']",Huguenot,0,0,10
+"['number', 'new', 'Huguenot', 'colonist', 'declined', 'year']",colonist,0,0,10
+"['number', 'new', 'Huguenot', 'colonist', 'declined', 'year']",declined,0,0,10
+"['number', 'new', 'Huguenot', 'colonist', 'declined', 'year']",new,0,0,10
+"['number', 'new', 'Huguenot', 'colonist', 'declined', 'year']",number,0,0,10
+"['number', 'new', 'Huguenot', 'colonist', 'declined', 'year']",year,0,0,10
+"['one', 'French', 'pro-reform', 'Roman', 'Catholic', '15th', 'century']",15th,0,0,10
+"['one', 'French', 'pro-reform', 'Roman', 'Catholic', '15th', 'century']",Catholic,0,0,10
+"['one', 'French', 'pro-reform', 'Roman', 'Catholic', '15th', 'century']",French,0,0,10
+"['one', 'French', 'pro-reform', 'Roman', 'Catholic', '15th', 'century']",Roman,0,0,10
+"['one', 'French', 'pro-reform', 'Roman', 'Catholic', '15th', 'century']",century,0,0,10
+"['one', 'French', 'pro-reform', 'Roman', 'Catholic', '15th', 'century']",one,0,0,10
+"['one', 'French', 'pro-reform', 'Roman', 'Catholic', '15th', 'century']",pro-reform,0,0,10
+"['one', 'find', 'formerly', 'Huguenot', 'farm', 'South', 'Africa']",Africa,0,0,10
+"['one', 'find', 'formerly', 'Huguenot', 'farm', 'South', 'Africa']",Huguenot,0,0,10
+"['one', 'find', 'formerly', 'Huguenot', 'farm', 'South', 'Africa']",South,0,0,10
+"['one', 'find', 'formerly', 'Huguenot', 'farm', 'South', 'Africa']",farm,0,0,10
+"['one', 'find', 'formerly', 'Huguenot', 'farm', 'South', 'Africa']",find,0,0,10
+"['one', 'find', 'formerly', 'Huguenot', 'farm', 'South', 'Africa']",formerly,0,0,10
+"['one', 'find', 'formerly', 'Huguenot', 'farm', 'South', 'Africa']",one,0,0,10
+"['one', 'prominent', 'Huguenot-descended', 'arm', 'manufacturer']",Huguenot-descended,0,0,10
+"['one', 'prominent', 'Huguenot-descended', 'arm', 'manufacturer']",arm,0,0,10
+"['one', 'prominent', 'Huguenot-descended', 'arm', 'manufacturer']",manufacturer,0,0,10
+"['one', 'prominent', 'Huguenot-descended', 'arm', 'manufacturer']",one,0,0,10
+"['one', 'prominent', 'Huguenot-descended', 'arm', 'manufacturer']",prominent,0,0,10
+"['one', 'prominent', 'advocate', 'theory']",advocate,0,0,10
+"['one', 'prominent', 'advocate', 'theory']",one,0,0,10
+"['one', 'prominent', 'advocate', 'theory']",prominent,0,0,10
+"['one', 'prominent', 'advocate', 'theory']",theory,0,0,10
+"['patron', 'saint', 'Huguenots']",Huguenots,0,0,10
+"['patron', 'saint', 'Huguenots']",patron,0,0,10
+"['patron', 'saint', 'Huguenots']",saint,0,0,10
+"['percentage', 'France', 'population', 'protestant', 'today']",France,0,0,10
+"['percentage', 'France', 'population', 'protestant', 'today']",percentage,0,0,10
+"['percentage', 'France', 'population', 'protestant', 'today']",population,0,0,10
+"['percentage', 'France', 'population', 'protestant', 'today']",protestant,0,0,10
+"['percentage', 'France', 'population', 'protestant', 'today']",today,0,0,10
+"['person', 'allowed', 'settle', 'New', 'France']",France,0,0,10
+"['person', 'allowed', 'settle', 'New', 'France']",New,0,0,10
+"['person', 'allowed', 'settle', 'New', 'France']",allowed,0,0,10
+"['person', 'allowed', 'settle', 'New', 'France']",person,0,0,10
+"['person', 'allowed', 'settle', 'New', 'France']",settle,0,0,10
+"['population', 'Dutch', 'Republic', 'emigration']",Dutch,0,0,10
+"['population', 'Dutch', 'Republic', 'emigration']",Republic,0,0,10
+"['population', 'Dutch', 'Republic', 'emigration']",emigration,0,0,10
+"['population', 'Dutch', 'Republic', 'emigration']",population,0,0,10
+"['portion', 'Berlin', 'population', 'spoke', 'French', '1700']",1700,0,0,10
+"['portion', 'Berlin', 'population', 'spoke', 'French', '1700']",Berlin,0,0,10
+"['portion', 'Berlin', 'population', 'spoke', 'French', '1700']",French,0,0,10
+"['portion', 'Berlin', 'population', 'spoke', 'French', '1700']",population,0,0,10
+"['portion', 'Berlin', 'population', 'spoke', 'French', '1700']",portion,0,0,10
+"['portion', 'Berlin', 'population', 'spoke', 'French', '1700']",spoke,0,0,10
+"['practice', 'occupying', 'looting', 'Huguenot', 'home', 'called']",Huguenot,0,0,10
+"['practice', 'occupying', 'looting', 'Huguenot', 'home', 'called']",called,0,0,10
+"['practice', 'occupying', 'looting', 'Huguenot', 'home', 'called']",home,0,0,10
+"['practice', 'occupying', 'looting', 'Huguenot', 'home', 'called']",looting,0,0,10
+"['practice', 'occupying', 'looting', 'Huguenot', 'home', 'called']",occupying,0,0,10
+"['practice', 'occupying', 'looting', 'Huguenot', 'home', 'called']",practice,0,0,10
+"['present', 'day', 'county', 'New', 'Rochelle']",New,0,0,10
+"['present', 'day', 'county', 'New', 'Rochelle']",Rochelle,0,0,10
+"['present', 'day', 'county', 'New', 'Rochelle']",county,0,0,10
+"['present', 'day', 'county', 'New', 'Rochelle']",day,0,0,10
+"['present', 'day', 'county', 'New', 'Rochelle']",present,0,0,10
+"['present-day', 'area', 'settlement', 'near']",area,0,0,10
+"['present-day', 'area', 'settlement', 'near']",near,0,0,10
+"['present-day', 'area', 'settlement', 'near']",present-day,0,0,10
+"['present-day', 'area', 'settlement', 'near']",settlement,0,0,10
+"['present-day', 'location', 'church']",church,0,0,10
+"['present-day', 'location', 'church']",location,0,0,10
+"['present-day', 'location', 'church']",present-day,0,0,10
+"['pro-reform', 'leader', 'teach']",leader,0,0,10
+"['pro-reform', 'leader', 'teach']",pro-reform,0,0,10
+"['pro-reform', 'leader', 'teach']",teach,0,0,10
+"['proclamation', 'abolished', 'protestantism', 'France']",France,0,0,10
+"['proclamation', 'abolished', 'protestantism', 'France']",abolished,0,0,10
+"['proclamation', 'abolished', 'protestantism', 'France']",proclamation,0,0,10
+"['proclamation', 'abolished', 'protestantism', 'France']",protestantism,0,0,10
+"['proclamation', 'gave', 'Huguenots', 'special', 'privilege', 'Brandenburg']",Brandenburg,0,0,10
+"['proclamation', 'gave', 'Huguenots', 'special', 'privilege', 'Brandenburg']",Huguenots,0,0,10
+"['proclamation', 'gave', 'Huguenots', 'special', 'privilege', 'Brandenburg']",gave,0,0,10
+"['proclamation', 'gave', 'Huguenots', 'special', 'privilege', 'Brandenburg']",privilege,0,0,10
+"['proclamation', 'gave', 'Huguenots', 'special', 'privilege', 'Brandenburg']",proclamation,0,0,10
+"['proclamation', 'gave', 'Huguenots', 'special', 'privilege', 'Brandenburg']",special,0,0,10
+"['proclamation', 'issued']",issued,0,0,10
+"['proclamation', 'issued']",proclamation,0,0,10
+"['proclamation', 'officially', 'ended', 'limited', 'Huguenot', 'autonomy']",Huguenot,0,0,10
+"['proclamation', 'officially', 'ended', 'limited', 'Huguenot', 'autonomy']",autonomy,0,0,10
+"['proclamation', 'officially', 'ended', 'limited', 'Huguenot', 'autonomy']",ended,0,0,10
+"['proclamation', 'officially', 'ended', 'limited', 'Huguenot', 'autonomy']",limited,0,0,10
+"['proclamation', 'officially', 'ended', 'limited', 'Huguenot', 'autonomy']",officially,0,0,10
+"['proclamation', 'officially', 'ended', 'limited', 'Huguenot', 'autonomy']",proclamation,0,0,10
+"['prominent', 'Huguenot', 'Holland']",Holland,0,0,10
+"['prominent', 'Huguenot', 'Holland']",Huguenot,0,0,10
+"['prominent', 'Huguenot', 'Holland']",prominent,0,0,10
+"['proportion', 'Huguenots', 'Catholics', 'peak']",Catholics,0,0,10
+"['proportion', 'Huguenots', 'Catholics', 'peak']",Huguenots,0,0,10
+"['proportion', 'Huguenots', 'Catholics', 'peak']",peak,0,0,10
+"['proportion', 'Huguenots', 'Catholics', 'peak']",proportion,4.356708827,39,10
+"['protestant', 'live', 'France', 'today']",France,0,0,10
+"['protestant', 'live', 'France', 'today']",live,0,0,10
+"['protestant', 'live', 'France', 'today']",protestant,0,0,10
+"['protestant', 'live', 'France', 'today']",today,0,0,10
+"['protestant', 'religion', 'made', 'Northern', 'European', 'county', 'safe', 'Huguenot', 'immigration']",European,0,0,10
+"['protestant', 'religion', 'made', 'Northern', 'European', 'county', 'safe', 'Huguenot', 'immigration']",Huguenot,0,0,10
+"['protestant', 'religion', 'made', 'Northern', 'European', 'county', 'safe', 'Huguenot', 'immigration']",Northern,0,0,10
+"['protestant', 'religion', 'made', 'Northern', 'European', 'county', 'safe', 'Huguenot', 'immigration']",county,0,0,10
+"['protestant', 'religion', 'made', 'Northern', 'European', 'county', 'safe', 'Huguenot', 'immigration']",immigration,0,0,10
+"['protestant', 'religion', 'made', 'Northern', 'European', 'county', 'safe', 'Huguenot', 'immigration']",made,0,0,10
+"['protestant', 'religion', 'made', 'Northern', 'European', 'county', 'safe', 'Huguenot', 'immigration']",protestant,0,0,10
+"['protestant', 'religion', 'made', 'Northern', 'European', 'county', 'safe', 'Huguenot', 'immigration']",religion,0,0,10
+"['protestant', 'religion', 'made', 'Northern', 'European', 'county', 'safe', 'Huguenot', 'immigration']",safe,0,0,10
+"['rebellion', 'take', 'place']",place,0,0,10
+"['rebellion', 'take', 'place']",rebellion,0,0,10
+"['rebellion', 'take', 'place']",take,0,0,10
+"['reference', 'Huguenot', 'lacemakers', '19th', 'century']",19th,0,0,10
+"['reference', 'Huguenot', 'lacemakers', '19th', 'century']",Huguenot,0,0,10
+"['reference', 'Huguenot', 'lacemakers', '19th', 'century']",century,0,0,10
+"['reference', 'Huguenot', 'lacemakers', '19th', 'century']",lacemakers,0,0,10
+"['reference', 'Huguenot', 'lacemakers', '19th', 'century']",reference,0,0,10
+"['refugee', 'emigrated', 'Dutch', 'Republic']",Dutch,0,0,10
+"['refugee', 'emigrated', 'Dutch', 'Republic']",Republic,0,0,10
+"['refugee', 'emigrated', 'Dutch', 'Republic']",emigrated,0,0,10
+"['refugee', 'emigrated', 'Dutch', 'Republic']",refugee,0,0,10
+"['religion', 'Henry', 'renounce', 'upon', 'ascending', 'throne']",Henry,0,0,10
+"['religion', 'Henry', 'renounce', 'upon', 'ascending', 'throne']",ascending,0,0,10
+"['religion', 'Henry', 'renounce', 'upon', 'ascending', 'throne']",religion,0,0,10
+"['religion', 'Henry', 'renounce', 'upon', 'ascending', 'throne']",renounce,0,0,10
+"['religion', 'Henry', 'renounce', 'upon', 'ascending', 'throne']",throne,0,0,10
+"['religion', 'Henry', 'renounce', 'upon', 'ascending', 'throne']",upon,0,0,10
+"['required', 'Huguenot', 'child', 'Edict', 'revoked']",Edict,0,0,10
+"['required', 'Huguenot', 'child', 'Edict', 'revoked']",Huguenot,0,0,10
+"['required', 'Huguenot', 'child', 'Edict', 'revoked']",child,0,0,10
+"['required', 'Huguenot', 'child', 'Edict', 'revoked']",required,0,0,10
+"['required', 'Huguenot', 'child', 'Edict', 'revoked']",revoked,0,0,10
+"['revocation', 'restrict', 'Huguenot', 'travel']",Huguenot,0,0,10
+"['revocation', 'restrict', 'Huguenot', 'travel']",restrict,0,0,10
+"['revocation', 'restrict', 'Huguenot', 'travel']",revocation,0,0,10
+"['revocation', 'restrict', 'Huguenot', 'travel']",travel,0,0,10
+"['settler', 'naturalized', 'English', 'colonist']",English,0,0,10
+"['settler', 'naturalized', 'English', 'colonist']",colonist,0,0,10
+"['settler', 'naturalized', 'English', 'colonist']",naturalized,0,0,10
+"['settler', 'naturalized', 'English', 'colonist']",settler,0,0,10
+"['settler', 'original', 'settled', 'Manakintown']",Manakintown,0,0,10
+"['settler', 'original', 'settled', 'Manakintown']",original,0,0,10
+"['settler', 'original', 'settled', 'Manakintown']",settled,0,0,10
+"['settler', 'original', 'settled', 'Manakintown']",settler,0,0,10
+"['signer', 'Articles', 'Confederation', 'descended', 'Huguenots']",Articles,0,0,10
+"['signer', 'Articles', 'Confederation', 'descended', 'Huguenots']",Confederation,0,0,10
+"['signer', 'Articles', 'Confederation', 'descended', 'Huguenots']",Huguenots,0,0,10
+"['signer', 'Articles', 'Confederation', 'descended', 'Huguenots']",descended,0,0,10
+"['signer', 'Articles', 'Confederation', 'descended', 'Huguenots']",signer,0,0,10
+"['social', 'construct', 'Huguenot', 'refugee', 'Canterbury', 'practice']",Canterbury,0,0,10
+"['social', 'construct', 'Huguenot', 'refugee', 'Canterbury', 'practice']",Huguenot,0,0,10
+"['social', 'construct', 'Huguenot', 'refugee', 'Canterbury', 'practice']",construct,0,0,10
+"['social', 'construct', 'Huguenot', 'refugee', 'Canterbury', 'practice']",practice,0,0,10
+"['social', 'construct', 'Huguenot', 'refugee', 'Canterbury', 'practice']",refugee,0,0,10
+"['social', 'construct', 'Huguenot', 'refugee', 'Canterbury', 'practice']",social,0,0,10
+"['southern', 'city', 'Huguenots', 'settle', 'near']",Huguenots,0,0,10
+"['southern', 'city', 'Huguenots', 'settle', 'near']",city,0,0,10
+"['southern', 'city', 'Huguenots', 'settle', 'near']",near,0,0,10
+"['southern', 'city', 'Huguenots', 'settle', 'near']",settle,0,0,10
+"['southern', 'city', 'Huguenots', 'settle', 'near']",southern,0,0,10
+"['southern', 'region', 'protestant', 'concentrated']",concentrated,0,0,10
+"['southern', 'region', 'protestant', 'concentrated']",protestant,0,0,10
+"['southern', 'region', 'protestant', 'concentrated']",region,0,0,10
+"['southern', 'region', 'protestant', 'concentrated']",southern,0,0,10
+"['state', 'largest', 'Huguenot', 'Society', 'located']",Huguenot,0,0,10
+"['state', 'largest', 'Huguenot', 'Society', 'located']",Society,0,0,10
+"['state', 'largest', 'Huguenot', 'Society', 'located']",largest,0,0,10
+"['state', 'largest', 'Huguenot', 'Society', 'located']",located,0,0,10
+"['state', 'largest', 'Huguenot', 'Society', 'located']",state,0,0,10
+"['style', 'lace', 'erroneously', 'believed', 'Huguenot', 'influence']",Huguenot,0,0,10
+"['style', 'lace', 'erroneously', 'believed', 'Huguenot', 'influence']",believed,0,0,10
+"['style', 'lace', 'erroneously', 'believed', 'Huguenot', 'influence']",erroneously,0,0,10
+"['style', 'lace', 'erroneously', 'believed', 'Huguenot', 'influence']",influence,0,0,10
+"['style', 'lace', 'erroneously', 'believed', 'Huguenot', 'influence']",lace,0,0,10
+"['style', 'lace', 'erroneously', 'believed', 'Huguenot', 'influence']",style,0,0,10
+"['successor', 'Henry', 'resumed', 'persecution', 'Huguenots']",Henry,0,0,10
+"['successor', 'Henry', 'resumed', 'persecution', 'Huguenots']",Huguenots,0,0,10
+"['successor', 'Henry', 'resumed', 'persecution', 'Huguenots']",persecution,0,0,10
+"['successor', 'Henry', 'resumed', 'persecution', 'Huguenots']",resumed,0,0,10
+"['successor', 'Henry', 'resumed', 'persecution', 'Huguenots']",successor,0,0,10
+"['term', 'Huguenot', 'originally', 'meant', 'confer']",Huguenot,0,0,10
+"['term', 'Huguenot', 'originally', 'meant', 'confer']",confer,0,0,10
+"['term', 'Huguenot', 'originally', 'meant', 'confer']",meant,0,0,10
+"['term', 'Huguenot', 'originally', 'meant', 'confer']",originally,0,0,10
+"['term', 'Huguenot', 'originally', 'meant', 'confer']",term,0,0,10
+"['term', 'may', 'related', 'politician', 'Switzerland']",Switzerland,0,0,10
+"['term', 'may', 'related', 'politician', 'Switzerland']",may,0,0,10
+"['term', 'may', 'related', 'politician', 'Switzerland']",politician,0,0,10
+"['term', 'may', 'related', 'politician', 'Switzerland']",related,0,0,10
+"['term', 'may', 'related', 'politician', 'Switzerland']",term,0,0,10
+"['textile', 'industry', 'Huguenots', 'contribute', 'Ireland']",Huguenots,0,0,10
+"['textile', 'industry', 'Huguenots', 'contribute', 'Ireland']",Ireland,0,0,10
+"['textile', 'industry', 'Huguenots', 'contribute', 'Ireland']",contribute,0,0,10
+"['textile', 'industry', 'Huguenots', 'contribute', 'Ireland']",industry,0,0,10
+"['textile', 'industry', 'Huguenots', 'contribute', 'Ireland']",textile,0,0,10
+"['theory', 'King', 'name', 'origin', 'Huguenot', 'called']",Huguenot,0,0,10
+"['theory', 'King', 'name', 'origin', 'Huguenot', 'called']",King,0,0,10
+"['theory', 'King', 'name', 'origin', 'Huguenot', 'called']",called,0,0,10
+"['theory', 'King', 'name', 'origin', 'Huguenot', 'called']",name,0,0,10
+"['theory', 'King', 'name', 'origin', 'Huguenot', 'called']",origin,0,0,10
+"['theory', 'King', 'name', 'origin', 'Huguenot', 'called']",theory,0,0,10
+"['theory', 'word', 'origin', 'generally', 'classed']",classed,0,0,10
+"['theory', 'word', 'origin', 'generally', 'classed']",generally,0,0,10
+"['theory', 'word', 'origin', 'generally', 'classed']",origin,0,0,10
+"['theory', 'word', 'origin', 'generally', 'classed']",theory,0,0,10
+"['theory', 'word', 'origin', 'generally', 'classed']",word,0,0,10
+"['time', 'day', 'reformed', 'supposedly', 'gather', 'engage', 'Huguenot', 'ritual']",Huguenot,0,0,10
+"['time', 'day', 'reformed', 'supposedly', 'gather', 'engage', 'Huguenot', 'ritual']",day,0,0,10
+"['time', 'day', 'reformed', 'supposedly', 'gather', 'engage', 'Huguenot', 'ritual']",engage,0,0,10
+"['time', 'day', 'reformed', 'supposedly', 'gather', 'engage', 'Huguenot', 'ritual']",gather,0,0,10
+"['time', 'day', 'reformed', 'supposedly', 'gather', 'engage', 'Huguenot', 'ritual']",reformed,0,0,10
+"['time', 'day', 'reformed', 'supposedly', 'gather', 'engage', 'Huguenot', 'ritual']",ritual,0,0,10
+"['time', 'day', 'reformed', 'supposedly', 'gather', 'engage', 'Huguenot', 'ritual']",supposedly,0,0,10
+"['time', 'day', 'reformed', 'supposedly', 'gather', 'engage', 'Huguenot', 'ritual']",time,0,0,10
+"['town', 'actually', 'granted', 'Huguenots', 'arrival']",Huguenots,0,0,10
+"['town', 'actually', 'granted', 'Huguenots', 'arrival']",actually,0,0,10
+"['town', 'actually', 'granted', 'Huguenots', 'arrival']",arrival,0,0,10
+"['town', 'actually', 'granted', 'Huguenots', 'arrival']",granted,0,0,10
+"['town', 'actually', 'granted', 'Huguenots', 'arrival']",town,0,0,10
+"['town', 'granted', 'Huguenots', '1598', 'collectively', 'called']",1598,0,0,10
+"['town', 'granted', 'Huguenots', '1598', 'collectively', 'called']",Huguenots,0,0,10
+"['town', 'granted', 'Huguenots', '1598', 'collectively', 'called']",called,0,0,10
+"['town', 'granted', 'Huguenots', '1598', 'collectively', 'called']",collectively,0,0,10
+"['town', 'granted', 'Huguenots', '1598', 'collectively', 'called']",granted,0,0,10
+"['town', 'granted', 'Huguenots', '1598', 'collectively', 'called']",town,0,0,10
+"['town', 'upstate', 'New', 'York', 'settled', 'Huguenots']",Huguenots,0,0,10
+"['town', 'upstate', 'New', 'York', 'settled', 'Huguenots']",New,0,0,10
+"['town', 'upstate', 'New', 'York', 'settled', 'Huguenots']",York,0,0,10
+"['town', 'upstate', 'New', 'York', 'settled', 'Huguenots']",settled,0,0,10
+"['town', 'upstate', 'New', 'York', 'settled', 'Huguenots']",town,0,0,10
+"['town', 'upstate', 'New', 'York', 'settled', 'Huguenots']",upstate,0,0,10
+"['trading', 'company', 'helped', 'settle', 'Huguenots', 'near', 'Cape']",Cape,0,0,10
+"['trading', 'company', 'helped', 'settle', 'Huguenots', 'near', 'Cape']",Huguenots,0,0,10
+"['trading', 'company', 'helped', 'settle', 'Huguenots', 'near', 'Cape']",company,0,0,10
+"['trading', 'company', 'helped', 'settle', 'Huguenots', 'near', 'Cape']",helped,0,0,10
+"['trading', 'company', 'helped', 'settle', 'Huguenots', 'near', 'Cape']",near,0,0,10
+"['trading', 'company', 'helped', 'settle', 'Huguenots', 'near', 'Cape']",settle,0,0,10
+"['trading', 'company', 'helped', 'settle', 'Huguenots', 'near', 'Cape']",trading,0,0,10
+"['translated', 'version', 'scripture']",scripture,0,0,10
+"['translated', 'version', 'scripture']",translated,0,0,10
+"['translated', 'version', 'scripture']",version,0,0,10
+"['treaty', 'ended', 'Wars', 'Religion']",Religion,0,0,10
+"['treaty', 'ended', 'Wars', 'Religion']",Wars,0,0,10
+"['treaty', 'ended', 'Wars', 'Religion']",ended,0,0,10
+"['treaty', 'ended', 'Wars', 'Religion']",treaty,0,0,10
+"['two', 'Huguenot', 'neighborhood', 'created', 'Berlin']",Berlin,0,0,10
+"['two', 'Huguenot', 'neighborhood', 'created', 'Berlin']",Huguenot,0,0,10
+"['two', 'Huguenot', 'neighborhood', 'created', 'Berlin']",created,0,0,10
+"['two', 'Huguenot', 'neighborhood', 'created', 'Berlin']",neighborhood,0,0,10
+"['two', 'Huguenot', 'neighborhood', 'created', 'Berlin']",two,0,0,10
+"['two', 'area', 'Republic', 'first', 'grant', 'right', 'Huguenots']",Huguenots,0,0,10
+"['two', 'area', 'Republic', 'first', 'grant', 'right', 'Huguenots']",Republic,0,0,10
+"['two', 'area', 'Republic', 'first', 'grant', 'right', 'Huguenots']",area,0,0,10
+"['two', 'area', 'Republic', 'first', 'grant', 'right', 'Huguenots']",first,0,0,10
+"['two', 'area', 'Republic', 'first', 'grant', 'right', 'Huguenots']",grant,0,0,10
+"['two', 'area', 'Republic', 'first', 'grant', 'right', 'Huguenots']",right,0,0,10
+"['two', 'area', 'Republic', 'first', 'grant', 'right', 'Huguenots']",two,0,0,10
+"['two', 'member', 'nation', 'Holy', 'Roman', 'Empire', 'received', 'Huguenot', 'refugee']",Empire,0,0,10
+"['two', 'member', 'nation', 'Holy', 'Roman', 'Empire', 'received', 'Huguenot', 'refugee']",Holy,0,0,10
+"['two', 'member', 'nation', 'Holy', 'Roman', 'Empire', 'received', 'Huguenot', 'refugee']",Huguenot,0,0,10
+"['two', 'member', 'nation', 'Holy', 'Roman', 'Empire', 'received', 'Huguenot', 'refugee']",Roman,0,0,10
+"['two', 'member', 'nation', 'Holy', 'Roman', 'Empire', 'received', 'Huguenot', 'refugee']",member,0,0,10
+"['two', 'member', 'nation', 'Holy', 'Roman', 'Empire', 'received', 'Huguenot', 'refugee']",nation,0,0,10
+"['two', 'member', 'nation', 'Holy', 'Roman', 'Empire', 'received', 'Huguenot', 'refugee']",received,0,0,10
+"['two', 'member', 'nation', 'Holy', 'Roman', 'Empire', 'received', 'Huguenot', 'refugee']",refugee,0,0,10
+"['two', 'member', 'nation', 'Holy', 'Roman', 'Empire', 'received', 'Huguenot', 'refugee']",two,0,0,10
+"['uprising', 'take', 'place']",place,0,0,10
+"['uprising', 'take', 'place']",take,0,0,10
+"['uprising', 'take', 'place']",uprising,0,0,10
+"['war', 'Ireland', 'featured', 'Huguenot', 'regiment']",Huguenot,0,0,10
+"['war', 'Ireland', 'featured', 'Huguenot', 'regiment']",Ireland,0,0,10
+"['war', 'Ireland', 'featured', 'Huguenot', 'regiment']",featured,0,0,10
+"['war', 'Ireland', 'featured', 'Huguenot', 'regiment']",regiment,0,0,10
+"['war', 'Ireland', 'featured', 'Huguenot', 'regiment']",war,0,0,10
+"['year', 'Fort', 'Coligny', 'destroyed']",Coligny,0,0,10
+"['year', 'Fort', 'Coligny', 'destroyed']",Fort,0,0,10
+"['year', 'Fort', 'Coligny', 'destroyed']",destroyed,0,0,10
+"['year', 'Fort', 'Coligny', 'destroyed']",year,0,0,10
+"['year', 'agreement', 'allow', 'Saarland', 'settlement', 'reached']",Saarland,0,0,10
+"['year', 'agreement', 'allow', 'Saarland', 'settlement', 'reached']",agreement,0,0,10
+"['year', 'agreement', 'allow', 'Saarland', 'settlement', 'reached']",allow,0,0,10
+"['year', 'agreement', 'allow', 'Saarland', 'settlement', 'reached']",reached,0,0,10
+"['year', 'agreement', 'allow', 'Saarland', 'settlement', 'reached']",settlement,0,0,10
+"['year', 'agreement', 'allow', 'Saarland', 'settlement', 'reached']",year,0,0,10
+"['year', 'occupation', 'take', 'place']",occupation,0,0,10
+"['year', 'occupation', 'take', 'place']",place,0,0,10
+"['year', 'occupation', 'take', 'place']",take,0,0,10
+"['year', 'occupation', 'take', 'place']",year,0,0,10

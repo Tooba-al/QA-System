@@ -1,0 +1,1132 @@
+0,1,2,3,4
+"[""n't"", 'Newton', 'mechanic', 'affext']",Newton,0,0,47
+"[""n't"", 'Newton', 'mechanic', 'affext']",affext,0,0,47
+"[""n't"", 'Newton', 'mechanic', 'affext']",mechanic,0,0,47
+"[""n't"", 'Newton', 'mechanic', 'affext']",n't,0,0,47
+"[""n't"", 'change', 'rest', 'movement', 'constant', 'velocity']",change,0,0,47
+"[""n't"", 'change', 'rest', 'movement', 'constant', 'velocity']",constant,0,0,47
+"[""n't"", 'change', 'rest', 'movement', 'constant', 'velocity']",movement,0,0,47
+"[""n't"", 'change', 'rest', 'movement', 'constant', 'velocity']",n't,0,0,47
+"[""n't"", 'change', 'rest', 'movement', 'constant', 'velocity']",rest,0,0,47
+"[""n't"", 'change', 'rest', 'movement', 'constant', 'velocity']",velocity,0,0,47
+"['Aristotle', 'believe', 'natural', 'place', 'earth', 'water', 'element']",Aristotle,0,0,47
+"['Aristotle', 'believe', 'natural', 'place', 'earth', 'water', 'element']",believe,0,0,47
+"['Aristotle', 'believe', 'natural', 'place', 'earth', 'water', 'element']",earth,0,0,47
+"['Aristotle', 'believe', 'natural', 'place', 'earth', 'water', 'element']",element,0,0,47
+"['Aristotle', 'believe', 'natural', 'place', 'earth', 'water', 'element']",natural,0,0,47
+"['Aristotle', 'believe', 'natural', 'place', 'earth', 'water', 'element']",place,0,0,47
+"['Aristotle', 'believe', 'natural', 'place', 'earth', 'water', 'element']",water,0,0,47
+"['Aristotle', 'refer', 'forced', 'motion']",Aristotle,0,0,47
+"['Aristotle', 'refer', 'forced', 'motion']",forced,0,0,47
+"['Aristotle', 'refer', 'forced', 'motion']",motion,0,0,47
+"['Aristotle', 'refer', 'forced', 'motion']",refer,0,0,47
+"['At', 'temperature', 'weak', 'electromagnetic', 'force', 'appear']",At,0,0,47
+"['At', 'temperature', 'weak', 'electromagnetic', 'force', 'appear']",appear,0,0,47
+"['At', 'temperature', 'weak', 'electromagnetic', 'force', 'appear']",electromagnetic,0,0,47
+"['At', 'temperature', 'weak', 'electromagnetic', 'force', 'appear']",force,0,0,47
+"['At', 'temperature', 'weak', 'electromagnetic', 'force', 'appear']",temperature,0,0,47
+"['At', 'temperature', 'weak', 'electromagnetic', 'force', 'appear']",weak,0,0,47
+"['Matter', 'particle', 'shown', 'kind', 'line', 'Feynman', 'diagram']",Feynman,0,0,47
+"['Matter', 'particle', 'shown', 'kind', 'line', 'Feynman', 'diagram']",Matter,0,0,47
+"['Matter', 'particle', 'shown', 'kind', 'line', 'Feynman', 'diagram']",diagram,0,0,47
+"['Matter', 'particle', 'shown', 'kind', 'line', 'Feynman', 'diagram']",kind,0,0,47
+"['Matter', 'particle', 'shown', 'kind', 'line', 'Feynman', 'diagram']",line,0,0,47
+"['Matter', 'particle', 'shown', 'kind', 'line', 'Feynman', 'diagram']",particle,0,0,47
+"['Matter', 'particle', 'shown', 'kind', 'line', 'Feynman', 'diagram']",shown,0,0,47
+"['Newton', 'mechanic', 'affect']",Newton,0,0,47
+"['Newton', 'mechanic', 'affect']",affect,0,0,47
+"['Newton', 'mechanic', 'affect']",mechanic,0,0,47
+"['Newton', 'second', 'law', 'unit', 'mass', 'force', 'relation', 'microscales']",Newton,0,0,47
+"['Newton', 'second', 'law', 'unit', 'mass', 'force', 'relation', 'microscales']",force,0,0,47
+"['Newton', 'second', 'law', 'unit', 'mass', 'force', 'relation', 'microscales']",law,0,0,47
+"['Newton', 'second', 'law', 'unit', 'mass', 'force', 'relation', 'microscales']",mass,0,0,47
+"['Newton', 'second', 'law', 'unit', 'mass', 'force', 'relation', 'microscales']",microscales,0,0,47
+"['Newton', 'second', 'law', 'unit', 'mass', 'force', 'relation', 'microscales']",relation,0,0,47
+"['Newton', 'second', 'law', 'unit', 'mass', 'force', 'relation', 'microscales']",second,0,0,47
+"['Newton', 'second', 'law', 'unit', 'mass', 'force', 'relation', 'microscales']",unit,0,0,47
+"['Objects', 'constant', 'density', 'proportional', 'volume', 'force', 'define', 'standard', 'weight']",Objects,0,0,47
+"['Objects', 'constant', 'density', 'proportional', 'volume', 'force', 'define', 'standard', 'weight']",constant,0,0,47
+"['Objects', 'constant', 'density', 'proportional', 'volume', 'force', 'define', 'standard', 'weight']",define,0,0,47
+"['Objects', 'constant', 'density', 'proportional', 'volume', 'force', 'define', 'standard', 'weight']",density,0,0,47
+"['Objects', 'constant', 'density', 'proportional', 'volume', 'force', 'define', 'standard', 'weight']",force,0,0,47
+"['Objects', 'constant', 'density', 'proportional', 'volume', 'force', 'define', 'standard', 'weight']",proportional,0,0,47
+"['Objects', 'constant', 'density', 'proportional', 'volume', 'force', 'define', 'standard', 'weight']",standard,0,0,47
+"['Objects', 'constant', 'density', 'proportional', 'volume', 'force', 'define', 'standard', 'weight']",volume,0,0,47
+"['Objects', 'constant', 'density', 'proportional', 'volume', 'force', 'define', 'standard', 'weight']",weight,0,0,47
+"['Pauli', 'exclusion', 'priciple', 'manifested', 'macro', 'world']",Pauli,0,0,47
+"['Pauli', 'exclusion', 'priciple', 'manifested', 'macro', 'world']",exclusion,0,0,47
+"['Pauli', 'exclusion', 'priciple', 'manifested', 'macro', 'world']",macro,0,0,47
+"['Pauli', 'exclusion', 'priciple', 'manifested', 'macro', 'world']",manifested,0,0,47
+"['Pauli', 'exclusion', 'priciple', 'manifested', 'macro', 'world']",priciple,0,0,47
+"['Pauli', 'exclusion', 'priciple', 'manifested', 'macro', 'world']",world,0,0,47
+"['QED', 'short']",QED,0,0,47
+"['QED', 'short']",short,0,0,47
+"['Static', 'friction', 'balance', 'force', 'movement', 'object', 'surface']",Static,0,0,47
+"['Static', 'friction', 'balance', 'force', 'movement', 'object', 'surface']",balance,0,0,47
+"['Static', 'friction', 'balance', 'force', 'movement', 'object', 'surface']",force,0,0,47
+"['Static', 'friction', 'balance', 'force', 'movement', 'object', 'surface']",friction,0,0,47
+"['Static', 'friction', 'balance', 'force', 'movement', 'object', 'surface']",movement,0,0,47
+"['Static', 'friction', 'balance', 'force', 'movement', 'object', 'surface']",object,0,0,47
+"['Static', 'friction', 'balance', 'force', 'movement', 'object', 'surface']",surface,0,0,47
+"['Tension', 'compression', 'drag', 'kind', 'force']",Tension,0,0,47
+"['Tension', 'compression', 'drag', 'kind', 'force']",compression,0,0,47
+"['Tension', 'compression', 'drag', 'kind', 'force']",drag,0,0,47
+"['Tension', 'compression', 'drag', 'kind', 'force']",force,0,0,47
+"['Tension', 'compression', 'drag', 'kind', 'force']",kind,0,0,47
+"['To', 'calculate', 'instant', 'angular', 'acceleration', 'rigid', 'body', 'would', 'use']",To,0,0,47
+"['To', 'calculate', 'instant', 'angular', 'acceleration', 'rigid', 'body', 'would', 'use']",acceleration,0,0,47
+"['To', 'calculate', 'instant', 'angular', 'acceleration', 'rigid', 'body', 'would', 'use']",angular,0,0,47
+"['To', 'calculate', 'instant', 'angular', 'acceleration', 'rigid', 'body', 'would', 'use']",body,0,0,47
+"['To', 'calculate', 'instant', 'angular', 'acceleration', 'rigid', 'body', 'would', 'use']",calculate,0,0,47
+"['To', 'calculate', 'instant', 'angular', 'acceleration', 'rigid', 'body', 'would', 'use']",instant,0,0,47
+"['To', 'calculate', 'instant', 'angular', 'acceleration', 'rigid', 'body', 'would', 'use']",rigid,0,0,47
+"['To', 'calculate', 'instant', 'angular', 'acceleration', 'rigid', 'body', 'would', 'use']",use,0,0,47
+"['To', 'calculate', 'instant', 'angular', 'acceleration', 'rigid', 'body', 'would', 'use']",would,0,0,47
+"['W', 'Z', 'boson', 'exchange', 'create']",W,0,0,47
+"['W', 'Z', 'boson', 'exchange', 'create']",Z,0,0,47
+"['W', 'Z', 'boson', 'exchange', 'create']",boson,0,0,47
+"['W', 'Z', 'boson', 'exchange', 'create']",create,0,0,47
+"['W', 'Z', 'boson', 'exchange', 'create']",exchange,0,0,47
+"['Whatare', 'electrostatic', 'magnetic', 'force', 'awritten', 'sum']",Whatare,0,0,47
+"['Whatare', 'electrostatic', 'magnetic', 'force', 'awritten', 'sum']",awritten,0,0,47
+"['Whatare', 'electrostatic', 'magnetic', 'force', 'awritten', 'sum']",electrostatic,0,0,47
+"['Whatare', 'electrostatic', 'magnetic', 'force', 'awritten', 'sum']",force,0,0,47
+"['Whatare', 'electrostatic', 'magnetic', 'force', 'awritten', 'sum']",magnetic,0,0,47
+"['Whatare', 'electrostatic', 'magnetic', 'force', 'awritten', 'sum']",sum,0,0,47
+"['Whose', 'First', 'Law', 'Motion', 'say', 'unless', 'acted', 'upon', 'force', 'object', 'would', 'continue', 'move', 'constant', 'velocity']",First,0,0,47
+"['Whose', 'First', 'Law', 'Motion', 'say', 'unless', 'acted', 'upon', 'force', 'object', 'would', 'continue', 'move', 'constant', 'velocity']",Law,0,0,47
+"['Whose', 'First', 'Law', 'Motion', 'say', 'unless', 'acted', 'upon', 'force', 'object', 'would', 'continue', 'move', 'constant', 'velocity']",Motion,0,0,47
+"['Whose', 'First', 'Law', 'Motion', 'say', 'unless', 'acted', 'upon', 'force', 'object', 'would', 'continue', 'move', 'constant', 'velocity']",Whose,0,0,47
+"['Whose', 'First', 'Law', 'Motion', 'say', 'unless', 'acted', 'upon', 'force', 'object', 'would', 'continue', 'move', 'constant', 'velocity']",acted,0,0,47
+"['Whose', 'First', 'Law', 'Motion', 'say', 'unless', 'acted', 'upon', 'force', 'object', 'would', 'continue', 'move', 'constant', 'velocity']",constant,0,0,47
+"['Whose', 'First', 'Law', 'Motion', 'say', 'unless', 'acted', 'upon', 'force', 'object', 'would', 'continue', 'move', 'constant', 'velocity']",continue,0,0,47
+"['Whose', 'First', 'Law', 'Motion', 'say', 'unless', 'acted', 'upon', 'force', 'object', 'would', 'continue', 'move', 'constant', 'velocity']",force,0,0,47
+"['Whose', 'First', 'Law', 'Motion', 'say', 'unless', 'acted', 'upon', 'force', 'object', 'would', 'continue', 'move', 'constant', 'velocity']",move,0,0,47
+"['Whose', 'First', 'Law', 'Motion', 'say', 'unless', 'acted', 'upon', 'force', 'object', 'would', 'continue', 'move', 'constant', 'velocity']",object,0,0,47
+"['Whose', 'First', 'Law', 'Motion', 'say', 'unless', 'acted', 'upon', 'force', 'object', 'would', 'continue', 'move', 'constant', 'velocity']",say,0,0,47
+"['Whose', 'First', 'Law', 'Motion', 'say', 'unless', 'acted', 'upon', 'force', 'object', 'would', 'continue', 'move', 'constant', 'velocity']",unless,0,0,47
+"['Whose', 'First', 'Law', 'Motion', 'say', 'unless', 'acted', 'upon', 'force', 'object', 'would', 'continue', 'move', 'constant', 'velocity']",upon,0,0,47
+"['Whose', 'First', 'Law', 'Motion', 'say', 'unless', 'acted', 'upon', 'force', 'object', 'would', 'continue', 'move', 'constant', 'velocity']",velocity,0,0,47
+"['Whose', 'First', 'Law', 'Motion', 'say', 'unless', 'acted', 'upon', 'force', 'object', 'would', 'continue', 'move', 'constant', 'velocity']",would,0,0,47
+"['Whose', 'work', 'corrected', 'Aristotle', 'physic', 'seventeenth', 'century']",Aristotle,0,0,47
+"['Whose', 'work', 'corrected', 'Aristotle', 'physic', 'seventeenth', 'century']",Whose,0,0,47
+"['Whose', 'work', 'corrected', 'Aristotle', 'physic', 'seventeenth', 'century']",century,0,0,47
+"['Whose', 'work', 'corrected', 'Aristotle', 'physic', 'seventeenth', 'century']",corrected,0,0,47
+"['Whose', 'work', 'corrected', 'Aristotle', 'physic', 'seventeenth', 'century']",physic,0,0,47
+"['Whose', 'work', 'corrected', 'Aristotle', 'physic', 'seventeenth', 'century']",seventeenth,0,0,47
+"['Whose', 'work', 'corrected', 'Aristotle', 'physic', 'seventeenth', 'century']",work,0,0,47
+"['Whwn', 'force', 'right', 'ngles', 'broken']",Whwn,0,0,47
+"['Whwn', 'force', 'right', 'ngles', 'broken']",broken,0,0,47
+"['Whwn', 'force', 'right', 'ngles', 'broken']",force,0,0,47
+"['Whwn', 'force', 'right', 'ngles', 'broken']",ngles,0,0,47
+"['Whwn', 'force', 'right', 'ngles', 'broken']",right,0,0,47
+"['accounted', 'cause', 'net', 'force', 'cause', 'constant', 'velocity', 'motion']",accounted,0,0,47
+"['accounted', 'cause', 'net', 'force', 'cause', 'constant', 'velocity', 'motion']",cause,0,0,47
+"['accounted', 'cause', 'net', 'force', 'cause', 'constant', 'velocity', 'motion']",constant,0,0,47
+"['accounted', 'cause', 'net', 'force', 'cause', 'constant', 'velocity', 'motion']",force,0,0,47
+"['accounted', 'cause', 'net', 'force', 'cause', 'constant', 'velocity', 'motion']",motion,0,0,47
+"['accounted', 'cause', 'net', 'force', 'cause', 'constant', 'velocity', 'motion']",net,0,0,47
+"['accounted', 'cause', 'net', 'force', 'cause', 'constant', 'velocity', 'motion']",velocity,0,0,47
+"['actually', 'cause', 'rigidity', 'matter']",actually,0,0,47
+"['actually', 'cause', 'rigidity', 'matter']",cause,0,0,47
+"['actually', 'cause', 'rigidity', 'matter']",matter,0,0,47
+"['actually', 'cause', 'rigidity', 'matter']",rigidity,0,0,47
+"['another', 'word', 'centripetal', 'force']",another,0,0,47
+"['another', 'word', 'centripetal', 'force']",centripetal,0,0,47
+"['another', 'word', 'centripetal', 'force']",force,0,0,47
+"['another', 'word', 'centripetal', 'force']",word,0,0,47
+"['apparant', 'force', 'two', 'fermion', 'attractive', 'spin', 'function']",apparant,0,0,47
+"['apparant', 'force', 'two', 'fermion', 'attractive', 'spin', 'function']",attractive,0,0,47
+"['apparant', 'force', 'two', 'fermion', 'attractive', 'spin', 'function']",fermion,0,0,47
+"['apparant', 'force', 'two', 'fermion', 'attractive', 'spin', 'function']",force,0,0,47
+"['apparant', 'force', 'two', 'fermion', 'attractive', 'spin', 'function']",function,0,0,47
+"['apparant', 'force', 'two', 'fermion', 'attractive', 'spin', 'function']",spin,0,0,47
+"['apparant', 'force', 'two', 'fermion', 'attractive', 'spin', 'function']",two,0,0,47
+"['apparant', 'force', 'two', 'fermion', 'repulsive', 'spin', 'function']",apparant,0,0,47
+"['apparant', 'force', 'two', 'fermion', 'repulsive', 'spin', 'function']",fermion,0,0,47
+"['apparant', 'force', 'two', 'fermion', 'repulsive', 'spin', 'function']",force,0,0,47
+"['apparant', 'force', 'two', 'fermion', 'repulsive', 'spin', 'function']",function,0,0,47
+"['apparant', 'force', 'two', 'fermion', 'repulsive', 'spin', 'function']",repulsive,0,0,47
+"['apparant', 'force', 'two', 'fermion', 'repulsive', 'spin', 'function']",spin,0,0,47
+"['apparant', 'force', 'two', 'fermion', 'repulsive', 'spin', 'function']",two,0,0,47
+"['applies', 'equally', 'constant', 'velocity', 'motion', 'rest']",applies,0,0,47
+"['applies', 'equally', 'constant', 'velocity', 'motion', 'rest']",constant,0,0,47
+"['applies', 'equally', 'constant', 'velocity', 'motion', 'rest']",equally,0,0,47
+"['applies', 'equally', 'constant', 'velocity', 'motion', 'rest']",motion,0,0,47
+"['applies', 'equally', 'constant', 'velocity', 'motion', 'rest']",rest,0,0,47
+"['applies', 'equally', 'constant', 'velocity', 'motion', 'rest']",velocity,0,0,47
+"['associated', 'normal', 'force']",associated,0,0,47
+"['associated', 'normal', 'force']",force,0,0,47
+"['associated', 'normal', 'force']",normal,0,0,47
+"['astronaughts', 'experience', 'free-fall']",astronaughts,0,0,47
+"['astronaughts', 'experience', 'free-fall']",experience,0,0,47
+"['astronaughts', 'experience', 'free-fall']",free-fall,0,0,47
+"['attributed', 'gravity', 'acceleration', 'around', 'Earth']",Earth,0,0,47
+"['attributed', 'gravity', 'acceleration', 'around', 'Earth']",acceleration,0,0,47
+"['attributed', 'gravity', 'acceleration', 'around', 'Earth']",around,0,0,47
+"['attributed', 'gravity', 'acceleration', 'around', 'Earth']",attributed,0,0,47
+"['attributed', 'gravity', 'acceleration', 'around', 'Earth']",gravity,0,0,47
+"['avoid', 'problem', 'determining', 'force', 'involved', 'object', 'two', 'source']",avoid,0,0,47
+"['avoid', 'problem', 'determining', 'force', 'involved', 'object', 'two', 'source']",determining,0,0,47
+"['avoid', 'problem', 'determining', 'force', 'involved', 'object', 'two', 'source']",force,0,0,47
+"['avoid', 'problem', 'determining', 'force', 'involved', 'object', 'two', 'source']",involved,0,0,47
+"['avoid', 'problem', 'determining', 'force', 'involved', 'object', 'two', 'source']",object,0,0,47
+"['avoid', 'problem', 'determining', 'force', 'involved', 'object', 'two', 'source']",problem,0,0,47
+"['avoid', 'problem', 'determining', 'force', 'involved', 'object', 'two', 'source']",source,0,0,47
+"['avoid', 'problem', 'determining', 'force', 'involved', 'object', 'two', 'source']",two,0,0,47
+"['basis', 'mentioned', 'develpment', 'general', 'theory', 'relativity']",basis,0,0,47
+"['basis', 'mentioned', 'develpment', 'general', 'theory', 'relativity']",develpment,0,0,47
+"['basis', 'mentioned', 'develpment', 'general', 'theory', 'relativity']",general,0,0,47
+"['basis', 'mentioned', 'develpment', 'general', 'theory', 'relativity']",mentioned,0,0,47
+"['basis', 'mentioned', 'develpment', 'general', 'theory', 'relativity']",relativity,0,0,47
+"['basis', 'mentioned', 'develpment', 'general', 'theory', 'relativity']",theory,0,0,47
+"['belief', 'maintaining', 'motion', 'required', 'force']",belief,4.317488114,10,47
+"['belief', 'maintaining', 'motion', 'required', 'force']",force,0.269843007,22,47
+"['belief', 'maintaining', 'motion', 'required', 'force']",maintaining,0,0,47
+"['belief', 'maintaining', 'motion', 'required', 'force']",motion,0,0,47
+"['belief', 'maintaining', 'motion', 'required', 'force']",required,0.269843007,21,47
+"['came', 'concept', 'falling', 'object', 'fell', 'speed', 'regardless', 'weight']",came,0,0,47
+"['came', 'concept', 'falling', 'object', 'fell', 'speed', 'regardless', 'weight']",concept,0,0,47
+"['came', 'concept', 'falling', 'object', 'fell', 'speed', 'regardless', 'weight']",falling,0,0,47
+"['came', 'concept', 'falling', 'object', 'fell', 'speed', 'regardless', 'weight']",fell,0,0,47
+"['came', 'concept', 'falling', 'object', 'fell', 'speed', 'regardless', 'weight']",object,0,0,47
+"['came', 'concept', 'falling', 'object', 'fell', 'speed', 'regardless', 'weight']",regardless,0,0,47
+"['came', 'concept', 'falling', 'object', 'fell', 'speed', 'regardless', 'weight']",speed,0,0,47
+"['came', 'concept', 'falling', 'object', 'fell', 'speed', 'regardless', 'weight']",weight,0,0,47
+"['came', 'theory', 'relativity']",came,0,0,47
+"['came', 'theory', 'relativity']",relativity,0,0,47
+"['came', 'theory', 'relativity']",theory,0,0,47
+"['canonball', 'dropped', 'crow', 'nest', 'ship', 'actually', 'land']",actually,0,0,47
+"['canonball', 'dropped', 'crow', 'nest', 'ship', 'actually', 'land']",canonball,0,0,47
+"['canonball', 'dropped', 'crow', 'nest', 'ship', 'actually', 'land']",crow,0,0,47
+"['canonball', 'dropped', 'crow', 'nest', 'ship', 'actually', 'land']",dropped,0,0,47
+"['canonball', 'dropped', 'crow', 'nest', 'ship', 'actually', 'land']",land,0,0,47
+"['canonball', 'dropped', 'crow', 'nest', 'ship', 'actually', 'land']",nest,0,0,47
+"['canonball', 'dropped', 'crow', 'nest', 'ship', 'actually', 'land']",ship,0,0,47
+"['canonball', 'dropped', 'crow', 'nest', 'ship', 'land', 'according', 'Aristotle']",Aristotle,0,0,47
+"['canonball', 'dropped', 'crow', 'nest', 'ship', 'land', 'according', 'Aristotle']",according,0,0,47
+"['canonball', 'dropped', 'crow', 'nest', 'ship', 'land', 'according', 'Aristotle']",canonball,0,0,47
+"['canonball', 'dropped', 'crow', 'nest', 'ship', 'land', 'according', 'Aristotle']",crow,0,0,47
+"['canonball', 'dropped', 'crow', 'nest', 'ship', 'land', 'according', 'Aristotle']",dropped,0,0,47
+"['canonball', 'dropped', 'crow', 'nest', 'ship', 'land', 'according', 'Aristotle']",land,0,0,47
+"['canonball', 'dropped', 'crow', 'nest', 'ship', 'land', 'according', 'Aristotle']",nest,0,0,47
+"['canonball', 'dropped', 'crow', 'nest', 'ship', 'land', 'according', 'Aristotle']",ship,0,0,47
+"['cause', 'Pauli', 'repulsion']",Pauli,0,0,47
+"['cause', 'Pauli', 'repulsion']",cause,0,0,47
+"['cause', 'Pauli', 'repulsion']",repulsion,0,0,47
+"['cause', 'strain', 'structure']",cause,0,0,47
+"['cause', 'strain', 'structure']",strain,0,0,47
+"['cause', 'strain', 'structure']",structure,0,0,47
+"['centripetal', 'force', 'act', 'relation', 'vector', 'velocity']",act,0,0,47
+"['centripetal', 'force', 'act', 'relation', 'vector', 'velocity']",centripetal,0,0,47
+"['centripetal', 'force', 'act', 'relation', 'vector', 'velocity']",force,0,0,47
+"['centripetal', 'force', 'act', 'relation', 'vector', 'velocity']",relation,0,0,47
+"['centripetal', 'force', 'act', 'relation', 'vector', 'velocity']",vector,0,0,47
+"['centripetal', 'force', 'act', 'relation', 'vector', 'velocity']",velocity,0,0,47
+"['centripetal', 'force', 'go']",centripetal,0,0,47
+"['centripetal', 'force', 'go']",force,0,0,47
+"['centripetal', 'force', 'go']",go,0,0,47
+"['century', 'quantum', 'mechanic', 'made']",century,0,0,47
+"['century', 'quantum', 'mechanic', 'made']",made,0,0,47
+"['century', 'quantum', 'mechanic', 'made']",mechanic,0,0,47
+"['century', 'quantum', 'mechanic', 'made']",quantum,0,0,47
+"['change', 'macroscopic', 'closed', 'system', 'energy']",change,0,0,47
+"['change', 'macroscopic', 'closed', 'system', 'energy']",closed,0,0,47
+"['change', 'macroscopic', 'closed', 'system', 'energy']",energy,0,0,47
+"['change', 'macroscopic', 'closed', 'system', 'energy']",macroscopic,0,0,47
+"['change', 'macroscopic', 'closed', 'system', 'energy']",system,0,0,47
+"['concept', 'explains', 'object', 'continue', 'constant', 'motion']",concept,0,0,47
+"['concept', 'explains', 'object', 'continue', 'constant', 'motion']",constant,0,0,47
+"['concept', 'explains', 'object', 'continue', 'constant', 'motion']",continue,0,0,47
+"['concept', 'explains', 'object', 'continue', 'constant', 'motion']",explains,0,0,47
+"['concept', 'explains', 'object', 'continue', 'constant', 'motion']",motion,0,0,47
+"['concept', 'explains', 'object', 'continue', 'constant', 'motion']",object,0,0,47
+"['concept', 'force', 'integral', 'part']",concept,0,0,47
+"['concept', 'force', 'integral', 'part']",force,0,0,47
+"['concept', 'force', 'integral', 'part']",integral,0,0,47
+"['concept', 'force', 'integral', 'part']",part,0,0,47
+"['concept', 'philosopher', 'antiquity', 'use', 'study', 'simple', 'machine']",antiquity,0,0,47
+"['concept', 'philosopher', 'antiquity', 'use', 'study', 'simple', 'machine']",concept,1.14E-06,21,47
+"['concept', 'philosopher', 'antiquity', 'use', 'study', 'simple', 'machine']",machine,0,0,47
+"['concept', 'philosopher', 'antiquity', 'use', 'study', 'simple', 'machine']",philosopher,4.317488114,26,47
+"['concept', 'philosopher', 'antiquity', 'use', 'study', 'simple', 'machine']",simple,4.317488114,9,47
+"['concept', 'philosopher', 'antiquity', 'use', 'study', 'simple', 'machine']",study,1.439162705,22,47
+"['concept', 'philosopher', 'antiquity', 'use', 'study', 'simple', 'machine']",use,0,0,47
+"['condition', 'force', 'first', 'measured', 'historically']",condition,0,0,47
+"['condition', 'force', 'first', 'measured', 'historically']",first,0,0,47
+"['condition', 'force', 'first', 'measured', 'historically']",force,0,0,47
+"['condition', 'force', 'first', 'measured', 'historically']",historically,0,0,47
+"['condition', 'force', 'first', 'measured', 'historically']",measured,0,0,47
+"['derivative', 'object', 'changing', 'momentum', 'called']",called,0,0,47
+"['derivative', 'object', 'changing', 'momentum', 'called']",changing,0,0,47
+"['derivative', 'object', 'changing', 'momentum', 'called']",derivative,0,0,47
+"['derivative', 'object', 'changing', 'momentum', 'called']",momentum,0,0,47
+"['derivative', 'object', 'changing', 'momentum', 'called']",object,0,0,47
+"['describes', 'proportionality', 'acceleration', 'force', 'mass']",acceleration,0,0,47
+"['describes', 'proportionality', 'acceleration', 'force', 'mass']",describes,0,0,47
+"['describes', 'proportionality', 'acceleration', 'force', 'mass']",force,0,0,47
+"['describes', 'proportionality', 'acceleration', 'force', 'mass']",mass,0,0,47
+"['describes', 'proportionality', 'acceleration', 'force', 'mass']",proportionality,0,0,47
+"['determine', 'acceleration', 'rope', 'two', 'people', 'pulling']",acceleration,0,0,47
+"['determine', 'acceleration', 'rope', 'two', 'people', 'pulling']",determine,0,0,47
+"['determine', 'acceleration', 'rope', 'two', 'people', 'pulling']",people,0,0,47
+"['determine', 'acceleration', 'rope', 'two', 'people', 'pulling']",pulling,0,0,47
+"['determine', 'acceleration', 'rope', 'two', 'people', 'pulling']",rope,0,0,47
+"['determine', 'acceleration', 'rope', 'two', 'people', 'pulling']",two,0,0,47
+"['develped', 'theory', 'relativity']",develped,0,0,47
+"['develped', 'theory', 'relativity']",relativity,0,0,47
+"['develped', 'theory', 'relativity']",theory,0,0,47
+"['diagram', 'used', 'simplify', 'particle', 'interaction', 'fundamental', 'level']",diagram,0,0,47
+"['diagram', 'used', 'simplify', 'particle', 'interaction', 'fundamental', 'level']",fundamental,0,0,47
+"['diagram', 'used', 'simplify', 'particle', 'interaction', 'fundamental', 'level']",interaction,0,0,47
+"['diagram', 'used', 'simplify', 'particle', 'interaction', 'fundamental', 'level']",level,0,0,47
+"['diagram', 'used', 'simplify', 'particle', 'interaction', 'fundamental', 'level']",particle,0,0,47
+"['diagram', 'used', 'simplify', 'particle', 'interaction', 'fundamental', 'level']",simplify,0,0,47
+"['diagram', 'used', 'simplify', 'particle', 'interaction', 'fundamental', 'level']",used,0,0,47
+"['dificult', 'reconcile', 'photoelectric', 'effect', 'missing', 'ultraviolet', 'catastrophe']",catastrophe,0,0,47
+"['dificult', 'reconcile', 'photoelectric', 'effect', 'missing', 'ultraviolet', 'catastrophe']",dificult,0,0,47
+"['dificult', 'reconcile', 'photoelectric', 'effect', 'missing', 'ultraviolet', 'catastrophe']",effect,0,0,47
+"['dificult', 'reconcile', 'photoelectric', 'effect', 'missing', 'ultraviolet', 'catastrophe']",missing,0,0,47
+"['dificult', 'reconcile', 'photoelectric', 'effect', 'missing', 'ultraviolet', 'catastrophe']",photoelectric,0,0,47
+"['dificult', 'reconcile', 'photoelectric', 'effect', 'missing', 'ultraviolet', 'catastrophe']",reconcile,0,0,47
+"['dificult', 'reconcile', 'photoelectric', 'effect', 'missing', 'ultraviolet', 'catastrophe']",ultraviolet,0,0,47
+"['directly', 'opposes', 'force', 'applied', 'move', 'object', 'across', 'surface']",across,0,0,47
+"['directly', 'opposes', 'force', 'applied', 'move', 'object', 'across', 'surface']",applied,0,0,47
+"['directly', 'opposes', 'force', 'applied', 'move', 'object', 'across', 'surface']",directly,0,0,47
+"['directly', 'opposes', 'force', 'applied', 'move', 'object', 'across', 'surface']",force,0,0,47
+"['directly', 'opposes', 'force', 'applied', 'move', 'object', 'across', 'surface']",move,0,0,47
+"['directly', 'opposes', 'force', 'applied', 'move', 'object', 'across', 'surface']",object,0,0,47
+"['directly', 'opposes', 'force', 'applied', 'move', 'object', 'across', 'surface']",opposes,0,0,47
+"['directly', 'opposes', 'force', 'applied', 'move', 'object', 'across', 'surface']",surface,0,0,47
+"['discovered', 'magnetic', 'electric', 'self-generate']",discovered,0,0,47
+"['discovered', 'magnetic', 'electric', 'self-generate']",electric,0,0,47
+"['discovered', 'magnetic', 'electric', 'self-generate']",magnetic,0,0,47
+"['discovered', 'magnetic', 'electric', 'self-generate']",self-generate,0,0,47
+"['effect', 'beta', 'decay']",beta,0,0,47
+"['effect', 'beta', 'decay']",decay,0,0,47
+"['effect', 'beta', 'decay']",effect,0,0,47
+"['electromagnetic', 'theory', 'finally', 'lead']",electromagnetic,0,0,47
+"['electromagnetic', 'theory', 'finally', 'lead']",finally,0,0,47
+"['electromagnetic', 'theory', 'finally', 'lead']",lead,0,0,47
+"['electromagnetic', 'theory', 'finally', 'lead']",theory,0,0,47
+"['electrostatic', 'gradiient', 'potential', 'create']",create,0,0,47
+"['electrostatic', 'gradiient', 'potential', 'create']",electrostatic,0,0,47
+"['electrostatic', 'gradiient', 'potential', 'create']",gradiient,0,0,47
+"['electrostatic', 'gradiient', 'potential', 'create']",potential,0,0,47
+"['element', 'Aristotle', 'believe', 'terrestrial', 'sphere', 'made']",Aristotle,0,0,47
+"['element', 'Aristotle', 'believe', 'terrestrial', 'sphere', 'made']",believe,0,0,47
+"['element', 'Aristotle', 'believe', 'terrestrial', 'sphere', 'made']",element,0,0,47
+"['element', 'Aristotle', 'believe', 'terrestrial', 'sphere', 'made']",made,0,0,47
+"['element', 'Aristotle', 'believe', 'terrestrial', 'sphere', 'made']",sphere,0,0,47
+"['element', 'Aristotle', 'believe', 'terrestrial', 'sphere', 'made']",terrestrial,0,0,47
+"['equal', 'spring', 'reaction', 'force', 'object', 'suspended', 'spring', 'reaction', 'scale']",equal,0,0,47
+"['equal', 'spring', 'reaction', 'force', 'object', 'suspended', 'spring', 'reaction', 'scale']",force,0,0,47
+"['equal', 'spring', 'reaction', 'force', 'object', 'suspended', 'spring', 'reaction', 'scale']",object,0,0,47
+"['equal', 'spring', 'reaction', 'force', 'object', 'suspended', 'spring', 'reaction', 'scale']",reaction,0,0,47
+"['equal', 'spring', 'reaction', 'force', 'object', 'suspended', 'spring', 'reaction', 'scale']",scale,0,0,47
+"['equal', 'spring', 'reaction', 'force', 'object', 'suspended', 'spring', 'reaction', 'scale']",spring,0,0,47
+"['equal', 'spring', 'reaction', 'force', 'object', 'suspended', 'spring', 'reaction', 'scale']",suspended,0,0,47
+"['equality', 'force', 'two', 'object', 'exerting', 'force']",equality,0,0,47
+"['equality', 'force', 'two', 'object', 'exerting', 'force']",exerting,0,0,47
+"['equality', 'force', 'two', 'object', 'exerting', 'force']",force,0,0,47
+"['equality', 'force', 'two', 'object', 'exerting', 'force']",object,0,0,47
+"['equality', 'force', 'two', 'object', 'exerting', 'force']",two,0,0,47
+"['equation', 'currently', 'decribes', 'physic', 'force']",currently,0,0,47
+"['equation', 'currently', 'decribes', 'physic', 'force']",decribes,0,0,47
+"['equation', 'currently', 'decribes', 'physic', 'force']",equation,0,0,47
+"['equation', 'currently', 'decribes', 'physic', 'force']",force,0,0,47
+"['equation', 'currently', 'decribes', 'physic', 'force']",physic,0,0,47
+"['equation', 'desribed', 'physic', 'force', 'current', 'Schrodinger', 'equation']",Schrodinger,0,0,47
+"['equation', 'desribed', 'physic', 'force', 'current', 'Schrodinger', 'equation']",current,0,0,47
+"['equation', 'desribed', 'physic', 'force', 'current', 'Schrodinger', 'equation']",desribed,0,0,47
+"['equation', 'desribed', 'physic', 'force', 'current', 'Schrodinger', 'equation']",equation,0,0,47
+"['equation', 'desribed', 'physic', 'force', 'current', 'Schrodinger', 'equation']",force,0,0,47
+"['equation', 'desribed', 'physic', 'force', 'current', 'Schrodinger', 'equation']",physic,0,0,47
+"['equivalence', 'mass', 'space-time']",equivalence,0,0,47
+"['equivalence', 'mass', 'space-time']",mass,0,0,47
+"['equivalence', 'mass', 'space-time']",space-time,0,0,47
+"['exchange', 'heat', 'associated']",associated,0,0,47
+"['exchange', 'heat', 'associated']",exchange,0,0,47
+"['exchange', 'heat', 'associated']",heat,0,0,47
+"['exchanged', 'particle', 'predicted', 'standard', 'Model']",Model,0,0,47
+"['exchanged', 'particle', 'predicted', 'standard', 'Model']",exchanged,0,0,47
+"['exchanged', 'particle', 'predicted', 'standard', 'Model']",particle,0,0,47
+"['exchanged', 'particle', 'predicted', 'standard', 'Model']",predicted,0,0,47
+"['exchanged', 'particle', 'predicted', 'standard', 'Model']",standard,0,0,47
+"['experience', 'acceleration', 'external', 'force', 'applied', 'system']",acceleration,0,0,47
+"['experience', 'acceleration', 'external', 'force', 'applied', 'system']",applied,0,0,47
+"['experience', 'acceleration', 'external', 'force', 'applied', 'system']",experience,0,0,47
+"['experience', 'acceleration', 'external', 'force', 'applied', 'system']",external,0,0,47
+"['experience', 'acceleration', 'external', 'force', 'applied', 'system']",force,0,0,47
+"['experience', 'acceleration', 'external', 'force', 'applied', 'system']",system,0,0,47
+"['experimented', 'rolling', 'stone', 'canonballs', 'steep', 'incline']",canonballs,0,0,47
+"['experimented', 'rolling', 'stone', 'canonballs', 'steep', 'incline']",experimented,0,0,47
+"['experimented', 'rolling', 'stone', 'canonballs', 'steep', 'incline']",incline,0,0,47
+"['experimented', 'rolling', 'stone', 'canonballs', 'steep', 'incline']",rolling,0,0,47
+"['experimented', 'rolling', 'stone', 'canonballs', 'steep', 'incline']",steep,0,0,47
+"['experimented', 'rolling', 'stone', 'canonballs', 'steep', 'incline']",stone,0,0,47
+"['explained', 'inertial', 'reference', 'frame', 'equaled', 'reference', 'frame', 'subject', 'constant', 'acceleration']",acceleration,0,0,47
+"['explained', 'inertial', 'reference', 'frame', 'equaled', 'reference', 'frame', 'subject', 'constant', 'acceleration']",constant,0,0,47
+"['explained', 'inertial', 'reference', 'frame', 'equaled', 'reference', 'frame', 'subject', 'constant', 'acceleration']",equaled,0,0,47
+"['explained', 'inertial', 'reference', 'frame', 'equaled', 'reference', 'frame', 'subject', 'constant', 'acceleration']",explained,0,0,47
+"['explained', 'inertial', 'reference', 'frame', 'equaled', 'reference', 'frame', 'subject', 'constant', 'acceleration']",frame,0,0,47
+"['explained', 'inertial', 'reference', 'frame', 'equaled', 'reference', 'frame', 'subject', 'constant', 'acceleration']",inertial,0,0,47
+"['explained', 'inertial', 'reference', 'frame', 'equaled', 'reference', 'frame', 'subject', 'constant', 'acceleration']",reference,0,0,47
+"['explained', 'inertial', 'reference', 'frame', 'equaled', 'reference', 'frame', 'subject', 'constant', 'acceleration']",subject,0,0,47
+"['expounded', 'Three', 'Laws', 'Motion']",Laws,0,0,47
+"['expounded', 'Three', 'Laws', 'Motion']",Motion,0,0,47
+"['expounded', 'Three', 'Laws', 'Motion']",Three,0,0,47
+"['expounded', 'Three', 'Laws', 'Motion']",expounded,0,0,47
+"['fast', 'object', 'fall', 'Earth']",Earth,0,0,47
+"['fast', 'object', 'fall', 'Earth']",fall,0,0,47
+"['fast', 'object', 'fall', 'Earth']",fast,0,0,47
+"['fast', 'object', 'fall', 'Earth']",object,0,0,47
+"['figured', 'law', 'gravity', 'universal']",figured,0,0,47
+"['figured', 'law', 'gravity', 'universal']",gravity,0,0,47
+"['figured', 'law', 'gravity', 'universal']",law,0,0,47
+"['figured', 'law', 'gravity', 'universal']",universal,0,0,47
+"['final', 'effect', 'adding', 'idea', 'string', 'load']",adding,0,0,47
+"['final', 'effect', 'adding', 'idea', 'string', 'load']",effect,0,0,47
+"['final', 'effect', 'adding', 'idea', 'string', 'load']",final,0,0,47
+"['final', 'effect', 'adding', 'idea', 'string', 'load']",idea,0,0,47
+"['final', 'effect', 'adding', 'idea', 'string', 'load']",load,0,0,47
+"['final', 'effect', 'adding', 'idea', 'string', 'load']",string,0,0,47
+"['first', 'described', 'dynamic', 'equilibrium']",described,0,0,47
+"['first', 'described', 'dynamic', 'equilibrium']",dynamic,0,0,47
+"['first', 'described', 'dynamic', 'equilibrium']",equilibrium,0,0,47
+"['first', 'described', 'dynamic', 'equilibrium']",first,0,0,47
+"['first', 'fully', 'explained', 'origin', 'magnetic', 'electric', 'field']",electric,0,0,47
+"['first', 'fully', 'explained', 'origin', 'magnetic', 'electric', 'field']",explained,0,0,47
+"['first', 'fully', 'explained', 'origin', 'magnetic', 'electric', 'field']",field,0,0,47
+"['first', 'fully', 'explained', 'origin', 'magnetic', 'electric', 'field']",first,0,0,47
+"['first', 'fully', 'explained', 'origin', 'magnetic', 'electric', 'field']",fully,0,0,47
+"['first', 'fully', 'explained', 'origin', 'magnetic', 'electric', 'field']",magnetic,0,0,47
+"['first', 'fully', 'explained', 'origin', 'magnetic', 'electric', 'field']",origin,0,0,47
+"['first', 'measurement', 'value', 'Newton', 'Universal', 'Gravitation', 'Constant']",Constant,0,0,47
+"['first', 'measurement', 'value', 'Newton', 'Universal', 'Gravitation', 'Constant']",Gravitation,0,0,47
+"['first', 'measurement', 'value', 'Newton', 'Universal', 'Gravitation', 'Constant']",Newton,0,0,47
+"['first', 'measurement', 'value', 'Newton', 'Universal', 'Gravitation', 'Constant']",Universal,0,0,47
+"['first', 'measurement', 'value', 'Newton', 'Universal', 'Gravitation', 'Constant']",first,0,0,47
+"['first', 'measurement', 'value', 'Newton', 'Universal', 'Gravitation', 'Constant']",measurement,0,0,47
+"['first', 'measurement', 'value', 'Newton', 'Universal', 'Gravitation', 'Constant']",value,0,0,47
+"['first', 'showed', 'Newton', 'Theory', 'Gravity', 'correct', 'another', 'theory']",Gravity,0,0,47
+"['first', 'showed', 'Newton', 'Theory', 'Gravity', 'correct', 'another', 'theory']",Newton,0,0,47
+"['first', 'showed', 'Newton', 'Theory', 'Gravity', 'correct', 'another', 'theory']",Theory,0,0,47
+"['first', 'showed', 'Newton', 'Theory', 'Gravity', 'correct', 'another', 'theory']",another,0,0,47
+"['first', 'showed', 'Newton', 'Theory', 'Gravity', 'correct', 'another', 'theory']",correct,0,0,47
+"['first', 'showed', 'Newton', 'Theory', 'Gravity', 'correct', 'another', 'theory']",first,0,0,47
+"['first', 'showed', 'Newton', 'Theory', 'Gravity', 'correct', 'another', 'theory']",showed,0,0,47
+"['first', 'showed', 'Newton', 'Theory', 'Gravity', 'correct', 'another', 'theory']",theory,0,0,47
+"['force', 'act', 'electric', 'charge']",act,0,0,47
+"['force', 'act', 'electric', 'charge']",charge,0,0,47
+"['force', 'act', 'electric', 'charge']",electric,0,0,47
+"['force', 'act', 'electric', 'charge']",force,0,0,47
+"['force', 'act', 'object', 'suspended', 'spring', 'scale', 'addition', 'gravity']",act,0,0,47
+"['force', 'act', 'object', 'suspended', 'spring', 'scale', 'addition', 'gravity']",addition,0,0,47
+"['force', 'act', 'object', 'suspended', 'spring', 'scale', 'addition', 'gravity']",force,0,0,47
+"['force', 'act', 'object', 'suspended', 'spring', 'scale', 'addition', 'gravity']",gravity,0,0,47
+"['force', 'act', 'object', 'suspended', 'spring', 'scale', 'addition', 'gravity']",object,0,0,47
+"['force', 'act', 'object', 'suspended', 'spring', 'scale', 'addition', 'gravity']",scale,0,0,47
+"['force', 'act', 'object', 'suspended', 'spring', 'scale', 'addition', 'gravity']",spring,0,0,47
+"['force', 'act', 'object', 'suspended', 'spring', 'scale', 'addition', 'gravity']",suspended,0,0,47
+"['force', 'acted', 'body', 'retard', 'velocity']",acted,0,0,47
+"['force', 'acted', 'body', 'retard', 'velocity']",body,0,0,47
+"['force', 'acted', 'body', 'retard', 'velocity']",force,0,0,47
+"['force', 'acted', 'body', 'retard', 'velocity']",retard,0,0,47
+"['force', 'acted', 'body', 'retard', 'velocity']",velocity,0,0,47
+"['force', 'acting', 'extended', 'body', 'need', 'account', 'motion', 'effect']",account,0,0,47
+"['force', 'acting', 'extended', 'body', 'need', 'account', 'motion', 'effect']",acting,0,0,47
+"['force', 'acting', 'extended', 'body', 'need', 'account', 'motion', 'effect']",body,0,0,47
+"['force', 'acting', 'extended', 'body', 'need', 'account', 'motion', 'effect']",effect,0,0,47
+"['force', 'acting', 'extended', 'body', 'need', 'account', 'motion', 'effect']",extended,0,0,47
+"['force', 'acting', 'extended', 'body', 'need', 'account', 'motion', 'effect']",force,0,0,47
+"['force', 'acting', 'extended', 'body', 'need', 'account', 'motion', 'effect']",motion,0,0,47
+"['force', 'acting', 'extended', 'body', 'need', 'account', 'motion', 'effect']",need,0,0,47
+"['force', 'called', 'rgarding', 'potential', 'field', 'two', 'location']",called,0,0,47
+"['force', 'called', 'rgarding', 'potential', 'field', 'two', 'location']",field,0,0,47
+"['force', 'called', 'rgarding', 'potential', 'field', 'two', 'location']",force,0,0,47
+"['force', 'called', 'rgarding', 'potential', 'field', 'two', 'location']",location,0,0,47
+"['force', 'called', 'rgarding', 'potential', 'field', 'two', 'location']",potential,0,0,47
+"['force', 'called', 'rgarding', 'potential', 'field', 'two', 'location']",rgarding,0,0,47
+"['force', 'called', 'rgarding', 'potential', 'field', 'two', 'location']",two,0,0,47
+"['force', 'cause', 'rigid', 'strength', 'structure']",cause,0,0,47
+"['force', 'cause', 'rigid', 'strength', 'structure']",force,0,0,47
+"['force', 'cause', 'rigid', 'strength', 'structure']",rigid,0,0,47
+"['force', 'cause', 'rigid', 'strength', 'structure']",strength,0,0,47
+"['force', 'cause', 'rigid', 'strength', 'structure']",structure,0,0,47
+"['force', 'change', 'object', 'direction', 'travel']",change,0,0,47
+"['force', 'change', 'object', 'direction', 'travel']",direction,0,0,47
+"['force', 'change', 'object', 'direction', 'travel']",force,0,0,47
+"['force', 'change', 'object', 'direction', 'travel']",object,0,0,47
+"['force', 'change', 'object', 'direction', 'travel']",travel,0,0,47
+"['force', 'classified', 'regard', 'push', 'pull', 'strengt']",classified,0,0,47
+"['force', 'classified', 'regard', 'push', 'pull', 'strengt']",force,0,0,47
+"['force', 'classified', 'regard', 'push', 'pull', 'strengt']",pull,0,0,47
+"['force', 'classified', 'regard', 'push', 'pull', 'strengt']",push,0,0,47
+"['force', 'classified', 'regard', 'push', 'pull', 'strengt']",regard,0,0,47
+"['force', 'classified', 'regard', 'push', 'pull', 'strengt']",strengt,0,0,47
+"['force', 'derived', 'field', 'treated', 'similarly']",derived,0,0,47
+"['force', 'derived', 'field', 'treated', 'similarly']",field,0,0,47
+"['force', 'derived', 'field', 'treated', 'similarly']",force,0,0,47
+"['force', 'derived', 'field', 'treated', 'similarly']",similarly,0,0,47
+"['force', 'derived', 'field', 'treated', 'similarly']",treated,0,0,47
+"['force', 'due', 'impossible', 'model']",due,0,0,47
+"['force', 'due', 'impossible', 'model']",force,0,0,47
+"['force', 'due', 'impossible', 'model']",impossible,0,0,47
+"['force', 'due', 'impossible', 'model']",model,0,0,47
+"['force', 'equivalent', 'torque', 'compared', 'angular', 'momentum']",angular,0,0,47
+"['force', 'equivalent', 'torque', 'compared', 'angular', 'momentum']",compared,0,0,47
+"['force', 'equivalent', 'torque', 'compared', 'angular', 'momentum']",equivalent,0,0,47
+"['force', 'equivalent', 'torque', 'compared', 'angular', 'momentum']",force,0,0,47
+"['force', 'equivalent', 'torque', 'compared', 'angular', 'momentum']",momentum,0,0,47
+"['force', 'equivalent', 'torque', 'compared', 'angular', 'momentum']",torque,0,0,47
+"['force', 'nucleon']",force,0,0,47
+"['force', 'nucleon']",nucleon,0,0,47
+"['force', 'pointing', 'horizontally', 'northeast', 'force', 'split', 'force']",force,0,0,47
+"['force', 'pointing', 'horizontally', 'northeast', 'force', 'split', 'force']",horizontally,0,0,47
+"['force', 'pointing', 'horizontally', 'northeast', 'force', 'split', 'force']",northeast,0,0,47
+"['force', 'pointing', 'horizontally', 'northeast', 'force', 'split', 'force']",pointing,0,0,47
+"['force', 'pointing', 'horizontally', 'northeast', 'force', 'split', 'force']",split,0,0,47
+"['force', 'presence', 'differnet', 'object', 'law', 'give', 'symmetry']",differnet,0,0,47
+"['force', 'presence', 'differnet', 'object', 'law', 'give', 'symmetry']",force,0,0,47
+"['force', 'presence', 'differnet', 'object', 'law', 'give', 'symmetry']",give,0,0,47
+"['force', 'presence', 'differnet', 'object', 'law', 'give', 'symmetry']",law,0,0,47
+"['force', 'presence', 'differnet', 'object', 'law', 'give', 'symmetry']",object,0,0,47
+"['force', 'presence', 'differnet', 'object', 'law', 'give', 'symmetry']",presence,0,0,47
+"['force', 'presence', 'differnet', 'object', 'law', 'give', 'symmetry']",symmetry,0,0,47
+"['force', 'regard', 'additive', 'quantity']",additive,0,0,47
+"['force', 'regard', 'additive', 'quantity']",force,0,0,47
+"['force', 'regard', 'additive', 'quantity']",quantity,0,0,47
+"['force', 'regard', 'additive', 'quantity']",regard,0,0,47
+"['force', 'two', 'location', 'related']",force,0,0,47
+"['force', 'two', 'location', 'related']",location,0,0,47
+"['force', 'two', 'location', 'related']",related,0,0,47
+"['force', 'two', 'location', 'related']",two,0,0,47
+"['form', 'kinetic', 'energy', 'change']",change,0,0,47
+"['form', 'kinetic', 'energy', 'change']",energy,0,0,47
+"['form', 'kinetic', 'energy', 'change']",form,0,0,47
+"['form', 'kinetic', 'energy', 'change']",kinetic,0,0,47
+"['form', 'potential', 'energy', 'change']",change,0,0,47
+"['form', 'potential', 'energy', 'change']",energy,0,0,47
+"['form', 'potential', 'energy', 'change']",form,0,0,47
+"['form', 'potential', 'energy', 'change']",potential,0,0,47
+"['formed', 'universal', 'theory', 'gravitation']",formed,0,0,47
+"['formed', 'universal', 'theory', 'gravitation']",gravitation,0,0,47
+"['formed', 'universal', 'theory', 'gravitation']",theory,0,0,47
+"['formed', 'universal', 'theory', 'gravitation']",universal,0,0,47
+"['fundamental', 'force', 'quanton', 'field', 'theory']",field,0,0,47
+"['fundamental', 'force', 'quanton', 'field', 'theory']",force,0,0,47
+"['fundamental', 'force', 'quanton', 'field', 'theory']",fundamental,0,0,47
+"['fundamental', 'force', 'quanton', 'field', 'theory']",quanton,0,0,47
+"['fundamental', 'force', 'quanton', 'field', 'theory']",theory,0,0,47
+"['generated', 'surface', 'object', 'pushed']",generated,0,0,47
+"['generated', 'surface', 'object', 'pushed']",object,0,0,47
+"['generated', 'surface', 'object', 'pushed']",pushed,0,0,47
+"['generated', 'surface', 'object', 'pushed']",surface,0,0,47
+"['geometric', 'shape', 'used', 'equation', 'determine', 'net', 'force']",determine,0,0,47
+"['geometric', 'shape', 'used', 'equation', 'determine', 'net', 'force']",equation,0,0,47
+"['geometric', 'shape', 'used', 'equation', 'determine', 'net', 'force']",force,0,0,47
+"['geometric', 'shape', 'used', 'equation', 'determine', 'net', 'force']",geometric,0,0,47
+"['geometric', 'shape', 'used', 'equation', 'determine', 'net', 'force']",net,0,0,47
+"['geometric', 'shape', 'used', 'equation', 'determine', 'net', 'force']",shape,0,0,47
+"['geometric', 'shape', 'used', 'equation', 'determine', 'net', 'force']",used,0,0,47
+"['get', 'figure', 'sum', 'force', 'vector', 'addition']",addition,0,0,47
+"['get', 'figure', 'sum', 'force', 'vector', 'addition']",figure,0,0,47
+"['get', 'figure', 'sum', 'force', 'vector', 'addition']",force,0,0,47
+"['get', 'figure', 'sum', 'force', 'vector', 'addition']",get,0,0,47
+"['get', 'figure', 'sum', 'force', 'vector', 'addition']",sum,0,0,47
+"['get', 'figure', 'sum', 'force', 'vector', 'addition']",vector,0,0,47
+"['gravitational', 'acceleration', 'proportional']",acceleration,0,0,47
+"['gravitational', 'acceleration', 'proportional']",gravitational,0,0,47
+"['gravitational', 'acceleration', 'proportional']",proportional,0,0,47
+"['gravitational', 'force', 'act']",act,0,0,47
+"['gravitational', 'force', 'act']",force,0,0,47
+"['gravitational', 'force', 'act']",gravitational,0,0,47
+"['idea', 'natural', 'state', 'object', 'rest']",idea,0,0,47
+"['idea', 'natural', 'state', 'object', 'rest']",natural,0,0,47
+"['idea', 'natural', 'state', 'object', 'rest']",object,0,0,47
+"['idea', 'natural', 'state', 'object', 'rest']",rest,0,0,47
+"['idea', 'natural', 'state', 'object', 'rest']",state,0,0,47
+"['identified', 'gravity', 'force']",force,0,0,47
+"['identified', 'gravity', 'force']",gravity,0,0,47
+"['identified', 'gravity', 'force']",identified,0,0,47
+"['included', 'along', 'gravitational', 'acceration', 'mass', 'Earth', 'formula', 'rotation', 'Earth']",Earth,0,0,47
+"['included', 'along', 'gravitational', 'acceration', 'mass', 'Earth', 'formula', 'rotation', 'Earth']",acceration,0,0,47
+"['included', 'along', 'gravitational', 'acceration', 'mass', 'Earth', 'formula', 'rotation', 'Earth']",along,0,0,47
+"['included', 'along', 'gravitational', 'acceration', 'mass', 'Earth', 'formula', 'rotation', 'Earth']",formula,0,0,47
+"['included', 'along', 'gravitational', 'acceration', 'mass', 'Earth', 'formula', 'rotation', 'Earth']",gravitational,0,0,47
+"['included', 'along', 'gravitational', 'acceration', 'mass', 'Earth', 'formula', 'rotation', 'Earth']",included,0,0,47
+"['included', 'along', 'gravitational', 'acceration', 'mass', 'Earth', 'formula', 'rotation', 'Earth']",mass,0,0,47
+"['included', 'along', 'gravitational', 'acceration', 'mass', 'Earth', 'formula', 'rotation', 'Earth']",rotation,0,0,47
+"['includes', 'pressure', 'term', 'calculating', 'area', 'volume']",area,0,0,47
+"['includes', 'pressure', 'term', 'calculating', 'area', 'volume']",calculating,0,0,47
+"['includes', 'pressure', 'term', 'calculating', 'area', 'volume']",includes,0,0,47
+"['includes', 'pressure', 'term', 'calculating', 'area', 'volume']",pressure,0,0,47
+"['includes', 'pressure', 'term', 'calculating', 'area', 'volume']",term,0,0,47
+"['includes', 'pressure', 'term', 'calculating', 'area', 'volume']",volume,0,0,47
+"['increase', 'tension', 'force', 'load']",force,0,0,47
+"['increase', 'tension', 'force', 'load']",increase,0,0,47
+"['increase', 'tension', 'force', 'load']",load,0,0,47
+"['increase', 'tension', 'force', 'load']",tension,0,0,47
+"['independant', 'component', 'vector', 'sum', 'determined', 'scalar', 'addition', 'individual', 'vector']",addition,0,0,47
+"['independant', 'component', 'vector', 'sum', 'determined', 'scalar', 'addition', 'individual', 'vector']",component,0,0,47
+"['independant', 'component', 'vector', 'sum', 'determined', 'scalar', 'addition', 'individual', 'vector']",determined,0,0,47
+"['independant', 'component', 'vector', 'sum', 'determined', 'scalar', 'addition', 'individual', 'vector']",independant,0,0,47
+"['independant', 'component', 'vector', 'sum', 'determined', 'scalar', 'addition', 'individual', 'vector']",individual,0,0,47
+"['independant', 'component', 'vector', 'sum', 'determined', 'scalar', 'addition', 'individual', 'vector']",scalar,0,0,47
+"['independant', 'component', 'vector', 'sum', 'determined', 'scalar', 'addition', 'individual', 'vector']",sum,0,0,47
+"['independant', 'component', 'vector', 'sum', 'determined', 'scalar', 'addition', 'individual', 'vector']",vector,0,0,47
+"['insight', 'Galileo', 'associated', 'constant', 'velocity']",Galileo,0,0,47
+"['insight', 'Galileo', 'associated', 'constant', 'velocity']",associated,0,0,47
+"['insight', 'Galileo', 'associated', 'constant', 'velocity']",constant,0,0,47
+"['insight', 'Galileo', 'associated', 'constant', 'velocity']",insight,0,0,47
+"['insight', 'Galileo', 'associated', 'constant', 'velocity']",velocity,0,0,47
+"['interaction', 'universal', 'force', 'based']",based,0,0,47
+"['interaction', 'universal', 'force', 'based']",force,0,0,47
+"['interaction', 'universal', 'force', 'based']",interaction,0,0,47
+"['interaction', 'universal', 'force', 'based']",universal,0,0,47
+"['intrisic', 'angular', 'variable', 'called', 'particle', 'act', 'upon', 'one', 'another']",act,0,0,47
+"['intrisic', 'angular', 'variable', 'called', 'particle', 'act', 'upon', 'one', 'another']",angular,0,0,47
+"['intrisic', 'angular', 'variable', 'called', 'particle', 'act', 'upon', 'one', 'another']",another,0,0,47
+"['intrisic', 'angular', 'variable', 'called', 'particle', 'act', 'upon', 'one', 'another']",called,0,0,47
+"['intrisic', 'angular', 'variable', 'called', 'particle', 'act', 'upon', 'one', 'another']",intrisic,0,0,47
+"['intrisic', 'angular', 'variable', 'called', 'particle', 'act', 'upon', 'one', 'another']",one,0,0,47
+"['intrisic', 'angular', 'variable', 'called', 'particle', 'act', 'upon', 'one', 'another']",particle,0,0,47
+"['intrisic', 'angular', 'variable', 'called', 'particle', 'act', 'upon', 'one', 'another']",upon,0,0,47
+"['intrisic', 'angular', 'variable', 'called', 'particle', 'act', 'upon', 'one', 'another']",variable,0,0,47
+"['keep', 'object', 'moving', 'pushed', 'surface']",keep,0,0,47
+"['keep', 'object', 'moving', 'pushed', 'surface']",moving,0,0,47
+"['keep', 'object', 'moving', 'pushed', 'surface']",object,0,0,47
+"['keep', 'object', 'moving', 'pushed', 'surface']",pushed,0,0,47
+"['keep', 'object', 'moving', 'pushed', 'surface']",surface,0,0,47
+"['kilogram-force', 'sometimes', 'reffered']",kilogram-force,0,0,47
+"['kilogram-force', 'sometimes', 'reffered']",reffered,0,0,47
+"['kilogram-force', 'sometimes', 'reffered']",sometimes,0,0,47
+"['kind', 'fluid', 'pressure', 'difference', 'caused', 'direction', 'force', 'gradient']",caused,0,0,47
+"['kind', 'fluid', 'pressure', 'difference', 'caused', 'direction', 'force', 'gradient']",difference,0,0,47
+"['kind', 'fluid', 'pressure', 'difference', 'caused', 'direction', 'force', 'gradient']",direction,0,0,47
+"['kind', 'fluid', 'pressure', 'difference', 'caused', 'direction', 'force', 'gradient']",fluid,0,0,47
+"['kind', 'fluid', 'pressure', 'difference', 'caused', 'direction', 'force', 'gradient']",force,0,0,47
+"['kind', 'fluid', 'pressure', 'difference', 'caused', 'direction', 'force', 'gradient']",gradient,0,0,47
+"['kind', 'fluid', 'pressure', 'difference', 'caused', 'direction', 'force', 'gradient']",kind,0,0,47
+"['kind', 'fluid', 'pressure', 'difference', 'caused', 'direction', 'force', 'gradient']",pressure,0,0,47
+"['kind', 'force', 'exist', 'Newton', 'third', 'law']",Newton,0,0,47
+"['kind', 'force', 'exist', 'Newton', 'third', 'law']",exist,0,0,47
+"['kind', 'force', 'exist', 'Newton', 'third', 'law']",force,0,0,47
+"['kind', 'force', 'exist', 'Newton', 'third', 'law']",kind,0,0,47
+"['kind', 'force', 'exist', 'Newton', 'third', 'law']",law,0,0,47
+"['kind', 'force', 'exist', 'Newton', 'third', 'law']",third,0,0,47
+"['kind', 'measurement', 'define', 'accelerlations']",accelerlations,0,0,47
+"['kind', 'measurement', 'define', 'accelerlations']",define,0,0,47
+"['kind', 'measurement', 'define', 'accelerlations']",kind,0,0,47
+"['kind', 'measurement', 'define', 'accelerlations']",measurement,0,0,47
+"['kind', 'self-consistent', 'model', 'physicist', 'trying', 'make', 'would', 'create', 'theory', 'everything']",create,0,0,47
+"['kind', 'self-consistent', 'model', 'physicist', 'trying', 'make', 'would', 'create', 'theory', 'everything']",everything,0,0,47
+"['kind', 'self-consistent', 'model', 'physicist', 'trying', 'make', 'would', 'create', 'theory', 'everything']",kind,0,0,47
+"['kind', 'self-consistent', 'model', 'physicist', 'trying', 'make', 'would', 'create', 'theory', 'everything']",make,0,0,47
+"['kind', 'self-consistent', 'model', 'physicist', 'trying', 'make', 'would', 'create', 'theory', 'everything']",model,0,0,47
+"['kind', 'self-consistent', 'model', 'physicist', 'trying', 'make', 'would', 'create', 'theory', 'everything']",physicist,0,0,47
+"['kind', 'self-consistent', 'model', 'physicist', 'trying', 'make', 'would', 'create', 'theory', 'everything']",self-consistent,0,0,47
+"['kind', 'self-consistent', 'model', 'physicist', 'trying', 'make', 'would', 'create', 'theory', 'everything']",theory,0,0,47
+"['kind', 'self-consistent', 'model', 'physicist', 'trying', 'make', 'would', 'create', 'theory', 'everything']",trying,0,0,47
+"['kind', 'self-consistent', 'model', 'physicist', 'trying', 'make', 'would', 'create', 'theory', 'everything']",would,0,0,47
+"['kind', 'system', 'particle', 'unbalanced', 'iinternal', 'force']",force,0,0,47
+"['kind', 'system', 'particle', 'unbalanced', 'iinternal', 'force']",iinternal,0,0,47
+"['kind', 'system', 'particle', 'unbalanced', 'iinternal', 'force']",kind,0,0,47
+"['kind', 'system', 'particle', 'unbalanced', 'iinternal', 'force']",particle,0,0,47
+"['kind', 'system', 'particle', 'unbalanced', 'iinternal', 'force']",system,0,0,47
+"['kind', 'system', 'particle', 'unbalanced', 'iinternal', 'force']",unbalanced,0,0,47
+"['know', 'magnitude', 'direction', 'two', 'force', 'object', 'would', 'call', 'situation']",call,0,0,47
+"['know', 'magnitude', 'direction', 'two', 'force', 'object', 'would', 'call', 'situation']",direction,0,0,47
+"['know', 'magnitude', 'direction', 'two', 'force', 'object', 'would', 'call', 'situation']",force,0,0,47
+"['know', 'magnitude', 'direction', 'two', 'force', 'object', 'would', 'call', 'situation']",know,0,0,47
+"['know', 'magnitude', 'direction', 'two', 'force', 'object', 'would', 'call', 'situation']",magnitude,0,0,47
+"['know', 'magnitude', 'direction', 'two', 'force', 'object', 'would', 'call', 'situation']",object,0,0,47
+"['know', 'magnitude', 'direction', 'two', 'force', 'object', 'would', 'call', 'situation']",situation,0,0,47
+"['know', 'magnitude', 'direction', 'two', 'force', 'object', 'would', 'call', 'situation']",two,0,0,47
+"['know', 'magnitude', 'direction', 'two', 'force', 'object', 'would', 'call', 'situation']",would,0,0,47
+"['laboratory', 'measurement', 'force', 'determined']",determined,0,0,47
+"['laboratory', 'measurement', 'force', 'determined']",force,0,0,47
+"['laboratory', 'measurement', 'force', 'determined']",laboratory,0,0,47
+"['laboratory', 'measurement', 'force', 'determined']",measurement,0,0,47
+"['law', 'connects', 'relative', 'velocity', 'inertia']",connects,0,0,47
+"['law', 'connects', 'relative', 'velocity', 'inertia']",inertia,0,0,47
+"['law', 'connects', 'relative', 'velocity', 'inertia']",law,0,0,47
+"['law', 'connects', 'relative', 'velocity', 'inertia']",relative,0,0,47
+"['law', 'connects', 'relative', 'velocity', 'inertia']",velocity,0,0,47
+"['law', 'named', 'defines', 'charge', 'moving', 'magnetic', 'field']",charge,0,0,47
+"['law', 'named', 'defines', 'charge', 'moving', 'magnetic', 'field']",defines,0,0,47
+"['law', 'named', 'defines', 'charge', 'moving', 'magnetic', 'field']",field,0,0,47
+"['law', 'named', 'defines', 'charge', 'moving', 'magnetic', 'field']",law,0,0,47
+"['law', 'named', 'defines', 'charge', 'moving', 'magnetic', 'field']",magnetic,0,0,47
+"['law', 'named', 'defines', 'charge', 'moving', 'magnetic', 'field']",moving,0,0,47
+"['law', 'named', 'defines', 'charge', 'moving', 'magnetic', 'field']",named,0,0,47
+"['law', 'physic', 'Galileo', 'reference', 'objest', 'motion', 'rest']",Galileo,0,0,47
+"['law', 'physic', 'Galileo', 'reference', 'objest', 'motion', 'rest']",law,0,0,47
+"['law', 'physic', 'Galileo', 'reference', 'objest', 'motion', 'rest']",motion,0,0,47
+"['law', 'physic', 'Galileo', 'reference', 'objest', 'motion', 'rest']",objest,0,0,47
+"['law', 'physic', 'Galileo', 'reference', 'objest', 'motion', 'rest']",physic,0,0,47
+"['law', 'physic', 'Galileo', 'reference', 'objest', 'motion', 'rest']",reference,0,0,47
+"['law', 'physic', 'Galileo', 'reference', 'objest', 'motion', 'rest']",rest,0,0,47
+"['law', 'staes', 'force', 'interaction', 'body']",body,0,0,47
+"['law', 'staes', 'force', 'interaction', 'body']",force,0,0,47
+"['law', 'staes', 'force', 'interaction', 'body']",interaction,0,0,47
+"['law', 'staes', 'force', 'interaction', 'body']",law,0,0,47
+"['law', 'staes', 'force', 'interaction', 'body']",staes,0,0,47
+"['law', 'thermodynamics', 'associated', 'closed', 'system', 'heat', 'exchange']",associated,0,0,47
+"['law', 'thermodynamics', 'associated', 'closed', 'system', 'heat', 'exchange']",closed,0,0,47
+"['law', 'thermodynamics', 'associated', 'closed', 'system', 'heat', 'exchange']",exchange,0,0,47
+"['law', 'thermodynamics', 'associated', 'closed', 'system', 'heat', 'exchange']",heat,0,0,47
+"['law', 'thermodynamics', 'associated', 'closed', 'system', 'heat', 'exchange']",law,0,0,47
+"['law', 'thermodynamics', 'associated', 'closed', 'system', 'heat', 'exchange']",system,0,0,47
+"['law', 'thermodynamics', 'associated', 'closed', 'system', 'heat', 'exchange']",thermodynamics,0,0,47
+"['long', 'take', 'improve', 'Sir', 'Isaac', 'Newton', 'law', 'motion']",Isaac,0,0,47
+"['long', 'take', 'improve', 'Sir', 'Isaac', 'Newton', 'law', 'motion']",Newton,0,0,47
+"['long', 'take', 'improve', 'Sir', 'Isaac', 'Newton', 'law', 'motion']",Sir,0,0,47
+"['long', 'take', 'improve', 'Sir', 'Isaac', 'Newton', 'law', 'motion']",improve,0,0,47
+"['long', 'take', 'improve', 'Sir', 'Isaac', 'Newton', 'law', 'motion']",law,0,0,47
+"['long', 'take', 'improve', 'Sir', 'Isaac', 'Newton', 'law', 'motion']",long,0,0,47
+"['long', 'take', 'improve', 'Sir', 'Isaac', 'Newton', 'law', 'motion']",motion,0,0,47
+"['long', 'take', 'improve', 'Sir', 'Isaac', 'Newton', 'law', 'motion']",take,0,0,47
+"['made', 'first', 'measure', 'value', 'Newton', 'Universal', 'Gravitation', 'Constant']",Constant,0,0,47
+"['made', 'first', 'measure', 'value', 'Newton', 'Universal', 'Gravitation', 'Constant']",Gravitation,0,0,47
+"['made', 'first', 'measure', 'value', 'Newton', 'Universal', 'Gravitation', 'Constant']",Newton,0,0,47
+"['made', 'first', 'measure', 'value', 'Newton', 'Universal', 'Gravitation', 'Constant']",Universal,0,0,47
+"['made', 'first', 'measure', 'value', 'Newton', 'Universal', 'Gravitation', 'Constant']",first,0,0,47
+"['made', 'first', 'measure', 'value', 'Newton', 'Universal', 'Gravitation', 'Constant']",made,0,0,47
+"['made', 'first', 'measure', 'value', 'Newton', 'Universal', 'Gravitation', 'Constant']",measure,0,0,47
+"['made', 'first', 'measure', 'value', 'Newton', 'Universal', 'Gravitation', 'Constant']",value,0,0,47
+"['magnetic', 'electric', 'force', 'act', 'charge']",act,0,0,47
+"['magnetic', 'electric', 'force', 'act', 'charge']",charge,0,0,47
+"['magnetic', 'electric', 'force', 'act', 'charge']",electric,0,0,47
+"['magnetic', 'electric', 'force', 'act', 'charge']",force,0,0,47
+"['magnetic', 'electric', 'force', 'act', 'charge']",magnetic,0,0,47
+"['magnitude', 'force', 'divided', 'external', 'force', 'added']",added,0,0,47
+"['magnitude', 'force', 'divided', 'external', 'force', 'added']",divided,0,0,47
+"['magnitude', 'force', 'divided', 'external', 'force', 'added']",external,0,0,47
+"['magnitude', 'force', 'divided', 'external', 'force', 'added']",force,0,0,47
+"['magnitude', 'force', 'divided', 'external', 'force', 'added']",magnitude,0,0,47
+"['make', 'day', 'length', 'constant', 'Earth']",Earth,0,0,47
+"['make', 'day', 'length', 'constant', 'Earth']",constant,0,0,47
+"['make', 'day', 'length', 'constant', 'Earth']",day,0,0,47
+"['make', 'day', 'length', 'constant', 'Earth']",length,0,0,47
+"['make', 'day', 'length', 'constant', 'Earth']",make,0,0,47
+"['make', 'energy', 'change', 'closed', 'system']",change,0,0,47
+"['make', 'energy', 'change', 'closed', 'system']",closed,0,0,47
+"['make', 'energy', 'change', 'closed', 'system']",energy,0,0,47
+"['make', 'energy', 'change', 'closed', 'system']",make,0,0,47
+"['make', 'energy', 'change', 'closed', 'system']",system,0,0,47
+"['make', 'static', 'friction', 'go', 'responce', 'contact', 'characteristic', 'object', 'surface']",characteristic,0,0,47
+"['make', 'static', 'friction', 'go', 'responce', 'contact', 'characteristic', 'object', 'surface']",contact,0,0,47
+"['make', 'static', 'friction', 'go', 'responce', 'contact', 'characteristic', 'object', 'surface']",friction,0,0,47
+"['make', 'static', 'friction', 'go', 'responce', 'contact', 'characteristic', 'object', 'surface']",go,0,0,47
+"['make', 'static', 'friction', 'go', 'responce', 'contact', 'characteristic', 'object', 'surface']",make,0,0,47
+"['make', 'static', 'friction', 'go', 'responce', 'contact', 'characteristic', 'object', 'surface']",object,0,0,47
+"['make', 'static', 'friction', 'go', 'responce', 'contact', 'characteristic', 'object', 'surface']",responce,0,0,47
+"['make', 'static', 'friction', 'go', 'responce', 'contact', 'characteristic', 'object', 'surface']",static,0,0,47
+"['make', 'static', 'friction', 'go', 'responce', 'contact', 'characteristic', 'object', 'surface']",surface,0,0,47
+"['mathmatical', 'insite']",insite,0,0,47
+"['mathmatical', 'insite']",mathmatical,0,0,47
+"['matter', 'actually', 'Newtonian', 'mechanic', ""n't"", 'address']",Newtonian,0,0,47
+"['matter', 'actually', 'Newtonian', 'mechanic', ""n't"", 'address']",actually,0,0,47
+"['matter', 'actually', 'Newtonian', 'mechanic', ""n't"", 'address']",address,0,0,47
+"['matter', 'actually', 'Newtonian', 'mechanic', ""n't"", 'address']",matter,0,0,47
+"['matter', 'actually', 'Newtonian', 'mechanic', ""n't"", 'address']",mechanic,0,0,47
+"['matter', 'actually', 'Newtonian', 'mechanic', ""n't"", 'address']",n't,0,0,47
+"['may', 'force', 'one', 'part', 'object', 'affect']",affect,0,0,47
+"['may', 'force', 'one', 'part', 'object', 'affect']",force,0,0,47
+"['may', 'force', 'one', 'part', 'object', 'affect']",may,0,0,47
+"['may', 'force', 'one', 'part', 'object', 'affect']",object,0,0,47
+"['may', 'force', 'one', 'part', 'object', 'affect']",one,0,0,47
+"['may', 'force', 'one', 'part', 'object', 'affect']",part,0,0,47
+"['measurment', 'standard', 'gravity', 'Earth', 'taken']",Earth,0,0,47
+"['measurment', 'standard', 'gravity', 'Earth', 'taken']",gravity,0,0,47
+"['measurment', 'standard', 'gravity', 'Earth', 'taken']",measurment,0,0,47
+"['measurment', 'standard', 'gravity', 'Earth', 'taken']",standard,0,0,47
+"['measurment', 'standard', 'gravity', 'Earth', 'taken']",taken,0,0,47
+"['metric', 'term', 'le', 'used', 'Newton']",Newton,0,0,47
+"['metric', 'term', 'le', 'used', 'Newton']",le,0,0,47
+"['metric', 'term', 'le', 'used', 'Newton']",metric,0,0,47
+"['metric', 'term', 'le', 'used', 'Newton']",term,0,0,47
+"['metric', 'term', 'le', 'used', 'Newton']",used,0,0,47
+"['might', 'gravity', 'effect', 'observed', 'differently', 'according', 'Newton']",Newton,0,0,47
+"['might', 'gravity', 'effect', 'observed', 'differently', 'according', 'Newton']",according,0,0,47
+"['might', 'gravity', 'effect', 'observed', 'differently', 'according', 'Newton']",differently,0,0,47
+"['might', 'gravity', 'effect', 'observed', 'differently', 'according', 'Newton']",effect,0,0,47
+"['might', 'gravity', 'effect', 'observed', 'differently', 'according', 'Newton']",gravity,0,0,47
+"['might', 'gravity', 'effect', 'observed', 'differently', 'according', 'Newton']",might,0,0,47
+"['might', 'gravity', 'effect', 'observed', 'differently', 'according', 'Newton']",observed,0,0,47
+"['missing', 'theory', 'quantum', 'gravity']",gravity,0,0,47
+"['missing', 'theory', 'quantum', 'gravity']",missing,0,0,47
+"['missing', 'theory', 'quantum', 'gravity']",quantum,0,0,47
+"['missing', 'theory', 'quantum', 'gravity']",theory,0,0,47
+"['motion', 'constant', 'velocity', 'equal']",constant,0,0,47
+"['motion', 'constant', 'velocity', 'equal']",equal,0,0,47
+"['motion', 'constant', 'velocity', 'equal']",motion,0,0,47
+"['motion', 'constant', 'velocity', 'equal']",velocity,0,0,47
+"['needed', 'pack', 'electron', 'densely', 'together']",densely,0,0,47
+"['needed', 'pack', 'electron', 'densely', 'together']",electron,0,0,47
+"['needed', 'pack', 'electron', 'densely', 'together']",needed,0,0,47
+"['needed', 'pack', 'electron', 'densely', 'together']",pack,0,0,47
+"['needed', 'pack', 'electron', 'densely', 'together']",together,0,0,47
+"['notion', 'keep', 'meaning', 'Netonian', 'Schrodinger', 'physic', 'equation']",Netonian,0,0,47
+"['notion', 'keep', 'meaning', 'Netonian', 'Schrodinger', 'physic', 'equation']",Schrodinger,0,0,47
+"['notion', 'keep', 'meaning', 'Netonian', 'Schrodinger', 'physic', 'equation']",equation,0,0,47
+"['notion', 'keep', 'meaning', 'Netonian', 'Schrodinger', 'physic', 'equation']",keep,0,0,47
+"['notion', 'keep', 'meaning', 'Netonian', 'Schrodinger', 'physic', 'equation']",meaning,0,0,47
+"['notion', 'keep', 'meaning', 'Netonian', 'Schrodinger', 'physic', 'equation']",notion,0,0,47
+"['notion', 'keep', 'meaning', 'Netonian', 'Schrodinger', 'physic', 'equation']",physic,0,0,47
+"['nuclear', 'force', 'act', 'short', 'distance']",act,0,0,47
+"['nuclear', 'force', 'act', 'short', 'distance']",distance,0,0,47
+"['nuclear', 'force', 'act', 'short', 'distance']",force,0,0,47
+"['nuclear', 'force', 'act', 'short', 'distance']",nuclear,0,0,47
+"['nuclear', 'force', 'act', 'short', 'distance']",short,0,0,47
+"['nuclear', 'force', 'transmitted']",force,0,0,47
+"['nuclear', 'force', 'transmitted']",nuclear,0,0,47
+"['nuclear', 'force', 'transmitted']",transmitted,0,0,47
+"['object', 'forced', 'motion', 'contain', 'according', 'late', 'Medieval', 'idea', 'influence', 'Aristotle']",Aristotle,0,0,47
+"['object', 'forced', 'motion', 'contain', 'according', 'late', 'Medieval', 'idea', 'influence', 'Aristotle']",Medieval,0,0,47
+"['object', 'forced', 'motion', 'contain', 'according', 'late', 'Medieval', 'idea', 'influence', 'Aristotle']",according,0,0,47
+"['object', 'forced', 'motion', 'contain', 'according', 'late', 'Medieval', 'idea', 'influence', 'Aristotle']",contain,0,0,47
+"['object', 'forced', 'motion', 'contain', 'according', 'late', 'Medieval', 'idea', 'influence', 'Aristotle']",forced,0,0,47
+"['object', 'forced', 'motion', 'contain', 'according', 'late', 'Medieval', 'idea', 'influence', 'Aristotle']",idea,0,0,47
+"['object', 'forced', 'motion', 'contain', 'according', 'late', 'Medieval', 'idea', 'influence', 'Aristotle']",influence,0,0,47
+"['object', 'forced', 'motion', 'contain', 'according', 'late', 'Medieval', 'idea', 'influence', 'Aristotle']",late,0,0,47
+"['object', 'forced', 'motion', 'contain', 'according', 'late', 'Medieval', 'idea', 'influence', 'Aristotle']",motion,0,0,47
+"['object', 'forced', 'motion', 'contain', 'according', 'late', 'Medieval', 'idea', 'influence', 'Aristotle']",object,0,0,47
+"['object', 'mass', 'proportional', 'surface', 'Earth']",Earth,0,0,47
+"['object', 'mass', 'proportional', 'surface', 'Earth']",mass,0,0,47
+"['object', 'mass', 'proportional', 'surface', 'Earth']",object,0,0,47
+"['object', 'mass', 'proportional', 'surface', 'Earth']",proportional,0,0,47
+"['object', 'mass', 'proportional', 'surface', 'Earth']",surface,0,0,47
+"['observable', 'effect', 'W', 'Z', 'boson', 'exchange']",W,0,0,47
+"['observable', 'effect', 'W', 'Z', 'boson', 'exchange']",Z,0,0,47
+"['observable', 'effect', 'W', 'Z', 'boson', 'exchange']",boson,0,0,47
+"['observable', 'effect', 'W', 'Z', 'boson', 'exchange']",effect,0,0,47
+"['observable', 'effect', 'W', 'Z', 'boson', 'exchange']",exchange,0,0,47
+"['observable', 'effect', 'W', 'Z', 'boson', 'exchange']",observable,0,0,47
+"['occurs', 'electron', 'cloud', 'overlap', 'different', 'atom']",atom,0,0,47
+"['occurs', 'electron', 'cloud', 'overlap', 'different', 'atom']",cloud,0,0,47
+"['occurs', 'electron', 'cloud', 'overlap', 'different', 'atom']",different,0,0,47
+"['occurs', 'electron', 'cloud', 'overlap', 'different', 'atom']",electron,0,0,47
+"['occurs', 'electron', 'cloud', 'overlap', 'different', 'atom']",occurs,0,0,47
+"['occurs', 'electron', 'cloud', 'overlap', 'different', 'atom']",overlap,0,0,47
+"['occurs', 'traveling', 'across', 'surface', 'constant', 'velocity', 'regard', 'friction']",across,0,0,47
+"['occurs', 'traveling', 'across', 'surface', 'constant', 'velocity', 'regard', 'friction']",constant,0,0,47
+"['occurs', 'traveling', 'across', 'surface', 'constant', 'velocity', 'regard', 'friction']",friction,0,0,47
+"['occurs', 'traveling', 'across', 'surface', 'constant', 'velocity', 'regard', 'friction']",occurs,0,0,47
+"['occurs', 'traveling', 'across', 'surface', 'constant', 'velocity', 'regard', 'friction']",regard,0,0,47
+"['occurs', 'traveling', 'across', 'surface', 'constant', 'velocity', 'regard', 'friction']",surface,0,0,47
+"['occurs', 'traveling', 'across', 'surface', 'constant', 'velocity', 'regard', 'friction']",traveling,0,0,47
+"['occurs', 'traveling', 'across', 'surface', 'constant', 'velocity', 'regard', 'friction']",velocity,0,0,47
+"['offer', 'conceptual', 'definition', 'force']",conceptual,0,0,47
+"['offer', 'conceptual', 'definition', 'force']",definition,0,0,47
+"['offer', 'conceptual', 'definition', 'force']",force,0,0,47
+"['offer', 'conceptual', 'definition', 'force']",offer,0,0,47
+"['often', 'misunderstood', 'cause', 'matter', 'rigidity']",cause,0,0,47
+"['often', 'misunderstood', 'cause', 'matter', 'rigidity']",matter,0,0,47
+"['often', 'misunderstood', 'cause', 'matter', 'rigidity']",misunderstood,0,0,47
+"['often', 'misunderstood', 'cause', 'matter', 'rigidity']",often,0,0,47
+"['often', 'misunderstood', 'cause', 'matter', 'rigidity']",rigidity,0,0,47
+"['origin', 'magnetic', 'electric', 'field', 'occur']",electric,0,0,47
+"['origin', 'magnetic', 'electric', 'field', 'occur']",field,0,0,47
+"['origin', 'magnetic', 'electric', 'field', 'occur']",magnetic,0,0,47
+"['origin', 'magnetic', 'electric', 'field', 'occur']",occur,0,0,47
+"['origin', 'magnetic', 'electric', 'field', 'occur']",origin,0,0,47
+"['orthogonal', 'force', 'three', 'component', 'two', 'right', 'angle']",angle,0,0,47
+"['orthogonal', 'force', 'three', 'component', 'two', 'right', 'angle']",component,0,0,47
+"['orthogonal', 'force', 'three', 'component', 'two', 'right', 'angle']",force,0,0,47
+"['orthogonal', 'force', 'three', 'component', 'two', 'right', 'angle']",orthogonal,0,0,47
+"['orthogonal', 'force', 'three', 'component', 'two', 'right', 'angle']",right,0,0,47
+"['orthogonal', 'force', 'three', 'component', 'two', 'right', 'angle']",three,0,0,47
+"['orthogonal', 'force', 'three', 'component', 'two', 'right', 'angle']",two,0,0,47
+"['partical', 'physic', 'made', 'describe', 'sub-atomic', 'force']",describe,0,0,47
+"['partical', 'physic', 'made', 'describe', 'sub-atomic', 'force']",force,0,0,47
+"['partical', 'physic', 'made', 'describe', 'sub-atomic', 'force']",made,0,0,47
+"['partical', 'physic', 'made', 'describe', 'sub-atomic', 'force']",partical,0,0,47
+"['partical', 'physic', 'made', 'describe', 'sub-atomic', 'force']",physic,0,0,47
+"['partical', 'physic', 'made', 'describe', 'sub-atomic', 'force']",sub-atomic,0,0,47
+"['particle', 'force', 'acceleration', 'explained', 'gauge', 'boson', 'exchange']",acceleration,0,0,47
+"['particle', 'force', 'acceleration', 'explained', 'gauge', 'boson', 'exchange']",boson,0,0,47
+"['particle', 'force', 'acceleration', 'explained', 'gauge', 'boson', 'exchange']",exchange,0,0,47
+"['particle', 'force', 'acceleration', 'explained', 'gauge', 'boson', 'exchange']",explained,0,0,47
+"['particle', 'force', 'acceleration', 'explained', 'gauge', 'boson', 'exchange']",force,0,0,47
+"['particle', 'force', 'acceleration', 'explained', 'gauge', 'boson', 'exchange']",gauge,0,0,47
+"['particle', 'force', 'acceleration', 'explained', 'gauge', 'boson', 'exchange']",particle,0,0,47
+"['path', 'ball', 'thrown', 'moving', 'vehicle', 'take', 'seen', 'outside', 'observer']",ball,0,0,47
+"['path', 'ball', 'thrown', 'moving', 'vehicle', 'take', 'seen', 'outside', 'observer']",moving,0,0,47
+"['path', 'ball', 'thrown', 'moving', 'vehicle', 'take', 'seen', 'outside', 'observer']",observer,0,0,47
+"['path', 'ball', 'thrown', 'moving', 'vehicle', 'take', 'seen', 'outside', 'observer']",outside,0,0,47
+"['path', 'ball', 'thrown', 'moving', 'vehicle', 'take', 'seen', 'outside', 'observer']",path,0,0,47
+"['path', 'ball', 'thrown', 'moving', 'vehicle', 'take', 'seen', 'outside', 'observer']",seen,0,0,47
+"['path', 'ball', 'thrown', 'moving', 'vehicle', 'take', 'seen', 'outside', 'observer']",take,0,0,47
+"['path', 'ball', 'thrown', 'moving', 'vehicle', 'take', 'seen', 'outside', 'observer']",thrown,0,0,47
+"['path', 'ball', 'thrown', 'moving', 'vehicle', 'take', 'seen', 'outside', 'observer']",vehicle,0,0,47
+"['physical', 'quantity', 'direction']",direction,0,0,47
+"['physical', 'quantity', 'direction']",physical,0,0,47
+"['physical', 'quantity', 'direction']",quantity,0,0,47
+"['planet', 'astrophysisist', 'predict', 'explain', 'problem', 'Mercury']",Mercury,0,0,47
+"['planet', 'astrophysisist', 'predict', 'explain', 'problem', 'Mercury']",astrophysisist,0,0,47
+"['planet', 'astrophysisist', 'predict', 'explain', 'problem', 'Mercury']",explain,0,0,47
+"['planet', 'astrophysisist', 'predict', 'explain', 'problem', 'Mercury']",planet,0,0,47
+"['planet', 'astrophysisist', 'predict', 'explain', 'problem', 'Mercury']",predict,0,0,47
+"['planet', 'astrophysisist', 'predict', 'explain', 'problem', 'Mercury']",problem,0,0,47
+"['planet', 'seemed', 'buck', 'Newton', 'gravitational', 'law']",Newton,0,0,47
+"['planet', 'seemed', 'buck', 'Newton', 'gravitational', 'law']",buck,0,0,47
+"['planet', 'seemed', 'buck', 'Newton', 'gravitational', 'law']",gravitational,0,0,47
+"['planet', 'seemed', 'buck', 'Newton', 'gravitational', 'law']",law,0,0,47
+"['planet', 'seemed', 'buck', 'Newton', 'gravitational', 'law']",planet,0,0,47
+"['planet', 'seemed', 'buck', 'Newton', 'gravitational', 'law']",seemed,0,0,47
+"['preserved', 'closed', 'system', 'force', 'acted', 'upon']",acted,0,0,47
+"['preserved', 'closed', 'system', 'force', 'acted', 'upon']",closed,0,0,47
+"['preserved', 'closed', 'system', 'force', 'acted', 'upon']",force,0,0,47
+"['preserved', 'closed', 'system', 'force', 'acted', 'upon']",preserved,0,0,47
+"['preserved', 'closed', 'system', 'force', 'acted', 'upon']",system,0,0,47
+"['preserved', 'closed', 'system', 'force', 'acted', 'upon']",upon,0,0,47
+"['principle', 'relating', 'spin', 'space', 'variable']",principle,0,0,47
+"['principle', 'relating', 'spin', 'space', 'variable']",relating,0,0,47
+"['principle', 'relating', 'spin', 'space', 'variable']",space,0,0,47
+"['principle', 'relating', 'spin', 'space', 'variable']",spin,0,0,47
+"['principle', 'relating', 'spin', 'space', 'variable']",variable,0,0,47
+"['prohibits', 'atom', 'passing']",atom,0,0,47
+"['prohibits', 'atom', 'passing']",passing,0,0,47
+"['prohibits', 'atom', 'passing']",prohibits,0,0,47
+"['proposed', 'innate', 'intertial', 'natural', 'state', 'object']",innate,0,0,47
+"['proposed', 'innate', 'intertial', 'natural', 'state', 'object']",intertial,0,0,47
+"['proposed', 'innate', 'intertial', 'natural', 'state', 'object']",natural,0,0,47
+"['proposed', 'innate', 'intertial', 'natural', 'state', 'object']",object,0,0,47
+"['proposed', 'innate', 'intertial', 'natural', 'state', 'object']",proposed,0,0,47
+"['proposed', 'innate', 'intertial', 'natural', 'state', 'object']",state,0,0,47
+"['provided', 'philosophical', 'discussion', 'force']",discussion,0,0,47
+"['provided', 'philosophical', 'discussion', 'force']",force,0,0,47
+"['provided', 'philosophical', 'discussion', 'force']",philosophical,0,0,47
+"['provided', 'philosophical', 'discussion', 'force']",provided,0,0,47
+"['pushing', 'pulling', 'perception', 'provide', 'describing', 'force']",describing,0,0,47
+"['pushing', 'pulling', 'perception', 'provide', 'describing', 'force']",force,0,0,47
+"['pushing', 'pulling', 'perception', 'provide', 'describing', 'force']",perception,0,0,47
+"['pushing', 'pulling', 'perception', 'provide', 'describing', 'force']",provide,0,0,47
+"['pushing', 'pulling', 'perception', 'provide', 'describing', 'force']",pulling,0,0,47
+"['pushing', 'pulling', 'perception', 'provide', 'describing', 'force']",pushing,0,0,47
+"['redundant', 'concept', 'coming', 'momentum', 'conservation']",coming,0,0,47
+"['redundant', 'concept', 'coming', 'momentum', 'conservation']",concept,0,0,47
+"['redundant', 'concept', 'coming', 'momentum', 'conservation']",conservation,0,0,47
+"['redundant', 'concept', 'coming', 'momentum', 'conservation']",momentum,0,0,47
+"['redundant', 'concept', 'coming', 'momentum', 'conservation']",redundant,0,0,47
+"['repulsive', 'force', 'close', 'range', 'atom', 'interaction']",atom,0,0,47
+"['repulsive', 'force', 'close', 'range', 'atom', 'interaction']",close,0,0,47
+"['repulsive', 'force', 'close', 'range', 'atom', 'interaction']",force,0,0,47
+"['repulsive', 'force', 'close', 'range', 'atom', 'interaction']",interaction,0,0,47
+"['repulsive', 'force', 'close', 'range', 'atom', 'interaction']",range,0,0,47
+"['repulsive', 'force', 'close', 'range', 'atom', 'interaction']",repulsive,0,0,47
+"['resposible', 'speeding', 'slowing', 'object']",object,0,0,47
+"['resposible', 'speeding', 'slowing', 'object']",resposible,0,0,47
+"['resposible', 'speeding', 'slowing', 'object']",slowing,0,0,47
+"['resposible', 'speeding', 'slowing', 'object']",speeding,0,0,47
+"['resultant', 'force', 'called', 'two', 'force', 'act', 'particle']",act,0,0,47
+"['resultant', 'force', 'called', 'two', 'force', 'act', 'particle']",called,0,0,47
+"['resultant', 'force', 'called', 'two', 'force', 'act', 'particle']",force,0,0,47
+"['resultant', 'force', 'called', 'two', 'force', 'act', 'particle']",particle,0,0,47
+"['resultant', 'force', 'called', 'two', 'force', 'act', 'particle']",resultant,0,0,47
+"['resultant', 'force', 'called', 'two', 'force', 'act', 'particle']",two,0,0,47
+"['sate', 'thing', 'inside', 'moving', 'vehicle', 'seen', 'person', 'inside', 'vehicle']",inside,0,0,47
+"['sate', 'thing', 'inside', 'moving', 'vehicle', 'seen', 'person', 'inside', 'vehicle']",moving,0,0,47
+"['sate', 'thing', 'inside', 'moving', 'vehicle', 'seen', 'person', 'inside', 'vehicle']",person,0,0,47
+"['sate', 'thing', 'inside', 'moving', 'vehicle', 'seen', 'person', 'inside', 'vehicle']",sate,0,0,47
+"['sate', 'thing', 'inside', 'moving', 'vehicle', 'seen', 'person', 'inside', 'vehicle']",seen,0,0,47
+"['sate', 'thing', 'inside', 'moving', 'vehicle', 'seen', 'person', 'inside', 'vehicle']",thing,0,0,47
+"['sate', 'thing', 'inside', 'moving', 'vehicle', 'seen', 'person', 'inside', 'vehicle']",vehicle,0,0,47
+"['scalar', 'equation', 'formed', 'set', 'James', 'Maxwell']",James,0,0,47
+"['scalar', 'equation', 'formed', 'set', 'James', 'Maxwell']",Maxwell,0,0,47
+"['scalar', 'equation', 'formed', 'set', 'James', 'Maxwell']",equation,0,0,47
+"['scalar', 'equation', 'formed', 'set', 'James', 'Maxwell']",formed,0,0,47
+"['scalar', 'equation', 'formed', 'set', 'James', 'Maxwell']",scalar,0,0,47
+"['scalar', 'equation', 'formed', 'set', 'James', 'Maxwell']",set,0,0,47
+"['scale', 'spring', 'balance', 'measure', 'two', 'force', 'using', 'static', 'equilibrium']",balance,0,0,47
+"['scale', 'spring', 'balance', 'measure', 'two', 'force', 'using', 'static', 'equilibrium']",equilibrium,0,0,47
+"['scale', 'spring', 'balance', 'measure', 'two', 'force', 'using', 'static', 'equilibrium']",force,0,0,47
+"['scale', 'spring', 'balance', 'measure', 'two', 'force', 'using', 'static', 'equilibrium']",measure,0,0,47
+"['scale', 'spring', 'balance', 'measure', 'two', 'force', 'using', 'static', 'equilibrium']",scale,0,0,47
+"['scale', 'spring', 'balance', 'measure', 'two', 'force', 'using', 'static', 'equilibrium']",spring,0,0,47
+"['scale', 'spring', 'balance', 'measure', 'two', 'force', 'using', 'static', 'equilibrium']",static,0,0,47
+"['scale', 'spring', 'balance', 'measure', 'two', 'force', 'using', 'static', 'equilibrium']",two,0,0,47
+"['scale', 'spring', 'balance', 'measure', 'two', 'force', 'using', 'static', 'equilibrium']",using,0,0,47
+"['seen', 'hadron']",hadron,0,0,47
+"['seen', 'hadron']",seen,0,0,47
+"['seldom', 'used', 'force', 'unit', 'equal', 'one', 'thousand', 'newton']",equal,0,0,47
+"['seldom', 'used', 'force', 'unit', 'equal', 'one', 'thousand', 'newton']",force,0,0,47
+"['seldom', 'used', 'force', 'unit', 'equal', 'one', 'thousand', 'newton']",newton,0,0,47
+"['seldom', 'used', 'force', 'unit', 'equal', 'one', 'thousand', 'newton']",one,0,0,47
+"['seldom', 'used', 'force', 'unit', 'equal', 'one', 'thousand', 'newton']",seldom,0,0,47
+"['seldom', 'used', 'force', 'unit', 'equal', 'one', 'thousand', 'newton']",thousand,0,0,47
+"['seldom', 'used', 'force', 'unit', 'equal', 'one', 'thousand', 'newton']",unit,0,0,47
+"['seldom', 'used', 'force', 'unit', 'equal', 'one', 'thousand', 'newton']",used,0,0,47
+"['seldom', 'used', 'term', 'unit', 'force', 'equal', '1000', 'pound', 'force']",1000,0,0,47
+"['seldom', 'used', 'term', 'unit', 'force', 'equal', '1000', 'pound', 'force']",equal,0,0,47
+"['seldom', 'used', 'term', 'unit', 'force', 'equal', '1000', 'pound', 'force']",force,0,0,47
+"['seldom', 'used', 'term', 'unit', 'force', 'equal', '1000', 'pound', 'force']",pound,0,0,47
+"['seldom', 'used', 'term', 'unit', 'force', 'equal', '1000', 'pound', 'force']",seldom,0,0,47
+"['seldom', 'used', 'term', 'unit', 'force', 'equal', '1000', 'pound', 'force']",term,0,0,47
+"['seldom', 'used', 'term', 'unit', 'force', 'equal', '1000', 'pound', 'force']",unit,0,0,47
+"['seldom', 'used', 'term', 'unit', 'force', 'equal', '1000', 'pound', 'force']",used,0,0,47
+"['seldom', 'used', 'unit', 'mass', 'metric', 'system']",mass,0,0,47
+"['seldom', 'used', 'unit', 'mass', 'metric', 'system']",metric,0,0,47
+"['seldom', 'used', 'unit', 'mass', 'metric', 'system']",seldom,0,0,47
+"['seldom', 'used', 'unit', 'mass', 'metric', 'system']",system,0,0,47
+"['seldom', 'used', 'unit', 'mass', 'metric', 'system']",unit,0,0,47
+"['seldom', 'used', 'unit', 'mass', 'metric', 'system']",used,0,0,47
+"['sense', 'must', 'observing', 'curvature', 'space-time']",curvature,0,0,47
+"['sense', 'must', 'observing', 'curvature', 'space-time']",must,0,0,47
+"['sense', 'must', 'observing', 'curvature', 'space-time']",observing,0,0,47
+"['sense', 'must', 'observing', 'curvature', 'space-time']",sense,0,0,47
+"['sense', 'must', 'observing', 'curvature', 'space-time']",space-time,0,0,47
+"['shortcoming', 'Aristotle', 'physic', 'overcome']",Aristotle,0,0,47
+"['shortcoming', 'Aristotle', 'physic', 'overcome']",overcome,0,0,47
+"['shortcoming', 'Aristotle', 'physic', 'overcome']",physic,0,0,47
+"['shortcoming', 'Aristotle', 'physic', 'overcome']",shortcoming,0,0,47
+"['sometimes', 'impossible', 'model']",impossible,0,0,47
+"['sometimes', 'impossible', 'model']",model,0,0,47
+"['sometimes', 'impossible', 'model']",sometimes,0,0,47
+"['space-time', 'path', 'seen', 'curved', 'line', 'space']",curved,0,0,47
+"['space-time', 'path', 'seen', 'curved', 'line', 'space']",line,0,0,47
+"['space-time', 'path', 'seen', 'curved', 'line', 'space']",path,0,0,47
+"['space-time', 'path', 'seen', 'curved', 'line', 'space']",seen,0,0,47
+"['space-time', 'path', 'seen', 'curved', 'line', 'space']",space,0,0,47
+"['space-time', 'path', 'seen', 'curved', 'line', 'space']",space-time,0,0,47
+"['stong', 'force', 'act', 'upon']",act,0,0,47
+"['stong', 'force', 'act', 'upon']",force,0,0,47
+"['stong', 'force', 'act', 'upon']",stong,0,0,47
+"['stong', 'force', 'act', 'upon']",upon,0,0,47
+"['strongest', 'main', 'interaction']",interaction,0,0,47
+"['strongest', 'main', 'interaction']",main,0,0,47
+"['strongest', 'main', 'interaction']",strongest,0,0,47
+"['term', 'lack', 'obsevable', 'free', 'quark']",free,0,0,47
+"['term', 'lack', 'obsevable', 'free', 'quark']",lack,0,0,47
+"['term', 'lack', 'obsevable', 'free', 'quark']",obsevable,0,0,47
+"['term', 'lack', 'obsevable', 'free', 'quark']",quark,0,0,47
+"['term', 'lack', 'obsevable', 'free', 'quark']",term,0,0,47
+"['theory', 'accounted', 'Mercury', 'problem']",Mercury,0,0,47
+"['theory', 'accounted', 'Mercury', 'problem']",accounted,0,0,47
+"['theory', 'accounted', 'Mercury', 'problem']",problem,0,0,47
+"['theory', 'accounted', 'Mercury', 'problem']",theory,0,0,47
+"['theory', 'best', 'explains', 'gravity']",best,0,0,47
+"['theory', 'best', 'explains', 'gravity']",explains,0,0,47
+"['theory', 'best', 'explains', 'gravity']",gravity,0,0,47
+"['theory', 'best', 'explains', 'gravity']",theory,0,0,47
+"['thought', 'applied', 'force', 'caused', 'movement', 'object', 'regardless', 'non-zero', 'velocity']",applied,0,0,47
+"['thought', 'applied', 'force', 'caused', 'movement', 'object', 'regardless', 'non-zero', 'velocity']",caused,0,0,47
+"['thought', 'applied', 'force', 'caused', 'movement', 'object', 'regardless', 'non-zero', 'velocity']",force,0,0,47
+"['thought', 'applied', 'force', 'caused', 'movement', 'object', 'regardless', 'non-zero', 'velocity']",movement,0,0,47
+"['thought', 'applied', 'force', 'caused', 'movement', 'object', 'regardless', 'non-zero', 'velocity']",non-zero,0,0,47
+"['thought', 'applied', 'force', 'caused', 'movement', 'object', 'regardless', 'non-zero', 'velocity']",object,0,0,47
+"['thought', 'applied', 'force', 'caused', 'movement', 'object', 'regardless', 'non-zero', 'velocity']",regardless,0,0,47
+"['thought', 'applied', 'force', 'caused', 'movement', 'object', 'regardless', 'non-zero', 'velocity']",thought,0,0,47
+"['thought', 'applied', 'force', 'caused', 'movement', 'object', 'regardless', 'non-zero', 'velocity']",velocity,0,0,47
+"['time', 'le', 'strenght', 'weak', 'field', 'compared', 'strong']",compared,0,0,47
+"['time', 'le', 'strenght', 'weak', 'field', 'compared', 'strong']",field,0,0,47
+"['time', 'le', 'strenght', 'weak', 'field', 'compared', 'strong']",le,0,0,47
+"['time', 'le', 'strenght', 'weak', 'field', 'compared', 'strong']",strenght,0,0,47
+"['time', 'le', 'strenght', 'weak', 'field', 'compared', 'strong']",strong,0,0,47
+"['time', 'le', 'strenght', 'weak', 'field', 'compared', 'strong']",time,0,0,47
+"['time', 'le', 'strenght', 'weak', 'field', 'compared', 'strong']",weak,0,0,47
+"['time', 'rate', 'change', 'electric', 'charge']",change,0,0,47
+"['time', 'rate', 'change', 'electric', 'charge']",charge,0,0,47
+"['time', 'rate', 'change', 'electric', 'charge']",electric,0,0,47
+"['time', 'rate', 'change', 'electric', 'charge']",rate,0,0,47
+"['time', 'rate', 'change', 'electric', 'charge']",time,0,0,47
+"['treatment', 'nonconservative', 'conservative', 'force', 'described']",conservative,0,0,47
+"['treatment', 'nonconservative', 'conservative', 'force', 'described']",described,0,0,47
+"['treatment', 'nonconservative', 'conservative', 'force', 'described']",force,0,0,47
+"['treatment', 'nonconservative', 'conservative', 'force', 'described']",nonconservative,0,0,47
+"['treatment', 'nonconservative', 'conservative', 'force', 'described']",treatment,0,0,47
+"['type', 'measurement', 'result', 'Schrodinger', 'equation', 'using', 'operator', 'instead', 'Newtonian', 'variable']",Newtonian,0,0,47
+"['type', 'measurement', 'result', 'Schrodinger', 'equation', 'using', 'operator', 'instead', 'Newtonian', 'variable']",Schrodinger,0,0,47
+"['type', 'measurement', 'result', 'Schrodinger', 'equation', 'using', 'operator', 'instead', 'Newtonian', 'variable']",equation,0,0,47
+"['type', 'measurement', 'result', 'Schrodinger', 'equation', 'using', 'operator', 'instead', 'Newtonian', 'variable']",instead,0,0,47
+"['type', 'measurement', 'result', 'Schrodinger', 'equation', 'using', 'operator', 'instead', 'Newtonian', 'variable']",measurement,0,0,47
+"['type', 'measurement', 'result', 'Schrodinger', 'equation', 'using', 'operator', 'instead', 'Newtonian', 'variable']",operator,0,0,47
+"['type', 'measurement', 'result', 'Schrodinger', 'equation', 'using', 'operator', 'instead', 'Newtonian', 'variable']",result,0,0,47
+"['type', 'measurement', 'result', 'Schrodinger', 'equation', 'using', 'operator', 'instead', 'Newtonian', 'variable']",type,0,0,47
+"['type', 'measurement', 'result', 'Schrodinger', 'equation', 'using', 'operator', 'instead', 'Newtonian', 'variable']",using,0,0,47
+"['type', 'measurement', 'result', 'Schrodinger', 'equation', 'using', 'operator', 'instead', 'Newtonian', 'variable']",variable,0,0,47
+"['type', 'physic', 'model', 'Einstein', 'fail', 'make']",Einstein,0,0,47
+"['type', 'physic', 'model', 'Einstein', 'fail', 'make']",fail,0,0,47
+"['type', 'physic', 'model', 'Einstein', 'fail', 'make']",make,0,0,47
+"['type', 'physic', 'model', 'Einstein', 'fail', 'make']",model,0,0,47
+"['type', 'physic', 'model', 'Einstein', 'fail', 'make']",physic,0,0,47
+"['type', 'physic', 'model', 'Einstein', 'fail', 'make']",type,0,0,47
+"['use', 'let', 'idea', 'string', 'switch', 'direction']",direction,0,0,47
+"['use', 'let', 'idea', 'string', 'switch', 'direction']",idea,0,0,47
+"['use', 'let', 'idea', 'string', 'switch', 'direction']",let,0,0,47
+"['use', 'let', 'idea', 'string', 'switch', 'direction']",string,0,0,47
+"['use', 'let', 'idea', 'string', 'switch', 'direction']",switch,0,0,47
+"['use', 'let', 'idea', 'string', 'switch', 'direction']",use,0,0,47
+"['used', 'calculate', 'cross', 'section', 'area', 'volume', 'object']",area,0,0,47
+"['used', 'calculate', 'cross', 'section', 'area', 'volume', 'object']",calculate,0,0,47
+"['used', 'calculate', 'cross', 'section', 'area', 'volume', 'object']",cross,0,0,47
+"['used', 'calculate', 'cross', 'section', 'area', 'volume', 'object']",object,0,0,47
+"['used', 'calculate', 'cross', 'section', 'area', 'volume', 'object']",section,0,0,47
+"['used', 'calculate', 'cross', 'section', 'area', 'volume', 'object']",used,0,0,47
+"['used', 'calculate', 'cross', 'section', 'area', 'volume', 'object']",volume,0,0,47
+"['used', 'create', 'new', 'electromagnetic', 'theory', 'reconcile', 'trouble', 'electromagnetic', 'theory', 'used', 'stand']",create,0,0,47
+"['used', 'create', 'new', 'electromagnetic', 'theory', 'reconcile', 'trouble', 'electromagnetic', 'theory', 'used', 'stand']",electromagnetic,0,0,47
+"['used', 'create', 'new', 'electromagnetic', 'theory', 'reconcile', 'trouble', 'electromagnetic', 'theory', 'used', 'stand']",new,0,0,47
+"['used', 'create', 'new', 'electromagnetic', 'theory', 'reconcile', 'trouble', 'electromagnetic', 'theory', 'used', 'stand']",reconcile,0,0,47
+"['used', 'create', 'new', 'electromagnetic', 'theory', 'reconcile', 'trouble', 'electromagnetic', 'theory', 'used', 'stand']",stand,0,0,47
+"['used', 'create', 'new', 'electromagnetic', 'theory', 'reconcile', 'trouble', 'electromagnetic', 'theory', 'used', 'stand']",theory,0,0,47
+"['used', 'create', 'new', 'electromagnetic', 'theory', 'reconcile', 'trouble', 'electromagnetic', 'theory', 'used', 'stand']",trouble,0,0,47
+"['used', 'create', 'new', 'electromagnetic', 'theory', 'reconcile', 'trouble', 'electromagnetic', 'theory', 'used', 'stand']",used,0,0,47
+"['used', 'figure', 'relative', 'strengh', 'gravity']",figure,0,0,47
+"['used', 'figure', 'relative', 'strengh', 'gravity']",gravity,0,0,47
+"['used', 'figure', 'relative', 'strengh', 'gravity']",relative,0,0,47
+"['used', 'figure', 'relative', 'strengh', 'gravity']",strengh,0,0,47
+"['used', 'figure', 'relative', 'strengh', 'gravity']",used,0,0,47
+"['used', 'model', 'tension', 'force']",force,0,0,47
+"['used', 'model', 'tension', 'force']",model,0,0,47
+"['used', 'model', 'tension', 'force']",tension,0,0,47
+"['used', 'model', 'tension', 'force']",used,0,0,47
+"['used', 'quantify', 'intuitive', 'undestanding', 'force']",force,0,0,47
+"['used', 'quantify', 'intuitive', 'undestanding', 'force']",intuitive,0,0,47
+"['used', 'quantify', 'intuitive', 'undestanding', 'force']",quantify,0,0,47
+"['used', 'quantify', 'intuitive', 'undestanding', 'force']",undestanding,0,0,47
+"['used', 'quantify', 'intuitive', 'undestanding', 'force']",used,0,0,47
+"['value', 'seperating', 'fermion', 'boson', 'depend']",boson,0,0,47
+"['value', 'seperating', 'fermion', 'boson', 'depend']",depend,0,0,47
+"['value', 'seperating', 'fermion', 'boson', 'depend']",fermion,0,0,47
+"['value', 'seperating', 'fermion', 'boson', 'depend']",seperating,0,0,47
+"['value', 'seperating', 'fermion', 'boson', 'depend']",value,0,0,47
+"['vector', 'equation', 'Heaviside', 'Gibbs', 'reformilate', 'Maxwell', '20', 'scalar', 'equtions']",20,0,0,47
+"['vector', 'equation', 'Heaviside', 'Gibbs', 'reformilate', 'Maxwell', '20', 'scalar', 'equtions']",Gibbs,0,0,47
+"['vector', 'equation', 'Heaviside', 'Gibbs', 'reformilate', 'Maxwell', '20', 'scalar', 'equtions']",Heaviside,0,0,47
+"['vector', 'equation', 'Heaviside', 'Gibbs', 'reformilate', 'Maxwell', '20', 'scalar', 'equtions']",Maxwell,0,0,47
+"['vector', 'equation', 'Heaviside', 'Gibbs', 'reformilate', 'Maxwell', '20', 'scalar', 'equtions']",equation,0,0,47
+"['vector', 'equation', 'Heaviside', 'Gibbs', 'reformilate', 'Maxwell', '20', 'scalar', 'equtions']",equtions,0,0,47
+"['vector', 'equation', 'Heaviside', 'Gibbs', 'reformilate', 'Maxwell', '20', 'scalar', 'equtions']",reformilate,0,0,47
+"['vector', 'equation', 'Heaviside', 'Gibbs', 'reformilate', 'Maxwell', '20', 'scalar', 'equtions']",scalar,0,0,47
+"['vector', 'equation', 'Heaviside', 'Gibbs', 'reformilate', 'Maxwell', '20', 'scalar', 'equtions']",vector,0,0,47
+"['wave-particles', 'called', 'mediate', 'electromagnetic', 'phenomenon']",called,0,0,47
+"['wave-particles', 'called', 'mediate', 'electromagnetic', 'phenomenon']",electromagnetic,0,0,47
+"['wave-particles', 'called', 'mediate', 'electromagnetic', 'phenomenon']",mediate,0,0,47
+"['wave-particles', 'called', 'mediate', 'electromagnetic', 'phenomenon']",phenomenon,0,0,47
+"['wave-particles', 'called', 'mediate', 'electromagnetic', 'phenomenon']",wave-particles,0,0,47
+"['way', 'idea', 'string', 'transmit', 'tesion', 'force']",force,0,0,47
+"['way', 'idea', 'string', 'transmit', 'tesion', 'force']",idea,0,0,47
+"['way', 'idea', 'string', 'transmit', 'tesion', 'force']",string,0,0,47
+"['way', 'idea', 'string', 'transmit', 'tesion', 'force']",tesion,0,0,47
+"['way', 'idea', 'string', 'transmit', 'tesion', 'force']",transmit,0,0,47
+"['way', 'idea', 'string', 'transmit', 'tesion', 'force']",way,0,0,47
+"['weak', 'electromatic', 'force', 'expression']",electromatic,0,0,47
+"['weak', 'electromatic', 'force', 'expression']",expression,0,0,47
+"['weak', 'electromatic', 'force', 'expression']",force,0,0,47
+"['weak', 'electromatic', 'force', 'expression']",weak,0,0,47
+"['weakest', 'main', 'interaction']",interaction,0,0,47
+"['weakest', 'main', 'interaction']",main,0,0,47
+"['weakest', 'main', 'interaction']",weakest,0,0,47
+"['would', 'change', 'rotational', 'inertia', 'body', 'Newton', 'First', 'Law', 'Motion']",First,0,0,47
+"['would', 'change', 'rotational', 'inertia', 'body', 'Newton', 'First', 'Law', 'Motion']",Law,0,0,47
+"['would', 'change', 'rotational', 'inertia', 'body', 'Newton', 'First', 'Law', 'Motion']",Motion,0,0,47
+"['would', 'change', 'rotational', 'inertia', 'body', 'Newton', 'First', 'Law', 'Motion']",Newton,0,0,47
+"['would', 'change', 'rotational', 'inertia', 'body', 'Newton', 'First', 'Law', 'Motion']",body,0,0,47
+"['would', 'change', 'rotational', 'inertia', 'body', 'Newton', 'First', 'Law', 'Motion']",change,0,0,47
+"['would', 'change', 'rotational', 'inertia', 'body', 'Newton', 'First', 'Law', 'Motion']",inertia,0,0,47
+"['would', 'change', 'rotational', 'inertia', 'body', 'Newton', 'First', 'Law', 'Motion']",rotational,0,0,47
+"['would', 'change', 'rotational', 'inertia', 'body', 'Newton', 'First', 'Law', 'Motion']",would,0,0,47
