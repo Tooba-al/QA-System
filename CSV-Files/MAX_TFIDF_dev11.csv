@@ -1,109 +1,109 @@
 question,word,TF_IDF,paragraph_no,title_no
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",NFL,4.007333,0,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",NFL,4.007333,16,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",NFL,4.007333,51,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",NFL,4.007333,49,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",NFL,4.007333,48,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",team,4.007333,13,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",team,4.007333,48,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",team,4.007333,37,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",team,4.007333,19,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",team,4.007333,40,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",represented,4.007333,0,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",represented,4.007333,1,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",represented,4.007333,24,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",represented,4.007333,23,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",represented,4.007333,30,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",AFC,4.007333,0,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",AFC,4.007333,43,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",AFC,4.007333,23,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",AFC,4.007333,32,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",AFC,4.007333,36,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Super,4.007333,0,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Super,4.007333,17,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Super,4.007333,36,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Super,4.007333,51,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Super,4.007333,6,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Bowl,4.007333,27,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Bowl,4.007333,46,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Bowl,4.007333,1,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Bowl,4.007333,25,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Bowl,4.007333,35,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",50,4.007333,41,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",50,4.007333,1,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",50,4.007333,25,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",50,4.007333,23,0
-"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",50,4.007333,31,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFL,4.007333,0,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFL,4.007333,9,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFL,4.007333,30,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFL,4.007333,14,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFL,4.007333,32,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",team,4.007333,36,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",team,4.007333,50,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",team,4.007333,26,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",team,4.007333,42,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",team,4.007333,38,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",represented,4.007333,20,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",represented,4.007333,37,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",represented,4.007333,28,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",represented,4.007333,3,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",represented,4.007333,32,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFC,4.007333,27,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFC,4.007333,48,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFC,4.007333,23,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFC,4.007333,29,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFC,4.007333,30,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Super,4.007333,27,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Super,4.007333,13,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Super,4.007333,49,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Super,4.007333,46,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Super,4.007333,42,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Bowl,4.007333,20,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Bowl,4.007333,17,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Bowl,4.007333,38,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Bowl,4.007333,37,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Bowl,4.007333,41,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",50,4.007333,53,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",50,4.007333,25,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",50,4.007333,1,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",50,4.007333,21,0
-"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",50,4.007333,28,0
-"['Super', 'Bowl', '50', 'take', 'place']",Super,4.007333,0,0
-"['Super', 'Bowl', '50', 'take', 'place']",Super,4.007333,14,0
-"['Super', 'Bowl', '50', 'take', 'place']",Super,4.007333,52,0
-"['Super', 'Bowl', '50', 'take', 'place']",Super,4.007333,46,0
-"['Super', 'Bowl', '50', 'take', 'place']",Super,4.007333,45,0
-"['Super', 'Bowl', '50', 'take', 'place']",Bowl,4.007333,0,0
-"['Super', 'Bowl', '50', 'take', 'place']",Bowl,4.007333,42,0
-"['Super', 'Bowl', '50', 'take', 'place']",Bowl,4.007333,1,0
-"['Super', 'Bowl', '50', 'take', 'place']",Bowl,4.007333,30,0
-"['Super', 'Bowl', '50', 'take', 'place']",Bowl,4.007333,22,0
-"['Super', 'Bowl', '50', 'take', 'place']",50,4.007333,0,0
-"['Super', 'Bowl', '50', 'take', 'place']",50,4.007333,12,0
-"['Super', 'Bowl', '50', 'take', 'place']",50,4.007333,47,0
-"['Super', 'Bowl', '50', 'take', 'place']",50,4.007333,38,0
-"['Super', 'Bowl', '50', 'take', 'place']",50,4.007333,34,0
-"['Super', 'Bowl', '50', 'take', 'place']",take,4.007333,0,0
-"['Super', 'Bowl', '50', 'take', 'place']",take,4.007333,26,0
-"['Super', 'Bowl', '50', 'take', 'place']",take,4.007333,29,0
-"['Super', 'Bowl', '50', 'take', 'place']",take,4.007333,11,0
-"['Super', 'Bowl', '50', 'take', 'place']",take,4.007333,49,0
-"['Super', 'Bowl', '50', 'take', 'place']",place,4.007333,17,0
-"['Super', 'Bowl', '50', 'take', 'place']",place,4.007333,43,0
-"['Super', 'Bowl', '50', 'take', 'place']",place,4.007333,32,0
-"['Super', 'Bowl', '50', 'take', 'place']",place,4.007333,30,0
-"['Super', 'Bowl', '50', 'take', 'place']",place,4.007333,28,0
-"['NFL', 'team', 'Super', 'Bowl', '50']",NFL,4.007333,0,0
-"['NFL', 'team', 'Super', 'Bowl', '50']",NFL,4.007333,15,0
-"['NFL', 'team', 'Super', 'Bowl', '50']",NFL,4.007333,52,0
-"['NFL', 'team', 'Super', 'Bowl', '50']",NFL,4.007333,50,0
-"['NFL', 'team', 'Super', 'Bowl', '50']",NFL,4.007333,44,0
-"['NFL', 'team', 'Super', 'Bowl', '50']",team,4.007333,0,0
-"['NFL', 'team', 'Super', 'Bowl', '50']",team,4.007333,9,0
-"['NFL', 'team', 'Super', 'Bowl', '50']",team,4.007333,29,0
-"['NFL', 'team', 'Super', 'Bowl', '50']",team,4.007333,23,0
-"['NFL', 'team', 'Super', 'Bowl', '50']",team,4.007333,16,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",NFL,4.9982,47,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",NFL,0.0,0,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",NFL,0.0,40,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",NFL,0.0,29,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",NFL,0.0,30,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",team,4.9982,19,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",team,4.995137,37,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",team,4.990666,33,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",team,0.0,0,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",team,0.0,40,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",represented,69.852781,5,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",represented,9.984131,53,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",represented,5.007333,19,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",represented,4.9982,11,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",represented,4.99268,24,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",AFC,24.95263,46,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",AFC,14.978041999999999,11,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",AFC,4.995137,43,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",AFC,0.0,0,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",AFC,0.0,40,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Super,9.996400999999999,19,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Super,0.0,0,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Super,0.0,40,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Super,0.0,30,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Super,0.0,31,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Bowl,4.992065,27,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Bowl,0.0,40,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Bowl,0.0,29,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Bowl,0.0,30,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",Bowl,0.0,31,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",50,4.991626,5,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",50,0.0,0,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",50,0.0,41,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",50,0.0,30,0
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",50,0.0,31,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFL,19.974411,31,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFL,9.981332,1,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFL,0.0,0,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFL,0.0,40,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFL,0.0,29,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",team,14.976196999999999,44,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",team,9.996400999999999,23,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",team,5.007333,20,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",team,4.9982,52,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",team,4.995137,13,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",represented,0.0,0,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",represented,0.0,40,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",represented,0.0,29,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",represented,0.0,30,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",represented,0.0,31,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFC,10.014666,16,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFC,9.980611,21,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFC,4.995137,18,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFC,0.0,0,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",NFC,0.0,29,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Super,24.949790999999998,39,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Super,19.962104,7,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Super,14.973887999999999,21,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Super,4.99268,48,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Super,4.990666,3,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Bowl,9.996400999999999,8,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Bowl,9.984131,51,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Bowl,4.9982,39,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Bowl,4.990305,31,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",Bowl,0.0,0,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",50,9.984131,9,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",50,4.9982,4,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",50,4.9982,20,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",50,0.0,0,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",50,0.0,41,0
+"['Super', 'Bowl', '50', 'take', 'place']",Super,14.974877999999999,19,0
+"['Super', 'Bowl', '50', 'take', 'place']",Super,9.980815,24,0
+"['Super', 'Bowl', '50', 'take', 'place']",Super,4.9982,3,0
+"['Super', 'Bowl', '50', 'take', 'place']",Super,4.9982,35,0
+"['Super', 'Bowl', '50', 'take', 'place']",Super,4.995137,51,0
+"['Super', 'Bowl', '50', 'take', 'place']",Bowl,34.937276,15,0
+"['Super', 'Bowl', '50', 'take', 'place']",Bowl,4.995137,2,0
+"['Super', 'Bowl', '50', 'take', 'place']",Bowl,4.99268,13,0
+"['Super', 'Bowl', '50', 'take', 'place']",Bowl,0.0,0,0
+"['Super', 'Bowl', '50', 'take', 'place']",Bowl,0.0,31,0
+"['Super', 'Bowl', '50', 'take', 'place']",50,9.990274999999999,42,0
+"['Super', 'Bowl', '50', 'take', 'place']",50,4.993602,47,0
+"['Super', 'Bowl', '50', 'take', 'place']",50,4.990139999999999,53,0
+"['Super', 'Bowl', '50', 'take', 'place']",50,0.0,39,0
+"['Super', 'Bowl', '50', 'take', 'place']",50,0.0,29,0
+"['Super', 'Bowl', '50', 'take', 'place']",take,0.0,0,0
+"['Super', 'Bowl', '50', 'take', 'place']",take,0.0,40,0
+"['Super', 'Bowl', '50', 'take', 'place']",take,0.0,29,0
+"['Super', 'Bowl', '50', 'take', 'place']",take,0.0,30,0
+"['Super', 'Bowl', '50', 'take', 'place']",take,0.0,31,0
+"['Super', 'Bowl', '50', 'take', 'place']",place,69.853876,44,0
+"['Super', 'Bowl', '50', 'take', 'place']",place,9.983252,42,0
+"['Super', 'Bowl', '50', 'take', 'place']",place,4.9982,51,0
+"['Super', 'Bowl', '50', 'take', 'place']",place,4.995137,20,0
+"['Super', 'Bowl', '50', 'take', 'place']",place,4.991296,3,0
+"['NFL', 'team', 'Super', 'Bowl', '50']",NFL,4.995137,0,0
+"['NFL', 'team', 'Super', 'Bowl', '50']",NFL,4.992065,9,0
+"['NFL', 'team', 'Super', 'Bowl', '50']",NFL,0.0,41,0
+"['NFL', 'team', 'Super', 'Bowl', '50']",NFL,0.0,30,0
+"['NFL', 'team', 'Super', 'Bowl', '50']",NFL,0.0,31,0
+"['NFL', 'team', 'Super', 'Bowl', '50']",team,4.9982,4,0
+"['NFL', 'team', 'Super', 'Bowl', '50']",team,4.9982,13,0
+"['NFL', 'team', 'Super', 'Bowl', '50']",team,4.995137,34,0
+"['NFL', 'team', 'Super', 'Bowl', '50']",team,0.0,0,0
+"['NFL', 'team', 'Super', 'Bowl', '50']",team,0.0,41,0
 "['NFL', 'team', 'Super', 'Bowl', '50']",Super,0.0,0,0
 "['NFL', 'team', 'Super', 'Bowl', '50']",Super,0.0,40,0
 "['NFL', 'team', 'Super', 'Bowl', '50']",Super,0.0,29,0

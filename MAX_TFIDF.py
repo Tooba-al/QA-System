@@ -17,7 +17,7 @@ import datetime
 
 print("Start Time: = %s:%s:%s" % (datetime.datetime.now().hour,
       datetime.datetime.now().minute, datetime.datetime.now().second))
-data = pd.read_csv("CSV-Files/TFIDF_dev11.csv")
+data = pd.read_csv("CSV-Files/TFIDF_CS_dev1.csv")
 
 # delete duplicate questions
 with open('CSV-Files/questions1.csv', newline='') as f:
@@ -70,7 +70,7 @@ df = {
 }
 
 df = pd.DataFrame(df)
-df.to_csv('CSV-Files/MAX_TFIDF_dev11.csv', encoding='utf-8', index=False)
+df.to_csv('CSV-Files/MAX_TFIDF_CS_dev1.csv', encoding='utf-8', index=False)
 
 ###############################################################################
 

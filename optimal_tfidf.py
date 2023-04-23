@@ -104,11 +104,11 @@ def termfreq(paragraph, word):
     N = len(paragraph)
     occurance = paragraph.count(word)
 
-    if occurance != 0:
-        tf_result = (occurance/N)
+    # if occurance != 0:
+    #     tf_result = (occurance/N)
 
-    tf_result = 1 - tf_result
-    return tf_result
+    return occurance
+    # return tf_result
 
 
 # Inverse Document Frequency
@@ -126,7 +126,7 @@ def inverse_doc_freq(word, paragraph_list):
         idf = np.log(N+1 / count)
     else:
         idf = 0
-    return idf
+    return (1+idf)
 
 
 question_word_w2 = []
