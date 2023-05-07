@@ -84,8 +84,8 @@ doc_word_set = set(doc_word_set2)
 ques_word_set = set(ques_word_set2)
 
 # Total documents in our corpus
-print("number of sentence: ", len(all_sentences))
-print("number of question: ", len(all_questions))
+print("number of sentence: ", len(all_sentences[0]))
+print("number of question: ", len(all_questions[0]))
 
 print("Creating an index for each word in each question..")
 index_dict_question = {}  # Dictionary to store index for each word

@@ -1,0 +1,811 @@
+question,hit_lost,in_ist_index,actual_parag,titleNo
+"['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",1,1,0,0
+"['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",0,0,0,0
+"['Super', 'Bowl', '50', 'take', 'place']",0,0,0,0
+"['NFL', 'team', 'Super', 'Bowl', '50']",0,0,0,0
+"['color', 'used', 'emphasize', '50th', 'anniversary', 'Super', 'Bowl']",1,3,0,0
+"['theme', 'Super', 'Bowl', '50']",0,0,0,0
+"['day', 'game', 'played']",1,0,0,0
+"['AFC', 'short']",1,0,0,0
+"['theme', 'Super', 'Bowl', '50']",0,0,0,0
+"['AFC', 'stand']",1,1,0,0
+"['day', 'Super', 'Bowl', 'played']",0,0,0,0
+"['Super', 'Bowl', '50']",0,0,0,0
+"['venue', 'Super', 'Bowl', '50', 'take', 'place']",0,0,0,0
+"['city', 'Super', 'Bowl', '50', 'take', 'place']",0,0,0,0
+"['Roman', 'numeral', 'used', 'would', 'Super', 'Bowl', '50', 'called']",0,0,0,0
+"['Super', 'Bowl', '50', 'decided', 'NFL', 'champion', 'season']",0,0,0,0
+"['year', 'Denver', 'Broncos', 'secure', 'Super', 'Bowl', 'title', 'third', 'time']",0,0,0,0
+"['city', 'Super', 'Bowl', '50', 'take', 'place']",0,0,0,0
+"['stadium', 'Super', 'Bowl', '50', 'take', 'place']",0,0,0,0
+"['final', 'score', 'Super', 'Bowl', '50']",0,0,0,0
+"['month', 'day', 'year', 'Super', 'Bowl', '50', 'take', 'place']",0,0,0,0
+"['year', 'Super', 'Bowl', '50']",0,0,0,0
+"['team', 'AFC', 'champion']",1,1,0,0
+"['team', 'NFC', 'champion']",1,1,0,0
+"['Super', 'Bowl', '50']",0,0,0,0
+"['Super', 'Bowl', '50', 'determined', 'NFL', 'champion', 'season']",0,0,0,0
+"['team', 'Super', 'Bowl', '50']",0,0,0,0
+"['Super', 'Bowl', '50', 'held']",0,0,0,0
+"['name', 'NFL', 'championship', 'game']",1,0,0,0
+"['2015', 'NFL', 'team', 'one', 'AFC', 'playoff']",1,1,0,0
+"['Carolina', 'Panthers', 'player', 'named', 'Most', 'Valuable', 'Player']",1,0,1,0
+"['appearance', 'Denver', 'Broncos', 'made', 'Super', 'Bowl']",0,1,1,0
+"['year', 'Carolina', 'Panthers', 'franchise', 'founded']",1,0,1,0
+"['team', 'Panthers', 'defeat']",1,0,1,0
+"['Broncos', 'prevent', 'going', 'Super', 'Bowl']",0,1,1,0
+"['Panthers', 'beat', 'NFC', 'Championship', 'Game']",1,0,1,0
+"['lost', 'Broncos', 'AFC', 'Championship']",1,0,1,0
+"['defending', 'Super', 'Bowl', 'champion']",0,1,1,0
+"['team', 'Super', 'Bowl', 'eight', 'time']",0,1,1,0
+"['season', 'NFL', 'MVP']",1,1,1,0
+"['win/loss', 'ratio', '2015', 'Carolina', 'Panthers', 'regular', 'season']",1,0,1,0
+"['Carolina', 'Panthers', 'team', 'member', 'picked', 'team', 'MVP', '2015']",1,0,1,0
+"['win/loss', 'game', 'stats', 'Denver', 'Bronco', 'regular', 'season', '2015']",1,0,1,0
+"['team', 'played', 'Super', 'Bowl', 'eight', 'time']",0,1,1,0
+"['team', 'get', 'chance', 'defend', 'Super', 'Bowl', 'XLIX', 'win', 'Super', 'Bowl', '50']",0,1,1,0
+"['quarterback', 'Panthers']",1,0,1,0
+"['Carolina', 'beat', 'NFC', 'championship', 'game']",1,1,1,0
+"['time', 'Panthers', 'Super', 'Bowl']",0,1,1,0
+"['Denver', 'beat', 'AFC', 'championship']",1,2,1,0
+"['Most', 'Valuable', 'Player', '2015', 'NFL', 'season']",1,0,1,0
+"['Denver', 'beat', '2015', 'AFC', 'Championship', 'game']",1,0,1,0
+"['Carolina', 'Panthers', 'beat', '2015', 'NFC', 'Championship', 'game']",1,0,1,0
+"['2015', 'NFL', 'MVP']",1,2,1,0
+"['Panthers', 'beat', 'become', 'NFC', 'champ']",1,0,1,0
+"['year', 'Carolina', 'Panthers', 'form']",1,1,1,0
+"['Super', 'Bowl', '50', 'MVP']",0,2,2,0
+"['fumble', 'Von', 'Miller', 'force', 'Super', 'Bowl', '50']",0,2,2,0
+"['team', 'held', 'scoring', 'lead', 'throughout', 'entire', 'game']",1,2,2,0
+"['Denver', 'linebacker', 'named', 'Super', 'Bowl', 'MVP']",0,2,2,0
+"['solo', 'tackle', 'Von', 'Miller', 'make', 'Super', 'Bowl', '50']",0,2,2,0
+"['limited', 'Denver', 'defense']",1,0,2,0
+"['time', 'Cam', 'Newton', 'sacked']",1,0,2,0
+"['Super', 'Bowl', 'MVP']",0,2,2,0
+"['turnover', 'Cam', 'Newton']",1,0,2,0
+"['fumble', 'Von', 'Miller', 'force']",1,0,2,0
+"['given', 'esteemed', 'status', 'MVP', 'Super', 'Bowl', '50']",0,2,2,0
+"['position', 'Von', 'Miller', 'play', 'Denver', 'Broncos']",1,0,2,0
+"['number', 'solo', 'tackle', 'Von', 'Miller', 'Super', 'Bowl', '50']",0,2,2,0
+"['forced', 'fumble', 'Von', 'Miller', 'Super', 'Bowl', '50', 'game']",0,2,2,0
+"['MVP', 'Super', 'Bowl']",0,2,2,0
+"['tackle', 'Von', 'Miller', 'get', 'game']",1,0,2,0
+"['time', 'Cam', 'Newton', 'sacked', 'Super', 'Bowl', '50']",0,2,2,0
+"['time', 'Denver', 'defense', 'force', 'Newton', 'turnover']",1,0,2,0
+"['Newton', 'turnover', 'resulted', 'seven', 'point', 'Denver']",1,0,2,0
+"['Most', 'Valuable', 'Player', 'Super', 'Bowl', '50']",0,2,2,0
+"['position', 'Von', 'Miller', 'play']",1,0,2,0
+"['time', 'Panthers', 'quarterback', 'sacked']",1,0,2,0
+"['time', 'Broncos', 'cause', 'turnover', 'game']",1,0,2,0
+"['Denver', 'player', 'caused', 'two', 'fumble', 'Panthers']",1,0,2,0
+"['tackle', 'Von', 'Miller', 'accomlish', 'game']",1,1,2,0
+"['network', 'broadcasted', 'Super', 'Bowl', '50', 'U.S.']",0,3,3,0
+"['average', 'cost', '30', 'second', 'commercial', 'Super', 'Bowl', '50']",0,3,3,0
+"['group', 'headlined', 'Super', 'Bowl', '50', 'halftime', 'show']",0,3,3,0
+"['performer', 'joined', 'headliner', 'Super', 'Bowl', '50', 'halftime', 'show']",0,3,3,0
+"['At', 'Super', 'Bowl', 'Beyonce', 'headline', 'halftime', 'show']",0,3,3,0
+"['broadcaster', 'Super', 'Bowl', '50', 'United', 'States']",0,3,3,0
+"['average', 'cost', '30-second', 'commercial']",1,0,3,0
+"['halftime', 'performer', 'previously', 'headlined', 'Super', 'Bowl', 'XLVII']",1,4,3,0
+"['halftime', 'performer', 'previously', 'headlined', 'Super', 'Bowl', 'XLVIII']",0,3,3,0
+"['main', 'performer', 'year', 'halftime', 'show']",1,0,3,0
+"['network', 'broadcasted', '50th', 'Super', 'Bowl', 'game']",0,3,3,0
+"['average', 'cost', 'TV', 'ad', 'lasting', '30', 'second', 'Super', 'Bowl', '50']",0,3,3,0
+"['male', 'singer', 'performed', 'special', 'guest', 'Super', 'Bowl', '50']",0,3,3,0
+"['ranking', 'Super', 'Bowl', '50', 'halftime', 'show', 'list', 'watched', 'TV', 'broadcast']",1,1,3,0
+"['station', 'aired', 'Super', 'Bowl']",0,3,3,0
+"['much', 'money', '1/2', 'minute', 'commercial', 'cost']",1,3,3,0
+"['band', 'headlined', 'half-time', 'Super', 'Bowl', '50']",0,3,3,0
+"['two', 'artist', 'came', 'Coldplay', 'half-time', 'show']",1,0,3,0
+"['broadcast', 'Super', 'Bowl', 'TV']",0,3,3,0
+"['headlined', 'halftime', 'show', 'Super', 'Bowl', '50']",0,3,3,0
+"['special', 'guest', 'Super', 'Bowl', 'halftime', 'show']",0,3,3,0
+"['Super', 'Bowl', 'halftime', 'show', 'Beyoncé', 'headline']",0,3,3,0
+"['cost', 'half', 'minute', 'ad']",1,3,3,0
+"['lead', 'Super', 'Bowl', '50', 'halftime', 'performance']",0,3,3,0
+"['two', 'famous', 'performer', 'part', 'Super', 'Bowl', '50', 'halftime']",0,3,3,0
+"['performer', 'lead', 'Super', 'Bowl', 'XLVIII', 'halftime', 'show']",0,3,3,0
+"['NFL', 'Commissioner', 'early', '2012']",1,0,4,0
+"['Super', 'Bowl', 'Roger', 'Goodell', 'speak']",0,4,4,0
+"['year', 'Roger', 'Goodell', 'call', 'Super', 'Bowl', '50', ""'an"", 'important', 'game', 'u', 'league']",1,0,4,0
+"['Commissioner', 'National', 'Football', 'League']",1,3,4,0
+"['make', 'quoted', 'remark', 'Super', 'Bowl', '50']",0,4,4,0
+"['commissioner', 'NFL', '2012']",1,1,4,0
+"['commissioner', 'NFL']",0,4,4,0
+"['commissioner', 'NFL']",0,4,4,0
+"['early', '2012', 'Goodell', 'said', 'Super', 'Bowl', '50', 'would']",1,0,4,0
+"['one', 'word', 'NFL', 'commissioner', 'use', 'describe', 'Super', 'Bowl', '50', 'intended']",0,4,4,0
+"['year', 'Roger', 'Goodell', 'announce', 'Super', 'Bowl', '50', 'would', 'important']",1,0,4,0
+"['Louisiana', 'venue', 'one', 'three', 'considered', 'Super', 'Bowl', '50']",0,5,5,0
+"['Florida', 'venue', 'one', 'three', 'considered', 'Super', 'Bowl', '50']",0,5,5,0
+"['California', 'venue', 'one', 'three', 'considered', 'Super', 'Bowl', '50']",0,5,5,0
+"['venue', 'Miami', 'candidate', 'site', 'Super', 'Bowl', '50']",0,5,5,0
+"['site', 'located', 'San', 'Francisco', 'Bay', 'Area']",0,5,5,0
+"['name', 'San', 'Francisco', 'stadium', 'looked', 'possibility', 'Super', 'Bowl', '50']",0,5,5,0
+"['name', 'New', 'Orleans', 'superdome', 'time', 'Super', 'Bowl', '50', 'took', 'place']",0,5,5,0
+"['given', 'name', 'Miami', 'stadium', 'time', 'Super', 'Bowl', '50']",0,5,5,0
+"['three', 'stadium', 'NFL', 'decide', 'game']",0,5,5,0
+"['site', 'NFL', 'narrow', 'Super', 'Bowl', '50', 'location']",0,5,5,0
+"['One', 'site', 'Merceds-Benz', 'Superdome', 'located']",1,2,5,0
+"['name', 'stadium', 'Miami', 'considered']",0,5,5,0
+"['third', 'city', 'considered']",0,5,5,0
+"['name', 'stadium', 'San', 'Francisco', 'Bay', 'Area']",0,5,5,0
+"['Florida', 'stadium', 'considered', 'Super', 'Bowl', '50']",0,5,5,0
+"['New', 'Orleans', 'stadium', 'considered', 'Super', 'Bowl', '50']",0,5,5,0
+"['name', 'stadium', 'Super', 'Bowl', '50', 'played']",0,5,5,0
+"['two', 'finalist', 'hosting', 'Super', 'Bowl', '50', 'announced']",0,6,6,0
+"['time', 'South', 'Florida/Miami', 'area', 'hosted', 'Super', 'Bowl']",0,6,6,0
+"['recent', 'Super', 'Bowl', 'hosted', 'South', 'Florida/Miami', 'area']",1,1,6,0
+"['recent', 'Super', 'Bowl', 'hosted', 'South', 'Florida/Miami', 'area']",1,1,6,0
+"['San', 'Francisco', 'Bay', 'area', 'last', 'host', 'Super', 'Bowl']",0,6,6,0
+"['finalist', 'besides', 'Levi', 'Stadium']",1,2,6,0
+"['finalist', 'announced']",1,4,6,0
+"['venue', 'Super', 'Bowl', 'XIX', 'take', 'place']",0,6,6,0
+"['On', 'date', 'Florida', 'legislature', 'decide', 'plan', 'renovate', 'Miami', 'stadium']",0,6,6,0
+"['year', 'Super', 'Bowl', 'last', 'held', 'Miami/South', 'Florida', 'area']",0,6,6,0
+"['time', 'Super', 'Bowl', 'taken', 'place', 'Miami', 'Sun', 'Life', 'Stadium']",1,3,6,0
+"['last', 'Super', 'Bowl', 'took', 'place', 'Sun', 'Life', 'Stadium', 'Miami']",1,3,6,0
+"['2012', 'stadium', 'named', 'finalist', 'hosting', 'Super', 'Bowl', '50', 'final', 'stadium', 'chosen']",1,2,6,0
+"['entity', 'stepped', 'caused', 'Miami', 'Sun', 'Life', 'Stadium', 'longer', 'running', 'host', 'Super', 'Bowl', '50']",1,2,6,0
+"['Prior', 'consideration', 'San', 'Francisco', 'last', 'host', 'Super', 'Bowl']",0,6,6,0
+"['city', 'hosted', 'Super', 'Bowl', 'ten', 'time']",0,6,6,0
+"['date', 'top', 'two', 'stadium', 'choice', 'Super', 'Bowl', '50', 'announced']",0,6,6,0
+"['time', 'prios', 'Sun', 'Life', 'Stadium', 'Super', 'Bowls']",1,1,6,0
+"['city', 'tied', 'Miami', 'hosting', 'Super', 'Bowl']",0,6,6,0
+"['last', 'time', 'San', 'Francisco', 'hosted', 'Super', 'Bowl']",0,6,6,0
+"['decided', 'approve', 'paying', 'renovation', 'Sun', 'Life', 'Stadium', 'league', 'wanted', 'host', 'Super', 'Bowl', '50']",1,1,6,0
+"['Levi', 'Stadium', 'awarded', 'right', 'host', 'Super', 'Bowl', '50']",1,1,7,0
+"['voted', 'venue', 'Super', 'Bowl', '50']",0,7,7,0
+"['Lev', 'Stadium', 'open']",1,4,7,0
+"['much', 'cost', 'build', 'Levi', 'Stadium']",1,0,7,0
+"['California', 'city', 'last', 'hosted', 'Super', 'Bowl']",0,7,7,0
+"['spring', 'meeting', 'NFL', 'owner', 'take', 'place']",1,2,7,0
+"['On', 'date', 'Super', 'Bowl', '50', 'given', 'Levi', 'Stadium']",1,2,7,0
+"['much', 'cost', 'build', 'Levi', 'Stadium']",1,0,7,0
+"['Prior', 'Super', 'Bowl', '50', 'last', 'Super', 'Bowl', 'California']",0,7,7,0
+"['city', 'last', 'Super', 'Bowl', 'California', 'occur']",0,7,7,0
+"['year', 'Levi', 'Stadium', 'become', 'fully', 'approved', 'host', 'Super', 'Bowl', '50']",0,7,7,0
+"['Levi', 'stadium', 'open', 'public']",1,1,7,0
+"['much', 'cost', 'build', 'stadium', 'Super', 'Bowl', '50', 'played']",0,7,7,0
+"['year', 'Super', 'Bowl', 'play', 'bay', 'area', 'around', 'San', 'Francisco', 'prior', 'Super', 'Bowl', '50']",0,7,7,0
+"['Super', 'Bowl', 'hosted', 'San', 'Diego', '2003']",0,7,7,0
+"['San', 'Francisco', 'voted', 'location', 'Super', 'Bowl', '50']",0,7,7,0
+"['Levi', 'Stadium', 'open']",1,0,7,0
+"['last', 'Super', 'Bowl', 'California']",0,7,7,0
+"['meeting', 'held', 'NFL', 'owner', 'voted', 'location', 'Super', 'Bowl', '50']",0,7,7,0
+"['Levi', 'Stadium', 'picked', 'Super', 'bowl', '50']",1,0,7,0
+"['Levi', 'Stadium', 'open']",1,0,7,0
+"['much', 'Levi', 'Stadium', 'cost']",1,0,7,0
+"['last', 'time', 'California', 'hosted', 'Super', 'Bowl']",0,7,7,0
+"['coached', 'Super', 'Bowl', '50', 'participant', 'recent', 'Super', 'Bowl', 'appearance', 'prior', 'Super', 'Bowl', '50']",0,8,8,0
+"['NFL', 'team', 'finished', 'regular', 'season', 'one', 'loss']",0,8,8,0
+"['NFL', 'team', 'gone', '15-1', 'one', 'season']",0,8,8,0
+"['team', 'Super', 'Bowl', '50', '15-1', 'record']",0,8,8,0
+"['last', 'Super', 'Bowl', 'Broncos', 'participated']",0,8,8,0
+"['head', 'coach', 'Broncos', 'Super', 'Bowl', 'XLVIII']",0,8,8,0
+"['number', 'time', 'Denver', 'Broncos', 'played', 'Super', 'Bowl', 'time', 'reached', 'Super', 'Bowl', '50']",0,8,8,0
+"['NFL', 'team', 'one', 'loss', 'end', 'regular', 'season']",0,8,8,0
+"['first', 'Super', 'Bowl', 'Carolina', 'Panthers', 'played']",0,8,8,0
+"['team', 'boast', '15–1', 'regular', 'season', 'record']",0,8,8,0
+"['seed', 'Carolina', 'Panthers']",0,8,8,0
+"['seed', 'Denver', 'Broncos']",0,8,8,0
+"['Prior', 'Super', 'Bowl', '50', 'Broncos', 'last']",0,8,8,0
+"['Prior', 'Super', 'Bowl', '50', 'Carolina', 'Panthers', 'last']",0,8,8,0
+"['team', '15-1', 'record', 'regular', 'season']",0,8,8,0
+"['game', 'Panthers', 'lose', 'regular', 'season', 'Super', 'Bowl', '50']",0,8,8,0
+"['team', 'Super', 'Bowl', '50', 'championship', 'game', 'eight', 'time']",0,8,8,0
+"['Before', 'Super', 'Bowl', '50', 'coach', 'name', 'coached', 'team', 'last', 'Super', 'Bowl', 'appearance']",0,8,8,0
+"['Whic', 'Carolina', 'Panthers', 'running', 'back', 'waived']",0,9,9,0
+"['Carolina', 'Panthers', 'wide', 'receiver', 'suffered', 'torn', 'ACL', 'season', 'began']",0,9,9,0
+"['team', '15', 'regular', 'season', 'game', 'since', '16-game', 'schedule', 'adopted']",1,1,9,0
+"['year', 'NFL', 'switch', '16-game', 'regular', 'season']",1,3,9,0
+"['best', 'record', 'NFC']",1,4,9,0
+"['Panthers', 'went', 'Pro', 'Bowl']",0,9,9,0
+"['Panthers', 'designated', 'All-Pro']",0,9,9,0
+"['Panther', 'tore', 'ACL', 'preseason']",0,9,9,0
+"['year', 'league', 'begin', 'schedule', '16', 'game']",0,9,9,0
+"['year', 'Saints', 'hit', '13-0', 'record']",0,9,9,0
+"['Packers', 'arrive', 'record', '13-0']",0,9,9,0
+"['injury', 'Carolina', 'Panthers', 'lose', 'Kelvin', 'Benjamin', 'preseason']",0,9,9,0
+"['player', 'Panthers', 'lose', 'ACL', 'injury', 'preseason', 'game']",0,9,9,0
+"['running', 'back', 'Panthers', 'waive']",0,9,9,0
+"['NFL', 'start', '16', 'game', 'season']",1,4,9,0
+"['Panthers', 'player', 'selected', 'Pro', 'Bowl']",0,9,9,0
+"['team', 'best', 'regular', 'season', 'history']",0,9,9,0
+"['league', 'go', '15', '16', 'game', 'regular', 'season']",1,2,9,0
+"['team', 'best', 'start', 'ever', 'NFL']",0,9,9,0
+"['Panthers', 'player', 'chosen', '2015', 'season', 'Pro', 'Bowl']",0,9,9,0
+"['Pro', 'Bowlers', 'Panthers', 'offense']",0,10,10,0
+"['total', 'touchdown', 'Cam', 'Newton', 'score']",0,10,10,0
+"['interception', 'Cam', 'Newton', 'throw']",0,10,10,0
+"['punt', 'Ted', 'Ginn', 'Jr.', 'return']",0,10,10,0
+"['started', 'tight', 'end', 'Panthers']",0,10,10,0
+"['record', 'number', 'touchdown', 'Cam', 'Newton']",0,10,10,0
+"['best', 'QB', 'ranking', 'Cam', 'Newton', 'hold']",0,10,10,0
+"['pass', 'Greg', 'Olsen']",0,10,10,0
+"['position', 'Jerricho', 'Cotchery', 'play']",0,10,10,0
+"['Panthers', 'RB', 'scored', '6', 'TDs', '13', 'game', 'leading', 'Super', 'Bowl', '50']",0,10,10,0
+"['Offensive', 'player', 'Panthers', 'selected', 'play', 'Pro', 'Bowl']",0,10,10,0
+"['quarterback', 'Carolina', 'Panthers']",0,10,10,0
+"['yard', 'Newton', 'throw', '2015']",0,10,10,0
+"['touchdown', 'Newton', '2015']",0,10,10,0
+"['touchdown', 'Jonathan', 'Stewart', '13', 'game']",0,10,10,0
+"['point', 'Carolina', 'lead', 'NFL', 'scoring', 'offensive', 'play']",0,10,10,0
+"['yard', 'Newton', 'get', 'pass', '2015', 'season']",0,10,10,0
+"['touchdown', 'Newton', 'get', '2015', 'season']",0,10,10,0
+"['Newton', 'quarterback', 'rating', '2015']",0,10,10,0
+"['reception', 'Cotchery', 'get', '2015', 'season']",0,10,10,0
+"['point', 'Panthers', 'defense', 'surrender']",0,11,11,0
+"['career', 'sack', 'Jared', 'Allen']",0,11,11,0
+"['tackle', 'Luke', 'Kuechly', 'register']",0,11,11,0
+"['ball', 'Josh', 'Norman', 'intercept']",0,11,11,0
+"['registered', 'sack', 'team', 'season']",0,11,11,0
+"['interception', 'Panthers', 'defense', 'credited', '2015']",0,11,11,0
+"['led', 'Panthers', 'sack']",0,11,11,0
+"['Panthers', 'defense', 'player', 'selected', 'Pro', 'Bowl']",0,11,11,0
+"['forced', 'fumble', 'Thomas', 'Davis']",0,11,11,0
+"['player', 'interception', 'season']",0,11,11,0
+"['2015', 'season', 'interception', 'Panthers', 'defense', 'get']",0,11,11,0
+"['five', 'sack', 'nine', 'game', 'Carolina', 'Panthers', 'starter']",0,11,11,0
+"['Panthers', 'tackle', 'leader', '2015']",0,11,11,0
+"['interception', 'Josh', 'Norman', 'score', 'touchdown', '2015']",0,11,11,0
+"['head', 'coach', 'Broncos']",0,12,12,0
+"['played', 'quarterback', 'Broncos', 'Peyton', 'Manning', 'benched']",0,12,12,0
+"['Peyton', 'Manning', 'play', 'rookie']",0,12,12,0
+"['Broncos', 'play', 'last', 'week', 'regular', 'season']",1,4,12,0
+"['Denver', 'defensive', 'coordinator']",0,12,12,0
+"['year', 'John', 'Fox', 'head', 'coach', 'Denver', 'Broncos']",0,12,12,0
+"['name', 'Bronco', 'head', 'coach', 'hired', 'John', 'Fox']",0,12,12,0
+"['first', 'team', 'Peyton', 'Manning', 'began', 'playing']",0,12,12,0
+"['old', 'Peyton', 'Manning', '2015']",0,12,12,0
+"['10th', 'week', '2015', 'season', 'injury', 'Peyton', 'Manning', 'dealing']",0,12,12,0
+"['John', 'Fox', 'left', 'head', 'coach', 'Broncos', 'replaced']",0,12,12,0
+"['quarterback', 'Broncos', '2015', 'season']",0,12,12,0
+"['injury', 'Manning', 'suffer', 'summer', 'season', 'started']",0,12,12,0
+"['old', 'Manning', 'beginning', '2015', 'season']",0,12,12,0
+"['game', 'Broncos', 'lose', 'regular', '2015', 'season']",0,12,12,0
+"['coach', 'left', 'Broncos', 'season', 'prior', 'Super', 'Bowl', '50']",0,12,12,0
+"['According', 'game', 'stats', 'Super', 'Bowl', '50', 'quarterback', 'worst', 'year', 'since', 'first', 'season', 'player', 'NFL']",0,12,12,0
+"['Denver', 'head', 'coach', 'Super', 'Bowl', '50']",0,12,12,0
+"['foot', 'injured', 'Manning', 'sidelined', 'week', '10']",0,12,12,0
+"['defensive', 'coordinator', 'Broncos', '2015']",0,12,12,0
+"['Peyton', 'Manning', 'passer', 'rating', 'season']",0,13,13,0
+"['pick', 'Peyton', 'Manning', 'throw', 'season']",0,13,13,0
+"['registered', 'reception', 'Broncos']",0,13,13,0
+"['rushing', 'yard', 'Broncos']",0,13,13,0
+"['touchdown', 'Brock', 'Osweiler', 'throw', 'season']",0,13,13,0
+"['passer', 'rating', 'Peyton', 'Manning', 'finished', 'season']",0,13,13,0
+"['may', 'yard', 'Peyton', 'Manning', 'throw']",0,13,13,0
+"['number', '17', 'interception', 'Peyton', 'Manning', 'end', 'year']",0,13,13,0
+"['reception', 'player', 'year']",0,13,13,0
+"['position', 'Demaryius', 'Thomas', 'play']",0,13,13,0
+"['Manning', 'passer', 'rating', 'end', 'season']",0,13,13,0
+"['time', 'Manning', 'intercepted', '2015', 'season']",0,13,13,0
+"['led', 'Broncos', '105', 'reception']",0,13,13,0
+"['touchdown', 'Ronnie', 'Hillman', 'make']",0,13,13,0
+"['Manning', 'passer', 'rating', '2015', 'season']",0,13,13,0
+"['interception', 'manning', '2015']",0,13,13,0
+"['Denver', 'player', 'caught', 'ball', '76', 'time', '2015', 'season']",0,13,13,0
+"['Broncos', 'leading', 'rusher', '2015', 'season']",0,13,13,0
+"['Ronnie', 'Hillman', 'average', 'yard', 'per', 'carry', '2015']",0,13,13,0
+"['yard', 'Broncos', 'defense', 'give']",0,14,14,0
+"['sack', 'Derek', 'Wolfe', 'register']",0,14,14,0
+"['first', 'team', 'total', 'tackle']",1,2,14,0
+"['pick', 'Aqib', 'Talib']",0,14,14,0
+"['position', 'DeMarcus', 'currently', 'play']",0,14,14,0
+"['position', 'Brandon', 'Marshall', 'currently', 'play']",0,14,14,0
+"['position', 'Derek', 'Wolfe', 'play', 'currently']",0,14,14,0
+"['point', 'Broncos', 'defense', 'allow', 'opponent', 'get']",0,14,14,0
+"['linebacker', 'sack', 'team']",1,0,14,0
+"['linebacker', 'led', 'Broncos', 'tackle']",0,14,14,0
+"['interception', 'Aqib', 'Talib', 'regular', 'season']",1,3,14,0
+"['forced', 'four', 'fumble', 'Broncos', '2015', 'season']",1,2,14,0
+"['Denver', 'player', '109', 'tackels', '2015', 'season']",0,14,14,0
+"['two', 'Denver', 'player', 'ranked', '5', 'percent', 'sack']",0,14,14,0
+"['lost', 'Panthers', 'divisional', 'round', 'playoff']",0,15,15,0
+"['Panthers', 'face', 'NFC', 'Championship', 'Game']",0,15,15,0
+"['total', 'yard', 'Panthers', 'NFC', 'Championship']",1,3,15,0
+"['time', 'Arizona', 'turn', 'ball', 'NFC', 'Championship']",0,15,15,0
+"['final', 'score', 'game', 'Panthers', 'Seahawks']",0,15,15,0
+"['team', 'Carolina', 'Panthers', 'played', 'immediately', 'prior', 'NFC', 'Championship', 'game']",0,15,15,0
+"['score', 'last', 'game', 'Carolina', 'Panthers', 'played', 'prior', 'NFC', 'Championship']",0,15,15,0
+"['yard', 'Carolina', 'Panthers', 'gain', '487', 'NFC', 'Championship', 'Game']",0,15,15,0
+"['Carolina', 'beat', 'divisional', 'round']",0,15,15,0
+"['Panthers', 'play', 'advance', 'Super', 'Bowl']",0,15,15,0
+"['turnover', 'Panthers', 'force', 'NFC', 'Championship', 'game']",0,15,15,0
+"['Panthers', 'beat', 'divisional', 'round']",0,15,15,0
+"['score', '2015', 'NFC', 'championship', 'game']",0,15,15,0
+"['Panthers', 'play', 'division', 'championship', 'game']",0,15,15,0
+"['yard', 'Panthers', 'get', 'division', 'championshipt', 'game']",1,2,15,0
+"['lost', 'Broncos', 'divisional', 'round']",0,16,16,0
+"['point', 'Broncos', 'score', 'last', 'three', 'minute', 'game', 'versus', 'Pittsburgh']",0,16,16,0
+"['Super', 'Bowl', 'XLIX']",0,16,16,0
+"['final', 'score', 'AFC', 'Championship', 'Game']",0,16,16,0
+"['much', 'time', 'remained', 'clock', 'Broncos', 'made', 'interception', 'clinched', 'AFC', 'Championship', 'Game']",0,16,16,0
+"['team', 'divisional', 'round', 'winner', 'Broncos', 'Steelers']",1,1,16,0
+"['final', 'score', 'game', 'Broncos', 'Steelers']",0,16,16,0
+"['Super', 'Bowl', 'XLIX']",0,16,16,0
+"['second', 'left', 'game', 'Broncos', 'intercepted', 'pas', 'game']",0,16,16,0
+"['During', 'Bronco', 'playoff', 'game', 'throw']",0,16,16,0
+"['Broncos', 'beat', 'divisional', 'game']",0,16,16,0
+"['point', 'Broncos', 'score', 'final', 'three', 'minute', 'Pittsburgh', 'game']",0,16,16,0
+"['Broncos', 'defeat', 'AFC', 'Championship', 'game']",0,16,16,0
+"['Broncos', 'beat', 'win', 'division', '2015']",0,16,16,0
+"['Broncos', 'beat', 'tp', 'become', 'AFC', 'champion']",0,16,16,0
+"['second', 'left', 'game', 'Patriots', 'failed', '2-point', 'conversion']",0,16,16,0
+"['Carolina', 'player', 'injured', 'NFC', 'Championship', 'Game']",0,17,17,0
+"['injury', 'Thomas', 'Davis', 'suffer', 'NFC', 'Championship']",0,17,17,0
+"['time', 'Thomas', 'Davis', 'torn', 'ACL', 'career']",0,17,17,0
+"['year', 'Thomas', 'Davis', 'played', 'NFL']",0,17,17,0
+"['injury', 'Thomas', 'Davis', 'suffer', 'repeatedly', 'total', 'three', 'time', 'career']",0,17,17,0
+"['body', 'part', 'Thomas', 'Davis', 'break', 'NFC', 'Championship', 'Game']",0,17,17,0
+"['year', 'Thomas', 'Davis', 'played', 'NFL']",0,17,17,0
+"['game', 'Thomas', 'Davis', 'say', 'would', 'play', 'despite', 'breaking', 'bone', 'earlier']",0,17,17,0
+"['ACL', 'injury', 'Thomas', 'Davis', 'career']",0,17,17,0
+"['injury', 'Thomas', 'Davis', 'suffer', 'playoff', 'game']",0,17,17,0
+"['year', 'Thomas', 'Davis', 'played', 'league', 'broke', 'arm', 'NFC', 'Championship', 'game']",0,17,17,0
+"['suffered', 'broken', 'arm', 'NFC', 'Championship', 'Game']",0,17,17,0
+"['old', 'Peyton', 'Manning', 'played', 'Super', 'Bowl', '50']",0,18,18,0
+"['previously', 'held', 'record', 'oldest', 'quarterback', 'play', 'Super', 'Bowl']",0,18,18,0
+"['old', 'John', 'Elway', 'played', 'Super', 'Bowl', 'XXXIII']",0,18,18,0
+"['role', 'John', 'Elway', 'currently', 'Broncos', 'franchise']",0,18,18,0
+"['John', 'Elway', 'play', 'Super', 'Bowl', 'XXXIII']",0,18,18,0
+"['team', 'winner', 'Super', 'Bowl', 'XXXIII']",0,18,18,0
+"['General', 'Manager', 'Broncos']",0,18,18,0
+"['old', 'Elway', 'Super', 'Bowl', 'XXXIII', 'win']",0,18,18,0
+"['record', 'oldest', 'quarter', 'back', 'Super', 'Bowl', 'game']",0,18,18,0
+"['team', 'Manning', 'played', 'reached', 'Super', 'Bowl', 'team']",0,18,18,0
+"['Peyton', 'Manning', 'took', 'different', 'team', 'Super', 'Bowl']",0,18,18,0
+"['oldest', 'quarterback', 'play', 'Super', 'Bowl']",0,18,18,0
+"['Prior', 'Manning', 'oldest', 'quarterback', 'play', 'Super', 'Bowl']",0,18,18,0
+"['Super', 'Bowl', 'Elway', 'win', '38', 'year', 'old']",0,18,18,0
+"['first', 'quarterback', 'take', 'two', 'team', 'one', 'Super', 'Bowl']",0,18,18,0
+"['old', 'Manning', 'played', 'Super', 'Bowl', '50']",0,18,18,0
+"['name', 'quarterback', '38', 'Super', 'Bowl', 'XXXIII']",0,18,18,0
+"['Manning', 'picked', '1', 'NFL', 'Draft']",1,4,19,0
+"['Newton', 'first', 'selection', 'NFL', 'Draft']",1,2,19,0
+"['old', 'Newton', 'Super', 'Bowl', '50']",0,19,19,0
+"['much', 'older', 'Manning', 'Newton', 'Super', 'Bowl', '50']",0,19,19,0
+"['2', 'pick', '2011', 'NFL', 'Draft']",0,19,19,0
+"['considered', 'first', 'choice', 'NFL', 'draft', '1998']",1,4,19,0
+"['2011', 'first', 'player', 'chosen', 'NFL', 'draft']",0,19,19,0
+"['old', 'Newton', 'Super', 'Bowl', '50']",0,19,19,0
+"['position', 'Newton', 'play', 'Super', 'Bowl', '50']",0,19,19,0
+"['Manning', 'number', 'one', 'pick', 'draft']",0,19,19,0
+"['Newton', 'number', 'one', 'pick', 'draft']",0,19,19,0
+"['number', 'two', 'draft', 'pick', '2011']",0,19,19,0
+"['year', 'Newton', 'hold', 'number', 'one', 'draft', 'pick', 'position']",0,19,19,0
+"['old', 'Newton', 'Super', 'Bowl', '50']",0,19,19,0
+"['age', 'difference', 'Newton', 'Manning', 'Super', 'Bowl', '50']",0,19,19,0
+"['Super', 'Bowl', 'Rivera', 'play']",0,20,20,0
+"['team', 'Rivera', 'play', 'Super', 'Bowl', 'XX']",0,20,20,0
+"['position', 'Rivera', 'play', 'Super', 'Bowl', 'XX']",0,20,20,0
+"['replaced', 'Kubiak', 'Super', 'Bowl', 'XXIV']",0,20,20,0
+"['team', 'Kubiak', 'play', 'Super', 'Bowl', 'XXI']",0,20,20,0
+"['position', 'Rivera', 'play', 'Super', 'Bowl', 'XX']",0,20,20,0
+"['Kubiak', 'take', 'place', 'Super', 'Bowl', 'XXIV']",0,20,20,0
+"['Panthers', 'head', 'coach', '2015', 'season']",0,20,20,0
+"['Super', 'Bowl', 'Rivera', 'play', 'player']",0,20,20,0
+"['slipped', 'Levi', 'Stadium', 'turf', 'week', '6', '2015', 'NFL', 'season']",0,21,21,0
+"['name', 'turf', 'used', 'Levi', 'Stadium', 'Super', 'Bowl']",0,21,21,0
+"['field', 'director', 'NFL']",0,21,21,0
+"['team', 'Justin', 'Tucker', 'play']",0,21,21,0
+"['position', 'Justin', 'Tucker', 'play']",0,21,21,0
+"['player', 'turf', 'collapse', 'game', 'Levi', 'Stadium']",0,21,21,0
+"['position', 'Tucker', 'play', 'Ravens']",0,21,21,0
+"['used', 'sod', 'Levi', 'Stadium', 'Super', 'Bowl', '50']",0,21,21,0
+"['kicker', 'portion', 'turf', 'collapse', 'causing', 'miss', 'field', 'goal']",0,21,21,0
+"['NFL', 'playing', 'field', 'Levi', 'Stadium', 'Super', 'Bowl']",0,21,21,0
+"['covered', 'new', 'field', 'Levi', 'Stadium']",0,21,21,0
+"['lot', 'player', 'need', 'change', 'Super', 'Bowl', '50', 'condition', 'field']",0,21,21,0
+"['player', 'field', 'problem', 'Levi', 'stadium', 'affect', 'field', 'goal', 'week', 'six', 'regular', 'season']",0,21,21,0
+"['field', 'type', 'usually', 'chosen', 'Super', 'Bowl', 'game']",0,21,21,0
+"['designated', 'home', 'team', 'Super', 'Bowl']",0,22,22,0
+"['final', 'score', 'Super', 'Bowl', 'XXXIII']",0,22,22,0
+"['team', 'lost', 'Super', 'Bowl', 'XXXIII']",0,22,22,0
+"['color', 'pant', 'Broncos', 'wear', 'Super', 'Bowl', '50']",0,22,22,0
+"['Elway', 'final', 'game', 'Denver', 'quarterback']",1,0,22,0
+"['last', 'game', 'Elway', 'played', 'quarterback', 'Denver']",1,0,22,0
+"['final', 'score', 'Super', 'Bowl', 'XXXIII']",0,22,22,0
+"['team', 'Denver', 'Broncos', 'play', 'Super', 'Bowl', 'XXXIII']",0,22,22,0
+"['color', 'Bronco', 'uniform', 'Super', 'Bowl', '50']",0,22,22,0
+"['jersey', 'Broncos', 'wear', 'Super', 'Bowl', '50']",0,22,22,0
+"['AFC', 'Champion', 'team', 'wear', 'road', 'jersey', 'Super', 'Bowl']",0,22,22,0
+"['th', 'elast', 'Super', 'Bowl', 'Broncos', 'wore', 'white', 'uniform']",0,22,22,0
+"['color', 'jersey', 'Super', 'Bowl', 'XXXII', 'Elway', 'quarterback']",0,22,22,0
+"['color', 'jersey', 'Denver', '0-4']",0,22,22,0
+"['Since', 'Denver', 'chose', 'white', 'color', 'Carolina', 'wear', 'Super', 'Bowl', '50']",0,22,22,0
+"['At', 'university', 'facility', 'Panthers', 'practice']",0,23,23,0
+"['At', 'university', 'facility', 'Broncos', 'practice']",0,23,23,0
+"['city', 'Marriott', 'Panthers', 'stay']",0,23,23,0
+"['city', 'Marriott', 'Broncos', 'stay']",0,23,23,0
+"['hotel', 'Panthers', 'stay', 'Super', 'Bowl', '50']",0,23,23,0
+"['name', 'hotel', 'Panthers', 'chose', 'stay', 'Super', 'Bowl', '50']",0,23,23,0
+"['Panthers', 'practice', 'Super', 'Bowl', '50']",0,23,23,0
+"['Broncos', 'practice', 'Super', 'Bowl', '50']",0,23,23,0
+"['Panthers', 'practice', 'Super', 'Bowl']",0,23,23,0
+"['hotel', 'Panthers', 'stay', 'Super', 'Bowl']",0,23,23,0
+"['Broncos', 'practice', 'Super', 'Bowl']",0,23,23,0
+"['hotel', 'Broncos', 'use', 'Super', 'Bowl', '50']",0,23,23,0
+"['practice', 'place', 'Panthers', 'used', 'Super', 'Bowl']",0,23,23,0
+"['hotel', 'Panthers', 'stay']",0,23,23,0
+"['Broncos', 'practice', 'Super', 'Bowl']",0,23,23,0
+"['Broncos', 'stay', 'Super', 'Bowl', '50']",0,23,23,0
+"['NFL', 'announce', 'suspension', 'using', 'Roman', 'numeral', 'brand', 'Super', 'Bowl']",0,24,24,0
+"['first', 'Super', 'Bowl', 'branded', 'Roman', 'numeral']",0,24,24,0
+"['NFL', 'vice', 'president', 'brand', 'creative']",0,24,24,0
+"['first', 'Super', 'Bowl', 'use', 'standardized', 'logo', 'template']",0,24,24,0
+"['trophy', 'featured', 'logo', 'named']",0,24,24,0
+"['year', 'declared', 'Roman', 'numeral', 'would', 'used', 'name', '50th', 'Super', 'Bowl']",0,24,24,0
+"['Super', 'Bowl', '50th', 'one', 'begin', 'Roman', 'numeral', 'title']",0,24,24,0
+"['Roman', 'numeral', 'used', 'naming', '50th', 'Super', 'Bowl', 'one', 'would', 'used']",0,24,24,0
+"['color', 'number', 'Super', 'Bowl', '50', 'logo']",0,24,24,0
+"['NFL', 'announce', 'would', 'use', 'Roman', 'number', 'designate', 'Super', 'Bowl', 'number']",0,24,24,0
+"['Rather', 'Roman', 'numeral', 'NFL', 'decide', 'use']",0,24,24,0
+"['Roman', 'numeral', '50']",0,24,24,0
+"['Normally', 'silver', 'color', 'used', 'number', '50']",0,24,24,0
+"['Roman', 'numeral', 'used', 'denote', 'Super', 'Bowl', 'number']",0,24,24,0
+"['type', 'numeral', 'latest', 'Super', 'Bowl', 'use', 'designate', 'game', 'number']",0,24,24,0
+"['Roman', 'numeral', 'going', 'Super', 'Bowl', '51']",0,24,24,0
+"['color', 'featured', 'promotion', 'related', 'Super', 'Bowl', '50']",0,25,25,0
+"['sideline', 'jacket', 'hat', 'start', 'feature', 'gold-trimmed', 'logo']",0,25,25,0
+"['yard', 'marker', 'field', 'painted', 'gold']",0,25,25,0
+"['color', 'used', 'create', '50-yard', 'line', 'Levi', 'Stadium', 'season', 'leading', 'Super', 'Bowl', '50', 'game']",0,25,25,0
+"['color', 'football', 'handed', 'variety', 'high', 'school', 'leading', 'Super', 'Bowl', '50']",0,25,25,0
+"['Because', 'gold', 'theme', 'Super', 'Bowl', '50', 'known']",0,25,25,0
+"['given', 'high', 'school', 'former', 'student', 'went', 'play', 'coach', 'Super', 'Bowl']",0,25,25,0
+"['yard', 'line', 'gold', 'color', 'team', 'season']",0,25,25,0
+"['Since', '50th', 'one', 'theme', 'color', 'Super', 'Bowl']",0,25,25,0
+"['venue', 'NFL', 'Experience', 'take', 'place']",0,26,26,0
+"['city', 'Moscone', 'Center', 'located']",0,26,26,0
+"['mayor', 'San', 'Francisco']",0,26,26,0
+"['city', 'supervisor', 'San', 'Francisco']",0,26,26,0
+"['opening', 'Super', 'Bowl', 'City']",0,26,26,0
+"['people', 'estimated', 'go', 'different', 'game-themed', 'event', 'week', 'prior', 'Super', 'Bowl', '50', 'city', 'held']",0,26,26,0
+"['mayor', 'San', 'Francisco', 'Super', 'Bowl', '50']",0,26,26,0
+"['building', 'NFL', 'Experience', 'held', 'Super', 'Bowl', '50']",0,26,26,0
+"['name', 'event', 'Embarcadero', 'held', 'prior', 'Super', 'Bowl', '50', 'help', 'show', 'thing', 'San', 'Francisco', 'offer']",0,26,26,0
+"['NFL', 'Experience', 'held', '2015', 'season']",1,3,26,0
+"['opened', 'January', '30th', 'Justin', 'Herman', 'plaza']",0,26,26,0
+"['mayor', 'San', 'Francisco']",0,26,26,0
+"['football', 'associated', 'thing', 'started', 'Justin', 'Herman', 'Plaza', 'January']",0,26,26,0
+"['people', 'likely', 'visit', 'Justin', 'Herman', 'Plaza', 'week', 'Super', 'Bowl']",0,26,26,0
+"['said', 'homeless', 'area', 'would', 'leave']",0,26,26,0
+"['much', 'San', 'Francisco', 'get', 'providing', 'service', 'Super', 'Bowl']",0,26,26,0
+"['Moscone', 'Center', 'host']",0,26,26,0
+"['At', 'university', 'Bellomy', 'Field', 'located']",0,27,27,0
+"['much', 'money', 'spent', 'Super', 'Bowl-related', 'event']",0,27,27,0
+"['long', 'event', 'Santa', 'Clara', 'Convention', 'Center', 'last']",0,27,27,0
+"['much', 'money', 'spent', 'festivity', 'Bay', 'area', 'help', 'celebrate', 'coming', 'Super', 'Bowl', '50']",0,27,27,0
+"['type', 'rally', 'held']",0,27,27,0
+"['government', 'entity', 'helped', 'pay', 'festivity', 'beyond', 'business', 'individual']",0,27,27,0
+"['beer', 'wine', 'food', 'festival', 'held', 'prior', 'Super', 'Bowl']",0,27,27,0
+"['helped', 'find', 'sponsor', 'donor', 'help', 'cost']",0,27,27,0
+"['set', 'aside', 'seed', 'funding', 'week-long', 'event', 'leading', 'Super', 'Bowl']",0,27,27,0
+"['cost', 'Super', 'Bowl', 'event', 'San', 'Francisco', 'area']",0,27,27,0
+"['may', 'called', 'upon', 'fund', 'festival', 'associated', 'Super', 'Bowl', 'Santa', 'Clara']",0,27,27,0
+"['On', 'day', 'Super', 'Bowl', 'Opening', 'Night', 'held']",0,28,28,0
+"['On', 'day', 'Super', 'Bowl', 'medium', 'day', 'traditionally', 'take', 'place']",0,28,28,0
+"['venue', 'hosted', 'Super', 'Bowl', 'Opening', 'Night']",0,28,28,0
+"['city', 'SAP', 'Center', 'located']",0,28,28,0
+"['replica', 'landmark', 'present', 'Super', 'Bowl', 'Opening', 'Night']",0,28,28,0
+"['norm', 'day', 'week', 'traditional', 'Media', 'Day', 'held', 'prior', 'Super', 'Bowl']",0,28,28,0
+"['day', 'week', 'Media', 'Day', 'held', 'Super', 'Bowl', '50']",0,28,28,0
+"['name', 'Media', 'Day', 'event', 'Super', 'Bowl', '50']",0,28,28,0
+"['name', 'property', 'medium', 'event', 'held', 'Super', 'Bowl', '50']",0,28,28,0
+"['city', 'medium', 'event', 'held', 'Super', 'Bowl', '50']",0,28,28,0
+"['game', 'medium', 'day', 'usually', 'held']",0,28,28,0
+"['new', 'name', 'given', 'medium', 'day']",0,28,28,0
+"['medium', 'day', 'Super', 'Bowl', '50', 'held']",0,28,28,0
+"['replica', 'used', 'player', 'introduction']",0,28,28,0
+"['day', 'Super', 'Bowl', '50', 'medium', 'day', 'switched']",0,28,28,0
+"['medium', 'day', 'called', 'Super', 'Bowl', '50']",0,28,28,0
+"['new', 'medium', 'day', 'event', 'Super', 'Bowl', '50', 'held']",0,28,28,0
+"['bridge', 'model', 'Super', 'Bowl', 'Opening', 'Night']",0,28,28,0
+"['date', 'Super', 'Bowl', 'Opening', 'Night', 'held']",0,28,28,0
+"['name', 'program', 'provides', 'contracting', 'work', 'local', 'company']",0,29,29,0
+"['much', 'money', 'raised', 'host', 'committee']",0,29,29,0
+"['health', 'company', 'Super', 'Bowl', 'sponsor']",0,29,29,0
+"['clothing', 'company', 'Super', 'Bowl', 'sponsor']",0,29,29,0
+"['petroleum', 'company', 'Super', 'Bowl', 'sponsor']",0,29,29,0
+"['committee', 'made', 'effort', 'invite', 'company', 'owned', 'people', 'transgender', 'gay', 'take', 'part', 'contract', 'business', 'associated', 'Super', 'Bowl', '50']",0,29,29,0
+"['much', 'money', 'committee', 'raise']",0,29,29,0
+"['committee', 'raise', 'money']",0,29,29,0
+"['Super', 'Bowl', 'program', 'called', 'give', 'local', 'company', 'business', 'opportunity', 'Super', 'Bowl']",0,29,29,0
+"['name', 'service', 'get', 'local', 'business', 'contract', 'chance', 'Super', 'Bowl']",0,29,29,0
+"['According', 'text', 'much', 'money', 'Host', 'Committee', 'raise']",0,29,29,0
+"['percentage', 'money', 'raised', 'Host', 'Committee', 'used', 'charitable', 'cause']",0,30,30,0
+"['name', 'Host', 'Committee', 'charitable', 'initiative']",0,30,30,0
+"['percentage', 'fund', 'given', 'charitable', 'fund', 'cause', 'around', 'San', 'Francisco']",0,30,30,0
+"['name', 'fund', 'setup', 'help', 'investing', 'community']",0,30,30,0
+"['Super', 'Bowl', '50', 'Host', 'Committee', 'said', 'would', 'ever']",0,30,30,0
+"['host', 'committee', 'dedicate', 'local', 'charity']",0,30,30,0
+"['name', 'fund', 'focus', 'youth', 'community', 'sustainable', 'environment']",0,30,30,0
+"['percentage', 'money', 'raised', 'earmarked', 'cause', 'San', 'Francisco', 'area']",0,30,30,0
+"['name', 'work', 'give', 'grant', 'youth', 'development', 'thing']",0,30,30,0
+"['trophy', 'given', 'Super', 'Bowl', 'champion', 'named']",0,31,31,0
+"['50', 'given', 'Super', 'Bowl', 'winner', 'plated', 'karat', 'gold']",0,31,31,0
+"['50', 'given', 'Super', 'Bowl', 'winner', 'weigh', 'pound']",0,31,31,0
+"['designed', '50']",0,31,31,0
+"['designed', 'Vince', 'Lombardi', 'Trophy']",0,31,31,0
+"['name', 'trophy', 'given', 'anyone', 'play', 'winning', 'team', 'Super', 'Bowl']",0,31,31,0
+"['number', '50', 'plated']",0,31,31,0
+"['designer', '50']",0,31,31,0
+"['name', 'trophy', 'Super', 'Bowl', 'winner', 'receive']",0,31,31,0
+"['design', '50', 'well', 'Trophy']",0,31,31,0
+"['On', 'television', 'station', 'American', 'viewer', 'watch', 'game']",0,32,32,0
+"['Jim', 'Nantz', 'member', 'game', 'lead', 'broadcast', 'team']",0,32,32,0
+"['shared', 'sideline', 'duty', 'Evan', 'Washburn']",0,32,32,0
+"['camera', 'EyeVision', '360', 'utilize']",0,32,32,0
+"['resolution', 'camera', 'used', 'EyeVision', '360', 'system']",0,32,32,0
+"['different', 'TV', 'network', 'considered', 'principal', 'partner', 'come', 'broadcasting', 'NFL', 'event']",0,32,32,0
+"['Tracy', 'Wolfson', 'announcing', 'Super', 'Bowl', '50', 'game']",0,32,32,0
+"['New', 'camera', 'introduced', 'game', 'degree', 'view', 'provide', 'viewer']",0,32,32,0
+"['resolution', 'camera', 'increased', 'game']",0,32,32,0
+"['Evan', 'Washburn', 'located', 'announcing', 'game']",0,32,32,0
+"['television', 'network', 'aired', 'Super', 'Bowl']",0,32,32,0
+"['broadcast', 'television', 'partner', 'NFL']",0,32,32,0
+"['network', 'aired', 'Super', 'Bowl', '50']",0,32,32,0
+"['announcer', 'Super', 'Bowl', '50']",0,32,32,0
+"['Super', 'Bowl', '50', 'sideline', 'announcer']",0,32,32,0
+"['resolution', 'Eyevision', 'camera', 'changed']",0,32,32,0
+"['put', 'pylon', 'Super', 'Bowl', '50']",0,32,32,0
+"['network', 'broadcast', 'game', 'Spanish']",0,33,33,0
+"['reported', 'sideline', 'ESPN', 'Deportes']",0,33,33,0
+"['provided', 'Spanish-language', 'commentary', 'alongside', 'Raul', 'Allegre']",0,33,33,0
+"['On', 'date', 'ESPN', 'Deportes', 'announce', 'deal', 'CBS', 'NFL']",0,33,33,0
+"['language', 'ESPN', 'Deportes', 'broadcast', 'game']",0,33,33,0
+"['TV', 'network', 'broadcasted', 'Super', 'Bowl', '50', 'Spanish']",0,33,33,0
+"['exclusively', 'broadcast', 'game', 'Spanish', 'reaching', 'agreement', 'NFL', 'CBS']",0,33,33,0
+"['sideline', 'reporter', 'ESPN', 'Deportes']",0,33,33,0
+"['agency', 'Spanish', 'version', 'Super', 'Bowl']",0,33,33,0
+"['ESPN', 'Deportes', 'commentator', 'Super', 'Bowl', '50']",0,33,33,0
+"['ESPN', 'Deportes', 'sideline', 'commentator', 'Super', 'Bowl', '50']",0,33,33,0
+"['service', 'Verizon', 'customer', 'need', 'use', 'stream', 'game', 'smartphones']",0,34,34,0
+"['On', 'service', 'ESPN', 'Deportes', 'broadcast', 'streamed']",0,34,34,0
+"['CBS', 'website', 'provided', 'stream']",0,34,34,0
+"['On', 'game', 'console', 'CBS', 'Sports', 'app', 'available']",0,34,34,0
+"['version', 'Windows', 'supported', 'CBS', 'sport', 'app']",0,34,34,0
+"['domain', 'name', 'site', 'streamed', 'Super', 'Bowl', '50', 'game']",0,34,34,0
+"['game', 'console', 'viewer', 'stream', 'game']",0,34,34,0
+"['smartphone', 'customer', 'people', 'stream', 'game', 'phone']",0,34,34,0
+"['app', 'viewer', 'use', 'watch', 'game', 'smartphones']",0,34,34,0
+"['wireless', 'company', 'exclusive', 'streaming', 'right', 'mobile', 'phone']",0,34,34,0
+"['mobile', 'service', 'Verizon', 'customer', 'able', 'watch', 'Super', 'Bowl', '50', 'phone']",1,3,34,0
+"['CBS', 'provide', 'Super', 'Bowl', '50', 'broadcast', 'website', 'apps', 'medium', 'player']",0,34,34,0
+"['cellular', 'carrier', 'contract', 'Super', 'Bowl', 'shown', 'smartphones']",0,34,34,0
+"['ESPN', 'Deportes', 'Spanish', 'version', 'Super', 'Bowl', '50', 'available']",1,4,34,0
+"['talk', 'show', 'followed', 'immediately', 'Super', 'Bowl', '50', 'CBS']",1,4,35,0
+"['show', 'aired', 'CBS', 'late', 'local', 'programming']",0,35,35,0
+"['late', 'night', 'comedy', 'host', 'show', 'played', 'immediately', 'Super', 'Bowl', '50', 'ended']",1,1,35,0
+"['CBS', 'talk', 'show', 'played', 'main', 'one', 'began', 'immediately', 'Super', 'Bowl', '50']",1,1,35,0
+"['CBS', 'show', 'followed', 'Super', 'Bowl']",0,35,35,0
+"['followed', 'Late', 'Show', 'Stephen', 'Colbert']",0,35,35,0
+"['followed', 'late', 'local', 'programming', 'Super', 'Bowl', '50']",1,2,35,0
+"['base', 'rate', '30-second', 'ad', 'Super', 'Bowl', '50']",1,0,36,0
+"['beverage', 'company', 'signed', 'contract', 'allowing', 'broadcast', 'ad', 'discount']",0,36,36,0
+"['brand', 'sponsored', 'Crash', 'Super', 'Bowl', 'contest']",1,3,36,0
+"['anniversary', 'Pokémon', 'franchise', 'celebrated', 'Super', 'Bowl']",0,36,36,0
+"['starting', 'cost', 'TV', 'commercial', 'lasting', '30', 'second', 'airing', 'Super', 'Bowl', '50']",1,0,36,0
+"['company', 'given', 'permission', 'air', 'TV', 'commercial', 'Super', 'Bowl', '50', 'discounted', 'price']",1,0,36,0
+"['company', 'held', 'contest', 'whereupon', 'contestant', 'enter', 'chance', 'commercial', 'shown', 'Super', 'Bowl', '50']",1,2,36,0
+"['video', 'gaming', 'company', 'debuted', 'ad', 'first', 'time', 'Super', 'Bowl', '50']",1,0,36,0
+"['made', 'Super', 'Bowl', 'commercial', 'debut', 'Nintendo']",1,2,36,0
+"['company', 'able', 'air', 'multiple', 'ad', 'steep', 'discount']",0,36,36,0
+"['company', 'held', 'contest', 'fan', 'create', 'ad', 'company']",0,36,36,0
+"['company', 'last', 'year', 'getting', 'Super', 'Bowl', 'commercial', 'big', 'discount']",1,0,36,0
+"['company', 'last', 'Super', 'Bowl', 'would', 'let', 'customer', 'opportunity', 'get', 'commercial', 'idea', 'aired']",1,2,36,0
+"['Doritos', 'customer', 'Super', 'Bowl', 'ad', 'campaign', 'called']",1,0,36,0
+"['name', 'contest', 'sponsored', 'QuickBooks']",0,37,37,0
+"['company', 'free', 'advertisement', 'due', 'QuickBooks', 'contest']",0,37,37,0
+"['long', 'Death', 'Wish', 'Coffee', 'commercial']",0,37,37,0
+"['Besides', 'Death', 'Wish', 'Coffee', 'competitor', 'participated', 'contest']",0,37,37,0
+"['company', 'contest', 'ad', 'shown', 'free', 'Super', 'Bowl', '50']",1,0,37,0
+"['contestant', 'company', 'ad', 'shown', 'free', 'beat']",0,37,37,0
+"['company', 'sponsored', 'contest', 'called', 'Small', 'Business', 'Big', 'Game']",0,37,37,0
+"['company', 'commercial', 'aired', 'free', 'result', 'Quickbooks', 'contest']",0,37,37,0
+"['company', 'part', 'Quickbooks', 'contest']",0,37,37,0
+"['company', 'contest', 'win', 'free', 'Super', 'Bowl', 'commercial']",1,1,37,0
+"['competition', 'get', 'free', 'Super', 'Bowl', 'commercial', 'aired']",1,1,37,0
+"['Universal', 'trailer', 'debuted', 'Super', 'Bowl']",1,0,38,0
+"['Lionsgate', 'trailer', 'shown', 'Super', 'Bowl']",1,0,38,0
+"['Along', '10', 'Cloverfield', 'Lane', 'Paramount', 'trailer', 'appeared', 'Super', 'Bowl']",1,2,38,0
+"['subtitle', 'Independence', 'Day', 'movie', 'trailer', 'Super', 'Bowl']",1,0,38,0
+"['film', 'Lionsgate', 'pay', 'trailer', 'aired', 'Super', 'Bowl']",1,0,38,0
+"['Paramount', 'paid', 'fo', '10', 'Cloverfield', 'Lane', 'film', 'trailer', 'aired', 'game']",0,38,38,0
+"['Universal', 'Paid', 'Secret', 'Life', 'Pets', 'film', 'trailer']",0,38,38,0
+"['Disney', 'paid', 'Jungle', 'Book', 'Alice', 'Through', 'Looking', 'Glass', 'film', 'trailer', 'aired', 'game']",0,38,38,0
+"['famous', 'July', 'Fourth', 'holiday', 'movie', 'Fox', 'pay', 'advertise', 'sequel', 'Super', 'Bowl']",1,0,38,0
+"['movie', 'company', 'paid', 'next', 'Jason', 'Bourne', 'movie', 'ad', 'shown', 'Super', 'Bowl']",0,38,38,0
+"['company', 'paid', 'Super', 'Bowl', '50', 'ad', 'show', 'trailer', 'X-Men', 'Apocalypse']",1,0,38,0
+"['radio', 'network', 'carried', 'Super', 'Bowl']",0,39,39,0
+"['play-by-play', 'Westwood', 'One']",0,39,39,0
+"['handled', 'pre-game', 'coverage', 'Westwood', 'One']",0,39,39,0
+"['Along', 'Dan', 'Fouts', 'served', 'color', 'analyst', 'radio', 'broadcast']",0,39,39,0
+"['shared', 'sideline', 'reporting', 'duty', 'Mark', 'Malone']",0,39,39,0
+"['color', 'analyst', 'involved', 'Super', 'Bowl', '50']",1,3,39,0
+"['announced', 'game', 'play-by-play', 'Super', 'Bowl', '50']",0,39,39,0
+"['carry', 'game', 'throughout', 'North', 'America']",0,39,39,0
+"['play-by-play', 'announcer', 'game']",0,39,39,0
+"['covered', 'halftime', 'coverage']",0,39,39,0
+"['announcer', 'Westwood', 'One', 'Super', 'Bowl', '50', 'coverage']",1,0,39,0
+"['Westwood', 'one', 'color', 'analyst']",0,39,39,0
+"['Westwood', 'One', 'sideline', 'announcer']",0,39,39,0
+"['Jim', 'Gray', 'cover']",0,39,39,0
+"['area', 'Westwood', 'One', 'broadcast', 'cover']",0,39,39,0
+"['radio', 'station', 'located', '103.5FM', 'dial', 'Denver']",0,40,40,0
+"['handled', 'play-by-play', 'Denver', 'radio', 'market']",0,40,40,0
+"['frequency', 'radio', 'station', 'WBT', 'North', 'Carolina']",0,40,40,0
+"['city', 'WBT-FM', 'located']",0,40,40,0
+"['play-by-play', 'WBT', 'broadcast']",0,40,40,0
+"['handled', 'play-by-play', 'Denver', 'radio', 'station']",0,40,40,0
+"['handled', 'color', 'commentary', 'Denver', 'radio', 'station']",0,40,40,0
+"['station', 'covered', 'game', 'North', 'Carolina']",0,40,40,0
+"['handled', 'play-by-play', 'WBT']",0,40,40,0
+"['two', 'radio', 'station', 'Denver', 'carried', 'Super', 'Bowl', '50']",0,40,40,0
+"['radio', 'station', 'South', 'Carolina', 'carried', 'Super', 'Bowl', '50', 'game']",1,0,40,0
+"['BBC', 'radio', 'station', 'carry', 'game', 'United', 'Kingdom']",0,41,41,0
+"['Aside', 'BBC', 'Radio', '5', 'radio', 'station', 'broadcast', 'game']",0,41,41,0
+"['make', 'BBC', 'commentary', 'team', 'Greg', 'Brady', 'Rocky', 'Boiman']",0,41,41,0
+"['British', 'TV', 'network', 'carry', 'Super', 'Bowl']",0,41,41,0
+"['British', 'commentator', 'include', 'Darren', 'Fletcher', 'Rocky', 'Boiman', 'else']",0,41,41,0
+"['Most', 'Valuable', 'Player', 'Super', 'Bowl', 'II']",0,42,42,0
+"['player', 'MVP', 'Super', 'Bowl', 'V']",0,42,42,0
+"['Most', 'Valuable', 'Player', 'Super', 'Bowl', 'XLI']",0,42,42,0
+"['year', 'Harvey', 'Martin', 'die']",0,42,42,0
+"['present', 'quarterback', 'Broncos']",0,42,42,0
+"['prior', 'Super', 'Bowl', 'MVPs', 'appeared', 'together', 'pregame', 'show']",0,42,42,0
+"['former', 'MVP', 'shown', 'locker', 'room']",0,42,42,0
+"['MVP', 'died', '2001']",0,42,42,0
+"['player', 'awarded', 'Most', 'Valuable', 'Player', 'distinction', 'Super', 'Bowl']",0,42,42,0
+"['former', 'MVP', 'honoree', 'present', 'pregame', 'ceremony']",0,42,42,0
+"['MVP', 'Super', 'Bowl', 'II']",0,42,42,0
+"['MVP', 'Super', 'Bowl', 'XLI']",0,42,42,0
+"['MVP', 'honoree', 'died', '2001']",0,42,42,0
+"['Grammys', 'Lady', 'Gaga']",0,43,43,0
+"['Lady', 'Gaga', 'sing']",0,43,43,0
+"['award', 'Marlee', 'Matlin']",0,43,43,0
+"['Marlee', 'Matlin', 'translate']",0,43,43,0
+"['Into', 'language', 'Marlee', 'Matlin', 'translate', 'national', 'anthem']",0,43,43,0
+"['sang', 'national', 'anthem']",0,43,43,0
+"['actress', 'ASL', 'translation', 'game']",1,2,43,0
+"['National', 'Anthem', 'Super', 'Bowl', '50']",0,43,43,0
+"['actor', 'sign', 'language', 'National', 'Anthem', 'Superbowl', '50']",0,43,43,0
+"['Super', 'Bowl', '50', 'National', 'Anthem']",0,43,43,0
+"['Grammy', 'Award', 'text', 'say', 'Lady', 'Gaga']",0,43,43,0
+"['sign', 'language', 'National', 'Anthem', 'Super', 'Bowl', '50']",0,43,43,0
+"['On', 'date', 'NFL', 'announce', 'Coldplay', 'would', 'headline', 'halftime', 'show']",0,44,44,0
+"['nationality', 'band', 'Coldplay']",0,44,44,0
+"['At', 'Super', 'Bowl', 'Beyoncé', 'headline', 'halftime', 'show']",0,44,44,0
+"['name', 'single', 'Coldplay', 'Beyoncé', 'collaborated']",0,44,44,0
+"['previous', 'Super', 'Bowl', 'halftime', 'show', 'Bruno', 'Mars', 'headline']",1,2,44,0
+"['lead', 'halftime', 'show', 'Super', 'Bowl', '50']",1,3,44,0
+"['company', 'confirmed', 'Beyoncé', 'would', 'participate', 'Super', 'Bowl', '50', 'halftime', 'show']",0,44,44,0
+"['song', 'Coldplay', 'Beyoncé', 'collaborate', 'Super', 'Bowl', '50', 'halftime', 'show']",0,44,44,0
+"['headlined', 'Super', 'Bowl', '50', 'halftime', 'show']",1,1,44,0
+"['On', 'January', '7', '2016', 'confirmed', 'start', 'would', 'join', 'Coldplay', 'halftime', 'show']",0,44,44,0
+"['single', 'Beyoncé', 'Coldplay', 'collaborate']",0,44,44,0
+"['former', 'halftime', 'show', 'performer', 'joined', 'Coldplay', 'Beyoncé', 'Super', 'Bowl', '50', 'halftime', 'show']",0,44,44,0
+"['team', 'received', 'opening', 'kickoff']",0,45,45,0
+"['receiving', 'end', '22-yard', 'pas', 'Peyton', 'Manning']",0,45,45,0
+"['lost', '3', 'yard', 'tackle', 'Shaq', 'Thompson']",0,45,45,0
+"['kicked', 'field', 'goal', 'Denver']",0,45,45,0
+"['ran', 'ball', 'twice', '20', 'yard', 'drive']",0,45,45,0
+"['yard', 'pas', 'first', 'drive']",0,45,45,0
+"['tackled', 'Ronnie', 'Hillman', 'loss', 'yardage']",0,45,45,0
+"['kicked', 'field', 'goal', 'Denver', 'first', 'drive', 'Super', 'Bowl', '50']",0,45,45,0
+"['first', 'time', 'Carolina', 'team', 'faced', 'post', 'season']",0,45,45,0
+"['team', 'first', 'kickoff']",0,45,45,0
+"['Peyton', 'Manning', 'complete', '18', 'yard', 'pas', 'opening', 'drive']",0,45,45,0
+"['Denver', 'player', 'took', 'ball', 'Panthers', '14', 'yard', 'line']",0,45,45,0
+"['scored', 'first', 'point', 'Denver']",0,45,45,0
+"['Carolina', 'face', 'opening', 'drive', 'faced', 'entire', 'postseason']",0,45,45,0
+"['former', 'referee', 'served', 'analyst', 'CBS']",0,46,46,0
+"['Whose', 'pas', 'Jerricho', 'Cotchery', 'ruled', 'incomplete']",0,46,46,0
+"['stripped', 'ball', 'Cam', 'Newton', 'sacking', 'drive']",0,46,46,0
+"['player', 'recovered', 'possession', 'ball', 'end', 'zone']",0,46,46,0
+"['Super', 'Bowl', 'last', 'fumble', 'returned', 'touchdown']",0,46,46,0
+"['received', 'pas', 'ruled', 'incomplete', 'confirmed', 'challenge']",0,46,46,0
+"['analyst', 'agree', 'ruling', 'incomplete', 'pas']",0,46,46,0
+"['according', 'text', 'caused', 'Cam', 'Newton', 'lose', 'ball', 'tackle']",0,46,46,0
+"['received', 'ball', 'cam', 'Newton', 'lost', 'tackle', 'make', 'Denver', 'touchdown']",0,46,46,0
+"['year', 'last', 'time', 'fumble', 'return', 'touchdown', 'like', 'occurred']",0,46,46,0
+"['retired', 'ref', 'disagreed', 'outcome', 'challenge', 'incomplete', 'pas']",0,46,46,0
+"['sacked', 'Newton', 'play', 'challenge']",0,46,46,0
+"['recovered', 'fumble', 'ran', 'ball', 'touchdown']",0,46,46,0
+"['last', 'time', 'fumble', 'return', 'touchdown', 'happened', 'Super', 'Bowl']",0,46,46,0
+"['ran', 'Carolina', 'touchdown', 'make', 'score', '10–7']",0,47,47,0
+"['punted', 'ball', 'Carolina']",0,47,47,0
+"['yard', 'Brad', 'Nortman', 'punt', 'travel']",0,47,47,0
+"['yard', 'Jordan', 'Norwood', 'return', 'punt', 'set', 'Super', 'Bowl', 'record']",0,47,47,0
+"['yard', 'McManus', 'field', 'goal']",0,47,47,0
+"['passing', 'yard', 'Cam', 'Newton', 'get', '4', '4', 'pass']",0,47,47,0
+"['got', 'touchdown', 'making', 'score', '10-7']",0,47,47,0
+"['much', 'time', 'left', 'quarter', 'Stewart', 'got', 'touchdown']",0,47,47,0
+"['got', '61-yard', 'return', 'player', 'thought', 'called', 'fair', 'catch']",0,47,47,0
+"['yard', 'field', 'goal', 'made', 'score', '13-7', 'Super', 'Bowl', '50']",0,47,47,0
+"['scored', 'Panthers', 'first', 'touchdown']",0,47,47,0
+"['Denver', 'score', 'end', 'drive']",0,47,47,0
+"['tackled', 'Mike', 'Tolbert', 'caused', 'fumble']",0,48,48,0
+"['position', 'Danny', 'Trevathan', 'play']",0,48,48,0
+"['Panther', 'tipped', 'Manning', 'pas', 'picked']",0,48,48,0
+"['sacked', 'first', 'half', 'clock', 'expired']",0,48,48,0
+"['sacked', 'Cam', 'Newton', 'end', 'half']",0,48,48,0
+"['fumbled', 'ball', 'tackled', 'Darian', 'Stewart']",0,48,48,0
+"['tipped', 'Peyton', 'pas', 'interception']",0,48,48,0
+"['yard', 'interception', 'gain', 'ball', 'tipped', 'away', 'Manning']",0,48,48,0
+"['tackled', 'Carolina', 'Panthers', 'quarterback', 'end', 'first', 'half']",0,48,48,0
+"['fullback', 'fumbled', 'ball', 'Darian', 'Stewart', 'tackle']",0,48,48,0
+"['recovered', 'Tolbert', 'fumble']",0,48,48,0
+"['intercepted', 'Manning', 'pas', 'giving', 'ball', 'back', 'Panthers']",0,48,48,0
+"['drive', 'end', 'Panthers']",0,48,48,0
+"['sacked', 'Newton', '11', 'second', 'left', 'first', 'half']",0,48,48,0
+"['receiving', 'end', '45-yard', 'pas', 'Cam', 'Newton']",0,49,49,0
+"['missed', 'field', 'goal', 'Panthers']",0,49,49,0
+"['yard', 'missed', 'field', 'goal']",0,49,49,0
+"['kicker', 'successful', '33-yard', 'field', 'goal']",0,49,49,0
+"['picked', 'Cam', 'Newton', 'subsequently', 'fumbled', 'ball']",0,49,49,0
+"['Newton', 'complete', '45', 'yard', 'pas', 'opening', 'drive', 'second', 'half']",0,49,49,0
+"['Gano', 'hit', '44-yard', 'field', 'goal', 'attempt']",0,49,49,0
+"['Broncos', 'player', 'intercepted', 'Newton', 'Panthers', 'next', 'set', 'down']",0,49,49,0
+"['recovered', 'Ward', 'fumble']",0,49,49,0
+"['Newton', 'get', 'pas', 'Panther', 'starting', 'play', 'Super', 'Bowl', '50']",0,49,49,0
+"['yard', 'line', 'Broncos', 'stop', 'Panthers', 'first', 'offensive', 'drive', 'Super', 'Bowl', '50']",1,4,49,0
+"['hit', 'goal', 'post', 'field', 'goal', 'attempt']",0,49,49,0
+"['caught', 'two', 'pass', 'Manning', 'failed', 'Carolina', 'field', 'goal', 'attempt']",0,49,49,0
+"['recovered', 'Manning', 'fumble']",0,50,50,0
+"['Graham', 'Gano', 'kicked', 'field', 'goal', 'yard']",0,50,50,0
+"['caught', '16-yard', 'pas', 'drive']",0,50,50,0
+"['12-yard', 'rush', 'drive']",0,50,50,0
+"['Early', 'fourth', 'quarter', 'Broncos', 'drove', 'yard', 'line', 'Panthers']",0,50,50,0
+"['knocked', 'ball', 'Manning', 'hand', 'next', 'play']",0,50,50,0
+"['ball', 'recovered']",0,50,50,0
+"['next', 'three', 'drive', 'result']",0,50,50,0
+"['last', 'name', 'player', 'bumped', 'ball', 'away', 'Manning', 'fourth', 'quarter', 'Super', 'Bowl', '50']",0,50,50,0
+"['yard', 'line', 'Broncos', 'Manning', 'lost', 'ball', 'fourth', 'quarter']",0,50,50,0
+"['yard', 'field', 'goal', 'Gano', 'made', 'make', 'score', '16-10']",0,50,50,0
+"['following', 'three', 'fourth', 'quarter', 'drive', 'field', 'goal', 'makng', 'score', '16-10', 'ended', 'punt']",0,50,50,0
+"['On', 'yard', 'line', 'Carolina', 'begin', '4:51', 'left', 'game']",0,51,51,0
+"['fumbled', 'ball', '3rd-and-9']",0,51,51,0
+"['Panther', 'defender', 'called', 'holding', 'third']",0,51,51,0
+"['player', 'punched', 'ball', '2']",0,51,51,0
+"['receiver', 'successful', '2-point', 'conversion']",0,51,51,0
+"['stripped', 'ball', 'Newton', '3rd', 'nine']",0,51,51,0
+"['recovered', 'strip', 'ball']",0,51,51,0
+"['player', 'criticized', 'jumping', 'pile', 'recover', 'ball']",0,51,51,0
+"['Panthers', 'player', 'got', 'penalty', 'gave', 'Broncos', 'new', 'set', 'down']",0,51,51,0
+"['much', 'time', 'left', 'game', 'Denver', 'took', 'score', '24-10']",0,51,51,0
+"['time', 'clock', 'Carolina', 'got', 'ball', '24-yard', 'line', 'fourth', 'quarter']",0,51,51,0
+"['last', 'name', 'player', 'took', 'ball', 'away', 'Newton', 'late', 'fourth', 'quarter']",0,51,51,0
+"['last', 'name', 'player', 'finally', 'recovered', 'ball', 'Newton', 'lost', 'fourth', 'quarter']",0,51,51,0
+"['play', 'Denver', 'kept', 'end', 'zone', 'getting', 'ball', 'Newton']",0,51,51,0
+"['last', 'name', 'player', 'scored', '2-yard', 'touchdown', 'fourth', 'quarter']",0,51,51,0
+"['solo', 'sack', 'Von', 'Miller', 'game']",0,52,52,0
+"['touchdown', 'Manning', 'throw', 'game']",1,1,52,0
+"['field', 'goal', 'McManus', 'kick', 'game']",0,52,52,0
+"['player', 'played', 'Super', 'Bowl', 'breaking', 'arm', 'two', 'week']",0,52,52,0
+"['pick', 'Cam', 'Newton', 'throw']",0,52,52,0
+"['interception', 'Manning', 'end', 'game']",1,1,52,0
+"['touchdown', 'Manning', 'end', 'game']",1,1,52,0
+"['game', 'leading', 'rusher']",0,52,52,0
+"['game', 'top', 'receiver']",0,52,52,0
+"['player', 'played', 'even', 'though', 'broke', 'arm', 'two', 'week', 'prior', 'Super', 'Bowl']",0,52,52,0
+"['last', 'name', 'player', 'Manning', 'top', 'receiver', 'Super', 'Bowl', '50']",0,52,52,0
+"['th', 'elast', 'name', 'player', 'Super', 'Bowl', '50', 'winner', 'leading', 'rusher']",0,52,52,0
+"['four', 'field', 'goal', 'attempt', 'McManus', 'succeed', 'SUper', 'Bowl', '50']",0,52,52,0
+"['intercpetions', 'Newton', 'Super', 'Bowl', '50']",0,52,52,0
+"['total', 'tackle', 'Charles', 'Johnson', 'Super', 'Bowl', '50']",0,52,52,0
+"['total', 'yard', 'Denver', 'gain']",0,53,53,0
+"['first', 'down', 'Denver']",0,53,53,0
+"['team', '244', 'yard', 'Super', 'Bowl', 'XXXV']",1,0,53,0
+"['returned', 'punt', '61', 'yard', 'setting', 'new', 'Super', 'Bowl', 'record']",0,53,53,0
+"['quarterback', 'win', 'Super', 'Bowl', 'two', 'team']",1,0,53,0
+"['yard', 'Denver', 'Super', 'Bowl', '50']",1,0,53,0
+"['first', 'down', 'Denver', 'Super', 'Bowl', '50']",1,0,53,0
+"['Broncos', 'tie', 'sack', 'Super', 'Bowl']",1,0,53,0
+"['team', 'Gary', 'Kubiak', 'play', 'Super', 'Bowl']",1,2,53,0
+"['first', 'down', 'Panthers', 'Super', 'Bowl', '50']",1,0,53,0
+"['first', 'down', 'Broncos', 'Super', 'Bowl', '50']",1,0,53,0
+"['team', 'lowest', 'down', 'yard', 'ever', 'Super', 'Bowl', 'Super', 'Bowl', '50']",1,0,53,0
+"['team', 'di', 'Broncos', 'tie', 'Super', 'Bowl', 'record', 'sack']",1,3,53,0
+"['team', 'Manning', 'Super', 'Bowl']",1,0,53,0
