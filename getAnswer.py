@@ -53,10 +53,10 @@ for question in questions:
 
 new_data = {
     "question": questions,
-    "hit_lost": hit_list,
-    "in_list_index": inListIndex_list,
+    "hit_miss": hit_list,
+    "index_in_list": inListIndex_list,
     "actual_parag": actualParag_list,
-    "titleNo": actual_data['titleNo'],
+    "title_no": actual_data['titleNo'],
 }
 
 df = pd.DataFrame(new_data)

@@ -1,4 +1,4 @@
-question,hit_lost,in_ist_index,actual_parag,titleNo
+question,hit_miss,index_in_list,actual_parag,title_no
 "['NFL', 'team', 'represented', 'AFC', 'Super', 'Bowl', '50']",1,1,0,0
 "['NFL', 'team', 'represented', 'NFC', 'Super', 'Bowl', '50']",0,0,0,0
 "['Super', 'Bowl', '50', 'take', 'place']",0,0,0,0
