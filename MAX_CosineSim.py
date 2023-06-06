@@ -5,22 +5,21 @@ import datetime
 
 ###############################################################################
 
-# print("Start Time: = %s:%s:%s" % (e.hour, e.minute, e.second))
-# data = pd.read_csv("outputs/output_dev1.csv")
+print("Start Time: = %s:%s:%s" % (datetime.datetime.now().hour,
+      datetime.datetime.now().minute, datetime.datetime.now().second))
+data = pd.read_csv("CSV-Files/TFIDF_CS_dev2.csv")
 
-# questions = data['question']
-# questions = questions.drop_duplicates()
-# qdf = pd.DataFrame(questions)
-# qdf.to_csv('questions1.csv', encoding='utf-8', index=False)
+questions = data['question']
+questions = questions.drop_duplicates()
+qdf = pd.DataFrame(questions)
+qdf.to_csv('CSV-Files/questions2.csv', encoding='utf-8', index=False)
 
 ###############################################################################
 
-print("Start Time: = %s:%s:%s" % (datetime.datetime.now().hour,
-      datetime.datetime.now().minute, datetime.datetime.now().second))
-data = pd.read_csv("CSV-Files/TFIDF_CS_dev1.csv")
+data = pd.read_csv("CSV-Files/TFIDF_CS_dev2.csv")
 
 # delete duplicate questions
-with open('CSV-Files/questions1.csv', newline='') as f:
+with open('CSV-Files/questions2.csv', newline='') as f:
     reader = csv.reader(f)
     questions_set = list(reader)
 
@@ -66,7 +65,7 @@ df = {
 }
 
 df = pd.DataFrame(df)
-df.to_csv('CSV-Files/MAX_TFIDF_CS_dev1.csv', encoding='utf-8', index=False)
+df.to_csv('CSV-Files/MAX_TFIDF_CS_dev2.csv', encoding='utf-8', index=False)
 
 ###############################################################################
 

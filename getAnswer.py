@@ -1,18 +1,19 @@
 import pandas as pd
 
-data = pd.read_csv("CSV-Files/TFIDF_CS_dev1.csv")
+data = pd.read_csv("CSV-Files/TFIDF_CS_dev2.csv")
 data_question = pd.read_csv("CSV-Files/QuestionsList.csv")
 
 
-data_question_list = data_question.loc[data_question['TitleNo'] == 0]
+data_question_list = data_question.loc[data_question['TitleNo'] == 1]
 question_list = data['question'].tolist()
 
 question_index = 0
 questions = []
+# question_data = pd.read_csv("CSV-Files/questions2.csv")
+# questions = question_data['question']
 while question_index < len(question_list):
     questions.append(question_list[question_index])
-    question_index += 54
-
+    question_index += 49
 
 data = {
     "question": questions,
@@ -49,7 +50,7 @@ for question in questions:
     else:
         hit_list.append(0)
         actualParag_list.append(paragNo_list[current_data.index[0]])
-        inListIndex_list.append(paragNo_list[current_data.index[0]])
+        inListIndex_list.append('-')
 
 new_data = {
     "question": questions,
@@ -60,4 +61,56 @@ new_data = {
 }
 
 df = pd.DataFrame(new_data)
-df.to_csv('CSV-Files/Actual_Answer1.csv', encoding='utf-8', index=False)
+df.to_csv('CSV-Files/Actual_Answer2.csv', encoding='utf-8', index=False)
+
+#######################################################################################
+#######################################################################################
+#######################################################################################
+
+hit_count = (hit_list.count(1)/len(hit_list))*100
+first_choice_count = 0
+second_choice_count = 0
+third_choice_count = 0
+fourth_choice_count = 0
+fifth_choice_count = 0
+for hit in hit_list:
+    if hit == 1:
+        index = hit_list.index(hit)
+
+        if (inListIndex_list[index] == 0):
+            first_choice_count += 1
+        elif (inListIndex_list[index] == 1):
+            second_choice_count += 1
+        elif (inListIndex_list[index] == 2):
+            third_choice_count += 1
+        elif (inListIndex_list[index] == 3):
+            fourth_choice_count += 1
+        elif (inListIndex_list[index] == 4):
+            fifth_choice_count += 1
+
+
+not_number = inListIndex_list.count('-')
+if (len(inListIndex_list)-not_number) == 0:
+    choice1 = (first_choice_count/len(inListIndex_list))*100
+    choice2 = (second_choice_count/len(inListIndex_list))*100
+    choice2 = (second_choice_count/len(inListIndex_list))*100
+    choice3 = (third_choice_count/len(inListIndex_list))*100
+    choice4 = (fourth_choice_count/len(inListIndex_list))*100
+    choice5 = (fifth_choice_count/len(inListIndex_list))*100
+else:
+    choice1 = (first_choice_count/(len(inListIndex_list)-not_number))*100
+    choice2 = (second_choice_count/(len(inListIndex_list)-not_number))*100
+    choice3 = (third_choice_count/(len(inListIndex_list)-not_number))*100
+    choice4 = (fourth_choice_count/(len(inListIndex_list)-not_number))*100
+    choice5 = (fifth_choice_count/(len(inListIndex_list)-not_number))*100
+accu_data = {
+    "hit%": [hit_count],
+    "first_choice%": [choice1],
+    "second_choice%": [choice2],
+    "third_choice%": [choice3],
+    "fourth_choice%": [choice4],
+    "fifth_choice%": [choice5],
+}
+
+df = pd.DataFrame(accu_data)
+df.to_csv('CSV-Files/Result_Actual_Answer2.csv', encoding='utf-8', index=False)

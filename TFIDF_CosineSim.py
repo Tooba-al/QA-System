@@ -6,9 +6,11 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 import time
+import datetime
 
 
-start_time = time.time()
+print("Start Time: = %s:%s:%s" % (datetime.datetime.now().hour,
+      datetime.datetime.now().minute, datetime.datetime.now().second))
 
 questions = []
 index_dict_question = {}  # Dictionary to store index for each word
@@ -215,10 +217,8 @@ data = {
 }
 
 df = pd.DataFrame(data)
-df.to_csv('CSV-Files/TFIDF_CS_dev1.csv', encoding='utf-8', index=False)
+df.to_csv('CSV-Files/TFIDF_CS_dev2.csv', encoding='utf-8', index=False)
 
 
-end_time = time.time()
-print("execution time -> ", (end_time-start_time)/60, " minutes")
-
-print('End of "optimal_tf_idf.py"')
+print("End Time: = %s:%s:%s" % (datetime.datetime.now().hour,
+      datetime.datetime.now().minute, datetime.datetime.now().second))
