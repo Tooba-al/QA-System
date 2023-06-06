@@ -81,6 +81,18 @@ def get_matching_word_frequency(question, span):
     return result
 
 
+def get_uni_bigram_overlap(question, span):
+    pass
+
+
+def get_unlexicalized_path(question, span):
+    pass
+
+
+def get_constituency_parse(spans):
+    pass
+
+
 def get_features(question, span):
     # question = stopword_func(question)
     # span = stopword_func(span)
@@ -91,6 +103,7 @@ def get_features(question, span):
     root_match = get_root_matching(question, span)
     length = len(span)
     span_word_frequency = get_span_TFIDF(span)
+    # unigram_bigram_overlap =
     # consistant_label =
     # span_POS_tags =
     # dependency_tree_path =
