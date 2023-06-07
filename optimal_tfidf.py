@@ -111,29 +111,12 @@ def termfreq(paragraph, word):
 
 
 # Inverse Document Frequency
-<<<<<<< HEAD
 def inverse_doc_freq(paragraph):
     if doc_contain_word != []:
         idf = np.log((len(paragraph)+1) / (len(doc_contain_word)))
     else:
         idf = np.log((len(paragraph)+1) / 1)
 
-=======
-def inverse_doc_freq(word, paragraph_list):
-    # if doc_contain_word != []:
-    #     idf = np.log((len(paragraph)) / len(doc_contain_word))
-    # else:
-    count = 0
-    N = len(paragraph_list)     # total number of documents
-    for paragraph in paragraph_list:
-        if paragraph.count(word) > 0:
-            count += 1
-            # print(paragraph.count(word))
-    if count != 0:
-        idf = np.log(N+1 / count)
-    else:
-        idf = 0
->>>>>>> 98d9cdd1bf795f11a595725461ad45d3e8ba6521
     return idf
 
 
@@ -171,6 +154,7 @@ print("Use the TF/IDF function..")
 tf_idf_vec = np.zeros((len(tfidf_word_paragraph_index),))
 for title_question_index in range(len(all_questions)):
     for question in all_questions[title_question_index]:
+        # print("ques: ",question)
         vec = tf_idf(all_sentences[title_question_index],
                      question,
                      tf_idf_vec,

@@ -1,0 +1,248 @@
+question,hit_miss,index_in_list,actual_parag,title_no
+"['Maria', 'Curie', 'first', 'female', 'recipient']",0,-,0,1
+"['year', 'Casimir', 'Pulaski', 'born', 'Warsaw']",0,-,0,1
+"['one', 'famous', 'people', 'born', 'Warsaw']",0,-,0,1
+"['Frédéric', 'Chopin']",0,-,0,1
+"['old', 'Chopin', 'moved', 'Warsaw', 'family']",0,-,0,1
+"['Over', 'specie', 'tree', 'found', 'Saxon', 'Garden']",0,-,1,1
+"['popular', 'strolling', 'destination', 'Varsovians']",0,-,1,1
+"['garden', 'formally', 'royalty']",0,-,1,1
+"['end', 'Saxon', 'Garden', 'Tom', 'Unknown', 'Soldier', 'located']",0,-,1,1
+"['park', 'cover', 'area', '76', 'ha']",0,-,1,1
+"['far', 'Warsaw', 'Vistula', 'river', 'environment', 'change', 'noticeably']",0,-,2,1
+"['animal', 'Vistula', 'river', 'ecosystem', 'include']",0,-,2,1
+"['natural', 'reserve', 'Warsaw']",0,-,2,1
+"['lake', 'Warsaw']",0,-,2,1
+"['small', 'lake', 'park', 'emptied', 'winter']",0,-,2,1
+"['Warsaw', 'diverse', 'Poland']",0,-,3,1
+"['Warsaw', 'inhabitant', 'spoke', 'Polish', '1933']",0,-,3,1
+"['percentage', 'population', 'Warsaw', 'Jewish', '1897']",0,-,3,1
+"['significant', 'minority', 'Warsaw']",0,-,3,1
+"['Warsaw', 'modern', 'growth', 'based']",0,-,3,1
+"['second', 'academic', 'school', 'technology', 'Poland']",0,-,4,1
+"['professor', 'Warsaw', 'University', 'Technology', 'employ']",0,-,4,1
+"['largest', 'medical', 'school', 'Poland']",0,-,4,1
+"['year', 'University', 'Warsaw', 'established']",0,-,4,1
+"['one', 'largest', 'music', 'school', 'Europe']",0,-,4,1
+"['University', 'Library', 'founded']",0,-,5,1
+"['item', 'University', 'Library', 'home']",0,-,5,1
+"['profession', 'Zbigniew', 'Badowski']",0,-,5,1
+"['designed', 'garden', 'University', 'Library']",0,-,5,1
+"['much', 'area', 'University', 'Library', 'garden', 'cover']",0,-,5,1
+"['suffered', 'considerably', 'Warsaw', 'Eastern', 'Bloc', 'economy']",0,-,6,1
+"['major', 'success', 'especially', 'rebuilding', 'Warsaw']",0,-,6,1
+"['Warsaw', 'seen', 'improvement', 'past', 'decade']",0,-,6,1
+"['Warsaw', 'sidewalk', 'sanitation', 'facility', 'example', 'thing']",0,-,6,1
+"['best', 'medical', 'facility', 'East-Central', 'Europe', 'located']",0,-,7,1
+"['highest', 'reference', 'hospital', 'Poland']",0,-,7,1
+"['one', 'largest', 'modern', 'oncological', 'institution', 'Europe']",0,-,7,1
+"['bed', 'Maria', 'Sklodowska-Curie', 'Institute', 'Oncology']",0,-,7,1
+"['infrastructure', 'done', 'lot', 'past', 'year']",0,-,7,1
+"['type', 'venue', 'Teatr', 'Wielki']",0,-,8,1
+"['Warsaw', 'host']",0,-,8,1
+"['Congress', 'Hall', 'located']",0,-,8,1
+"['Jazz', 'Jamboree', 'hosted']",0,-,8,1
+"['Warsaw', 'Summer', 'Jazz', 'Days', 'one', 'hosted', 'Warsaw']",0,-,8,1
+"['Saxon', 'Garden', 'Polish']",0,-,9,1
+"['Summer', 'Theatre', 'located']",0,-,9,1
+"['long', 'Summer', 'Theatre', 'operation']",0,-,9,1
+"['Warsaw', 'first', 'literary', 'cabaret']",0,-,9,1
+"['theatre', 'best', 'example', 'Polish', 'monumental', 'theatre']",0,-,9,1
+"['polish', 'word', 'wreath']",0,-,10,1
+"['man', 'people', 'gather', 'along', 'bank', 'Vistula', 'Wianki', 'festival']",0,-,10,1
+"['Wianki', 'festival', 'held']",0,-,10,1
+"['maiden', 'able', 'predict', 'floating', 'wreath', 'Vistula']",0,-,10,1
+"['type', 'flower', 'sought', 'Midsummer', 'Eve']",0,-,10,1
+"['world', 'first', 'Museum', 'Posters', 'one', 'largest', 'collection', 'world']",0,-,11,1
+"['museum', 'Warsaw']",0,-,11,1
+"['Warsaw', 'National', 'Museum', 'one']",0,-,11,1
+"['National', 'Museum', 'boast', 'Adolf', 'Hitler', 'private', 'collection']",0,-,11,1
+"['Museum', 'Polish', 'Army', 'portray', 'history']",0,-,11,1
+"['tribute', 'fall', 'Warsaw', 'found']",0,-,12,1
+"['museum', 'preserve', 'memory', 'crime']",0,-,12,1
+"['type', 'theatre', 'Warsaw', 'Fotoplastikon']",0,-,12,1
+"['Warsaw', 'patriotic', 'political', 'object', 'connected', 'Poland', 'struggle', 'Independence', 'found']",0,-,12,1
+"['room', 'Warsaw', 'Historical', 'Museum']",0,-,12,1
+"['castle', 'currently', 'house', 'Centre', 'Contemporary', 'Art']",0,-,13,1
+"['project', 'Centre', 'currently', 'realize', 'year']",0,-,13,1
+"['oldest', 'exhibition', 'site', 'Warsaw']",0,-,13,1
+"['Zachęta', 'National', 'Gallery', 'Art', 'organize', 'exhibition', 'art']",0,-,13,1
+"['Warsaw', 'Gallery', 'Weekend', 'held']",0,-,13,1
+"['Ekstraklasa', 'Championship', '2000']",0,-,14,1
+"['Polonia', 'Warsaw', 'win', 'country', 'championship', 'prior', '2000']",0,-,14,1
+"['time', 'Polonia', 'cup']",0,-,14,1
+"['Polonia', 'home', 'venue', 'located']",0,-,14,1
+"['Polonia', 'relegated', 'country', 'top', 'flight', '2013']",0,-,14,1
+"['polish', 'mermaid']",0,-,15,1
+"['Warsaw', 'symbol']",0,-,15,1
+"['long', 'imagery', 'mermaid', 'used', 'Warsaw']",0,-,15,1
+"['oldest', 'armed', 'seal', 'Warsaw']",0,-,15,1
+"['sea', 'monster', 'female', 'upper', 'body', 'hold', 'claw']",0,-,15,1
+"['Artur', 'Oppman', 'give', 'world']",0,-,16,1
+"['two', 'Triton', 'daughter', 'set', 'journey']",0,-,16,1
+"['one', 'Triton', 'daughter', 'decide', 'wanted', 'hang', 'stay']",0,-,16,1
+"['mermaid', 'stopped', 'rest', 'sandy', 'beach', 'village']",0,-,16,1
+"['greedy', 'merchant', 'mermaid']",0,-,16,1
+"['famous', 'artist', 'Tamara', 'de', 'Lempicka', 'born']",0,-,17,1
+"['Tamara', 'marry', 'lawyer']",0,-,17,1
+"['Lempicka', 'represent', 'better', 'anyone', 'else']",0,-,17,1
+"['profession', 'Nathan', 'Alterman']",0,-,17,1
+"['loved', 'Warsaw', 'much', 'kept', 'putting', 'novel']",0,-,17,1
+"['ranked', 'Warsaw', '32nd', 'liveable', 'city', 'world']",0,-,18,1
+"['Warsaw', 'ranked', '32nd', 'liveable', 'city', 'world']",0,-,18,1
+"['Warsaw', 'economy', 'characterized']",0,-,18,1
+"['exchange', 'Warsaw', 'one', 'important', 'Central', 'Eastern', 'Europe']",0,-,18,1
+"['name', 'European', 'Union', 'agency', 'external', 'border', 'security']",0,-,18,1
+"['first', 'reference', 'history', 'Warsaw']",0,-,19,1
+"['city', 'served', 'Poland', 'capital', '1313']",0,-,19,1
+"['Warsaw', 'become', 'capital', 'Kingdom', 'Poland']",0,-,19,1
+"['moved', 'court', 'Kraków', 'Warsaw', '1596']",0,-,19,1
+"['Warsaw', 'gain', 'title', 'Phoenix', 'City']",0,-,19,1
+"['archdiocese', 'Warsaw', 'seat']",0,-,20,1
+"['another', 'notable', 'university', 'Warsaw', 'University', 'Warsaw']",0,-,20,1
+"['Warsaw', 'Old', 'Town', 'listed', '1980']",0,-,20,1
+"['King', 'Sigimund', 'Column', 'example', 'kind', 'attraction', 'Warsaw']",0,-,20,1
+"['quarter', 'Warsaw', 'filled']",0,-,20,1
+"['Warsaw', 'name', 'Polish', 'language']",0,-,21,1
+"['Warszawa', 'mean', 'Polish']",0,-,21,1
+['Warsz'],0,-,21,1
+['Warsz'],0,-,21,1
+"['full', 'official', 'city', 'name', 'Warsaw']",0,-,21,1
+"['city', 'raided', 'clan', 'duke', 'preceded', 'founding', 'Warszowa']",0,-,22,1
+"['Boleslaw', 'II', 'Masovia']",0,-,22,1
+"['settlement', 'would', 'become', 'Warsaw', 'established']",0,-,22,1
+"['year', 'Warszowa', 'become', 'official', 'capital', 'Masovian', 'Duchy']",0,-,22,1
+"['Masovian', 'Duchy', 'reincorporated', 'Polish', 'Crown']",0,-,22,1
+"['Warsaw', 'serve', 'seat', '1529']",0,-,23,1
+"['General', 'Sejm', 'make', 'Warsaw', 'permanent', 'seat']",0,-,23,1
+"['Warsaw', 'Confederation', 'formally', 'establish', '1573']",0,-,23,1
+"['Warsaw', 'become', 'capital', 'Commonwealth']",0,-,23,1
+"['year', 'King', 'Sigismund', 'III', 'Vasa', 'move', 'court', 'Warsaw']",0,-,23,1
+"['long', 'Warsaw', 'capital', 'Polish-Lithuanian', 'Commonwealth']",0,-,24,1
+"['kingdom', 'annexed', 'Warsaw', '1796']",0,-,24,1
+"['Whose', 'army', 'liberated', 'Warsaw', '1806']",0,-,24,1
+"['Warsaw', 'become', 'center', 'Congress', 'Poland']",0,-,24,1
+"['Royal', 'University', 'Warsaw', 'established']",0,-,24,1
+"['long', 'Warsaw', 'occupied', 'Germany']",0,-,25,1
+"['Article', '12', 'Allied', 'Armistice', 'term', 'require', 'Germany', 'withdraw']",0,-,25,1
+"['set', 'became', 'Second', 'Polish', 'Republic']",0,-,25,1
+"['Polish-Bolshevik', 'war', 'fought']",0,-,25,1
+"['army', 'Warsaw', 'successfully', 'defend']",0,-,25,1
+"['Germany', 'invade', 'Poland', 'start', 'World', 'War', 'II']",0,-,26,1
+"['Warsaw', 'administration', 'came', 'rule', 'General', 'Goverment']",0,-,26,1
+"['much', 'Warsaw', 'population', 'Jewish']",0,-,26,1
+"['Hitler', 'order', 'annihilation', 'Warsaw', 'Ghetto']",0,-,26,1
+"['long', 'fighter', 'Warsaw', 'Ghetto', 'Uprising', 'able', 'hold']",0,-,26,1
+"['army', 'pushing', 'deep', 'Polish', 'territory', 'pursue', 'Germans', '1944']",0,-,27,1
+"['exiled', 'Polish', 'government', 'London', 'order', 'underground', 'Home', 'Army', 'seize', 'control', 'Warsaw', 'prior', 'arrival', 'Red', 'Army']",0,-,27,1
+"['Warsaw', 'Uprising', 'begin']",0,-,27,1
+"['day', 'Warsaw', 'Uprising', 'last']",0,-,27,1
+"['estimated', 'death', 'toll', 'Polish', 'civilian']",0,-,27,1
+"['campaign', 'Communist', 'regime', 'initiate', 'WWII']",0,-,28,1
+"['type', 'housing', 'erected', 'Warsaw', 'part', 'Bricks', 'Warsaw', 'process']",0,-,28,1
+"['structure', 'built', 'Soviets', 'typical']",0,-,28,1
+"['building', 'gift', 'Soviet', 'Union']",0,-,28,1
+"['list', 'Warsaw', 'Old', 'Town', 'inscribed', 'onto', '1980']",0,-,28,1
+"['pope', 'native', 'Poland']",0,-,29,1
+"['John', 'Paul', 'II', 'visit', '1979', '1983', 'encourage']",0,-,29,1
+"['long', 'John', 'Paul', 'II', 'pope', '1979']",0,-,29,1
+"['John', 'Paul', 'II', 'celebrate', 'Mass', 'Warsaw']",0,-,29,1
+"['Polish', 'citizen', 'understand', 'subtext', 'John', 'Paul', 'II', 'word']",0,-,29,1
+"['kilometer', 'Warsaw', 'Carpathian', 'Mountains']",0,-,30,1
+"['mile', 'east', 'Berlin', 'Warsaw']",0,-,30,1
+"['river', 'Warsaw', 'straddle']",0,-,30,1
+"['high', 'highest', 'point', 'Warsaw']",0,-,30,1
+"['lowest', 'point', 'Warsaw', 'located']",0,-,30,1
+"['geomorphologic', 'formation', 'Warsaw']",0,-,31,1
+"['formation', 'asymmetrical', 'pattern', 'different', 'terrace']",0,-,31,1
+"['plateau', 'left', 'part', 'Warsaw']",0,-,31,1
+"['axis', 'Warsaw', 'divide', 'two', 'part']",0,-,31,1
+"['edge', 'moraine', 'plateau', 'called']",0,-,31,1
+"['plateau', 'group', 'clay', 'pit']",0,-,32,1
+"['highest', 'level', 'Vistula', 'plateau', 'contain']",0,-,32,1
+"['currently', 'flooded', 'terrace', 'visible']",0,-,32,1
+"['Aeolian', 'sand', 'number', 'dune', 'found']",0,-,32,1
+"['type', 'forested', 'area', 'found', 'highest', 'terrace']",0,-,32,1
+"['Warsaw', 'mixture', 'architectural', 'style', 'reflect']",0,-,33,1
+"['Warsaw', 'completely', 'razed', 'ground', 'bombing', 'raid']",0,-,33,1
+"['Warsaw', 'start', 'rebuild']",0,-,33,1
+"['building', '19th', 'century', 'destroyed', '1950s', '1960s']",0,-,33,1
+"['style', 'mass', 'constructed', 'residential', 'block', 'designed']",0,-,33,1
+"['type', 'architecture', 'represented', 'majestic', 'church']",0,-,34,1
+"['St.', 'John', 'Cathedral', 'constructed']",0,-,34,1
+"['St.', 'John', 'Cathedral', 'example', 'stylistically']",0,-,34,1
+"['house', 'Baryczko', 'merchant', 'family', 'notable', 'example', 'type', 'architecture']",0,-,34,1
+"['Royal', 'Castle', 'interesting', 'example']",0,-,34,1
+"['building', 'activity', 'palace', 'church', 'take', 'place', 'later', 'decade']",0,-,35,1
+"['building', 'activity', 'occur', 'St.', 'Kazimierz', 'Church']",0,-,35,1
+"['type', 'architecture', 'Palace', 'Four', 'Windows', 'impressive', 'example']",0,-,35,1
+"['described', 'simplicity', 'geometrical', 'form', 'teamed', 'inspiration', 'Roman', 'period']",0,-,35,1
+"['Palace', 'Water', 'rebuilt']",0,-,35,1
+"['Kronenberg', 'Palace', 'exceptional', 'example', 'type', 'architecture']",0,-,36,1
+"[""n't"", 'example', 'bouregois', 'architecture', 'visible', 'today']",0,-,36,1
+"['style', 'Warsaw', 'Philharmony', 'edifice', 'built']",0,-,36,1
+"['building', 'interesting', 'late', '19th-century', 'architecture']",0,-,36,1
+"['Saxon', 'Palace', 'Brühl', 'Palace', 'prewar', 'Warsaw']",0,-,36,1
+"['commemorates', 'Warsaw', 'heroic', 'history']",0,-,37,1
+"['name', 'infamous', 'German', 'Gestapo', 'prison']",0,-,37,1
+"['fortification', 'built', '19th', 'century', 'defeat', 'November', 'Uprising']",0,-,37,1
+"['statue', 'Little', 'Insurgent', 'commemorate']",0,-,37,1
+"['monument', 'memory', 'largest', 'insurrection', 'WWII']",0,-,37,1
+"['type', 'space', 'Warsaw', 'Botanic', 'Garden', 'University', 'Library', 'garden']",0,-,38,1
+"['palm', 'house', 'subtropic', 'plant', 'world', 'display']",0,-,38,1
+"['first', 'horse', 'racetrack', 'located']",0,-,38,1
+"['park', 'close', 'John', 'Lennon', 'street']",0,-,38,1
+"['zoological', 'garden', 'established', 'Praga', 'Park']",0,-,38,1
+"['Warsaw', 'flora', 'rich', 'specie']",0,-,39,1
+"['Bielany', 'Forest', 'located']",0,-,39,1
+"['Bielany', 'Forest', 'last', 'remnant']",0,-,39,1
+"['forest', 'Warsaw', 'southern', 'border']",0,-,39,1
+"['botanical', 'garden', 'Warsaw']",0,-,39,1
+"['people', 'lived', 'Warsaw', '1939']",0,-,40,1
+"['number', 'people', 'living', 'Warsaw', 'declined', '1945']",0,-,40,1
+"['Warsaw', 'area', 'enlargement', 'take', 'place']",0,-,40,1
+"['conviction', 'Poles', 'regarding', 'Varsovians', 'thought']",0,-,40,1
+"['longer', 'limitation', 'since', '1990']",0,-,40,1
+"['type', 'city', 'Warsaw', 'long', 'city']",0,-,41,1
+"['Warsaw', 'population', '1901']",0,-,41,1
+"['Of', 'Warsaw', 'inhabitant', '1901', 'percentage', 'Catholic']",0,-,41,1
+"['percentage', 'Warsaw', 'population', 'Protestant', '1901']",0,-,41,1
+"['place', 'religious', 'worship', 'destroyed', 'Warsaw']",0,-,41,1
+"['basic', 'unit', 'territorial', 'division', 'Poland']",0,-,42,1
+"['second', 'level', 'territorial', 'division', 'Poland']",0,-,42,1
+"['district', 'registration', 'number', 'car', 'type']",0,-,42,1
+"['Warsaw', 'power', 'legislative', 'action']",0,-,43,1
+"['member', 'Warsaw', 'City', 'Counil']",0,-,43,1
+"['often', 'election', 'counsel', 'held']",0,-,43,1
+"['City', 'Council', 'divide']",0,-,43,1
+"['day', 'Council', 'override', 'mayor', 'veto']",0,-,43,1
+"['mayor', 'Warsaw', 'called']",0,-,44,1
+"['first', 'Warsaw', 'President']",0,-,44,1
+"['Menich', 'serve', 'President']",0,-,44,1
+"['elected', 'President', 'Warsaw', 'since', '1990']",0,-,44,1
+"['district', 'Warsaw', 'chose', 'President', '1994', '1999']",0,-,44,1
+"['city', 'centre', 'Warsaw', 'called', 'Polish']",0,-,45,1
+"['company', 'registered', 'Warsaw', '2006']",0,-,45,1
+"['Warsaw', 'ranked', '7th', 'greatest']",0,-,45,1
+"['much', 'Poland', 'national', 'income', 'Warsaw', 'produce']",0,-,45,1
+"['total', 'nominal', 'GDP', 'Warsaw', '2010']",0,-,45,1
+"['Warsaw', 'first', 'stock', 'exchange', 'established']",0,-,46,1
+"['brought', 'Warsaw', 'stock', 'exchange', 'stop']",0,-,46,1
+"['Warsaw', 'stock', 'exchange', 'brought', 'back', 'life']",0,-,46,1
+"['company', 'listed', 'WSE', 'August', '2009']",0,-,46,1
+"['Whose', 'former', 'headquarters', 'WSE', 'located', '2000']",0,-,46,1
+"['FSO', 'Car', 'Factory', 'founded']",0,-,47,1
+"['car', 'licensed', 'FSO', 'Car', 'Factory', 'built', 'Egypt']",0,-,47,1
+"['South', 'Korean', 'car', 'manufacturer', 'purchased', 'factor', '1995']",0,-,47,1
+"['bought', 'factory', '2005']",0,-,47,1
+"['license', 'build', 'type', 'car', 'expire', '2011']",0,-,47,1
+"['Warsaw', 'known', 'Polish']",0,-,48,1
+"['largest', 'city', 'Poland']",0,-,48,1
+"['river', 'run', 'Warsaw']",0,-,48,1
+"['people', 'live', 'greater', 'metropolitan', 'area']",0,-,48,1
+"['Warsaw', 'rank', 'term', 'population', 'EU']",0,-,48,1
+"['largest', 'city', 'Poland']",0,-,48,1
+"['On', 'river', 'Warsaw', 'stand']",0,-,48,1
+"['far', 'Warsaw', 'Baltic', 'Sea']",0,-,48,1
+"['resident', 'greater', 'metropolitan', 'area']",0,-,48,1
+"['rank', 'populous', 'city', 'European', 'Union', 'Warsaw', 'hold']",0,-,48,1
