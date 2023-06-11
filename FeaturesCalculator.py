@@ -10,6 +10,19 @@ from nltk.stem import WordNetLemmatizer
 nlp = spacy.load("en_core_web_sm")
 
 
+def get_answer_types(span):
+    num_ans =
+    nonnum_ans =
+
+
+def get_reasoning_types(ans):
+    pass
+
+
+def get_syntatic_divergence(question, span):
+    pass
+
+
 def stopword_func(text):
     stop_words = set(stopwords.words('english'))
     stop_words.update(('?', 'and', 'I', 'A', 'And', 'So', '.', 'as', 'As', '\'\'', 'could', '[', ']', ',', ')', '\'s', 'By', '(', "''",
