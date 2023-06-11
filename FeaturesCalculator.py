@@ -110,7 +110,6 @@ def get_features(question, span):
 
     print(matching_word_frequency)
 
-
 span = "Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season."
 question = "Which NFL team represented the AFC at Super Bowl 50?"
 get_features(question, span)

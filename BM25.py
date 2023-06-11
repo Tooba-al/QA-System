@@ -4,12 +4,7 @@ from nltk.tokenize import word_tokenize
 import numpy as np
 import pandas as pd
 from nltk.stem import WordNetLemmatizer
-import time
-from collections import Counter
 
-
-
-start_time = time.time()
 questions = []
 index_dict_question = {}  # Dictionary to store index for each word
 doc_contain_word = []
@@ -119,13 +114,7 @@ for title_question_index in range(len(all_questions)):
 #     return tf_idf_vec
 def bm25(sentence,questionlist,bm25_vec,
                      index_dict, k=1.2, b=0.75):
-    N = len(paragraph)
-    # counts = Counter(sentence)
-    # term frequency...
-    # print("sente: ",sentence)
-    # print("\n")
-    # print("ques: ",questionlist)
-    # print("\n")
+    N = len(all_sentences)
 
     for word in questionlist:
         for parag in sentence:
@@ -140,7 +129,7 @@ def bm25(sentence,questionlist,bm25_vec,
                 tf = (freq * (k + 1)) / (freq + k * (1 - b + b * len(sentence) / avgdl))
                 # print("tf: ",tf)
             # inverse document frequency...
-                N_q = sum([1 for doc in parag if word in doc])  # number of docs that contain the word
+                N_q = sum([1 for doc in all_sentences if word in doc])  # number of docs that contain the word
                 # print("N_q: ",N_q)
                 idf = np.log(((N - N_q + 0.5) / (N_q + 0.5)) + 1)
                 # print("idf: ",idf)
@@ -169,15 +158,15 @@ for title_question_index in range(len(all_questions)):
 # print(len(vec2))
 
 
-# data = {
-#     'question': question_word_q2,
-#     'word': question_word_w2,
-#     'BM25': vec,
-#     'paragraph_no': bm25_word_parag_index,
-#     'title_no': question_title_index2,
-# }
+data = {
+    'question': question_word_q2,
+    'word': question_word_w2,
+    'BM25': vec,
+    'paragraph_no': bm25_word_parag_index,
+    'title_no': question_title_index2,
+}
 
-# df = pd.DataFrame(data)
-# df.to_csv('bm25.csv', encoding='utf-8', index=False)
+df = pd.DataFrame(data)
+df.to_csv('bm25.csv', encoding='utf-8', index=False)
 
 
