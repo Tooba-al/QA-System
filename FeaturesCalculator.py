@@ -103,6 +103,7 @@ def get_features(question, span):
     root_match = get_root_matching(question, span)
     length = len(span)
     span_word_frequency = get_span_TFIDF(span)
+    # bm25 = get_BM25()
     # unigram_bigram_overlap =
     # consistant_label =
     # span_POS_tags =
