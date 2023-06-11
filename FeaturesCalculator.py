@@ -93,7 +93,7 @@ def get_matching_word_frequency(question, span):
 
     return result
 
-def categoricalAnswers(answersList):
+def categorizeAnswers(answersList):
     cardinals=[]
     person =[]
     date=[]
