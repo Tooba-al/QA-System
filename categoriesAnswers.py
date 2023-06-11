@@ -78,8 +78,6 @@ for i in answers1:
         else:
             other.append(word.text)
 
-print("other: ",other)
-
 
 # # df = pd.read_csv('extractAnswers.csv')
 
