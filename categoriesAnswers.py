@@ -38,8 +38,8 @@ for i in answers1:
     else:
         categorical.append(i)
 
-print ("numerical: ",numerical)
-print("categorical: ",categorical)
+# print ("numerical: ",numerical)
+# print("categorical: ",categorical)
 
 
 # ///////////////////////////
@@ -51,6 +51,7 @@ money =[]
 gpe =[]
 org =[]
 event =[]
+other = []
 
 
 NER = spacy.load("en_core_web_sm")
@@ -74,7 +75,10 @@ for i in answers1:
             gpe.append(word.text)
         elif(word.label_ == "EVENT"):
             event.append(word.text)
-            # print(word.text,word.label_)
+        else:
+            other.append(word.text)
+
+print("other: ",other)
 
 
 # # df = pd.read_csv('extractAnswers.csv')
