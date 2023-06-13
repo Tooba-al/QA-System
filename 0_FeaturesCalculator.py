@@ -35,6 +35,41 @@ for i in range(len(data['data'])):
 # print(len(data_answers))
 
 
+def get_answer_types(answersList):
+    cardinals = []
+    person = []
+    date = []
+    loc = []
+    money = []
+    gpe = []
+    org = []
+    event = []
+    other = []
+
+    NER = spacy.load("en_core_web_sm")
+    for answer in answersList:
+        text2 = NER(answer)
+        for word in text2.ents:
+            if (word.label_ == "CARDINAL"):
+                cardinals.append(word.text)
+            elif (word.label_ == "PERSON"):
+                person.append(word.text)
+            elif (word.label_ == "DATE"):
+                date.append(word.text)
+            elif (word.label_ == "LOC"):
+                loc.append(word.text)
+            elif (word.label_ == "MONEY"):
+                money.append(word.text)
+            elif (word.label_ == "ORG"):
+                org.append(word.text)
+            elif (word.label_ == "GPE"):
+                gpe.append(word.text)
+            elif (word.label_ == "EVENT"):
+                event.append(word.text)
+            else:
+                other.append(word.text)
+
+
 def get_answer_types(span):
     # num_ans =
     # nonnum_ans =
