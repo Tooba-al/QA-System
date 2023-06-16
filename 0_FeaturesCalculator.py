@@ -448,6 +448,18 @@ def get_trigram_TFIDF(text):
     pass
 
 
+def get_Minkowski_distance():
+    pass
+
+
+def get_Manhattan_distance():
+    pass
+
+
+def get_Euclidean_distance():
+    pass
+
+
 def get_unlexicalized_path(question, span):
     pass
 
