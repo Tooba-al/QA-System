@@ -1,13 +1,13 @@
 import spacy
-from spacy import displacy
 import pandas as pd
-import numpy as np
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 import json
 import nltk
-
+from nltk import pos_tag
+from nltk import word_tokenize
+import stanza
 
 nlp = spacy.load("en_core_web_sm")
 lemmatizer = WordNetLemmatizer()
@@ -464,8 +464,18 @@ def get_unlexicalized_path(question, span):
     pass
 
 
-def get_constituency_parse(spans):
-    pass
+def get_constituency_parse(span):
+    nlp = stanza.Pipeline(lang="en", processors="tokenize,pos,constituency")
+    doc = nlp(span)
+    sentences = doc.sentences
+    for sentence in sentences:
+        return sentence.constituency
+
+
+def get_POS_tags(span):
+    tokens = word_tokenize(span)
+    pos = pos_tag(tokens, tagset="universal")
+    return pos
 
 
 def get_length(span):
@@ -489,12 +499,11 @@ def get_features(question, span):
     # bigram_TFIDF = get_bigram_TFIDF(span)      ########
     # trigram_TFIDF = get_trigram_TFIDF(span)      ########
     # bm25 = get_BM25()      ########
-    # consistant_label =      ########
-    # span_POS_tags =      ########
-    # dependency_tree_path =      ########
+    consistant_label = get_constituency_parse(span)
+    # span_POS_tags = get_POS_tags(span)
+    # dependency_tree_path =      ########,0.
 
-    # print(matching_word_frequency)
-    pass
+    print(consistant_label)
 
 
 span = "Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season."
