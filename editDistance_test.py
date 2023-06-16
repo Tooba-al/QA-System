@@ -54,20 +54,20 @@ for question in document_question[0]:
             title_no.append(0)
             question_ed.append(question)
             sentence_ed.append(sentence.text)
-            ED = edit_distance(question, sentence.text)
-            ed_list.append(ED)
+            # ED = edit_distance(question, sentence.text)
+            # ed_list.append(ED)
 
 
 data = {
     "question": question_ed,
     "sentence": sentence_ed,
-    "edit-distance": ed_list,
+    # "edit-distance": ed_list,
     "paragraphNo": parag_no,
     "titleNo": title_no,
 }
 
 df = pd.DataFrame(data)
-df.to_csv('CSV-Files/EditDistance_dev1.csv', encoding='utf-8', index=False)
+df.to_csv('Features/EditDistance_dev1.csv', encoding='utf-8', index=False)
 
 print("End Time: = %s:%s:%s" % (datetime.datetime.now().hour,
       datetime.datetime.now().minute, datetime.datetime.now().second))

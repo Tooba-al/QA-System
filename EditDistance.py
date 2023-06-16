@@ -79,7 +79,7 @@ min_del_ins_data = {
 }
 
 df = pd.DataFrame(min_del_ins_data)
-df.to_csv('CSV-Files/EditDistances_dev1.csv', encoding='utf-8', index=False)
+df.to_csv('Features/EditDistances_dev1.csv', encoding='utf-8', index=False)
 
 print("End Time: = %s:%s:%s" % (datetime.datetime.now().hour,
       datetime.datetime.now().minute, datetime.datetime.now().second))
