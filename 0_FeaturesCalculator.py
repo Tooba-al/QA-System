@@ -8,6 +8,10 @@ import nltk
 from nltk import pos_tag
 from nltk import word_tokenize
 import stanza
+from scipy.spatial import distance
+from collections import Counter
+from sklearn.feature_extraction.text import TfidfVectorizer
+
 
 nlp = spacy.load("en_core_web_sm")
 lemmatizer = WordNetLemmatizer()
@@ -441,23 +445,61 @@ def get_trigram_overlap(question, span):
 
 
 def get_bigram_TFIDF(text):
-    pass
+    vectorizer = TfidfVectorizer(ngram_range=(2, 2))
+    tfidf_matrix = vectorizer.fit_transform(text)
+    return(tfidf_matrix.toarray())
 
 
 def get_trigram_TFIDF(text):
-    pass
+    vectorizer = TfidfVectorizer(ngram_range=(3, 3))
+    tfidf_matrix = vectorizer.fit_transform(text)
+    return(tfidf_matrix.toarray())
 
 
-def get_Minkowski_distance():
-    pass
+def get_Minkowski_distance(s1,s2,p=1):
+    words1 = s1.split()
+    words2 = s2.split()
+
+    freq1 = Counter(words1)
+    freq2 = Counter(words2)
+
+    unique_words = set(words1 + words2)
+
+    vec1 = [freq1.get(word, 0) for word in unique_words]
+    vec2 = [freq2.get(word, 0) for word in unique_words]
+
+    return distance.minkowski(vec1, vec2, p=p)
 
 
-def get_Manhattan_distance():
-    pass
+def get_Manhattan_distance(s1,s2):
+    words1 = s1.split()
+    words2 = s2.split()
+
+    freq1 = Counter(words1)
+    freq2 = Counter(words2)
+
+    unique_words = set(words1 + words2)
+
+    distance = 0
+    for word in unique_words:
+        distance += abs(freq1.get(word, 0) - freq2.get(word, 0))
+
+    return distance
 
 
-def get_Euclidean_distance():
-    pass
+def get_Euclidean_distance(s1,s2):
+    words1 = s1.split()
+    words2 = s2.split()
+
+    freq1 = Counter(words1)
+    freq2 = Counter(words2)
+
+    unique_words = set(words1 + words2)
+
+    vec1 = [freq1.get(word, 0) for word in unique_words]
+    vec2 = [freq2.get(word, 0) for word in unique_words]
+
+    return distance.euclidean(vec1, vec2)
 
 
 def get_unlexicalized_path(question, span):
