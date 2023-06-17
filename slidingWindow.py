@@ -20,14 +20,11 @@ stoplist = stopwords.words('english') + ['though','and','I','A','a','an','An','A
 c_vec = CountVectorizer(stop_words=stoplist, ngram_range=(2,3))
 ngrams = c_vec.fit_transform(df[df.columns[0]])
 
-# print(df[df.columns[1]].values[2061])
-
 vocab_ngrams= c_vec.vocabulary_
 ngramsArrya=[((i, j), ngrams[i,j]) for i, j in zip(*ngrams.nonzero())]
 
 ngramsq = c_vec.fit_transform(dfq[dfq.columns[0]])
 vocab_ngramsq= c_vec.vocabulary_
-# print(ngramsArrya)
 ngramsqArrya=[((i, j), ngramsq[i,j]) for i, j in zip(*ngramsq.nonzero())]
 key_vocab_ngramsq=vocab_ngrams.keys()
 wordArray=[]

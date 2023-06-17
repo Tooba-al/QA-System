@@ -437,11 +437,37 @@ def get_matching_word_frequency(question, span):
 
 
 def get_bigram_overlap(question, span):
-    pass
+    stop_words = set(stopwords.words('english') + ['though','and','I','A','a','an','An','And','So','.',',',')','By','(',"''",'Other','The',';','however', 'still','the','They','For','for','also','In','This','When','It','so','Yes','yes','No','no','These','these','This'])
+
+    question_words = [word for word in question.split() if word.lower() not in stop_words]
+    span_words = [word for word in span.split() if word.lower() not in stop_words]
+
+    question_bigrams = set(nltk.bigrams(question_words))
+    span_bigrams = set(nltk.bigrams(span_words))
+
+    overlap_bigrams = question_bigrams & span_bigrams
+
+    overlap_bigram_counts = Counter([bigram for bigram in nltk.bigrams(span_words) if bigram in overlap_bigrams])
+
+    return overlap_bigram_counts
+    
 
 
 def get_trigram_overlap(question, span):
-    pass
+
+    stop_words = set(stopwords.words('english') + ['though','and','I','A','a','an','An','And','So','.',',',')','By','(',"''",'Other','The',';','however', 'still','the','They','For','for','also','In','This','When','It','so','Yes','yes','No','no','These','these','This'])
+
+    question_words = [word for word in question.split() if word.lower() not in stop_words]
+    span_words = [word for word in span.split() if word.lower() not in stop_words]
+
+    question_trigrams = set(nltk.ngrams(question_words, 3))
+    span_trigrams = set(nltk.ngrams(span_words, 3))
+
+    overlap_trigrams = question_trigrams & span_trigrams
+
+    overlap_trigram_counts = Counter([trigram for trigram in nltk.ngrams(span_words, 3) if trigram in overlap_trigrams])
+
+    return overlap_trigram_counts
 
 
 def get_bigram_TFIDF(text):
