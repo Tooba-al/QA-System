@@ -392,7 +392,7 @@ def get_Euclidean_distance(s1, s2):
 
     return distance.euclidean(vec1, vec2)
 
-def hamming_distance(s1, s2):
+def get_hamming_distance(s1, s2):
     if len(s1) != len(s2):
         return -1
     
@@ -402,6 +402,16 @@ def hamming_distance(s1, s2):
             hamming_distance += 1
     
     return hamming_distance
+
+def get_jaccard_distance(s1, s2):
+    set1 = set(s1.split())
+    set2 = set(s2.split())
+    
+    intersection = len(set1.intersection(set2))
+    union = len(set1.union(set2))
+    jaccard_distance = 1 - intersection / union
+    
+    return jaccard_distance
 
 def get_unlexicalized_path(question, span):
     pass
