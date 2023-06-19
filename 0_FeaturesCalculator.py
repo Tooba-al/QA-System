@@ -392,6 +392,16 @@ def get_Euclidean_distance(s1, s2):
 
     return distance.euclidean(vec1, vec2)
 
+def hamming_distance(s1, s2):
+    if len(s1) != len(s2):
+        return -1
+    
+    hamming_distance = 0
+    for i in range(len(s1)):
+        if s1[i] != s2[i]:
+            hamming_distance += 1
+    
+    return hamming_distance
 
 def get_unlexicalized_path(question, span):
     pass
@@ -438,7 +448,7 @@ def get_features(question, span):
 
     # print(syntatic_divergence)
     pass
-
+ 
 
 span = "Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season."
 question = "Which NFL team represented the AFC at Super Bowl 50?"
