@@ -639,6 +639,11 @@ def get_features(question, span):
     # consistant_label = get_constituency_parse(span)
     # span_POS_tags = get_POS_tags(span)
     # dependency_tree_path =      ########
+    # hamming_distance = get_hamming_distance(question, span)
+    # jaccard_distance = get_jaccard_distance(question, span)
+    # euclidean_distance = get_Euclidean_distance(question, span)
+    # manhattan_distance = get_Manhattan_distance(question, span)
+    # minkowski_distance = get_Minkowski_distance(question, span)
 
     print(syntatic_divergence)
 
