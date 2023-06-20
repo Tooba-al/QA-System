@@ -7,8 +7,10 @@ import json
 import nltk
 from nltk import pos_tag
 from nltk import word_tokenize
-import stanza
 import networkx as nx
+from scipy.spatial import distance
+from collections import Counter
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 nlp = spacy.load("en_core_web_sm")
 lemmatizer = WordNetLemmatizer()
@@ -17,271 +19,36 @@ with open("CSV-Files/devSplit/dev1.json") as f:
     data = json.load(f)
 
 
-# data_questions = data['question']
-# data_answers = data['answer']
-# data_parags = data['paragNo']
-# data_titles = data['titleNo']
-# for i in range(len(data['data'])):
-#     for j in range(len(data['data'][i]['paragraphs'])):
-#         # answers = []
-#         # questions = []
-#         for k in range(len(data['data'][i]['paragraphs'][j]['qas'])):
-#             data_questions.append(
-#                 data['data'][i]['paragraphs'][j]['qas'][k]['question'])
-#             data_answers.append(
-#                 data['data'][i]['paragraphs'][j]['qas'][k]['answers'][0]['text'])
-
-#         # data_questions.append(questions)
-#         # data_answers.append(answers)
-#             data_parags.append(j)
-#             data_titles.append(0)
-
-# newData = {
-#     "question": data_questions,
-#     "answer": data_answers,
-#     "paragNo": data_parags,
-#     "titleNo": data_titles,
-# }
-
-# df = pd.DataFrame(newData)
-# df.to_csv('Features/question_answer_dev1.csv',
-#           encoding='utf-8', index=False)
-
-##############################################################################################################
-##############################################################################################################
-
-# data = pd.read_csv("Features/question_sentence.csv")
-# question_list = data["question"].tolist()
-# sentence_list = data["sentence"].tolist()
-
-
-# def word_lemmma(sentence, question):
-#     sent_lemma = []
-#     ques_lemma = []
-
-#     for word in sentence.split():
-#         sent_lemma.append(lemmatizer.lemmatize(word))
-
-#     for word in question.split():
-#         ques_lemma.append(lemmatizer.lemmatize(word))
-
-#     edit_distance = 0
-#     for word in sent_lemma:
-#         if word in ques_lemma:
-#             edit_distance += 1
-
-#     return edit_distance
-
-
-# wordLemma_list = []
-# for index in range(len(question_list)):
-#     ED = word_lemmma(question_list[index], sentence_list[index])
-#     wordLemma_list.append(ED)
-
-# newData = {
-#     "question": question_list,
-#     "sentence": sentence_list,
-#     "word_lemma": wordLemma_list,
-#     "paragraphNo": data["paragraphNo"].tolist(),
-#     "titleNo": data["titleNo"].tolist(),
-# }
-
-# df = pd.DataFrame(newData)
-# df.to_csv('Features/WordLemma_dev1.csv', encoding='utf-8', index=False)
-
-##############################################################################################################
-##############################################################################################################
-
-
-def stopword_func(text):
-    stop_words = set(stopwords.words("english"))
-    stop_words.update(
-        (
-            "?",
-            "and",
-            "I",
-            "A",
-            "And",
-            "So",
-            ".",
-            "as",
-            "As",
-            "''",
-            "could",
-            "[",
-            "]",
-            ",",
-            ")",
-            "'s",
-            "By",
-            "(",
-            "''",
-            "Other",
-            "``",
-            ":",
-            "'",
-            "#",
-            "'v",
-            "The",
-            ";",
-            "however",
-            "still",
-            "the",
-            "They",
-            "For",
-            "also",
-            "In",
-            "This",
-            "When",
-            "It",
-            "many",
-            "Many",
-            "so",
-            "cant",
-            "Yes",
-            "yes",
-            "No",
-            "no",
-            "These",
-            "these",
-            "This",
-            "Where",
-            "Which",
-            "Why",
-            "How",
-            "What",
-            "If",
-            "Who",
-            "When",
-        )
-    )
-    str1 = ""
-    for ele in text:
-        str1 += ele
-    lemmatizer = WordNetLemmatizer()
-    word_tokens1 = word_tokenize(str1)
-    filtered_span = [
-        lemmatizer.lemmatize(word)
-        for word in word_tokens1
-        if not word in set(stop_words)
-    ]
-
-    return filtered_span
-
-
-# def get_answer_types(answersList):
-#     ans = []
-#     ques = []
-#     # cardinals = []
-#     # person = []
-#     # date = []
-#     # loc = []
-#     # money = []
-#     # gpe = []
-#     # org = []
-#     # event = []
-#     # other = []
-#     labels = []
-#     types = []
-
-#     NER = spacy.load("en_core_web_sm")
-#     for answer_title in answersList:
-#         for answer in answer_title:
-#             text2 = NER(answer)
-#             for word in text2.ents:
-#                 if (word.label_ == "CARDINAL"):
-#                     types.append("numerical")
-#                     # cardinals.append(word.text)
-#                 # elif (word.label_ == "PERSON"):
-#                 #     types.append("non-numerical")
-#                 #     person.append(word.text)
-#                 # elif (word.label_ == "DATE"):
-#                 #     types.append("non-numerical")
-#                 #     date.append(word.text)
-#                 # elif (word.label_ == "LOC"):
-#                 #     types.append("non-numerical")
-#                 #     loc.append(word.text)
-#                 # elif (word.label_ == "MONEY"):
-#                 #     types.append("non-numerical")
-#                 #     money.append(word.text)
-#                 # elif (word.label_ == "ORG"):
-#                 #     types.append("non-numerical")
-#                 #     org.append(word.text)
-#                 # elif (word.label_ == "GPE"):
-#                 #     types.append("non-numerical")
-#                 #     gpe.append(word.text)
-#                 # elif (word.label_ == "EVENT"):
-#                 #     types.append("non-numerical")
-#                 #     event.append(word.text)
-#                 else:
-#                     types.append("non-numerical")
-#                     # other.append(word.text)
-
-#                 labels.append(word.text)
-#                 ans.append(answer)
-#                 print(len(answersList))
-#                 print(len(answersList[0]))
-#                 index = answersList[0].index(
-#                     answer_title.index(answer))
-#                 print(index)
-#                 ques.append(data_questions[index])
-
-#     print(len(ques))
-#     print(len(ans))
-#     print(len(labels))
-#     print(len(types))
-#     newData = {
-#         "question": ques,
-#         "answer": ans,
-#         "label": labels,
-#         "type": types,
-#     }
-
-#     df = pd.DataFrame(newData)
-#     df.to_csv('Features/AnswerTypes_dev1.csv',
-#               encoding='utf-8', index=False)
-
-
-def get_reasoning_types(ans):
-    pass
-
-
 def dependency_parser(span):
     nlp = spacy.load("en_core_web_sm")
     doc = nlp(span)
-    # position_label = []
     token_positions = []
-    # children = []
 
     # to see all the children token
     for token in doc:
-        #     token_childs = []
-        #     position_label.append(
-        #         (
-        #             str(token.dep_),
-        #             str(token.head.text) + "-" + str(token.head.i),
-        #             str(token.text) + "-" + str(token.i),
-        #         )
-        #     )
-        #     childs = [str(t.text) + "-" + str(t.i) for t in token.children]
-        #     token_childs = [str(token) + "-" + str(token.i), childs]
-        #     children.append(token_childs)
         token_positions.append(str(token) + "-" + str(token.i))
 
-    # root = ""
-    # for token in doc:
-    #     if token.dep_ == "ROOT":
-    #         root = str(token) + "-" + str(token.i)
-    #         break
-
     return token_positions
-    # return (root, position_label, children)
 
 
-def shortest_dependency_path(src, dest, text):
+def find_answer_sentence(paragraph_no, answer):
+    contexts = data["data"][0]["paragraphs"][paragraph_no]["context"]
+    sentences = nltk.sent_tokenize(contexts)
+    result = ""
+    for sentence in sentences:
+        if answer in sentence:
+            result = sentence
+
+    return result
+
+
+def Q_shortest_dependency_path(anchor, wh_word, text):
     tokens_position = dependency_parser(text)
 
     document = nlp(text)
+
+    anchor = anchor.lower()
+    wh_word = wh_word.lower()
 
     edges = []
     for token in document:
@@ -293,219 +60,136 @@ def shortest_dependency_path(src, dest, text):
                 )
             )
 
-    src_token = ""
-    dest_token = ""
+    anchor_token = ""
+    wh_token = ""
     for token in tokens_position:
-        if src in token:
-            src_token = token
-        elif dest in token:
-            dest_token = token
+        token = token.lower()
+        if anchor in token:
+            anchor_token = token
+        elif wh_word in token:
+            wh_token = token
 
     graph = nx.Graph(edges)
-    path_length = nx.shortest_path_length(graph, source=src_token, target=dest_token)
-    path = nx.shortest_path(graph, source=src_token, target=dest_token)
+    path_length = nx.shortest_path_length(graph, source=wh_token, target=anchor_token)
+    path = nx.shortest_path(graph, source=wh_token, target=anchor_token)
 
     return (path_length, path)
 
 
-def anchors(question_list, sentence_list, parag_list, title_list):
-    question_index = []
-    sentence_index = []
-    common_word = []
-    paragraph_no = []
-    title_no = []
-    questions_list = []
-    sentences_list = []
+def A_shortest_dependency_path(anchor, answer, text):
+    tokens_position = dependency_parser(text)
 
-    def extractAnchors(question, sentence, paragraphNo, titleNo):
-        question_words = stopword_func(question)
-        sentence_words = stopword_func(sentence)
+    document = nlp(text)
 
-        for q_word in question_words:
-            for s_word in sentence_words:
-                qq_word = lemmatizer.lemmatize(q_word)
-                ss_word = lemmatizer.lemmatize(s_word)
+    anchor = anchor.lower()
+    answer = answer.lower()
 
-                if qq_word == ss_word:
-                    questions_list.append(question)
-                    sentences_list.append(sentence)
-                    question_index.append(question_words.index(q_word))
-                    sentence_index.append(sentence_words.index(s_word))
-                    common_word.append(q_word)
-                    paragraph_no.append(paragraphNo)
-                    title_no.append(titleNo)
+    if len(answer.split()) > 1:
+        answer = answer.split()[0]
 
-    for index in range(len(question_list)):
-        extractAnchors(
-            question_list[index],
-            sentence_list[index],
-            parag_list[index],
-            title_list[index],
-        )
+    edges = []
+    for token in document:
+        for child in token.children:
+            edges.append(
+                (
+                    "{0}-{1}".format(token.lower_, token.i),
+                    "{0}-{1}".format(child.lower_, child.i),
+                )
+            )
 
-    newData = {
-        "word": common_word,
-        "question": questions_list,
-        "sentence": sentences_list,
-        "question_index": question_index,
-        "sentence_index": sentence_index,
-        "paragraphNo": paragraph_no,
-        "titleNo": title_no,
-    }
+    anchor_token = ""
+    answer_token = ""
+    for token in tokens_position:
+        token = token.lower()
+        if anchor in token:
+            anchor_token = token
+        elif answer in token:
+            answer_token = token
 
-    df = pd.DataFrame(newData)
-    df.to_csv("Features/Anchors_dev1.csv", encoding="utf-8", index=False)
+    graph = nx.Graph(edges)
+    path_length = nx.shortest_path_length(
+        graph, source=anchor_token, target=answer_token
+    )
+    path = nx.shortest_path(graph, source=anchor_token, target=answer_token)
+
+    return (path_length, path)
 
 
-def find_answer_sentence(paragraph_no, answer):
-    contexts = data["data"][0]["paragraphs"][paragraph_no]["context"]
-    sentences = nltk.sent_tokenize(contexts)
-    result = []
-    for sentence in sentences:
-        if answer in sentence:
-            result.append(sentence)
+def edit_distance(Q_SDP, A_SDP):
+    ed = 0
+    if Q_SDP[0] > A_SDP[0]:
+        ed = Q_SDP[0] - A_SDP[0]
+    else:
+        ed = A_SDP[0] - Q_SDP[0]
 
-    return result
+    return ed
 
 
-def get_syntatic_div(question):
+def get_syntatic_div(question, paragNo):
     data_qa = pd.read_csv("Features/question_answer_dev1.csv")
     data_qs = pd.read_csv("Features/question_sentence_dev1.csv")
     question_list = data_qs["question"].tolist()
     answer_list = data_qa["answer"].tolist()
-    sentence_list = data_qs["sentence"].tolist()
+    # sentence_list = data_qs["sentence"].tolist()
     parag_list = data_qs["paragraphNo"].tolist()
     title_list = data_qs["titleNo"].tolist()
-
     answer = ""
     paragraph_no = 0
-    anchors(question_list, sentence_list, parag_list, title_list)
+
+    # it took so long
+    # calculate_anchors(question_list, sentence_list, parag_list, title_list)
     for q in question_list:
         if q == question:
             answer = answer_list[question_list.index(q)]
+            break
 
     sentence = find_answer_sentence(paragraph_no, answer)
-
     data_anchor = pd.read_csv("Features/Anchors_dev1.csv")
-    anchors = data_anchor["anchor"]
-    questions = data_anchor["question"]
-    sentences = data_anchor["sentence"]
+    tempAnchor = data_anchor.loc[data_anchor["sentence"] == sentence].copy()
+    tempAnchors = tempAnchor.loc[tempAnchor["question"] == question].copy()
+    anchors = tempAnchors["anchor"].to_list()
+    questions = tempAnchors["question"].to_list()
+    sentences = tempAnchors["sentence"].to_list()
 
+    answer_SDP = []
+    question_SDP = []
+    sentence_found = ""
+    question_found = ""
+    index_found = ""
     for index in range(len(questions)):
-        if questions[index] == question and sentences[index] == sentence:
-            anchor = anchors[index]
-            answer_SDP = shortest_dependency_path(anchor, answer, sentence)
-            question_SDP = shortest_dependency_path(question[0], anchor, question)
+        if questions[index] == question:
+            if sentences[index] == sentence:
+                question_found = question
+                sentence_found = sentence
+                index_found = index
+                break
 
-    return (answer_SDP, question_SDP)
-    # for span in sentence_list:
-    #     DP = dependency_parser(span)
-    #     root = DP[0]
-    #     position_label = DP[1]
-    #     children = DP[2]
+    anchor_list = []
 
+    [anchor_list.append(item) for item in anchors if item not in anchor_list]
+    for anchor in anchor_list:
+        question_SDP.append(
+            Q_shortest_dependency_path(anchor, question_found.split()[0], question)
+        )
+        answer_SDP.append(A_shortest_dependency_path(anchor, answer, sentence))
 
-def get_root_matching(question, span):
-    # question = ' '.join(question)
-    # span = ' '.join(span)
+    # print(question_SDP)
+    # print(answer_SDP)
 
-    q_doc = nlp(question)
-    s_doc = nlp(span)
-    question_dep = ""
-    span_dep = ""
+    ED_list = []
+    for index in range(len(question_SDP)):
+        q_SDP = question_SDP[index]
+        a_SDP = answer_SDP[index]
 
-    for token in q_doc:
-        if token.dep_ == "ROOT":
-            question_dep = token
+        ED = edit_distance(a_SDP, q_SDP)
+        ED_list.append(ED)
 
-    for token in s_doc:
-        if token.dep_ == "ROOT":
-            span_dep = token
+    min_ED = min(ED_list)
 
-    if question_dep == span_dep:
-        return True
-    return False
-
-
-def get_span_TFIDF(text):
-    text = text.split()
-    result = 0
-    for word in text:
-        tf = 0
-        occurance = 0
-        N = len(text)
-        occurance = text.count(word)
-
-        if occurance != 0:
-            tf = occurance / N
-        result += tf
-
-    return result
-
-
-def get_matching_word_frequency(question, span):
-    question = stopword_func(question)
-    span = stopword_func(span)
-
-    result = 0
-    for word in question:
-        tf = 0
-        occurance = span.count(word)
-        if occurance > 0:
-            tf = occurance / len(span)
-            result += tf
-
-    return result
-
-
-def get_bigram_overlap(question, span):
-    pass
-
-
-def get_trigram_overlap(question, span):
-    pass
-
-
-def get_bigram_TFIDF(text):
-    pass
-
-
-def get_trigram_TFIDF(text):
-    pass
-
-
-def get_Minkowski_distance():
-    pass
-
-
-def get_Manhattan_distance():
-    pass
-
-
-def get_Euclidean_distance():
-    pass
-
-
-def get_unlexicalized_path(question, span):
-    pass
-
-
-def get_constituency_parse(span):
-    nlp = stanza.Pipeline(lang="en", processors="tokenize,pos,constituency")
-    doc = nlp(span)
-    sentences = doc.sentences
-    for sentence in sentences:
-        return sentence.constituency
-
-
-def get_POS_tags(span):
-    tokens = word_tokenize(span)
-    pos = pos_tag(tokens, tagset="universal")
-    return pos
-
-
-def get_length(span):
-    return len(span)
+    return (
+        min_ED,
+        (answer_SDP[ED_list.index(min_ED)], question_SDP[ED_list.index(min_ED)]),
+    )
 
 
 def get_features(question, span):
@@ -513,7 +197,7 @@ def get_features(question, span):
     # span = stopword_func(span)
 
     # answer_types = get_answer_types(data_answers)      ########
-    # syntatic_divergence = get_syntatic_div(question)  ########
+    syntatic_divergence = get_syntatic_div(question, 0)
     # lexicalized_feature =       ########
     # matching_word_frequency = get_matching_word_frequency(question, span)
     # biagram_overlap = get_bigram_overlap(span)      ########
@@ -529,8 +213,7 @@ def get_features(question, span):
     # span_POS_tags = get_POS_tags(span)
     # dependency_tree_path =      ########,0.
 
-    # print(syntatic_divergence)
-    pass
+    print(syntatic_divergence)
 
 
 span = "Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season."
