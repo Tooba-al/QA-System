@@ -114,49 +114,7 @@ def get_reasoning_types(ans):
     pass
 
 
-def dependency_parser(span):
-    nlp = spacy.load("en_core_web_sm")
-    doc = nlp(span)
-    token_positions = []
-
-    # to see all the children token
-    for token in doc:
-        token_positions.append(str(token) + "-" + str(token.i))
-
-    return token_positions
-
-
-def shortest_dependency_path(src, dest, text):
-    tokens_position = dependency_parser(text)
-
-    document = nlp(text)
-
-    edges = []
-    for token in document:
-        for child in token.children:
-            edges.append(
-                (
-                    "{0}-{1}".format(token.lower_, token.i),
-                    "{0}-{1}".format(child.lower_, child.i),
-                )
-            )
-
-    src_token = ""
-    dest_token = ""
-    for token in tokens_position:
-        if src in token:
-            src_token = token
-        elif dest in token:
-            dest_token = token
-
-    graph = nx.Graph(edges)
-    path_length = nx.shortest_path_length(graph, source=src_token, target=dest_token)
-    path = nx.shortest_path(graph, source=src_token, target=dest_token)
-
-    return (path_length, path)
-
-
-def anchors(question_list, sentence_list, parag_list, title_list):
+def calculate_anchors(question_list, sentence_list, parag_list, title_list):
     question_index = []
     sentence_index = []
     common_word = []
@@ -201,19 +159,74 @@ def anchors(question_list, sentence_list, parag_list, title_list):
         "titleNo": title_no,
     }
 
+    print("gayidi")
     df = pd.DataFrame(newData)
     df.to_csv("Features/Anchors_dev1.csv", encoding="utf-8", index=False)
+
+
+def dependency_parser(span):
+    nlp = spacy.load("en_core_web_sm")
+    doc = nlp(span)
+    token_positions = []
+
+    # to see all the children token
+    for token in doc:
+        token_positions.append(str(token) + "-" + str(token.i))
+
+    return token_positions
 
 
 def find_answer_sentence(paragraph_no, answer):
     contexts = data["data"][0]["paragraphs"][paragraph_no]["context"]
     sentences = nltk.sent_tokenize(contexts)
-    result = []
+    result = ""
     for sentence in sentences:
         if answer in sentence:
-            result.append(sentence)
+            result = sentence
 
     return result
+
+
+def Q_shortest_dependency_path(src, wh_word, text):
+    tokens_position = dependency_parser(text)
+
+    document = nlp(text)
+
+    src = src.lower()
+    wh_word = wh_word.lower()
+
+    edges = []
+    for token in document:
+        for child in token.children:
+            edges.append(
+                (
+                    "{0}-{1}".format(token.lower_, token.i),
+                    "{0}-{1}".format(child.lower_, child.i),
+                )
+            )
+
+    src_token = ""
+    wh_token = ""
+    for token in tokens_position:
+        token = token.lower()
+        if src in token:
+            src_token = token
+            break
+        if wh_word in token:
+            wh_token = token
+            break
+
+    graph = nx.Graph(edges)
+    # path_length = nx.shortest_path_length(graph, source=src_token, target=wh_token)
+    path_length = nx.shortest_path_length(graph, source=wh_token, target=src_token)
+    path = nx.shortest_path(graph, source=wh_token, target=src_token)
+
+    return (path_length, path)
+
+
+def edit_distance(answer_path, question_path):
+    print(answer_path)
+    print(question_path)
 
 
 def get_syntatic_div(question):
@@ -221,31 +234,44 @@ def get_syntatic_div(question):
     data_qs = pd.read_csv("Features/question_sentence_dev1.csv")
     question_list = data_qs["question"].tolist()
     answer_list = data_qa["answer"].tolist()
-    sentence_list = data_qs["sentence"].tolist()
+    # sentence_list = data_qs["sentence"].tolist()
     parag_list = data_qs["paragraphNo"].tolist()
     title_list = data_qs["titleNo"].tolist()
-
     answer = ""
     paragraph_no = 0
-    anchors(question_list, sentence_list, parag_list, title_list)
+
+    # it took so long
+    # calculate_anchors(question_list, sentence_list, parag_list, title_list)
     for q in question_list:
         if q == question:
             answer = answer_list[question_list.index(q)]
+            break
 
     sentence = find_answer_sentence(paragraph_no, answer)
-
     data_anchor = pd.read_csv("Features/Anchors_dev1.csv")
     anchors = data_anchor["anchor"]
     questions = data_anchor["question"]
     sentences = data_anchor["sentence"]
 
+    answer_SDP = ""
+    question_SDP = ""
     for index in range(len(questions)):
-        if questions[index] == question and sentences[index] == sentence:
-            anchor = anchors[index]
-            answer_SDP = shortest_dependency_path(anchor, answer, sentence)
-            question_SDP = shortest_dependency_path(question[0], anchor, question)
+        # if questions[index] == question:
+        # print(sentences[index])
+        # if sentences[index] == sentence:
+        #     print("double yauuuuh")
 
-    return (answer_SDP, question_SDP)
+        Q_shortest_dependency_path("AFC", "Which", question)
+        # if questions[index] == question and sentences[index] == sentence:
+        #     anchor = anchors[index]
+        #     print(anchor)
+        #     answer_SDP = shortest_dependency_path(anchor, answer, sentence)
+        #     question_SDP = shortest_dependency_path(question[0], anchor, question)
+
+    print(answer_SDP)
+    print(question_SDP)
+    # ED = edit_distance(answer_SDP, question_SDP)
+    # return ED
 
 
 def get_root_matching(question, span):
@@ -394,7 +420,7 @@ def get_features(question, span):
     # span = stopword_func(span)
 
     # answer_types = get_answer_types(data_answers)      ########
-    # syntatic_divergence = get_syntatic_div(question)  ########
+    syntatic_divergence = get_syntatic_div(question)
     # lexicalized_feature =       ########
     # matching_word_frequency = get_matching_word_frequency(question, span)
     # biagram_overlap = get_bigram_overlap(span)      ########
@@ -410,8 +436,8 @@ def get_features(question, span):
     # span_POS_tags = get_POS_tags(span)
     # dependency_tree_path =      ########,0.
 
-    # print(syntatic_divergence)
-    pass
+    print(syntatic_divergence)
+    # pass
 
 
 span = "Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season."
