@@ -619,12 +619,12 @@ def get_length(span):
     return len(span)
 
 
-def get_features(question, span):
+def get_features(question, span, paragNo):
     # question = stopword_func(question)
     # span = stopword_func(span)
 
     # answer_types = get_answer_types(data_answers)      ########
-    syntatic_divergence = get_syntatic_div(question, 0)
+    # syntatic_divergence = get_syntatic_div(question, paragNo)
     # lexicalized_feature =       ########
     # matching_word_frequency = get_matching_word_frequency(question, span)
     # biagram_overlap = get_bigram_overlap(span)
@@ -645,9 +645,9 @@ def get_features(question, span):
     # manhattan_distance = get_Manhattan_distance(question, span)
     # minkowski_distance = get_Minkowski_distance(question, span)
 
-    print(syntatic_divergence)
+    pass
 
 
 span = "Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season."
 question = "Which NFL team represented the AFC at Super Bowl 50?"
-get_features(question, span)
+get_features(question, span, 0)
