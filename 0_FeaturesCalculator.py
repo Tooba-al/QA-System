@@ -187,12 +187,12 @@ def find_answer_sentence(paragraph_no, answer):
     return result
 
 
-def Q_shortest_dependency_path(src, wh_word, text):
+def Q_shortest_dependency_path(anchor, wh_word, text):
     tokens_position = dependency_parser(text)
 
     document = nlp(text)
 
-    src = src.lower()
+    anchor = anchor.lower()
     wh_word = wh_word.lower()
 
     edges = []
@@ -205,31 +205,72 @@ def Q_shortest_dependency_path(src, wh_word, text):
                 )
             )
 
-    src_token = ""
+    anchor_token = ""
     wh_token = ""
     for token in tokens_position:
         token = token.lower()
-        if src in token:
-            src_token = token
-            break
-        if wh_word in token:
+        if anchor in token:
+            anchor_token = token
+        elif wh_word in token:
             wh_token = token
-            break
 
     graph = nx.Graph(edges)
-    # path_length = nx.shortest_path_length(graph, source=src_token, target=wh_token)
-    path_length = nx.shortest_path_length(graph, source=wh_token, target=src_token)
-    path = nx.shortest_path(graph, source=wh_token, target=src_token)
+    path_length = nx.shortest_path_length(graph, source=wh_token, target=anchor_token)
+    path = nx.shortest_path(graph, source=wh_token, target=anchor_token)
 
     return (path_length, path)
 
 
-def edit_distance(answer_path, question_path):
-    print(answer_path)
-    print(question_path)
+def A_shortest_dependency_path(anchor, answer, text):
+    tokens_position = dependency_parser(text)
+
+    document = nlp(text)
+
+    anchor = anchor.lower()
+    answer = answer.lower()
+
+    if len(answer.split()) > 1:
+        answer = answer.split()[0]
+
+    edges = []
+    for token in document:
+        for child in token.children:
+            edges.append(
+                (
+                    "{0}-{1}".format(token.lower_, token.i),
+                    "{0}-{1}".format(child.lower_, child.i),
+                )
+            )
+
+    anchor_token = ""
+    answer_token = ""
+    for token in tokens_position:
+        token = token.lower()
+        if anchor in token:
+            anchor_token = token
+        elif answer in token:
+            answer_token = token
+
+    graph = nx.Graph(edges)
+    path_length = nx.shortest_path_length(
+        graph, source=anchor_token, target=answer_token
+    )
+    path = nx.shortest_path(graph, source=anchor_token, target=answer_token)
+
+    return (path_length, path)
 
 
-def get_syntatic_div(question):
+def edit_distance(Q_SDP, A_SDP):
+    ed = 0
+    if Q_SDP[0] > A_SDP[0]:
+        ed = Q_SDP[0] - A_SDP[0]
+    else:
+        ed = A_SDP[0] - Q_SDP[0]
+
+    return ed
+
+
+def get_syntatic_div(question, paragNo):
     data_qa = pd.read_csv("Features/question_answer_dev1.csv")
     data_qs = pd.read_csv("Features/question_sentence_dev1.csv")
     question_list = data_qs["question"].tolist()
@@ -249,29 +290,51 @@ def get_syntatic_div(question):
 
     sentence = find_answer_sentence(paragraph_no, answer)
     data_anchor = pd.read_csv("Features/Anchors_dev1.csv")
-    anchors = data_anchor["anchor"]
-    questions = data_anchor["question"]
-    sentences = data_anchor["sentence"]
+    tempAnchor = data_anchor.loc[data_anchor["sentence"] == sentence].copy()
+    tempAnchors = tempAnchor.loc[tempAnchor["question"] == question].copy()
+    anchors = tempAnchors["anchor"].to_list()
+    questions = tempAnchors["question"].to_list()
+    sentences = tempAnchors["sentence"].to_list()
 
-    answer_SDP = ""
-    question_SDP = ""
+    answer_SDP = []
+    question_SDP = []
+    sentence_found = ""
+    question_found = ""
+    index_found = ""
     for index in range(len(questions)):
-        # if questions[index] == question:
-        # print(sentences[index])
-        # if sentences[index] == sentence:
-        #     print("double yauuuuh")
+        if questions[index] == question:
+            if sentences[index] == sentence:
+                question_found = question
+                sentence_found = sentence
+                index_found = index
+                break
 
-        Q_shortest_dependency_path("AFC", "Which", question)
-        # if questions[index] == question and sentences[index] == sentence:
-        #     anchor = anchors[index]
-        #     print(anchor)
-        #     answer_SDP = shortest_dependency_path(anchor, answer, sentence)
-        #     question_SDP = shortest_dependency_path(question[0], anchor, question)
+    anchor_list = []
 
-    print(answer_SDP)
-    print(question_SDP)
-    # ED = edit_distance(answer_SDP, question_SDP)
-    # return ED
+    [anchor_list.append(item) for item in anchors if item not in anchor_list]
+    for anchor in anchor_list:
+        question_SDP.append(
+            Q_shortest_dependency_path(anchor, question_found.split()[0], question)
+        )
+        answer_SDP.append(A_shortest_dependency_path(anchor, answer, sentence))
+
+    # print(question_SDP)
+    # print(answer_SDP)
+
+    ED_list = []
+    for index in range(len(question_SDP)):
+        q_SDP = question_SDP[index]
+        a_SDP = answer_SDP[index]
+
+        ED = edit_distance(a_SDP, q_SDP)
+        ED_list.append(ED)
+
+    min_ED = min(ED_list)
+
+    return (
+        min_ED,
+        (answer_SDP[ED_list.index(min_ED)], question_SDP[ED_list.index(min_ED)]),
+    )
 
 
 def get_root_matching(question, span):
@@ -561,21 +624,21 @@ def get_features(question, span):
     # span = stopword_func(span)
 
     # answer_types = get_answer_types(data_answers)      ########
-    syntatic_divergence = get_syntatic_div(question)
+    syntatic_divergence = get_syntatic_div(question, 0)
     # lexicalized_feature =       ########
     # matching_word_frequency = get_matching_word_frequency(question, span)
-    # biagram_overlap = get_bigram_overlap(span)      ########
-    # triagram_overlap = get_trigram_overlap(span)      ########
+    # biagram_overlap = get_bigram_overlap(span)
+    # triagram_overlap = get_trigram_overlap(span)
     # root_match = get_root_matching(question, span)
     # length = get_length(span)
     # span_word_frequency = get_span_TFIDF(span)
     # span_TFIDF = get_span_TFIDF(span)
-    # bigram_TFIDF = get_bigram_TFIDF(span)      ########
-    # trigram_TFIDF = get_trigram_TFIDF(span)      ########
+    # bigram_TFIDF = get_bigram_TFIDF(span)
+    # trigram_TFIDF = get_trigram_TFIDF(span)
     # bm25 = get_BM25()      ########
     # consistant_label = get_constituency_parse(span)
     # span_POS_tags = get_POS_tags(span)
-    # dependency_tree_path =      ########,0.
+    # dependency_tree_path =      ########
 
     print(syntatic_divergence)
 
