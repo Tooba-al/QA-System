@@ -328,11 +328,129 @@ def get_matching_word_frequency(question, span):
 
 
 def get_bigram_overlap(question, span):
-    pass
+    stop_words = set(
+        stopwords.words("english")
+        + [
+            "though",
+            "and",
+            "I",
+            "A",
+            "a",
+            "an",
+            "An",
+            "And",
+            "So",
+            ".",
+            ",",
+            ")",
+            "By",
+            "(",
+            "''",
+            "Other",
+            "The",
+            ";",
+            "however",
+            "still",
+            "the",
+            "They",
+            "For",
+            "for",
+            "also",
+            "In",
+            "This",
+            "When",
+            "It",
+            "so",
+            "Yes",
+            "yes",
+            "No",
+            "no",
+            "These",
+            "these",
+            "This",
+        ]
+    )
+
+    question_words = [
+        word for word in question.split() if word.lower() not in stop_words
+    ]
+    span_words = [word for word in span.split() if word.lower() not in stop_words]
+
+    question_bigrams = set(nltk.bigrams(question_words))
+    span_bigrams = set(nltk.bigrams(span_words))
+
+    overlap_bigrams = question_bigrams & span_bigrams
+
+    overlap_bigram_counts = Counter(
+        [bigram for bigram in nltk.bigrams(span_words) if bigram in overlap_bigrams]
+    )
+
+    return overlap_bigram_counts
 
 
 def get_trigram_overlap(question, span):
-    pass
+    stop_words = set(
+        stopwords.words("english")
+        + [
+            "though",
+            "and",
+            "I",
+            "A",
+            "a",
+            "an",
+            "An",
+            "And",
+            "So",
+            ".",
+            ",",
+            ")",
+            "By",
+            "(",
+            "''",
+            "Other",
+            "The",
+            ";",
+            "however",
+            "still",
+            "the",
+            "They",
+            "For",
+            "for",
+            "also",
+            "In",
+            "This",
+            "When",
+            "It",
+            "so",
+            "Yes",
+            "yes",
+            "No",
+            "no",
+            "These",
+            "these",
+            "This",
+        ]
+    )
+
+    question_words = [
+        word for word in question.split() if word.lower() not in stop_words
+    ]
+    span_words = [word for word in span.split() if word.lower() not in stop_words]
+
+    question_trigrams = set(nltk.ngrams(question_words, 3))
+    span_trigrams = set(nltk.ngrams(span_words, 3))
+
+    overlap_trigrams = question_trigrams & span_trigrams
+
+    overlap_trigram_counts = Counter(
+        [
+            trigram
+            for trigram in nltk.ngrams(span_words, 3)
+            if trigram in overlap_trigrams
+        ]
+    )
+
+    return overlap_trigram_counts
 
 
 def get_bigram_TFIDF(text):
@@ -393,6 +511,29 @@ def get_Euclidean_distance(s1, s2):
     return distance.euclidean(vec1, vec2)
 
 
+def get_hamming_distance(s1, s2):
+    if len(s1) != len(s2):
+        return -1
+
+    hamming_distance = 0
+    for i in range(len(s1)):
+        if s1[i] != s2[i]:
+            hamming_distance += 1
+
+    return hamming_distance
+
+
+def get_jaccard_distance(s1, s2):
+    set1 = set(s1.split())
+    set2 = set(s2.split())
+
+    intersection = len(set1.intersection(set2))
+    union = len(set1.union(set2))
+    jaccard_distance = 1 - intersection / union
+
+    return jaccard_distance
+
+
 def get_unlexicalized_path(question, span):
     pass
 
@@ -437,7 +578,6 @@ def get_features(question, span):
     # dependency_tree_path =      ########,0.
 
     print(syntatic_divergence)
-    # pass
 
 
 span = "Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season."
