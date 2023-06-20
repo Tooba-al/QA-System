@@ -275,7 +275,6 @@ def get_syntatic_div(question, paragNo):
     data_qs = pd.read_csv("Features/question_sentence_dev1.csv")
     question_list = data_qs["question"].tolist()
     answer_list = data_qa["answer"].tolist()
-    # sentence_list = data_qs["sentence"].tolist()
     parag_list = data_qs["paragraphNo"].tolist()
     title_list = data_qs["titleNo"].tolist()
     answer = ""
@@ -306,7 +305,6 @@ def get_syntatic_div(question, paragNo):
             if sentences[index] == sentence:
                 question_found = question
                 sentence_found = sentence
-                index_found = index
                 break
 
     anchor_list = []
@@ -314,12 +312,11 @@ def get_syntatic_div(question, paragNo):
     [anchor_list.append(item) for item in anchors if item not in anchor_list]
     for anchor in anchor_list:
         question_SDP.append(
-            Q_shortest_dependency_path(anchor, question_found.split()[0], question)
+            Q_shortest_dependency_path(
+                anchor, question_found.split()[0], question_found
+            )
         )
-        answer_SDP.append(A_shortest_dependency_path(anchor, answer, sentence))
-
-    # print(question_SDP)
-    # print(answer_SDP)
+        answer_SDP.append(A_shortest_dependency_path(anchor, answer, sentence_found))
 
     ED_list = []
     for index in range(len(question_SDP)):
