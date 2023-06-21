@@ -12,23 +12,14 @@ import networkx as nx
 from scipy.spatial import distance
 from collections import Counter
 from sklearn.feature_extraction.text import TfidfVectorizer
+import csv
 
 nlp = spacy.load("en_core_web_sm")
 lemmatizer = WordNetLemmatizer()
 
+print("Dataset : CSV-Files/devSplit/dev1.json\n")
 with open("CSV-Files/devSplit/dev1.json") as f:
     data = json.load(f)
-
-
-# for i in range(len(data['data'])):
-#     for j in range(len(data['data'][i]['paragraphs'])):
-#         # answers = []
-#         # questions = []
-#         for k in range(len(data['data'][i]['paragraphs'][j]['qas'])):
-#             data_questions.append(
-#                 data['data'][i]['paragraphs'][j]['qas'][k]['question'])
-#             data_answers.append(
-#                 data['data'][i]['paragraphs'][j]['qas'][k]['answers'][0]['text'])
 
 ##############################################################################################################
 ##############################################################################################################
@@ -110,53 +101,7 @@ def stopword_func(text):
     return filtered_span
 
 
-def get_reasoning_types(ans):
-    pass
-
-
-def dependency_parser(span):
-    nlp = spacy.load("en_core_web_sm")
-    doc = nlp(span)
-    token_positions = []
-
-    # to see all the children token
-    for token in doc:
-        token_positions.append(str(token) + "-" + str(token.i))
-
-    return token_positions
-
-
-def shortest_dependency_path(src, dest, text):
-    tokens_position = dependency_parser(text)
-
-    document = nlp(text)
-
-    edges = []
-    for token in document:
-        for child in token.children:
-            edges.append(
-                (
-                    "{0}-{1}".format(token.lower_, token.i),
-                    "{0}-{1}".format(child.lower_, child.i),
-                )
-            )
-
-    src_token = ""
-    dest_token = ""
-    for token in tokens_position:
-        if src in token:
-            src_token = token
-        elif dest in token:
-            dest_token = token
-
-    graph = nx.Graph(edges)
-    path_length = nx.shortest_path_length(graph, source=src_token, target=dest_token)
-    path = nx.shortest_path(graph, source=src_token, target=dest_token)
-
-    return (path_length, path)
-
-
-def anchors(question_list, sentence_list, parag_list, title_list):
+def calculate_anchors(question_list, sentence_list, parag_list, title_list):
     question_index = []
     sentence_index = []
     common_word = []
@@ -201,51 +146,177 @@ def anchors(question_list, sentence_list, parag_list, title_list):
         "titleNo": title_no,
     }
 
+    print("gayidi")
     df = pd.DataFrame(newData)
     df.to_csv("Features/Anchors_dev1.csv", encoding="utf-8", index=False)
+
+
+def dependency_parser(span):
+    nlp = spacy.load("en_core_web_sm")
+    doc = nlp(span)
+    token_positions = []
+
+    # to see all the children token
+    for token in doc:
+        token_positions.append(str(token) + "-" + str(token.i))
+
+    return token_positions
 
 
 def find_answer_sentence(paragraph_no, answer):
     contexts = data["data"][0]["paragraphs"][paragraph_no]["context"]
     sentences = nltk.sent_tokenize(contexts)
-    result = []
+    result = ""
     for sentence in sentences:
         if answer in sentence:
-            result.append(sentence)
+            result = sentence
 
     return result
 
 
-def get_syntatic_div(question):
-    data_qa = pd.read_csv("Features/question_answer_dev1.csv")
-    data_qs = pd.read_csv("Features/question_sentence_dev1.csv")
-    question_list = data_qs["question"].tolist()
-    answer_list = data_qa["answer"].tolist()
-    sentence_list = data_qs["sentence"].tolist()
-    parag_list = data_qs["paragraphNo"].tolist()
-    title_list = data_qs["titleNo"].tolist()
+def Q_shortest_dependency_path(anchor, wh_word, text):
+    tokens_position = dependency_parser(text)
 
-    answer = ""
+    document = nlp(text)
+
+    anchor = anchor.lower()
+    wh_word = wh_word.lower()
+
+    edges = []
+    for token in document:
+        for child in token.children:
+            edges.append(
+                (
+                    "{0}-{1}".format(token.lower_, token.i),
+                    "{0}-{1}".format(child.lower_, child.i),
+                )
+            )
+
+    anchor_token = ""
+    wh_token = ""
+    for token in tokens_position:
+        token = token.lower()
+        if anchor in token:
+            anchor_token = token
+        elif wh_word in token:
+            wh_token = token
+
+    graph = nx.Graph(edges)
+    path_length = nx.shortest_path_length(graph, source=wh_token, target=anchor_token)
+    path = nx.shortest_path(graph, source=wh_token, target=anchor_token)
+
+    return (path_length, path)
+
+
+def A_shortest_dependency_path(anchor, answer, text):
+    tokens_position = dependency_parser(text)
+
+    document = nlp(text)
+
+    anchor = anchor.lower()
+    answer = answer.lower()
+
+    if len(answer.split()) > 1:
+        answer = answer.split()[0]
+
+    edges = []
+    for token in document:
+        for child in token.children:
+            edges.append(
+                (
+                    "{0}-{1}".format(token.lower_, token.i),
+                    "{0}-{1}".format(child.lower_, child.i),
+                )
+            )
+
+    anchor_token = ""
+    answer_token = ""
+    for token in tokens_position:
+        token = token.lower()
+        if anchor in token:
+            anchor_token = token
+        elif answer in token:
+            answer_token = token
+
+    graph = nx.Graph(edges)
+    path_length = nx.shortest_path_length(
+        graph, source=anchor_token, target=answer_token
+    )
+    path = nx.shortest_path(graph, source=anchor_token, target=answer_token)
+
+    return (path_length, path)
+
+
+def edit_distance(Q_SDP, A_SDP):
+    ed = 0
+    if Q_SDP[0] > A_SDP[0]:
+        ed = Q_SDP[0] - A_SDP[0]
+    else:
+        ed = A_SDP[0] - Q_SDP[0]
+
+    return ed
+
+
+def get_syntatic_div(question, answer):
+    # data_qa = pd.read_csv("Features/question_answer_dev1.csv")
+    # data_qs = pd.read_csv("Features/question_sentence_dev1.csv")
+    # question_list = data_qs["question"].tolist()
+    # answer_list = data_qa["answer"].tolist()
+    # answer = ""
     paragraph_no = 0
-    anchors(question_list, sentence_list, parag_list, title_list)
-    for q in question_list:
-        if q == question:
-            answer = answer_list[question_list.index(q)]
+
+    # it took so long
+    # calculate_anchors(question_list, sentence_list, parag_list, title_list)
+    # for q in question_list:
+    #     if q == question:
+    #         answer = answer_list[question_list.index(q)]
+    #         break
 
     sentence = find_answer_sentence(paragraph_no, answer)
-
     data_anchor = pd.read_csv("Features/Anchors_dev1.csv")
-    anchors = data_anchor["anchor"]
-    questions = data_anchor["question"]
-    sentences = data_anchor["sentence"]
+    tempAnchor = data_anchor.loc[data_anchor["sentence"] == sentence].copy()
+    tempAnchors = tempAnchor.loc[tempAnchor["question"] == question].copy()
+    anchors = tempAnchors["anchor"].to_list()
+    questions = tempAnchors["question"].to_list()
+    sentences = tempAnchors["sentence"].to_list()
 
+    answer_SDP = []
+    question_SDP = []
+    sentence_found = ""
+    question_found = ""
+    index_found = ""
     for index in range(len(questions)):
-        if questions[index] == question and sentences[index] == sentence:
-            anchor = anchors[index]
-            answer_SDP = shortest_dependency_path(anchor, answer, sentence)
-            question_SDP = shortest_dependency_path(question[0], anchor, question)
+        if questions[index] == question:
+            if sentences[index] == sentence:
+                question_found = question
+                sentence_found = sentence
+                break
 
-    return (answer_SDP, question_SDP)
+    anchor_list = []
+
+    [anchor_list.append(item) for item in anchors if item not in anchor_list]
+    for anchor in anchor_list:
+        question_SDP.append(
+            Q_shortest_dependency_path(
+                anchor, question_found.split()[0], question_found
+            )
+        )
+        answer_SDP.append(A_shortest_dependency_path(anchor, answer, sentence_found))
+
+    ED_list = []
+    for index in range(len(question_SDP)):
+        q_SDP = question_SDP[index]
+        a_SDP = answer_SDP[index]
+
+        ED = edit_distance(a_SDP, q_SDP)
+        ED_list.append(ED)
+
+    min_ED = min(ED_list)
+
+    return (
+        min_ED,
+        (answer_SDP[ED_list.index(min_ED)], question_SDP[ED_list.index(min_ED)]),
+    )
 
 
 def get_root_matching(question, span):
@@ -302,9 +373,52 @@ def get_matching_word_frequency(question, span):
 
 
 def get_bigram_overlap(question, span):
-    stop_words = set(stopwords.words('english') + ['though','and','I','A','a','an','An','And','So','.',',',')','By','(',"''",'Other','The',';','however', 'still','the','They','For','for','also','In','This','When','It','so','Yes','yes','No','no','These','these','This'])
+    stop_words = set(
+        stopwords.words("english")
+        + [
+            "though",
+            "and",
+            "I",
+            "A",
+            "a",
+            "an",
+            "An",
+            "And",
+            "So",
+            ".",
+            ",",
+            ")",
+            "By",
+            "(",
+            "''",
+            "Other",
+            "The",
+            ";",
+            "however",
+            "still",
+            "the",
+            "They",
+            "For",
+            "for",
+            "also",
+            "In",
+            "This",
+            "When",
+            "It",
+            "so",
+            "Yes",
+            "yes",
+            "No",
+            "no",
+            "These",
+            "these",
+            "This",
+        ]
+    )
 
-    question_words = [word for word in question.split() if word.lower() not in stop_words]
+    question_words = [
+        word for word in question.split() if word.lower() not in stop_words
+    ]
     span_words = [word for word in span.split() if word.lower() not in stop_words]
 
     question_bigrams = set(nltk.bigrams(question_words))
@@ -312,17 +426,60 @@ def get_bigram_overlap(question, span):
 
     overlap_bigrams = question_bigrams & span_bigrams
 
-    overlap_bigram_counts = Counter([bigram for bigram in nltk.bigrams(span_words) if bigram in overlap_bigrams])
+    overlap_bigram_counts = Counter(
+        [bigram for bigram in nltk.bigrams(span_words) if bigram in overlap_bigrams]
+    )
 
     return overlap_bigram_counts
-    
 
 
 def get_trigram_overlap(question, span):
+    stop_words = set(
+        stopwords.words("english")
+        + [
+            "though",
+            "and",
+            "I",
+            "A",
+            "a",
+            "an",
+            "An",
+            "And",
+            "So",
+            ".",
+            ",",
+            ")",
+            "By",
+            "(",
+            "''",
+            "Other",
+            "The",
+            ";",
+            "however",
+            "still",
+            "the",
+            "They",
+            "For",
+            "for",
+            "also",
+            "In",
+            "This",
+            "When",
+            "It",
+            "so",
+            "Yes",
+            "yes",
+            "No",
+            "no",
+            "These",
+            "these",
+            "This",
+        ]
+    )
 
-    stop_words = set(stopwords.words('english') + ['though','and','I','A','a','an','An','And','So','.',',',')','By','(',"''",'Other','The',';','however', 'still','the','They','For','for','also','In','This','When','It','so','Yes','yes','No','no','These','these','This'])
-
-    question_words = [word for word in question.split() if word.lower() not in stop_words]
+    question_words = [
+        word for word in question.split() if word.lower() not in stop_words
+    ]
     span_words = [word for word in span.split() if word.lower() not in stop_words]
 
     question_trigrams = set(nltk.ngrams(question_words, 3))
@@ -330,7 +487,13 @@ def get_trigram_overlap(question, span):
 
     overlap_trigrams = question_trigrams & span_trigrams
 
-    overlap_trigram_counts = Counter([trigram for trigram in nltk.ngrams(span_words, 3) if trigram in overlap_trigrams])
+    overlap_trigram_counts = Counter(
+        [
+            trigram
+            for trigram in nltk.ngrams(span_words, 3)
+            if trigram in overlap_trigrams
+        ]
+    )
 
     return overlap_trigram_counts
 
@@ -392,29 +555,28 @@ def get_Euclidean_distance(s1, s2):
 
     return distance.euclidean(vec1, vec2)
 
-def get_hamming_distance(s1, s2):
+
+def get_Hamming_distance(s1, s2):
     if len(s1) != len(s2):
         return -1
-    
+
     hamming_distance = 0
     for i in range(len(s1)):
         if s1[i] != s2[i]:
             hamming_distance += 1
-    
+
     return hamming_distance
 
-def get_jaccard_distance(s1, s2):
+
+def get_Jaccard_distance(s1, s2):
     set1 = set(s1.split())
     set2 = set(s2.split())
-    
+
     intersection = len(set1.intersection(set2))
     union = len(set1.union(set2))
     jaccard_distance = 1 - intersection / union
-    
-    return jaccard_distance
 
-def get_unlexicalized_path(question, span):
-    pass
+    return jaccard_distance
 
 
 def get_constituency_parse(span):
@@ -435,31 +597,101 @@ def get_length(span):
     return len(span)
 
 
-def get_features(question, span):
-    # question = stopword_func(question)
-    # span = stopword_func(span)
-
+def get_features(question, span, answer, titleNo, paragNo):
     # answer_types = get_answer_types(data_answers)      ########
-    # syntatic_divergence = get_syntatic_div(question)  ########
-    # lexicalized_feature =       ########
-    # matching_word_frequency = get_matching_word_frequency(question, span)
-    # biagram_overlap = get_bigram_overlap(span)      ########
-    # triagram_overlap = get_trigram_overlap(span)      ########
-    # root_match = get_root_matching(question, span)
-    # length = get_length(span)
-    # span_word_frequency = get_span_TFIDF(span)
-    # span_TFIDF = get_span_TFIDF(span)
-    # bigram_TFIDF = get_bigram_TFIDF(span)      ########
-    # trigram_TFIDF = get_trigram_TFIDF(span)      ########
+    syntatic_divergence = get_syntatic_div(question, answer)
+    matching_word_frequency = get_matching_word_frequency(question, span)
+    bigram_overlap = get_bigram_overlap(question, span)
+    trigram_overlap = get_trigram_overlap(question, span)
+    root_match = get_root_matching(question, span)
+    span_length = get_length(span)
+    question_length = get_length(question)
+    span_word_frequency = get_span_TFIDF(span)
+    span_TFIDF = get_span_TFIDF(span)
+    bigram_TFIDF = get_bigram_TFIDF(span)
+    trigram_TFIDF = get_trigram_TFIDF(span)
     # bm25 = get_BM25()      ########
-    # consistant_label = get_constituency_parse(span)
-    # span_POS_tags = get_POS_tags(span)
-    # dependency_tree_path =      ########,0.
+    consistant_label = get_constituency_parse(span)
+    span_POS_tags = get_POS_tags(span)
+    hamming_distance = get_Hamming_distance(question, span)
+    jaccard_distance = get_Jaccard_distance(question, span)
+    euclidean_distance = get_Euclidean_distance(question, span)
+    manhattan_distance = get_Manhattan_distance(question, span)
+    minkowski_distance = get_Minkowski_distance(question, span)
 
-    # print(syntatic_divergence)
-    pass
- 
+    features_data = {
+        "paragNo": titleNo,
+        "titleNo": paragNo,
+        "question": question,
+        "span": span,
+        "answer": answer,
+        "syntatic_divergence": syntatic_divergence,
+        "root_matching": root_match,
+        "span_TFIDF": span_TFIDF,
+        "matching_word_frequency": matching_word_frequency,
+        "bigram_overlap": bigram_overlap,
+        "trigram_overlap": trigram_overlap,
+        "span_word_frequency": span_word_frequency,
+        "bigram_TFIDF": bigram_TFIDF,
+        "trigram_TFIDF": trigram_TFIDF,
+        "minkowski_distance": minkowski_distance,
+        "manhattan_distance": manhattan_distance,
+        "euclidean_distance": euclidean_distance,
+        "hamming_distance": hamming_distance,
+        "jaccard_distance": jaccard_distance,
+        "consistant_labels": consistant_label,
+        "span_POS_tags": span_POS_tags,
+        "span_length": span_length,
+        "question_length": question_length,
+    }
 
-span = "Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season."
-question = "Which NFL team represented the AFC at Super Bowl 50?"
-get_features(question, span)
+    return features_data
+
+
+def main():
+    data_questions = []
+    data_answers = []
+    data_spans = []
+    data_titleNo = []
+    data_paragNo = []
+
+    print("Extracting data from dataset...\n")
+    for i in range(len(data["data"])):
+        for j in range(len(data["data"][i]["paragraphs"])):
+            for k in range(len(data["data"][i]["paragraphs"][j]["qas"])):
+                data_spans.append(data["data"][i]["paragraphs"][j]["context"])
+                data_questions.append(
+                    data["data"][i]["paragraphs"][j]["qas"][k]["question"]
+                )
+                data_answers.append(
+                    data["data"][i]["paragraphs"][j]["qas"][k]["answers"][0]["text"]
+                )
+                data_titleNo.append(i)
+                data_paragNo.append(j)
+
+        with open("Features/Features_CSV.csv", "w") as fetures_csv:
+            pass
+
+        print("For each question and answer extracting features...\n")
+        for index in range(len(data_questions)):
+            question = data_questions[index]
+            span = data_spans[index]
+            answer = data_answers[index]
+            titleNo = data_titleNo[index]
+            paragNo = data_paragNo[index]
+            this_result = get_features(question, span, answer, titleNo, paragNo)
+
+            with open("Features/Features_CSV.csv", "w") as fetures_csv:
+                w = csv.DictWriter(f, this_result.keys())
+                w.writeheader()
+                w.writerow(this_result)
+
+                # writer = csv.writer(fetures_csv)
+                #     for key, value in this_result.items():
+                #         writer.writerow([key, value])
+
+    # df = pd.DataFrame(result)
+    # df.to_csv("Features/Features_Data.csv", encoding="utf-8", index=False)
+
+
+main()
