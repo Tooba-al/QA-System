@@ -500,13 +500,13 @@ def get_trigram_overlap(question, span):
 
 def get_bigram_TFIDF(text):
     vectorizer = TfidfVectorizer(ngram_range=(2, 2))
-    tfidf_matrix = vectorizer.fit_transform(text)
+    tfidf_matrix = vectorizer.fit_transform([text])
     return tfidf_matrix.toarray()
 
 
 def get_trigram_TFIDF(text):
     vectorizer = TfidfVectorizer(ngram_range=(3, 3))
-    tfidf_matrix = vectorizer.fit_transform(text)
+    tfidf_matrix = vectorizer.fit_transform([text])
     return tfidf_matrix.toarray()
 
 
