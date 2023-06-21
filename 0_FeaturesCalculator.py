@@ -12,23 +12,14 @@ import networkx as nx
 from scipy.spatial import distance
 from collections import Counter
 from sklearn.feature_extraction.text import TfidfVectorizer
+import csv
 
 nlp = spacy.load("en_core_web_sm")
 lemmatizer = WordNetLemmatizer()
 
+print("Dataset : CSV-Files/devSplit/dev1.json\n")
 with open("CSV-Files/devSplit/dev1.json") as f:
     data = json.load(f)
-
-
-# for i in range(len(data['data'])):
-#     for j in range(len(data['data'][i]['paragraphs'])):
-#         # answers = []
-#         # questions = []
-#         for k in range(len(data['data'][i]['paragraphs'][j]['qas'])):
-#             data_questions.append(
-#                 data['data'][i]['paragraphs'][j]['qas'][k]['question'])
-#             data_answers.append(
-#                 data['data'][i]['paragraphs'][j]['qas'][k]['answers'][0]['text'])
 
 ##############################################################################################################
 ##############################################################################################################
@@ -108,10 +99,6 @@ def stopword_func(text):
     ]
 
     return filtered_span
-
-
-def get_reasoning_types(ans):
-    pass
 
 
 def calculate_anchors(question_list, sentence_list, parag_list, title_list):
@@ -270,22 +257,20 @@ def edit_distance(Q_SDP, A_SDP):
     return ed
 
 
-def get_syntatic_div(question, paragNo):
-    data_qa = pd.read_csv("Features/question_answer_dev1.csv")
-    data_qs = pd.read_csv("Features/question_sentence_dev1.csv")
-    question_list = data_qs["question"].tolist()
-    answer_list = data_qa["answer"].tolist()
-    parag_list = data_qs["paragraphNo"].tolist()
-    title_list = data_qs["titleNo"].tolist()
-    answer = ""
+def get_syntatic_div(question, answer):
+    # data_qa = pd.read_csv("Features/question_answer_dev1.csv")
+    # data_qs = pd.read_csv("Features/question_sentence_dev1.csv")
+    # question_list = data_qs["question"].tolist()
+    # answer_list = data_qa["answer"].tolist()
+    # answer = ""
     paragraph_no = 0
 
     # it took so long
     # calculate_anchors(question_list, sentence_list, parag_list, title_list)
-    for q in question_list:
-        if q == question:
-            answer = answer_list[question_list.index(q)]
-            break
+    # for q in question_list:
+    #     if q == question:
+    #         answer = answer_list[question_list.index(q)]
+    #         break
 
     sentence = find_answer_sentence(paragraph_no, answer)
     data_anchor = pd.read_csv("Features/Anchors_dev1.csv")
@@ -571,7 +556,7 @@ def get_Euclidean_distance(s1, s2):
     return distance.euclidean(vec1, vec2)
 
 
-def get_hamming_distance(s1, s2):
+def get_Hamming_distance(s1, s2):
     if len(s1) != len(s2):
         return -1
 
@@ -583,7 +568,7 @@ def get_hamming_distance(s1, s2):
     return hamming_distance
 
 
-def get_jaccard_distance(s1, s2):
+def get_Jaccard_distance(s1, s2):
     set1 = set(s1.split())
     set2 = set(s2.split())
 
@@ -592,10 +577,6 @@ def get_jaccard_distance(s1, s2):
     jaccard_distance = 1 - intersection / union
 
     return jaccard_distance
-
-
-def get_unlexicalized_path(question, span):
-    pass
 
 
 def get_constituency_parse(span):
@@ -616,35 +597,101 @@ def get_length(span):
     return len(span)
 
 
-def get_features(question, span, paragNo):
-    # question = stopword_func(question)
-    # span = stopword_func(span)
-
+def get_features(question, span, answer, titleNo, paragNo):
     # answer_types = get_answer_types(data_answers)      ########
-    # syntatic_divergence = get_syntatic_div(question, paragNo)
-    # lexicalized_feature =       ########
-    # matching_word_frequency = get_matching_word_frequency(question, span)
-    # biagram_overlap = get_bigram_overlap(span)
-    # triagram_overlap = get_trigram_overlap(span)
-    # root_match = get_root_matching(question, span)
-    # length = get_length(span)
-    # span_word_frequency = get_span_TFIDF(span)
-    # span_TFIDF = get_span_TFIDF(span)
-    # bigram_TFIDF = get_bigram_TFIDF(span)
-    # trigram_TFIDF = get_trigram_TFIDF(span)
+    syntatic_divergence = get_syntatic_div(question, answer)
+    matching_word_frequency = get_matching_word_frequency(question, span)
+    bigram_overlap = get_bigram_overlap(question, span)
+    trigram_overlap = get_trigram_overlap(question, span)
+    root_match = get_root_matching(question, span)
+    span_length = get_length(span)
+    question_length = get_length(question)
+    span_word_frequency = get_span_TFIDF(span)
+    span_TFIDF = get_span_TFIDF(span)
+    bigram_TFIDF = get_bigram_TFIDF(span)
+    trigram_TFIDF = get_trigram_TFIDF(span)
     # bm25 = get_BM25()      ########
-    # consistant_label = get_constituency_parse(span)
-    # span_POS_tags = get_POS_tags(span)
-    # dependency_tree_path =      ########
-    # hamming_distance = get_hamming_distance(question, span)
-    # jaccard_distance = get_jaccard_distance(question, span)
-    # euclidean_distance = get_Euclidean_distance(question, span)
-    # manhattan_distance = get_Manhattan_distance(question, span)
-    # minkowski_distance = get_Minkowski_distance(question, span)
+    consistant_label = get_constituency_parse(span)
+    span_POS_tags = get_POS_tags(span)
+    hamming_distance = get_Hamming_distance(question, span)
+    jaccard_distance = get_Jaccard_distance(question, span)
+    euclidean_distance = get_Euclidean_distance(question, span)
+    manhattan_distance = get_Manhattan_distance(question, span)
+    minkowski_distance = get_Minkowski_distance(question, span)
 
-    pass
+    features_data = {
+        "paragNo": titleNo,
+        "titleNo": paragNo,
+        "question": question,
+        "span": span,
+        "answer": answer,
+        "syntatic_divergence": syntatic_divergence,
+        "root_matching": root_match,
+        "span_TFIDF": span_TFIDF,
+        "matching_word_frequency": matching_word_frequency,
+        "bigram_overlap": bigram_overlap,
+        "trigram_overlap": trigram_overlap,
+        "span_word_frequency": span_word_frequency,
+        "bigram_TFIDF": bigram_TFIDF,
+        "trigram_TFIDF": trigram_TFIDF,
+        "minkowski_distance": minkowski_distance,
+        "manhattan_distance": manhattan_distance,
+        "euclidean_distance": euclidean_distance,
+        "hamming_distance": hamming_distance,
+        "jaccard_distance": jaccard_distance,
+        "consistant_labels": consistant_label,
+        "span_POS_tags": span_POS_tags,
+        "span_length": span_length,
+        "question_length": question_length,
+    }
+
+    return features_data
 
 
-span = "Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season."
-question = "Which NFL team represented the AFC at Super Bowl 50?"
-get_features(question, span, 0)
+def main():
+    data_questions = []
+    data_answers = []
+    data_spans = []
+    data_titleNo = []
+    data_paragNo = []
+
+    print("Extracting data from dataset...\n")
+    for i in range(len(data["data"])):
+        for j in range(len(data["data"][i]["paragraphs"])):
+            for k in range(len(data["data"][i]["paragraphs"][j]["qas"])):
+                data_spans.append(data["data"][i]["paragraphs"][j]["context"])
+                data_questions.append(
+                    data["data"][i]["paragraphs"][j]["qas"][k]["question"]
+                )
+                data_answers.append(
+                    data["data"][i]["paragraphs"][j]["qas"][k]["answers"][0]["text"]
+                )
+                data_titleNo.append(i)
+                data_paragNo.append(j)
+
+        with open("Features/Features_CSV.csv", "w") as fetures_csv:
+            pass
+
+        print("For each question and answer extracting features...\n")
+        for index in range(len(data_questions)):
+            question = data_questions[index]
+            span = data_spans[index]
+            answer = data_answers[index]
+            titleNo = data_titleNo[index]
+            paragNo = data_paragNo[index]
+            this_result = get_features(question, span, answer, titleNo, paragNo)
+
+            with open("Features/Features_CSV.csv", "w") as fetures_csv:
+                w = csv.DictWriter(f, this_result.keys())
+                w.writeheader()
+                w.writerow(this_result)
+
+                # writer = csv.writer(fetures_csv)
+                #     for key, value in this_result.items():
+                #         writer.writerow([key, value])
+
+    # df = pd.DataFrame(result)
+    # df.to_csv("Features/Features_Data.csv", encoding="utf-8", index=False)
+
+
+main()
