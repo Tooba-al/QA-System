@@ -266,9 +266,7 @@ def A_shortest_dependency_path(anchor, answer, text):
                 answer_token = token
 
         graph = nx.Graph(edges)
-        print("anchor:", anchor_token)
-        print("answer:", answer_token)
-        print("edges:", graph.edges)
+
         try:
             path_length = nx.shortest_path_length(
                 graph, source=anchor_token, target=answer_token
@@ -299,31 +297,13 @@ def get_syntatic_div(question, span, answer):
     question_tokens = tokenizer.tokenize(question)
     span_tokens = tokenizer.tokenize(span)
 
-    sentence = find_answer_sentence(paragraph_no, answer)
-    # data_anchor = pd.read_csv("Features/Anchors_dev1.csv")
-
     anchors = []
     for word in question_tokens:
         if span_tokens.count(word) != 0:
             anchors.append(word)
-    # tempAnchor = data_anchor.loc[data_anchor["sentence"] == sentence].copy()
-    # tempAnchors = tempAnchor.loc[tempAnchor["question"] == question].copy()
-    # anchors = tempAnchors["anchor"].to_list()
-    # questions = tempAnchors["question"].to_list()
-    # sentences = tempAnchors["sentence"].to_list()
 
     answer_SDP = []
     question_SDP = []
-    # sentence_found = ""
-    # question_found = ""
-    # index_found = ""
-    # for index in range(len(questions)):
-    #     if questions[index] == question:
-    #         if sentences[index] == sentence:
-    #             question_found = question
-    #             sentence_found = sentence
-    #             break
-
     anchor_list = []
 
     [anchor_list.append(item) for item in anchors if item not in anchor_list]
