@@ -4,42 +4,14 @@ import pandas as pd
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics.pairwise import cosine_similarity
 import nltk
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.neighbors import KNeighborsClassifier
 from sklearn.neighbors import NearestNeighbors
+from scipy.spatial.distance import hamming
 
-
-# nlp = spacy.load("en_core_web_sm")
-
-# df = pd.read_csv("extractAnswers.csv")
-# answers = df["answers"].tolist()
-
-# for answer in answers:
-#     doc = nlp(answer)
-#     for entity in doc.ents:
-#         print(entity.text, entity.label_)
-
-
-# vectorizer = CountVectorizer()
-# X = vectorizer.fit_transform(answers)
-# y = np.array(df["categories"])
-
-# knn = KNeighborsClassifier(n_neighbors=3)
-# knn.fit(X, y)
-
-# new_answers = ["some new answer", "another new answer"]
-# X_new = vectorizer.transform(new_answers)
-
-# y_new = knn.predict(X_new)
-# for i, answer in enumerate(new_answers):
-#     print(f"Answer: {answer}")
-#     print(f"Predicted category: {y_new[i]}")
-
-# ///////////////////////////////////////////////////////////////
-stopwords = set(stopwords.words('english'))
-stop_words = stopwords.words('english') + ['though','and','I','A','a','an','An','And','So','.',',',')','By','(',"''",'Other','The',';','however', 'still','the','They','For','for','also','In','This','When','It','so','Yes','yes','No','no','These','these','This']
+stop_words = set(stopwords.words('english') + ['though','and','I','A','a','an','An','And','So','.',',',')','By','(',"''",'Other','The',';','however', 'still','the','They','For','for','also','In','This','When','It','so','Yes','yes','No','no','These','these','This'])
 
 nlp = spacy.load('en_core_web_sm')
 df = pd.read_csv('extractAnswers.csv')
@@ -72,3 +44,27 @@ for i in range(len(new_answers)):
     for j in indices[i]:
         print('Category:', ', '.join(df['entities'][j]))
     print()
+
+# ///////////////////////////////////////////////////////////////////////////////////////////
+
+# df = pd.read_csv('extractAnswers.csv')
+
+# stop_words = set(stopwords.words('english'))
+# df['answers'] = df['answers'].apply(lambda x: ' '.join([word for word in x.split() if word.lower() not in stop_words]))
+
+# nlp = spacy.load('en_core_web_sm')
+
+# df['ner'] = df['answers'].apply(lambda x: [(ent.text, ent.label_) for ent in nlp(x).ents])
+
+# new_answers = ['I love playing football', 'I like reading books', 'I enjoy watching movies']
+
+# vectorizer = CountVectorizer(tokenizer=lambda x: [word[0] for word in x])
+# X = vectorizer.fit_transform(df['ner'].apply(lambda x: ' '.join(['_'.join(word) for word in x])))
+
+# knn = KNeighborsClassifier(n_neighbors=3, metric='cosine')
+# knn.fit(X, df['categories'])
+
+# new_X = vectorizer.transform([nlp(answer).ents for answer in new_answers])
+# predicted_categories = knn.predict(new_X)
+
+# print(predicted_categories)
