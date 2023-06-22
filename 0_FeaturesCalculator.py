@@ -118,56 +118,6 @@ def stopword_func(text):
     return filtered_span
 
 
-def calculate_anchors(question_list, sentence_list, parag_list, title_list):
-    question_index = []
-    sentence_index = []
-    common_word = []
-    paragraph_no = []
-    title_no = []
-    questions_list = []
-    sentences_list = []
-
-    def extractAnchors(question, sentence, paragraphNo, titleNo):
-        question_words = stopword_func(question)
-        sentence_words = stopword_func(sentence)
-
-        for q_word in question_words:
-            for s_word in sentence_words:
-                qq_word = lemmatizer.lemmatize(q_word)
-                ss_word = lemmatizer.lemmatize(s_word)
-
-                if qq_word == ss_word:
-                    questions_list.append(question)
-                    sentences_list.append(sentence)
-                    question_index.append(question_words.index(q_word))
-                    sentence_index.append(sentence_words.index(s_word))
-                    common_word.append(q_word)
-                    paragraph_no.append(paragraphNo)
-                    title_no.append(titleNo)
-
-    for index in range(len(question_list)):
-        extractAnchors(
-            question_list[index],
-            sentence_list[index],
-            parag_list[index],
-            title_list[index],
-        )
-
-    newData = {
-        "word": common_word,
-        "question": questions_list,
-        "sentence": sentences_list,
-        "question_index": question_index,
-        "sentence_index": sentence_index,
-        "paragraphNo": paragraph_no,
-        "titleNo": title_no,
-    }
-
-    print("gayidi")
-    df = pd.DataFrame(newData)
-    df.to_csv("Features/Anchors_dev1.csv", encoding="utf-8", index=False)
-
-
 def dependency_parser(span):
     nlp = spacy.load("en_core_web_sm")
     doc = nlp(span)
@@ -338,9 +288,6 @@ def get_syntatic_div(question, span, answer):
 
 
 def get_root_matching(question, span):
-    # question = ' '.join(question)
-    # span = ' '.join(span)
-
     q_doc = nlp(question)
     s_doc = nlp(span)
     question_dep = ""
@@ -616,54 +563,58 @@ def get_length(text):
 
 
 def get_features(question, span, answer, titleNo, paragNo):
-    # answer_types = get_answer_types(data_answers)      ########
-    syntatic_divergence = get_syntatic_div(question, span, answer)
-    matching_word_frequency = get_matching_word_frequency(question, span)
-    # bigram_overlap = get_bigram_overlap(question, span)
-    # trigram_overlap = get_trigram_overlap(question, span)
-    root_match = get_root_matching(question, span)
-    span_length = get_length(span)
-    question_length = get_length(question)
-    span_word_frequency = get_span_TFIDF(span)
-    span_TFIDF = get_span_TFIDF(span)
-    # bigram_TFIDF = get_bigram_TFIDF(span)
-    # trigram_TFIDF = get_trigram_TFIDF(span)
+    # # answer_types = get_answer_types(data_answers)      ########
+    # syntatic_divergence = get_syntatic_div(question, span, answer)
+    # matching_word_frequency = get_matching_word_frequency(question, span)
+    bigram_overlap = get_bigram_overlap(question, span)
+    trigram_overlap = get_trigram_overlap(question, span)
+    # root_match = get_root_matching(question, span)
+    # span_length = get_length(span)
+    # question_length = get_length(question)
+    # span_word_frequency = get_span_TFIDF(span)
+    # span_TFIDF = get_span_TFIDF(span)
+    bigram_TFIDF = get_bigram_TFIDF(span)
+    trigram_TFIDF = get_trigram_TFIDF(span)
     # bm25 = get_BM25()      ########
-    consistant_label = get_constituency_parse(span)
-    span_POS_tags = get_POS_tags(span)
-    hamming_distance = get_Hamming_distance(question, span)
-    jaccard_distance = get_Jaccard_distance(question, span)
-    euclidean_distance = get_Euclidean_distance(question, span)
-    manhattan_distance = get_Manhattan_distance(question, span)
-    minkowski_distance = get_Minkowski_distance(question, span)
+    # consistant_label = get_constituency_parse(span)
+    # span_POS_tags = get_POS_tags(span)
+    # hamming_distance = get_Hamming_distance(question, span)
+    # jaccard_distance = get_Jaccard_distance(question, span)
+    # euclidean_distance = get_Euclidean_distance(question, span)
+    # manhattan_distance = get_Manhattan_distance(question, span)
+    # minkowski_distance = get_Minkowski_distance(question, span)
 
-    features_data = {
-        "paragNo": titleNo,
-        "titleNo": paragNo,
-        "question": question,
-        "span": span,
-        "answer": answer,
-        "syntatic_divergence": syntatic_divergence,
-        "root_matching": root_match,
-        "span_TFIDF": span_TFIDF,
-        "matching_word_frequency": matching_word_frequency,
-        # "bigram_overlap": bigram_overlap,
-        # "trigram_overlap": trigram_overlap,
-        "span_word_frequency": span_word_frequency,
-        # "bigram_TFIDF": bigram_TFIDF,
-        # "trigram_TFIDF": trigram_TFIDF,
-        "minkowski_distance": minkowski_distance,
-        "manhattan_distance": manhattan_distance,
-        "euclidean_distance": euclidean_distance,
-        "hamming_distance": hamming_distance,
-        "jaccard_distance": jaccard_distance,
-        "consistant_labels": consistant_label,
-        "span_POS_tags": span_POS_tags,
-        "span_length": span_length,
-        "question_length": question_length,
-    }
+    print(bigram_overlap)
+    print(trigram_overlap)
+    print(bigram_TFIDF)
+    print(trigram_TFIDF)
+    # features_data = {
+    #     "paragNo": titleNo,
+    #     "titleNo": paragNo,
+    #     "question": question,
+    #     "span": span,
+    #     "answer": answer,
+    #     "syntatic_divergence": syntatic_divergence,
+    #     "root_matching": root_match,
+    #     "span_TFIDF": span_TFIDF,
+    #     "matching_word_frequency": matching_word_frequency,
+    #     # "bigram_overlap": bigram_overlap,
+    #     # "trigram_overlap": trigram_overlap,
+    #     "span_word_frequency": span_word_frequency,
+    #     # "bigram_TFIDF": bigram_TFIDF,
+    #     # "trigram_TFIDF": trigram_TFIDF,
+    #     "minkowski_distance": minkowski_distance,
+    #     "manhattan_distance": manhattan_distance,
+    #     "euclidean_distance": euclidean_distance,
+    #     "hamming_distance": hamming_distance,
+    #     "jaccard_distance": jaccard_distance,
+    #     "consistant_labels": consistant_label,
+    #     "span_POS_tags": span_POS_tags,
+    #     "span_length": span_length,
+    #     "question_length": question_length,
+    # }
 
-    return features_data
+    # return features_data
 
 
 def main():
@@ -701,40 +652,40 @@ def main():
             this_result = get_features(question, span, answer, titleNo, paragNo)
             dict_datas.append(this_result)
 
-    csv_file = "Features/Features_CSV.csv"
-    csv_columns = [
-        "paragNo",
-        "titleNo",
-        "question",
-        "span",
-        "answer",
-        "syntatic_divergence",
-        "root_matching",
-        "span_TFIDF",
-        "matching_word_frequency",
-        # "bigram_overlap",
-        # "trigram_overlap",
-        "span_word_frequency",
-        # "bigram_TFIDF",
-        # "trigram_TFIDF",
-        "minkowski_distance",
-        "manhattan_distance",
-        "euclidean_distance",
-        "hamming_distance",
-        "jaccard_distance",
-        "consistant_labels",
-        "span_POS_tags",
-        "span_length",
-        "question_length",
-    ]
-    try:
-        with open(csv_file, "w") as features_file:
-            writer = csv.DictWriter(features_file, fieldnames=csv_columns)
-            writer.writeheader()
-            for data in dict_datas:
-                writer.writerow(data)
-    except IOError:
-        print(Fore.RED + "I/O error")
+    # csv_file = "Features/Features_CSV.csv"
+    # csv_columns = [
+    #     "paragNo",
+    #     "titleNo",
+    #     "question",
+    #     "span",
+    #     "answer",
+    #     "syntatic_divergence",
+    #     "root_matching",
+    #     "span_TFIDF",
+    #     "matching_word_frequency",
+    #     # "bigram_overlap",
+    #     # "trigram_overlap",
+    #     "span_word_frequency",
+    #     # "bigram_TFIDF",
+    #     # "trigram_TFIDF",
+    #     "minkowski_distance",
+    #     "manhattan_distance",
+    #     "euclidean_distance",
+    #     "hamming_distance",
+    #     "jaccard_distance",
+    #     "consistant_labels",
+    #     "span_POS_tags",
+    #     "span_length",
+    #     "question_length",
+    # ]
+    # try:
+    #     with open(csv_file, "w") as features_file:
+    #         writer = csv.DictWriter(features_file, fieldnames=csv_columns)
+    #         writer.writeheader()
+    #         for data in dict_datas:
+    #             writer.writerow(data)
+    # except IOError:
+    #     print(Fore.RED + "I/O error")
 
 
 main()
