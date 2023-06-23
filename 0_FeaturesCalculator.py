@@ -651,7 +651,7 @@ def get_Euclidean_distance(question, span):
     question_vector = [question.count(c) for c in unique_chars]
     span_vector = [span.count(c) for c in unique_chars]
 
-    squared_distance = sum((x - y)**2 for x, y in zip(question_vector, span_vector))
+    squared_distance = sum((x - y) ** 2 for x, y in zip(question_vector, span_vector))
     return math.sqrt(squared_distance)
 
 
@@ -663,6 +663,7 @@ def get_Hamming_distance(question, span):
     hamming_distance = sum(c1 != c2 for c1, c2 in zip(question_str, span_str))
 
     return hamming_distance
+
 
 def get_Jaccard_distance(question, span):
     question_words = set(question.lower().split())
@@ -772,6 +773,14 @@ def main():
 
         print(Fore.RED + "For each question and answer extracting features...\n")
         for index in range(len(data_questions)):
+            print(
+                Fore.RED
+                + "Getting data for question "
+                + str(index)
+                + "/"
+                + str(len(data_questions))
+                + "...\n"
+            )
             question = data_questions[index]
             span = data_spans[index]
             answer = data_answers[index]
@@ -782,14 +791,14 @@ def main():
 
             print(
                 Fore.GREEN
-                + "Getting data for question "
+                + "\nEnd of question "
                 + str(index)
                 + "/"
                 + str(len(data_questions))
                 + "...\n"
             )
 
-    csv_file = "Features/KNN_Features_CSV.csv"
+    csv_file = "Features/KNN_Features_CSV_dev1.csv"
     csv_columns = [
         "paragNo",
         "titleNo",
