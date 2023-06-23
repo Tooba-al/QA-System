@@ -13,14 +13,13 @@ from scipy.spatial import distance
 from collections import Counter
 from sklearn.feature_extraction.text import TfidfVectorizer
 import csv
-<<<<<<< HEAD
 import string
-=======
 from csv import writer
 import datetime
 from colorama import Fore
 from nltk.tokenize import TreebankWordTokenizer
 import time
+
 
 start_time = time.time()
 print(
@@ -33,7 +32,6 @@ print(
     )
 )
 
->>>>>>> 1f2ed0f5dbd1b216bf500b4ddc5feb2b33e44af5
 
 nlp = spacy.load("en_core_web_sm")
 lemmatizer = WordNetLemmatizer()
@@ -46,74 +44,76 @@ with open("CSV-Files/devSplit/dev1.json") as f:
 ##############################################################################################################
 stop_words = set(stopwords.words("english"))
 stop_words.update(
-        (
-            "?",
-            "and",
-            "I",
-            "A",
-            "And",
-            "So",
-            ".",
-            "as",
-            "As",
-            "''",
-            "could",
-            "[",
-            "]",
-            ",",
-            ")",
-            "'s",
-            "By",
-            "(",
-            "''",
-            "Other",
-            "``",
-            ":",
-            "'",
-            "#",
-            "'v",
-            "The",
-            ";",
-            "however",
-            "still",
-            "the",
-            "They",
-            "For",
-            "also",
-            "In",
-            "This",
-            "When",
-            "It",
-            "many",
-            "Many",
-            "so",
-            "cant",
-            "Yes",
-            "yes",
-            "No",
-            "no",
-            "These",
-            "these",
-            "This",
-            "Where",
-            "Which",
-            "Why",
-            "How",
-            "What",
-            "If",
-            "Who",
-            "When",
-        )
+    (
+        "?",
+        "and",
+        "I",
+        "A",
+        "And",
+        "So",
+        ".",
+        "as",
+        "As",
+        "''",
+        "could",
+        "[",
+        "]",
+        ",",
+        ")",
+        "'s",
+        "By",
+        "(",
+        "''",
+        "Other",
+        "``",
+        ":",
+        "'",
+        "#",
+        "'v",
+        "The",
+        ";",
+        "however",
+        "still",
+        "the",
+        "They",
+        "For",
+        "also",
+        "In",
+        "This",
+        "When",
+        "It",
+        "many",
+        "Many",
+        "so",
+        "cant",
+        "Yes",
+        "yes",
+        "No",
+        "no",
+        "These",
+        "these",
+        "This",
+        "Where",
+        "Which",
+        "Why",
+        "How",
+        "What",
+        "If",
+        "Who",
+        "When",
     )
-def remove_stopwords_punctuation(text):
+)
 
-    text = ''.join([c for c in text if c not in string.punctuation])
+
+def remove_stopwords_punctuation(text):
+    text = "".join([c for c in text if c not in string.punctuation])
     tokens = nltk.word_tokenize(text.lower())
 
     tokens = [word for word in tokens if word not in stop_words]
-    cleaned_text = ' '.join(tokens)
+    cleaned_text = " ".join(tokens)
 
     return cleaned_text
+
 
 # ////////////////////
 
@@ -377,8 +377,9 @@ def get_root_matching(question, span):
         if token.dep_ == "ROOT":
             span_dep = token
 
-    if question_dep == span_dep:
+    if question_dep.text == span_dep.text:
         return True
+
     return False
 
 
@@ -417,9 +418,14 @@ def get_bigram_overlap(question, span):
     question_cleaned = remove_stopwords_punctuation(question)
     span_cleaned = remove_stopwords_punctuation(span)
 
-    question_bigrams = [(question_cleaned.split()[i], question_cleaned.split()[i+1]) for i in range(len(question_cleaned.split())-1)]
-    span_bigrams = [(span_cleaned.split()[i], span_cleaned.split()[i+1]) for i in range(len(span_cleaned.split())-1)]
-
+    question_bigrams = [
+        (question_cleaned.split()[i], question_cleaned.split()[i + 1])
+        for i in range(len(question_cleaned.split()) - 1)
+    ]
+    span_bigrams = [
+        (span_cleaned.split()[i], span_cleaned.split()[i + 1])
+        for i in range(len(span_cleaned.split()) - 1)
+    ]
 
     question_bigram_counts = Counter(question_bigrams)
     span_bigram_counts = Counter(span_bigrams)
@@ -440,10 +446,23 @@ def get_trigram_overlap(question, span):
     question_cleaned = remove_stopwords_punctuation(question)
     span_cleaned = remove_stopwords_punctuation(span)
 
-    question_trigrams = [(question_cleaned.split()[i], question_cleaned.split()[i+1], question_cleaned.split()[i+2]) for i in range(len(question_cleaned.split())-2)]
+    question_trigrams = [
+        (
+            question_cleaned.split()[i],
+            question_cleaned.split()[i + 1],
+            question_cleaned.split()[i + 2],
+        )
+        for i in range(len(question_cleaned.split()) - 2)
+    ]
 
-    span_trigrams = [(span_cleaned.split()[i], span_cleaned.split()[i+1], span_cleaned.split()[i+2]) for i in range(len(span_cleaned.split())-2)]
-
+    span_trigrams = [
+        (
+            span_cleaned.split()[i],
+            span_cleaned.split()[i + 1],
+            span_cleaned.split()[i + 2],
+        )
+        for i in range(len(span_cleaned.split()) - 2)
+    ]
 
     question_trigram_counts = Counter(question_trigrams)
     span_trigram_counts = Counter(span_trigrams)
@@ -458,6 +477,7 @@ def get_trigram_overlap(question, span):
             overlap_ratio_sum += overlap_ratio
 
     return overlap_ratio_sum
+
 
 def get_bigram_TFIDF(text):
     stop_words = set(
@@ -502,10 +522,16 @@ def get_bigram_TFIDF(text):
             "This",
         ]
     )
-    filtered_words = ''.join([c for c in text if c not in string.punctuation])
-    filtered_words = ' '.join([word.lower() for word in filtered_words.split() if word.lower() not in stop_words])
+    filtered_words = "".join([c for c in text if c not in string.punctuation])
+    filtered_words = " ".join(
+        [
+            word.lower()
+            for word in filtered_words.split()
+            if word.lower() not in stop_words
+        ]
+    )
 
-    tfidf = TfidfVectorizer(ngram_range=(2,2))
+    tfidf = TfidfVectorizer(ngram_range=(2, 2))
     tfidf_matrix = tfidf.fit_transform([filtered_words])
     feature_names = tfidf.get_feature_names_out()
 
@@ -514,6 +540,8 @@ def get_bigram_TFIDF(text):
     else:
         tfidf_sum = tfidf_matrix.sum()
     return tfidf_sum
+
+    overlap_bigrams = question_bigrams & span_bigrams
 
 
 def get_trigram_TFIDF(text):
@@ -559,10 +587,16 @@ def get_trigram_TFIDF(text):
             "This",
         ]
     )
-    filtered_words = ''.join([c for c in text if c not in string.punctuation])
-    filtered_words = ' '.join([word.lower() for word in filtered_words.split() if word.lower() not in stop_words])
+    filtered_words = "".join([c for c in text if c not in string.punctuation])
+    filtered_words = " ".join(
+        [
+            word.lower()
+            for word in filtered_words.split()
+            if word.lower() not in stop_words
+        ]
+    )
 
-    tfidf = TfidfVectorizer(ngram_range=(3,3))
+    tfidf = TfidfVectorizer(ngram_range=(3, 3))
     tfidf_matrix = tfidf.fit_transform([filtered_words])
     feature_names = tfidf.get_feature_names_out()
 
@@ -571,6 +605,30 @@ def get_trigram_TFIDF(text):
     else:
         tfidf_sum = tfidf_matrix.sum()
     return tfidf_sum
+
+    overlap_trigrams = question_trigrams & span_trigrams
+
+    overlap_trigram_counts = Counter(
+        [
+            trigram
+            for trigram in nltk.ngrams(span_words, 3)
+            if trigram in overlap_trigrams
+        ]
+    )
+
+    return overlap_trigram_counts
+
+
+def get_bigram_TFIDF(text):
+    vectorizer = TfidfVectorizer(ngram_range=(2, 2))
+    tfidf_matrix = vectorizer.fit_transform([text])
+    return tfidf_matrix.toarray()
+
+
+def get_trigram_TFIDF(text):
+    vectorizer = TfidfVectorizer(ngram_range=(3, 3))
+    tfidf_matrix = vectorizer.fit_transform([text])
+    return tfidf_matrix.toarray()
 
 
 def get_Minkowski_distance(s1, s2, p=1):
@@ -682,10 +740,7 @@ def get_features(question, span, answer, titleNo, paragNo):
     # manhattan_distance = get_Manhattan_distance(question, span)
     # minkowski_distance = get_Minkowski_distance(question, span)
 
-    print(bigram_overlap)
-    print(trigram_overlap)
-    print(bigram_TFIDF)
-    print(trigram_TFIDF)
+    # print(root_match)
     # features_data = {
     #     "paragNo": titleNo,
     #     "titleNo": paragNo,
@@ -713,6 +768,9 @@ def get_features(question, span, answer, titleNo, paragNo):
     # }
 
     # return features_data
+
+    print(bigram_TFIDF)
+    print(trigram_TFIDF)
 
 
 def main():
