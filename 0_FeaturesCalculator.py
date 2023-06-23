@@ -619,18 +619,6 @@ def get_trigram_TFIDF(text):
     return overlap_trigram_counts
 
 
-def get_bigram_TFIDF(text):
-    vectorizer = TfidfVectorizer(ngram_range=(2, 2))
-    tfidf_matrix = vectorizer.fit_transform([text])
-    return tfidf_matrix.toarray()
-
-
-def get_trigram_TFIDF(text):
-    vectorizer = TfidfVectorizer(ngram_range=(3, 3))
-    tfidf_matrix = vectorizer.fit_transform([text])
-    return tfidf_matrix.toarray()
-
-
 def get_Minkowski_distance(s1, s2, p=1):
     words1 = s1.split()
     words2 = s2.split()
@@ -720,57 +708,53 @@ def get_length(text):
 
 def get_features(question, span, answer, titleNo, paragNo):
     # # answer_types = get_answer_types(data_answers)      ########
-    # syntatic_divergence = get_syntatic_div(question, span, answer)
-    # matching_word_frequency = get_matching_word_frequency(question, span)
+    syntatic_divergence = get_syntatic_div(question, span, answer)
+    matching_word_frequency = get_matching_word_frequency(question, span)
     bigram_overlap = get_bigram_overlap(question, span)
     trigram_overlap = get_trigram_overlap(question, span)
-    # root_match = get_root_matching(question, span)
-    # span_length = get_length(span)
-    # question_length = get_length(question)
-    # span_word_frequency = get_span_TFIDF(span)
-    # span_TFIDF = get_span_TFIDF(span)
+    root_match = get_root_matching(question, span)
+    span_length = get_length(span)
+    question_length = get_length(question)
+    span_word_frequency = get_span_TFIDF(span)
+    span_TFIDF = get_span_TFIDF(span)
     bigram_TFIDF = get_bigram_TFIDF(span)
     trigram_TFIDF = get_trigram_TFIDF(span)
     # bm25 = get_BM25()      ########
-    # consistant_label = get_constituency_parse(span)
-    # span_POS_tags = get_POS_tags(span)
-    # hamming_distance = get_Hamming_distance(question, span)
-    # jaccard_distance = get_Jaccard_distance(question, span)
-    # euclidean_distance = get_Euclidean_distance(question, span)
-    # manhattan_distance = get_Manhattan_distance(question, span)
-    # minkowski_distance = get_Minkowski_distance(question, span)
+    consistant_label = get_constituency_parse(span)
+    span_POS_tags = get_POS_tags(span)
+    hamming_distance = get_Hamming_distance(question, span)
+    jaccard_distance = get_Jaccard_distance(question, span)
+    euclidean_distance = get_Euclidean_distance(question, span)
+    manhattan_distance = get_Manhattan_distance(question, span)
+    minkowski_distance = get_Minkowski_distance(question, span)
 
-    # print(root_match)
-    # features_data = {
-    #     "paragNo": titleNo,
-    #     "titleNo": paragNo,
-    #     "question": question,
-    #     "span": span,
-    #     "answer": answer,
-    #     "syntatic_divergence": syntatic_divergence,
-    #     "root_matching": root_match,
-    #     "span_TFIDF": span_TFIDF,
-    #     "matching_word_frequency": matching_word_frequency,
-    #     # "bigram_overlap": bigram_overlap,
-    #     # "trigram_overlap": trigram_overlap,
-    #     "span_word_frequency": span_word_frequency,
-    #     # "bigram_TFIDF": bigram_TFIDF,
-    #     # "trigram_TFIDF": trigram_TFIDF,
-    #     "minkowski_distance": minkowski_distance,
-    #     "manhattan_distance": manhattan_distance,
-    #     "euclidean_distance": euclidean_distance,
-    #     "hamming_distance": hamming_distance,
-    #     "jaccard_distance": jaccard_distance,
-    #     "consistant_labels": consistant_label,
-    #     "span_POS_tags": span_POS_tags,
-    #     "span_length": span_length,
-    #     "question_length": question_length,
-    # }
+    features_data = {
+        "paragNo": titleNo,
+        "titleNo": paragNo,
+        "question": question,
+        "span": span,
+        "answer": answer,
+        "syntatic_divergence": syntatic_divergence,
+        "root_matching": root_match,
+        "span_TFIDF": span_TFIDF,
+        "matching_word_frequency": matching_word_frequency,
+        "bigram_overlap": bigram_overlap,
+        "trigram_overlap": trigram_overlap,
+        "span_word_frequency": span_word_frequency,
+        "bigram_TFIDF": bigram_TFIDF,
+        "trigram_TFIDF": trigram_TFIDF,
+        "minkowski_distance": minkowski_distance,
+        "manhattan_distance": manhattan_distance,
+        "euclidean_distance": euclidean_distance,
+        "hamming_distance": hamming_distance,
+        "jaccard_distance": jaccard_distance,
+        "consistant_labels": consistant_label,
+        "span_POS_tags": span_POS_tags,
+        "span_length": span_length,
+        "question_length": question_length,
+    }
 
-    # return features_data
-
-    print(bigram_TFIDF)
-    print(trigram_TFIDF)
+    return features_data
 
 
 def main():
@@ -808,42 +792,51 @@ def main():
             this_result = get_features(question, span, answer, titleNo, paragNo)
             dict_datas.append(this_result)
 
-    # csv_file = "Features/KNN_Features_CSV.csv"
-    # csv_columns = [
-    #     "paragNo",
-    #     "titleNo",
-    #     "question",
-    #     "span",
-    #     "answer",
-    #     "syntatic_divergence",
-    #     "root_matching",
-    #     "span_TFIDF",
-    #     "matching_word_frequency",
-    #     "bigram_overlap",
-    #     "trigram_overlap",
-    #     "span_word_frequency",
-    #     # "bigram_TFIDF",
-    #     # "trigram_TFIDF",
-    #     "minkowski_distance",
-    #     "manhattan_distance",
-    #     "euclidean_distance",
-    #     "hamming_distance",
-    #     "jaccard_distance",
-    #     "consistant_labels",
-    #     "span_POS_tags",
-    #     "span_length",
-    #     "question_length",
-    # ]
-    # try:
-    #     with open(csv_file, "w") as features_file:
-    #         writer = csv.DictWriter(features_file, fieldnames=csv_columns)
-    #         writer.writeheader()
-    #         for data in dict_datas:
-    #             writer.writerow(data)
-    # except IOError:
-    #     print(Fore.RED + "I/O error")
+            print(
+                Fore.GREEN
+                + "Getting data for question "
+                + str(index)
+                + "/"
+                + str(len(data_questions))
+                + "...\n"
+            )
+
+    csv_file = "Features/KNN_Features_CSV.csv"
+    csv_columns = [
+        "paragNo",
+        "titleNo",
+        "question",
+        "span",
+        "answer",
+        "syntatic_divergence",
+        "root_matching",
+        "span_TFIDF",
+        "matching_word_frequency",
+        "bigram_overlap",
+        "trigram_overlap",
+        "span_word_frequency",
+        "bigram_TFIDF",
+        "trigram_TFIDF",
+        "minkowski_distance",
+        "manhattan_distance",
+        "euclidean_distance",
+        "hamming_distance",
+        "jaccard_distance",
+        "consistant_labels",
+        "span_POS_tags",
+        "span_length",
+        "question_length",
+    ]
+    try:
+        with open(csv_file, "w") as features_file:
+            writer = csv.DictWriter(features_file, fieldnames=csv_columns)
+            writer.writeheader()
+            for data in dict_datas:
+                writer.writerow(data)
+    except IOError:
+        print(Fore.RED + "I/O error")
 
 
 main()
 end_time = time.time()
-print(Fore.RED + "Execution Time = ", end_time - start_time)
+print(Fore.RED + "Execution Time = ", (end_time - start_time) / 60)
