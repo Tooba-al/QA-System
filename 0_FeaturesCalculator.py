@@ -808,7 +808,7 @@ def main():
             this_result = get_features(question, span, answer, titleNo, paragNo)
             dict_datas.append(this_result)
 
-    # csv_file = "Features/Features_CSV.csv"
+    # csv_file = "Features/KNN_Features_CSV.csv"
     # csv_columns = [
     #     "paragNo",
     #     "titleNo",
@@ -819,8 +819,8 @@ def main():
     #     "root_matching",
     #     "span_TFIDF",
     #     "matching_word_frequency",
-    #     # "bigram_overlap",
-    #     # "trigram_overlap",
+    #     "bigram_overlap",
+    #     "trigram_overlap",
     #     "span_word_frequency",
     #     # "bigram_TFIDF",
     #     # "trigram_TFIDF",
