@@ -11,24 +11,6 @@ answers1 = []
 import nltk
 from nltk.corpus import stopwords
 
-
-def get_Jaccard_distance(question, span):
-    question_words = set(question.lower().split())
-    span_words = set(span.lower().split())
-
-    intersection = len(question_words & span_words)
-    print(intersection)
-    union = len(question_words | span_words)
-    print(union)
-    if union != 0:
-        return 1 - (intersection / union)
-    else:
-        return 0
-question = "What is the capital of France?"
-span = "capital of France"
- # The order of the Minkowski distance
-distance = get_Jaccard_distance(question, span)
-print("Minkowski distance:", distance)
 # from nltk.tokenize import word_tokenize
 # from sklearn.feature_extraction.text import TfidfVectorizer
 
