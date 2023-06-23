@@ -619,73 +619,60 @@ def get_trigram_TFIDF(text):
     return overlap_trigram_counts
 
 
-def get_Minkowski_distance(s1, s2, p=1):
-    words1 = s1.split()
-    words2 = s2.split()
+def get_Minkowski_distance(question, span, p=1):
+    unique_chars = set(question + span)
 
-    freq1 = Counter(words1)
-    freq2 = Counter(words2)
-
-    unique_words = set(words1 + words2)
-
-    vec1 = [freq1.get(word, 0) for word in unique_words]
-    vec2 = [freq2.get(word, 0) for word in unique_words]
-
-    return distance.minkowski(vec1, vec2, p=p)
-
-
-def get_Manhattan_distance(s1, s2):
-    words1 = s1.split()
-    words2 = s2.split()
-
-    freq1 = Counter(words1)
-    freq2 = Counter(words2)
-
-    unique_words = set(words1 + words2)
+    question_vector = [question.count(c) for c in unique_chars]
+    span_vector = [span.count(c) for c in unique_chars]
 
     distance = 0
-    for word in unique_words:
-        distance += abs(freq1.get(word, 0) - freq2.get(word, 0))
+    for x, y in zip(question_vector, span_vector):
+        distance += abs(x - y) ** p
+    distance **= 1 / p
 
     return distance
 
 
-def get_Euclidean_distance(s1, s2):
-    words1 = s1.split()
-    words2 = s2.split()
+def get_Manhattan_distance(question, span):
+    unique_chars = set(question + span)
 
-    freq1 = Counter(words1)
-    freq2 = Counter(words2)
+    question_vector = [question.count(c) for c in unique_chars]
+    span_vector = [span.count(c) for c in unique_chars]
 
-    unique_words = set(words1 + words2)
+    manhattan_distance = sum(abs(x - y) for x, y in zip(question_vector, span_vector))
 
-    vec1 = [freq1.get(word, 0) for word in unique_words]
-    vec2 = [freq2.get(word, 0) for word in unique_words]
-
-    return distance.euclidean(vec1, vec2)
+    return manhattan_distance
 
 
-def get_Hamming_distance(s1, s2):
-    if len(s1) != len(s2):
-        return -1
+def get_Euclidean_distance(question, span):
+    unique_chars = set(question + span)
 
-    hamming_distance = 0
-    for i in range(len(s1)):
-        if s1[i] != s2[i]:
-            hamming_distance += 1
+    question_vector = [question.count(c) for c in unique_chars]
+    span_vector = [span.count(c) for c in unique_chars]
+
+    squared_distance = sum((x - y)**2 for x, y in zip(question_vector, span_vector))
+    return math.sqrt(squared_distance)
+
+
+def get_Hamming_distance(question, span):
+    max_len = max(len(question), len(span))
+    question_str = question.ljust(max_len)[:max_len]
+    span_str = span.ljust(max_len)[:max_len]
+
+    hamming_distance = sum(c1 != c2 for c1, c2 in zip(question_str, span_str))
 
     return hamming_distance
 
+def get_Jaccard_distance(question, span):
+    question_words = set(question.lower().split())
+    span_words = set(span.lower().split())
 
-def get_Jaccard_distance(s1, s2):
-    set1 = set(s1.split())
-    set2 = set(s2.split())
-
-    intersection = len(set1.intersection(set2))
-    union = len(set1.union(set2))
-    jaccard_distance = 1 - intersection / union
-
-    return jaccard_distance
+    intersection = len(question_words & span_words)
+    union = len(question_words | span_words)
+    if union != 0:
+        return 1 - (intersection / union)
+    else:
+        return 0
 
 
 def get_constituency_parse(span):
