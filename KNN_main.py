@@ -90,52 +90,87 @@ def split_train_test():
                     train_data_titleNo.append(i)
                     train_data_paragNo.append(j)
 
-            train_data.append(
+            if j != len(data["data"][i]["paragraphs"]) - 1:
+                train_data.append(
+                    [
+                        train_data_spans,
+                        train_data_questions,
+                        train_data_answers,
+                        train_data_titleNo,
+                        train_data_paragNo,
+                    ]
+                )
+
+        test_data.append(
+            [
+                test_data_spans,
+                test_data_questions,
+                test_data_answers,
+                test_data_titleNo,
+                test_data_paragNo,
+            ]
+        )
+
+    return (train_data, test_data)
+
+    # print("Creating Test_Data and Train_Data files...")
+    # trainData = {
+    #     "question": train_data_questions,
+    #     "answer": train_data_answers,
+    #     "span": train_data_spans,
+    #     "paragraphNo": train_data_paragNo,
+    #     "titleNo": train_data_titleNo,
+    # }
+
+    # df = pd.DataFrame(trainData)
+    # df.to_csv("KNN/TrainData_dev1.csv", encoding="utf-8", index=False)
+
+    # testData = {
+    #     "question": test_data_questions,
+    #     "answer": test_data_answers,
+    #     "span": test_data_spans,
+    #     "paragraphNo": test_data_paragNo,
+    #     "titleNo": test_data_titleNo,
+    # }
+
+    # df = pd.DataFrame(testData)
+    # df.to_csv("KNN/TestData_dev1.csv", encoding="utf-8", index=False)
+
+
+def find_answer_span_test(data_test_list):
+    # print(data_test_list)
+    for test in data_test_list:
+        paragraph = test[0][0]
+        test_data_questions = test[1]
+        test_data_answers = test[2]
+        test_data_titleNo = test[3]
+        test_data_paragNo = test[4]
+
+        sentences = nltk.sent_tokenize(paragraph)
+        answer_spans = []
+        for answer in test_data_answers:
+            condidate_spans = []
+            for sentence in sentences:
+                if answer in sentence:
+                    condidate_spans.append(sentence)
+
+            answer_spans.append(
                 [
-                    train_data_spans,
-                    train_data_questions,
-                    train_data_answers,
-                    train_data_titleNo,
-                    train_data_paragNo,
+                    answer,
+                    condidate_spans,
                 ]
             )
 
-            test_data.append(
-                [
-                    test_data_spans,
-                    test_data_questions,
-                    test_data_answers,
-                    test_data_titleNo,
-                    test_data_paragNo,
-                ]
-            )
-
-        print("Creating Test_Data and Train_Data files...")
-        trainData = {
-            "question": train_data_questions,
-            "answer": train_data_answers,
-            "span": train_data_spans,
-            "paragraphNo": train_data_paragNo,
-            "titleNo": train_data_titleNo,
-        }
-
-        df = pd.DataFrame(trainData)
-        df.to_csv("KNN/TrainData_dev1.csv", encoding="utf-8", index=False)
-
-        testData = {
-            "question": test_data_questions,
-            "answer": test_data_answers,
-            "span": test_data_spans,
-            "paragraphNo": test_data_paragNo,
-            "titleNo": test_data_titleNo,
-        }
-
-        df = pd.DataFrame(testData)
-        df.to_csv("KNN/TestData_dev1.csv", encoding="utf-8", index=False)
+    return answer_spans
 
 
 def main():
-    split_train_test()
+    data_list = split_train_test()
+    data_train_list = data_list[0]
+    data_test_list = data_list[1]
+    answer_spans = find_answer_span_test(data_test_list)
+
+    print(answer_spans)
 
 
 main()
