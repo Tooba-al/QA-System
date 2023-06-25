@@ -20,6 +20,7 @@ from colorama import Fore
 from nltk.tokenize import TreebankWordTokenizer
 import time
 import math
+import random
 
 
 start_time = time.time()
@@ -137,8 +138,7 @@ def split_train_test():
     # df.to_csv("KNN/TestData_dev1.csv", encoding="utf-8", index=False)
 
 
-def find_answer_span_test(data_test_list):
-    # print(data_test_list)
+def find_answer_sentence_test(data_test_list):
     for test in data_test_list:
         paragraph = test[0][0]
         test_data_questions = test[1]
@@ -156,6 +156,7 @@ def find_answer_span_test(data_test_list):
 
             answer_spans.append(
                 [
+                    test_data_questions[test_data_answers.index(answer)],
                     answer,
                     condidate_spans,
                 ]
@@ -164,13 +165,103 @@ def find_answer_span_test(data_test_list):
     return answer_spans
 
 
+def remove_stopword(text):
+    stop_words = set(
+        stopwords.words("english")
+        + [
+            "though",
+            "and",
+            "I",
+            "A",
+            "a",
+            "an",
+            "An",
+            "And",
+            "So",
+            ".",
+            ",",
+            ")",
+            "By",
+            "(",
+            "''",
+            "Other",
+            "The",
+            ";",
+            "however",
+            "still",
+            "the",
+            "They",
+            "For",
+            "for",
+            "also",
+            "In",
+            "This",
+            "When",
+            "It",
+            "so",
+            "Yes",
+            "yes",
+            "No",
+            "no",
+            "These",
+            "these",
+            "This",
+        ]
+    )
+    filtered_words = "".join([c for c in text if c not in string.punctuation])
+    filtered_words = " ".join(
+        [
+            word.lower()
+            for word in filtered_words.split()
+            if word.lower() not in stop_words
+        ]
+    )
+    return filtered_words
+
+
+def condidate_answers_test(answer_spans_list):
+    all_condidate_answers = []
+    question_list = []
+    for item in answer_spans_list:
+        question = item[0]
+        answer = item[1]
+        condidate_spans = item[2]
+
+        condidate_answers = []
+        for sentence in condidate_spans:
+            condidate_answers.append(answer)
+
+            while len(condidate_answers) <= 5:
+                filtered_words = remove_stopword(sentence).split()
+                random_answer = random.choice(filtered_words)
+
+                if condidate_answers.count(random_answer) == 0:
+                    for bilbilak in condidate_answers:
+                        if random_answer not in bilbilak:
+                            condidate_answers.append(random_answer)
+        question_list.append(question)
+        all_condidate_answers.append([question, answer, sentence, condidate_answers])
+
+    # condidate_ans_data = {
+    #     "question": question_list,
+    #     "condidate_answers": all_condidate_answers,
+    # }
+
+    # df = pd.DataFrame(condidate_ans_data)
+    # df.to_csv("KNN/CondidateAnswers_dev1.csv", encoding="utf-8", index=False)
+
+    # return all_condidate_answers
+
+
 def main():
     data_list = split_train_test()
     data_train_list = data_list[0]
     data_test_list = data_list[1]
-    answer_spans = find_answer_span_test(data_test_list)
+    answer_spans = find_answer_sentence_test(data_test_list)
+    # condidate_answers_test(answer_spans)
 
-    print(answer_spans)
+    # for item in condidate_answers:
+    #     print(item)
 
 
 main()
