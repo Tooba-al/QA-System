@@ -1,15 +1,15 @@
-# import pandas as pd
-# import json
-# import spacy
-# from spacy import displacy
-from collections import Counter
-# from sklearn.feature_extraction.text import TfidfVectorizer
+# # import pandas as pd
+# # import json
+# # import spacy
+# # from spacy import displacy
+# from collections import Counter
+# # from sklearn.feature_extraction.text import TfidfVectorizer
 
-questions1 = []
-answers1 = []
+# questions1 = []
+# answers1 = []
 
-import nltk
-from nltk.corpus import stopwords
+# import nltk
+# from nltk.corpus import stopwords
 
 # from nltk.tokenize import word_tokenize
 # from sklearn.feature_extraction.text import TfidfVectorizer
