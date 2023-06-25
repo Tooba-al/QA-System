@@ -222,6 +222,7 @@ def remove_stopword(text):
 def condidate_answers_test(answer_spans_list):
     all_condidate_answers = []
     question_list = []
+    sentence_list = []
     for item in answer_spans_list:
         question = item[0]
         answer = item[1]
@@ -243,15 +244,17 @@ def condidate_answers_test(answer_spans_list):
                             break
 
         question_list.append(question)
+        sentence_list.append(sentence)
         all_condidate_answers.append(condidate_answers)
 
-    # condidate_ans_data = {
-    #     "question": question_list,
-    #     "condidate_answers": all_condidate_answers,
-    # }
+    condidate_ans_data = {
+        "question": question_list,
+        "span": sentence_list,
+        "condidate_answers": all_condidate_answers,
+    }
 
-    # df = pd.DataFrame(condidate_ans_data)
-    # df.to_csv("KNN/CondidateAnswers_dev1.csv", encoding="utf-8", index=False)
+    df = pd.DataFrame(condidate_ans_data)
+    df.to_csv("KNN/CondidateAnswers_dev1.csv", encoding="utf-8", index=False)
 
     # return all_condidate_answers
 
@@ -261,7 +264,7 @@ def main():
     data_train_list = data_list[0]
     data_test_list = data_list[1]
     answer_spans = find_answer_sentence_test(data_test_list)
-    # condidate_answers_test(answer_spans)
+    condidate_answers_test(answer_spans)
 
     # for item in condidate_answers:
     #     print(item)
