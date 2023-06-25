@@ -229,18 +229,21 @@ def condidate_answers_test(answer_spans_list):
 
         condidate_answers = []
         for sentence in condidate_spans:
-            condidate_answers.append(answer)
+            if len(condidate_answers) == 0:
+                condidate_answers.append(answer)
 
+            filtered_words = remove_stopword(sentence).split()
             while len(condidate_answers) <= 5:
-                filtered_words = remove_stopword(sentence).split()
                 random_answer = random.choice(filtered_words)
 
                 if condidate_answers.count(random_answer) == 0:
-                    for bilbilak in condidate_answers:
-                        if random_answer not in bilbilak:
+                    for ans in condidate_answers:
+                        if random_answer.lower().count(ans) == 0:
                             condidate_answers.append(random_answer)
+                            break
+
         question_list.append(question)
-        all_condidate_answers.append([question, answer, sentence, condidate_answers])
+        all_condidate_answers.append(condidate_answers)
 
     # condidate_ans_data = {
     #     "question": question_list,
