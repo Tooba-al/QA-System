@@ -141,26 +141,87 @@ def split_train_test():
 def train_find_answer_sentence(data_train_list):
     for test in data_train_list:
         paragraph = test[0][0]
-        train_data_questions = test[1]
-        train_data_answers = test[2]
-        train_data_titleNo = test[3]
-        train_data_paragNo = test[4]
+        test_data_questions = test[1]
+        test_data_answers = test[2]
+        test_data_titleNo = test[3]
+        test_data_paragNo = test[4]
+
+        question_list = []
+        sentence_list = []
+        answer_list = []
+        paragraph_list = []
+        title_list = []
 
         sentences = nltk.sent_tokenize(paragraph)
         answer_spans = []
-        for answer in train_data_answers:
+        for answer in test_data_answers:
             condidate_spans = []
+            index = test_data_answers.index(answer)
             for sentence in sentences:
                 if answer in sentence:
-                    condidate_spans.append(sentence)
+                    # condidate_spans.append(sentence)
 
-            answer_spans.append(
-                [
-                    train_data_questions[train_data_answers.index(answer)],
-                    answer,
-                    condidate_spans,
-                ]
-            )
+                    question_list.append(test_data_questions[index])
+                    sentence_list.append(sentence)
+                    answer_list.append(answer)
+                    paragraph_list.append(test_data_paragNo[index])
+                    title_list.append(test_data_titleNo[index])
+                    # answer_spans.append(
+                    #     [
+                    #         test_data_questions[test_data_answers.index(answer)],
+                    #         answer,
+                    #         sentence,
+                    #     ]
+                    # )
+
+                    break
+
+    condidate_ans_data = {
+        "question": question_list,
+        "answer": answer_list,
+        "span": sentence_list,
+        "paragraphNo": paragraph_list,
+        "titleNo": title_list,
+    }
+
+    df = pd.DataFrame(condidate_ans_data)
+    df.to_csv("KNN/TrainData_dev1.csv", encoding="utf-8", index=False)
+
+    return answer_spans
+
+
+def test_data_split_sentence(data_test_list):
+    for test in data_test_list:
+        paragraph = test[0][0]
+        test_data_questions = test[1]
+        test_data_titleNo = test[3]
+        test_data_paragNo = test[4]
+
+        question_list = []
+        sentence_list = []
+        paragraph_list = []
+        title_list = []
+
+        sentences = nltk.sent_tokenize(paragraph)
+        answer_spans = []
+        for question in test_data_questions:
+            condidate_spans = []
+            index = test_data_questions.index(question)
+            for sentence in sentences:
+                question_list.append(question)
+                sentence_list.append(sentence)
+                paragraph_list.append(test_data_paragNo[index])
+                title_list.append(test_data_titleNo[index])
+
+    condidate_ans_data = {
+        "question": question_list,
+        "span": sentence_list,
+        "paragraphNo": paragraph_list,
+        "titleNo": title_list,
+    }
+
+    df = pd.DataFrame(condidate_ans_data)
+    df.to_csv("KNN/TestData_dev1.csv", encoding="utf-8", index=False)
 
     return answer_spans
 
@@ -181,10 +242,11 @@ def main():
     data_list = split_train_test()
     data_train_list = data_list[0]
     data_test_list = data_list[1]
-    answer_spans = train_find_answer_sentence(data_train_list)
+    train_find_answer_sentence(data_train_list)
+    test_data_split_sentence(data_test_list)
     # test_features(data_test_list)
     train_features(data_train_list)
-    test_condidate_sentences(answer_spans, data_test_list)
+    # test_condidate_sentences(answer_spans, data_test_list)
 
     # for item in condidate_answers:
     #     print(item)
