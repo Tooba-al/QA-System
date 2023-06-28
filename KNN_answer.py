@@ -146,46 +146,21 @@ def find_answer_sentence_test(data_test_list):
         test_data_titleNo = test[3]
         test_data_paragNo = test[4]
 
-        question_list = []
-        sentence_list = []
-        answer_list = []
-        paragraph_list = []
-        title_list = []
-
         sentences = nltk.sent_tokenize(paragraph)
         answer_spans = []
         for answer in test_data_answers:
             condidate_spans = []
-            index = test_data_answers.index(answer)
             for sentence in sentences:
                 if answer in sentence:
-                    # condidate_spans.append(sentence)
+                    condidate_spans.append(sentence)
 
-                    question_list.append(test_data_questions[index])
-                    sentence_list.append(sentence)
-                    answer_list.append(answer)
-                    paragraph_list.append(test_data_paragNo[index])
-                    title_list.append(test_data_titleNo[index])
-                    # answer_spans.append(
-                    #     [
-                    #         test_data_questions[test_data_answers.index(answer)],
-                    #         answer,
-                    #         sentence,
-                    #     ]
-                    # )
-
-                    break
-
-    condidate_ans_data = {
-        "question": question_list,
-        "answer": answer_list,
-        "span": sentence_list,
-        "paragraphNo": paragraph_list,
-        "titleNo": title_list,
-    }
-
-    df = pd.DataFrame(condidate_ans_data)
-    df.to_csv("KNN/TrainData_dev1.csv", encoding="utf-8", index=False)
+            answer_spans.append(
+                [
+                    test_data_questions[test_data_answers.index(answer)],
+                    answer,
+                    condidate_spans,
+                ]
+            )
 
     return answer_spans
 
