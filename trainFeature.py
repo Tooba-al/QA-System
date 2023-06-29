@@ -697,13 +697,12 @@ def get_length(text):
     return len(text.split())
 
 
-def get_features(question, span, answer, titleNo, paragNo):
+def get_features(question, span, answer):
     # # answer_types = get_answer_types(data_answers)      ########
     syntatic_divergence = get_syntatic_div(question, span, answer)
     matching_word_frequency = get_matching_word_frequency(question, span)
     bigram_overlap = get_bigram_overlap(question, span)
     trigram_overlap = get_trigram_overlap(question, span)
-    root_match = get_root_matching(question, span)
     span_length = get_length(span)
     question_length = get_length(question)
     span_word_frequency = get_span_TFIDF(span)
@@ -720,13 +719,10 @@ def get_features(question, span, answer, titleNo, paragNo):
     minkowski_distance = get_Minkowski_distance(question, span)
 
     features_data = {
-        "paragNo": titleNo,
-        "titleNo": paragNo,
         "question": question,
         "span": span,
         "answer": answer,
         "syntatic_divergence": syntatic_divergence,
-        "root_matching": root_match,
         "span_TFIDF": span_TFIDF,
         "matching_word_frequency": matching_word_frequency,
         "bigram_overlap": bigram_overlap,
@@ -753,8 +749,6 @@ def main():
     data_questions = df["question"]
     data_answers = df["answer"]
     data_spans = df["span"]
-    data_titleNo = df["titleNo"]
-    data_paragNo = df["paragraphNo"]
     dict_datas = []
 
 
@@ -762,22 +756,17 @@ def main():
         question = data_questions[index]
         span = data_spans[index]
         answer = data_answers[index]
-        titleNo = data_titleNo[index]
-        paragNo = data_paragNo[index]
-        this_result = get_features(question, span, answer, titleNo, paragNo)
+        this_result = get_features(question, span, answer)
         dict_datas.append(this_result)
 
 
 
     csv_file = "KNN/KNN_Features.csv"
-    csv_columns = [
-        "paragNo",
-        "titleNo",
+    csv_columns = [ 
         "question",
         "span",
         "answer",
         "syntatic_divergence",
-        "root_matching",
         "span_TFIDF",
         "matching_word_frequency",
         "bigram_overlap",
@@ -796,10 +785,12 @@ def main():
         "question_length",
     ]
     try:
-        with open(csv_file, "w") as features_file:
+        with open(csv_file, "w", newline='') as features_file:
             writer = csv.DictWriter(features_file, fieldnames=csv_columns)
             writer.writeheader()
             for data in dict_datas:
+                # Remove any whitespace characters from the data
+                data = {k: v.strip() if isinstance(v, str) else v for k, v in data.items()}
                 writer.writerow(data)
     except IOError:
         print(Fore.RED + "I/O error")
