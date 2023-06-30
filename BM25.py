@@ -1,8 +1,8 @@
 # from importjson import document_context, document_question, questions1
 # from nltk.corpus import stopwords
 # from nltk.tokenize import word_tokenize
-# import numpy as np
-# import pandas as pd
+import numpy as np
+import pandas as pd
 # from nltk.stem import WordNetLemmatizer
 
 # questions = []
@@ -169,40 +169,55 @@
 # df = pd.DataFrame(data)
 # df.to_csv('bm25.csv', encoding='utf-8', index=False)
 # /////////////////////////////////////////////////////////////////
-from gensim.summarization import bm25
-import nltk
-nltk.download('punkt')
 
-# Define the documents in the collection
-documents = [
-    "The quick brown fox jumps over the lazy dog",
-    "The quick brown fox jumps over the lazy dog and runs away",
-    "The quick brown fox runs faster than the lazy dog",
-    "The brown dog is lazy and likes to sleep all day",
-]
+questions_df = pd.read_csv('CSV-Files/QuestionsList.csv')
+contexts_df = pd.read_csv('CSv-Files/ContextList.csv')
 
-# Tokenize the documents
-tokenized_documents = [nltk.word_tokenize(doc.lower()) for doc in documents]
+questions = questions_df['Question'].tolist()
+contexts = contexts_df['Context'].tolist()
 
-# Initialize the BM25 model with the tokenized documents
-bm25_model = bm25.BM25(tokenized_documents)
+tokenized_contexts = [context.split() for context in contexts]
 
-# Define a query
-query = "the quick brown fox"
+doc_freqs = {}
+for context in tokenized_contexts:
+    for term in set(context):
+        doc_freqs[term] = doc_freqs.get(term, 0) + 1
 
-# Tokenize the query
-tokenized_query = nltk.word_tokenize(query.lower())
+avg_doc_len = np.mean([len(context) for context in tokenized_contexts])
 
-# Compute the BM25 scores for each document with respect to the query
-scores = bm25_model.get_scores(tokenized_query)
+k1 = 1.2
+b = 0.75
 
-# Rank the documents by their BM25 score
-ranked_documents = sorted(zip(documents, scores), key=lambda x: x[1], reverse=True)
+N = len(tokenized_contexts)
+idf = {}
+for term, freq in doc_freqs.items():
+    idf[term] = np.log((N - freq + 0.5) / (freq + 0.5))
 
-# Print the top-ranked documents
-for document, score in ranked_documents[:3]:
-    print(f"Document: {document}")
-    print(f"Score: {score}")
-    print("")
+doc_lens = [len(context) for context in tokenized_contexts]
 
+avg_doc_len = np.mean(doc_lens)
+
+bm25_scores = []
+for question in questions:
+    tokenized_question = question.split()
+    scores = []
+    for i, context in enumerate(tokenized_contexts):
+        score = 0
+        for term in tokenized_question:
+            if term in doc_freqs:
+                idf_term = idf[term]
+                tf_term = context.count(term)
+                doc_len = doc_lens[i]
+                score += idf_term * ((tf_term * (k1 + 1)) / (tf_term + k1 * (1 - b + b * (doc_len / avg_doc_len))))
+        scores.append(score)
+    bm25_scores.append(scores)
+
+top_contexts = []
+for scores in bm25_scores:
+    top_idxs = np.argsort(scores)[::-1][:3]
+    top_contexts.append([contexts[idx] for idx in top_idxs])
+
+answer_df = pd.DataFrame({'Question': questions, 'Answers': top_contexts})
+
+answer_df.to_csv('BM25_ranking.csv', index=False)
 

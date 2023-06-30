@@ -699,20 +699,14 @@ def get_length(text):
 
 def get_features(question, span, answer):
     # # answer_types = get_answer_types(data_answers)      ########
-    syntatic_divergence = get_syntatic_div(question, span, answer)
     matching_word_frequency = get_matching_word_frequency(question, span)
     bigram_overlap = get_bigram_overlap(question, span)
     trigram_overlap = get_trigram_overlap(question, span)
-    span_length = get_length(span)
-    question_length = get_length(question)
     span_word_frequency = get_span_TFIDF(span)
     span_TFIDF = get_span_TFIDF(span)
     bigram_TFIDF = get_bigram_TFIDF(span)
     trigram_TFIDF = get_trigram_TFIDF(span)
     # bm25 = get_BM25()      ########
-    consistant_label = get_constituency_parse(span)
-    span_POS_tags = get_POS_tags(span)
-    hamming_distance = get_Hamming_distance(question, span)
     jaccard_distance = get_Jaccard_distance(question, span)
     euclidean_distance = get_Euclidean_distance(question, span)
     manhattan_distance = get_Manhattan_distance(question, span)
@@ -721,8 +715,6 @@ def get_features(question, span, answer):
     features_data = {
         "question": question,
         "span": span,
-        "answer": answer,
-        "syntatic_divergence": syntatic_divergence,
         "span_TFIDF": span_TFIDF,
         "matching_word_frequency": matching_word_frequency,
         "bigram_overlap": bigram_overlap,
@@ -733,12 +725,9 @@ def get_features(question, span, answer):
         "minkowski_distance": minkowski_distance,
         "manhattan_distance": manhattan_distance,
         "euclidean_distance": euclidean_distance,
-        "hamming_distance": hamming_distance,
         "jaccard_distance": jaccard_distance,
-        "consistant_labels": consistant_label,
-        "span_POS_tags": span_POS_tags,
-        "span_length": span_length,
-        "question_length": question_length,
+
+
     }
 
     return features_data
@@ -761,12 +750,10 @@ def main():
 
 
 
-    csv_file = "KNN/KNN_Features.csv"
+    csv_file = "KNN/KNN_Features_dev.csv"
     csv_columns = [ 
         "question",
         "span",
-        "answer",
-        "syntatic_divergence",
         "span_TFIDF",
         "matching_word_frequency",
         "bigram_overlap",
@@ -777,12 +764,9 @@ def main():
         "minkowski_distance",
         "manhattan_distance",
         "euclidean_distance",
-        "hamming_distance",
         "jaccard_distance",
-        "consistant_labels",
-        "span_POS_tags",
-        "span_length",
-        "question_length",
+
+
     ]
     try:
         with open(csv_file, "w", newline='') as features_file:

@@ -4,6 +4,55 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import StandardScaler
 import math
+import string
+
+from nltk.corpus import stopwords
+
+def bigramTFIDF(text):
+    stop_words = set(
+        stopwords.words("english")
+        
+    )
+    filtered_words =[
+            word
+            for word in text
+            if (word not in stop_words) and (word not in string.punctuation)]
+    
+    if not filtered_words:
+        return 0
+    doc = " ".join(filtered_words)
+    tfidf = TfidfVectorizer(ngram_range=(2, 2))
+    tfidf_matrix = tfidf.fit_transform([doc])
+    feature_names = tfidf.get_feature_names_out()
+
+    if len(feature_names) == 0:
+        return 0
+    tfidf_sum = tfidf_matrix.sum()
+    return tfidf_sum
+
+
+
+def trigramTFIDF(text):
+    stop_words = set(
+        stopwords.words("english")
+        
+    )
+    filtered_words =[
+            word
+            for word in text
+            if (word not in stop_words) and (word not in string.punctuation)]
+    
+    if not filtered_words:
+        return 0
+    doc = " ".join(filtered_words)
+    tfidf = TfidfVectorizer(ngram_range=(3,3))
+    tfidf_matrix = tfidf.fit_transform([doc])
+    feature_names = tfidf.get_feature_names_out()
+
+    if len(feature_names) == 0:
+        return 0
+    tfidf_sum = tfidf_matrix.sum()
+    return tfidf_sum 
 
 def euclideandistance(question_tokens, sentence_tokens):
     unique_chars = set(question_tokens + sentence_tokens)
@@ -34,6 +83,19 @@ def manhattandistance(question_tokens, sentence_tokens):
         manhattan_distance = sum(abs(x - y) for x, y in zip(question_vector, span_vector))
 
         return manhattan_distance
+def spanTFIDF(sentence_tokens):
+    result = 0
+    for word in sentence_tokens:
+        tf = 0
+        occurance = 0
+        N = len(sentence_tokens)
+        occurance = sentence_tokens.count(word)
+
+        if occurance != 0:
+            tf = occurance / N
+        result += tf
+
+    return result
 
 # define a function to calculate the features for a given question and sentence
 def calculate_features(question, sentence):
@@ -61,16 +123,18 @@ def calculate_features(question, sentence):
     question_tfidf = vectorizer.transform([question]).toarray()
     span_tfidf_score = (span_tfidf * question_tfidf.T).sum()
     minkowski_distance=minkowskidistance(question_tokens, sentence_tokens)
-
+    bigram_TFIDF=bigramTFIDF(sentence_tokens)
+    trigram_TFIDF=trigramTFIDF(sentence_tokens)
 
     manhattan_distance=manhattandistance(question_tokens, sentence_tokens)
     # calculate other distance-based features
     # hamming_distance=hammingdistance(question_tokens, sentence_tokens)
     jaccard_distance = nltk.distance.jaccard_distance(set(question_tokens), set(sentence_tokens))
-    euclidean_distance=euclideandistance(question_tokens, sentence_tokens)   
+    euclidean_distance=euclideandistance(question_tokens, sentence_tokens)
+    span_TFIDF = spanTFIDF(sentence_tokens)
     # return the calculated features as a dictionary
-    return [mwf, bigram_overlap, trigram_overlap, span_tfidf_score,
-            minkowski_distance, manhattan_distance, jaccard_distance, euclidean_distance]
+    return [span_tfidf_score,mwf,bigram_overlap , trigram_overlap,span_TFIDF,
+           bigram_TFIDF, trigram_TFIDF,minkowski_distance, manhattan_distance,euclidean_distance, jaccard_distance]
 
 
 # calculate the features for the question and each candidate sentence
@@ -81,23 +145,23 @@ candidate_sentences = ["Paris is the capital of France.",
 features = []
 for sentence in candidate_sentences:
     features.append(calculate_features(question, sentence))
-print("feat: ",features)
+
 # scale the features using StandardScaler
 scaler = StandardScaler()
 features_scaled = scaler.fit_transform(features)
 # load the CSV file into a pandas DataFrame containing the features and labels
-df = pd.read_csv("my_csv_file.csv")
+df = pd.read_csv("kNN/KNN_Features_dev.csv",encoding='cp1252')
 
 # separate the features and labels
-X = df.drop(["sentence"], axis=1)
-y = df["sentence"]
+X = df.drop(["span","question"], axis=1)
+y = df["span"]
 
 # scale the features using StandardScaler
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
 
 # train a KNN classifier using the entire dataset
-knn = KNeighborsClassifier(n_neighbors=5, metric='euclidean')
+knn = KNeighborsClassifier(n_neighbors=3, metric='euclidean')
 knn.fit(X_scaled, y)
 
 # for each set of candidate features, calculate the predicted sentence that contains the answer
