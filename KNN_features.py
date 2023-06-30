@@ -37,9 +37,9 @@ print(
 nlp = spacy.load("en_core_web_sm")
 lemmatizer = WordNetLemmatizer()
 
-print(Fore.RED + "Dataset : CSV-Files/devSplit/dev1.json\n")
-with open("CSV-Files/devSplit/dev1.json") as f:
-    data = json.load(f)
+# print(Fore.RED + "Dataset : CSV-Files/devSplit/dev1.json\n")
+# with open("CSV-Files/devSplit/dev1.json") as f:
+#     data = json.load(f)
 
 ##############################################################################################################
 ##############################################################################################################
@@ -207,15 +207,15 @@ def dependency_parser(span):
     return token_positions
 
 
-def find_answer_sentence(paragraph_no, answer):
-    contexts = data["data"][0]["paragraphs"][paragraph_no]["context"]
-    sentences = nltk.sent_tokenize(contexts)
-    result = ""
-    for sentence in sentences:
-        if answer in sentence:
-            result = sentence
+# def find_answer_sentence(paragraph_no, answer):
+#     contexts = data["data"][0]["paragraphs"][paragraph_no]["context"]
+#     sentences = nltk.sent_tokenize(contexts)
+#     result = ""
+#     for sentence in sentences:
+#         if answer in sentence:
+#             result = sentence
 
-    return result
+#     return result
 
 
 def Q_shortest_dependency_path(anchor, wh_word, text):
@@ -381,10 +381,10 @@ def get_root_matching(question, span):
         if token.dep_ == "ROOT":
             span_dep = token
 
-    # if question_dep.text == span_dep.text:
-    # print(question_dep)
-    # print(span_dep)
-    if question_dep == span_dep:
+    if question_dep.text == span_dep.text:
+        # print(question_dep)
+        # print(span_dep)
+        # if question_dep == span_dep:
         return True
 
     return False
@@ -786,102 +786,51 @@ def get_features(question, span, answer, titleNo, paragNo):
     return features_data
 
 
-def main():
-    data_questions = []
-    data_answers = []
-    data_spans = []
-    data_titleNo = []
-    data_paragNo = []
-    dict_datas = []
-
+def main(question, span, answer, titleNo, paragNo):
     with open("CSV-Files/devSplit/dev1.json") as f:
         data = json.load(f)
 
     print(Fore.RED + "Extracting data from dataset...\n")
-    for i in range(len(data["data"])):
-        for j in range(len(data["data"][i]["paragraphs"])):
-            for k in range(len(data["data"][i]["paragraphs"][j]["qas"])):
-                data_spans.append(data["data"][i]["paragraphs"][j]["context"])
-                data_questions.append(
-                    data["data"][i]["paragraphs"][j]["qas"][k]["question"]
-                )
-                data_answers.append(
-                    data["data"][i]["paragraphs"][j]["qas"][k]["answers"][0]["text"]
-                )
-                data_titleNo.append(i)
-                data_paragNo.append(j)
+    result = get_features(question, span, answer, titleNo, paragNo)
 
-        print(Fore.RED + "For each question and answer extracting features...\n")
-        for index in range(len(data_questions)):
-            print(
-                Fore.RED
-                + "Getting data for question "
-                + str(index)
-                + "/"
-                + str(len(data_questions))
-                + "...\n"
-            )
-            question = data_questions[index]
-            span = data_spans[index]
-            answer = data_answers[index]
-            titleNo = data_titleNo[index]
-            paragNo = data_paragNo[index]
-
-            sentences = nltk.sent_tokenize(span)
-            for sentence in sentences:
-                # print(j, answer)
-                # span = find_answer_sentence(j, answer)
-                # if span != "":
-                if sentence.count(answer) > 0:
-                    this_result = get_features(question, span, answer, titleNo, paragNo)
-                    dict_datas.append(this_result)
-
-                    print(
-                        Fore.GREEN
-                        + "\nEnd of question "
-                        + str(index)
-                        + "/"
-                        + str(len(data_questions))
-                        + "...\n"
-                    )
-
-    csv_file = "Features/KNN_Features_CSV_dev1_1.csv"
-    csv_columns = [
-        "paragNo",
-        "titleNo",
-        "question",
-        "span",
-        "answer",
-        "syntatic_divergence",
-        "root_matching",
-        "span_TFIDF",
-        "matching_word_frequency",
-        "bigram_overlap",
-        "trigram_overlap",
-        "span_word_frequency",
-        "bigram_TFIDF",
-        "trigram_TFIDF",
-        "minkowski_distance",
-        "manhattan_distance",
-        "euclidean_distance",
-        "hamming_distance",
-        "jaccard_distance",
-        "edit_distance",
-        "consistant_labels",
-        "span_POS_tags",
-        "span_length",
-        "question_length",
-    ]
-    try:
-        with open(csv_file, "w") as features_file:
-            writer = csv.DictWriter(features_file, fieldnames=csv_columns)
-            writer.writeheader()
-            for data in dict_datas:
-                writer.writerow(data)
-    except IOError:
-        print(Fore.RED + "I/O error")
+    # csv_file = "Features/KNN_Features_CSV_dev1_1.csv"
+    # csv_columns = [
+    #     "paragNo",
+    #     "titleNo",
+    #     "question",
+    #     "span",
+    #     "answer",
+    #     "syntatic_divergence",
+    #     "root_matching",
+    #     "span_TFIDF",
+    #     "matching_word_frequency",
+    #     "bigram_overlap",
+    #     "trigram_overlap",
+    #     "span_word_frequency",
+    #     "bigram_TFIDF",
+    #     "trigram_TFIDF",
+    #     "minkowski_distance",
+    #     "manhattan_distance",
+    #     "euclidean_distance",
+    #     "hamming_distance",
+    #     "jaccard_distance",
+    #     "edit_distance",
+    #     "consistant_labels",
+    #     "span_POS_tags",
+    #     "span_length",
+    #     "question_length",
+    # ]
+    # try:
+    #     with open(csv_file, "w") as features_file:
+    #         writer = csv.DictWriter(features_file, fieldnames=csv_columns)
+    #         writer.writeheader()
+    #         # for data in dict_datas:
+    #         writer.writerow(data)
+    # except IOError:
+    #     print(Fore.RED + "I/O error")
+    return result
 
 
-main()
-end_time = time.time()
-print(Fore.RED + "Execution Time = ", (end_time - start_time) / 60)
+# main(question, span, answer, titleNo, paragNo)
+# end_time = time.time()
+# print(Fore.RED + "Execution Time = ", (end_time - start_time) / 60)
