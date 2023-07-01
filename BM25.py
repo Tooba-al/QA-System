@@ -214,7 +214,7 @@ for question in questions:
 
 top_contexts = []
 for scores in bm25_scores:
-    top_idxs = np.argsort(scores)[::-1][:3]
+    top_idxs = np.argsort(scores)[::-1][:5]
     top_contexts.append([contexts[idx] for idx in top_idxs])
 
 answer_df = pd.DataFrame({'Question': questions, 'Answers': top_contexts})
