@@ -137,43 +137,49 @@ test_data = data.drop(train_data.index)
 
 scaler = MinMaxScaler()
 train_data_norm = scaler.fit_transform(train_data.iloc[:, 2:])
-test_data_norm = scaler.transform(test_data.iloc[:, 2:])
+# test_data_norm = scaler.transform(test_data.iloc[:, 2:])
 
-k = 5 
-knn = KNeighborsClassifier(n_neighbors=k)
-knn.fit(train_data_norm, train_data['span'])
-questionss = []
-contextss = []
-def process_spans_for_question(testCSV, question):
-    rows = testCSV[testCSV['question'] == question]
-    spans = rows['span'].tolist()
-    new_features = [calculate_features(question, sentence) for sentence in spans]
-    new_features_norm = scaler.transform(new_features)
-    prob_estimates = knn.predict_proba(new_features_norm)
+# k = 1 
+# knn = KNeighborsClassifier(n_neighbors=k)
+# knn.fit(train_data_norm, train_data['span'])
+# questionss = []
+# contextss = []
+# def process_spans_for_question(testCSV, question):
+#     rows = testCSV[testCSV['question'] == question]
+#     spans = rows['span'].tolist()
+#     new_features = [calculate_features(question, sentence) for sentence in spans]
+#     new_features_norm = scaler.transform(new_features)
+#     prob_estimates = knn.predict_proba(new_features_norm)
 
-    best_sentence_idx = np.argmax(prob_estimates[:, 1])  
-    best_sentence = spans[best_sentence_idx]
-    questionss.append(question)
-    contextss.append(best_sentence)
+#     # argmax function from NumPy find the index of the sentence with the highest predicted probability. The second column of prob_estimates (indexed by [:, 1]) contains the probability estimates for the positive class (i.e., the sentence with the answer)
+
+#     best_sentence_idx = np.argmax(prob_estimates[:, 1])  
+#     best_sentence = spans[best_sentence_idx]
+#     questionss.append(question)
+#     contextss.append(best_sentence)
 
 testCSV = pd.read_csv("KNN/TestData_dev1.csv")
 
-for question in testCSV['question'].unique():
-    process_spans_for_question(testCSV, question)
+# for question in testCSV['question'].unique():
+#     process_spans_for_question(testCSV, question)
 
-# new_question = 'What is the capital of France?'
-# new_sentences = ['Paris is the capital of France.', 'London is the capital of England.']
+new_question = 'How many total yards did Denver gain?'
+new_sentences = ["Super Bowl 50 featured numerous records from individuals and teams.", "Denver won despite being massively outgained in total yards (315 to 194) and first downs (21 to 11).", "Their 194 yards and 11 first downs were both the lowest totals ever by a Super Bowl winning team." ,"The previous record was 244 yards by the Baltimore Ravens in Super Bowl XXXV.", "Only seven other teams had ever gained less than 200 yards in a Super Bowl, and all of them had lost." ,"The Broncos' seven sacks tied a Super Bowl record set by the Chicago Bears in Super Bowl XX." ,"Kony Ealy tied a Super Bowl record with three sacks.", "Jordan Norwood's 61-yard punt return set a new record, surpassing the old record of 45 yards set by John Taylor in Super Bowl XXIII." ,"Denver was just 1-of-14 on third down, while Carolina was barely better at 3-of-15." ,"The two teams' combined third down conversion percentage of 13.8 was a Super Bowl low.", "Manning and Newton had quarterback passer ratings of 56.6 and 55.4, respectively, and their added total of 112 is a record lowest aggregate passer rating for a Super Bowl." ,"Manning became the oldest quarterback ever to win a Super Bowl at age 39, and the first quarterback ever to win a Super Bowl with two different teams, while Gary Kubiak became the first head coach to win a Super Bowl with the same franchise he went to the Super Bowl with as a player."]
 
-# new_features = [calculate_features(new_question, sentence) for sentence in new_sentences]
-# new_features_norm = scaler.transform(new_features)
 
-# argmax function from NumPy find the index of the sentence with the highest predicted probability. The second column of prob_estimates (indexed by [:, 1]) contains the probability estimates for the positive class (i.e., the sentence with the answer)
-# prob_estimates = knn.predict_proba(new_features_norm)
 
-# best_sentence_idx = np.argmax(prob_estimates[:, 1])  
+new_features = [calculate_features(new_question, sentence) for sentence in new_sentences]
+print(new_features)
+new_features_norm = scaler.transform(new_features)
 
-# best_sentence = new_sentences[best_sentence_idx]
-answer_df = pd.DataFrame({'Question': questionss, 'predicted sentence': contextss})
 
-answer_df.to_csv('knn_test.csv', index=False)
+prob_estimates = knn.predict_proba(new_features_norm)
+
+best_sentence_idx = np.argmax(prob_estimates[:, 1])  
+
+best_sentence = new_sentences[best_sentence_idx]
+print(best_sentence)
+# answer_df = pd.DataFrame({'Question': questionss, 'predicted sentence': contextss})
+
+# answer_df.to_csv('knn_test.csv', index=False)
 
