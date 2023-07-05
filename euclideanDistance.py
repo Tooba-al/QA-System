@@ -166,7 +166,6 @@ test_data_norm = scaler.transform(testCSV.iloc[:, 2:])
 
 # distances = cdist(test_data_norm, train_data_norm, metric='euclidean')
 
-# Calculate the Euclidean distance between each row of the test and train DataFrames
 # distances = np.zeros((testCSV.shape[0], trainCSV.shape[0]))
 distances_list = []
 for i in range(test_data_norm.shape[0]):
@@ -177,7 +176,7 @@ for i in range(test_data_norm.shape[0]):
         train_question = trainCSV.iloc[j]['question']
         train_span = trainCSV.iloc[j]['span']
         distances_list.append([test_question, test_span, train_question, train_span, distance])
-# Save the distances to a CSV file
+        
 distances_df = pd.DataFrame(distances_list, columns=['test_question', 'test_span', 'train_question', 'train_span', 'distance'])
 distances_df.to_csv('kNN/distances.csv', index=False)
 # print(distances.shape)
@@ -261,11 +260,9 @@ distances_df.to_csv('kNN/distances.csv', index=False)
 # data_scaled_df = pd.DataFrame(FeatureTest, columns=["span_tfidf_score","mwf","bigram_overlap" , "trigram_overlap","span_TFIDF",
 #            "bigram_TFIDF", "trigram_TFIDF","minkowski_distance", "manhattan_distance","euclidean_distance", "jaccard_distance"])
 
-# # Add the original columns (question, span) to the new dataframe
 # data_scaled_df['question'] = testCSV['question']
 # data_scaled_df['span'] = testCSV['span']
 
-# # Save the normalized features to a new CSV file
 # data_scaled_df.to_csv('test_Features_dev.csv', index=False)
 
 # test_data_norm = scaler.transform(np.array(FeatureTest))
