@@ -154,32 +154,27 @@ from scipy.spatial.distance import cdist
 #     return features_data
 
 
-# /////
+# ///// FIND DISTANCE
 
-# trainCSV = pd.read_csv("kNN/KNN_Features_dev.csv",encoding='cp1252')
-# print(trainCSV.shape)
-# scaler = MinMaxScaler()
-# train_data_norm = scaler.fit_transform(trainCSV.iloc[:, 2:])
+trainCSV = pd.read_csv("kNN/KNN_Features_dev.csv",encoding='cp1252')
+scaler = MinMaxScaler()
+train_data_norm = scaler.fit_transform(trainCSV.iloc[:, 2:])
 
-# testCSV = pd.read_csv("kNN/test_Features_dev.csv",encoding='cp1252')
-# print(testCSV.shape)
-# test_data_norm = scaler.transform(testCSV.iloc[:, 2:])
+testCSV = pd.read_csv("kNN/test_Features_dev.csv",encoding='cp1252')
+test_data_norm = scaler.transform(testCSV.iloc[:, 2:])
 
-# # distances = cdist(test_data_norm, train_data_norm, metric='euclidean')
-
-# # distances = np.zeros((testCSV.shape[0], trainCSV.shape[0]))
-# distances_list = []
-# for i in range(test_data_norm.shape[0]):
-#     for j in range(train_data_norm.shape[0]):
-#         distance = np.sqrt(np.sum((test_data_norm[i, :] - train_data_norm[j, :])**2))
-#         test_question = testCSV.iloc[i]['question']
-#         test_span = testCSV.iloc[i]['span']
-#         train_question = trainCSV.iloc[j]['question']
-#         train_span = trainCSV.iloc[j]['span']
-#         distances_list.append([test_question, test_span, train_question, train_span, distance])
+distances_list = []
+for i in range(test_data_norm.shape[0]):
+    for j in range(train_data_norm.shape[0]):
+        distance = np.sqrt(np.sum((test_data_norm[i, :] - train_data_norm[j, :])**2))
+        test_question = testCSV.iloc[i]['question']
+        test_span = testCSV.iloc[i]['span']
+        train_question = trainCSV.iloc[j]['question']
+        train_span = trainCSV.iloc[j]['span']
+        distances_list.append([test_question, test_span, train_question, train_span, distance])
         
-# distances_df = pd.DataFrame(distances_list, columns=['test_question', 'test_span', 'train_question', 'train_span', 'distance'])
-# distances_df.to_csv('kNN/distances.csv', index=False)
+distances_df = pd.DataFrame(distances_list, columns=['test_question', 'test_span', 'train_question', 'train_span', 'distance'])
+distances_df.to_csv('kNN/distances.csv', index=False)
 
 # ////// MIN DISTANCE EACH GROUP
 df = pd.read_csv('KNN/distances.csv')
