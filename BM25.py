@@ -212,12 +212,50 @@ for question in questions:
         scores.append(score)
     bm25_scores.append(scores)
 
+# top_contexts = []
+# for scores in bm25_scores:
+#     top_idxs = np.argsort(scores)[::-1][:5]
+#     top_contexts.append([contexts[idx] for idx in top_idxs])
+
+# answer_df = pd.DataFrame({'Question': questions, 'Answers': top_contexts})
+
+# answer_df.to_csv('BM25_ranking.csv', index=False)
+
+# ////
+
+# top_contexts = []
+# for scores in bm25_scores:
+#     top_idxs = np.argsort(scores)[::-1][:5]
+#     top_contexts.append([contexts[i] for i in top_idxs])
+
+# answer_data = []
+# for i in range(len(questions)):
+#     for j in range(len(top_contexts[i])):
+#         answer_data.append((questions[i], top_contexts[i][j]))
+
+# answer_df = pd.DataFrame(answer_data, columns=['Question', 'Answer'])
+
+# answer_df.to_csv('BM25_ranking.csv', index=False)
+
+# Get the top 3 contexts for each question
 top_contexts = []
+top_idxs_list = []
 for scores in bm25_scores:
     top_idxs = np.argsort(scores)[::-1][:5]
-    top_contexts.append([contexts[idx] for idx in top_idxs])
+    top_idxs_list.append(top_idxs)
+    top_contexts.append([contexts[i] for i in top_idxs])
 
-answer_df = pd.DataFrame({'Question': questions, 'Answers': top_contexts})
+# Create a new DataFrame with the questions and their corresponding top 3 contexts
+answer_data = []
+for i in range(len(questions)):
+    for j in range(len(top_contexts[i])):
+        answer_data.append((questions[i], top_contexts[i][j], contexts_df.iloc[top_idxs_list[i][j]]['TitleNo'], contexts_df.iloc[top_idxs_list[i][j]]['ParagraphNo'], questions_df.iloc[i]['TitleNo'], questions_df.iloc[i]['ParagraphNo']))
 
+answer_df = pd.DataFrame(answer_data, columns=['Question', 'Answer', 'Context_TitleNo', 'Context_paragraphNo', 'Question_TitleNo', 'Question_paragraphNo'])
+
+# Write the DataFrame to a new CSV file
 answer_df.to_csv('BM25_ranking.csv', index=False)
+
+# Print the results
+# print(answer_df)
 
