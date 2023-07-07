@@ -155,7 +155,6 @@ from scipy.spatial.distance import cdist
 
 
 # ///// FIND DISTANCE
-
 trainCSV = pd.read_csv("kNN/KNN_Features_dev.csv",encoding='cp1252')
 scaler = MinMaxScaler()
 train_data_norm = scaler.fit_transform(trainCSV.iloc[:, 2:])
@@ -191,22 +190,14 @@ sorted_spans_df = sorted_spans_df.reset_index(drop=True)
 sorted_spans_df.to_csv("KNN/sort_min_distances.csv", index=False)
 # ///
 
-# print(distances.shape)
-# distance_euc = euclidean_distances(train_data_norm, test_data_norm)
-# print(type(distance_euc))
-# np.savetxt('euclidean_on_features.csv', distance_euc, delimiter=',')
-# distance_cos = cosine_distances(train_data_norm, test_data_norm)
-# print(distance_cos)
 
+# distance_cos = cosine_distances(train_data_norm, test_data_norm)
 # FeatureTest = []
 # def process_spans_for_question(testCSV, question):
 #     rows = testCSV[testCSV['question'] == question]
 #     spans = rows['span'].tolist()
     # new_features = [calculate_features(question, sentence) for sentence in spans]
-
     # FeatureTest.append(new_features)
-    
-# 
 
 
 
@@ -276,8 +267,4 @@ sorted_spans_df.to_csv("KNN/sort_min_distances.csv", index=False)
 # data_scaled_df['span'] = testCSV['span']
 
 # data_scaled_df.to_csv('test_Features_dev.csv', index=False)
-
-# test_data_norm = scaler.transform(np.array(FeatureTest))
-# print(test_data_norm)
-# print(FeatureTest)
 
