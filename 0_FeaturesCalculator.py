@@ -385,9 +385,9 @@ def get_root_matching(question, span):
     # print(question_dep)
     # print(span_dep)
     if question_dep == span_dep:
-        return True
+        return 1
 
-    return False
+    return 0
 
 
 def get_span_TFIDF(text):
