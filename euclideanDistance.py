@@ -13,145 +13,145 @@ from sklearn.metrics.pairwise import euclidean_distances
 from sklearn.metrics.pairwise import cosine_distances
 from scipy.spatial.distance import cdist
 
-# def bigramTFIDF(text):
-#     stop_words = set(
-#         stopwords.words("english")
+def bigramTFIDF(text):
+    stop_words = set(
+        stopwords.words("english")
         
-#     )
-#     filtered_words =[
-#             word
-#             for word in text
-#             if (word not in stop_words) and (word not in string.punctuation)]
+    )
+    filtered_words =[
+            word
+            for word in text
+            if (word not in stop_words) and (word not in string.punctuation)]
     
-#     if not filtered_words:
-#         return 0
-#     doc = " ".join(filtered_words)
-#     tfidf = TfidfVectorizer(ngram_range=(2, 2))
-#     tfidf_matrix = tfidf.fit_transform([doc])
-#     feature_names = tfidf.get_feature_names_out()
+    if not filtered_words:
+        return 0
+    doc = " ".join(filtered_words)
+    tfidf = TfidfVectorizer(ngram_range=(2, 2))
+    tfidf_matrix = tfidf.fit_transform([doc])
+    feature_names = tfidf.get_feature_names_out()
 
-#     if len(feature_names) == 0:
-#         return 0
-#     tfidf_sum = tfidf_matrix.sum()
-#     return tfidf_sum
+    if len(feature_names) == 0:
+        return 0
+    tfidf_sum = tfidf_matrix.sum()
+    return tfidf_sum
 
 
 
-# def trigramTFIDF(text):
-#     stop_words = set(
-#         stopwords.words("english")
+def trigramTFIDF(text):
+    stop_words = set(
+        stopwords.words("english")
         
-#     )
-#     filtered_words =[
-#             word
-#             for word in text
-#             if (word not in stop_words) and (word not in string.punctuation)]
+    )
+    filtered_words =[
+            word
+            for word in text
+            if (word not in stop_words) and (word not in string.punctuation)]
     
-#     if not filtered_words:
-#         return 0
-#     doc = " ".join(filtered_words)
-#     tfidf = TfidfVectorizer(ngram_range=(3,3))
-#     tfidf_matrix = tfidf.fit_transform([doc])
-#     feature_names = tfidf.get_feature_names_out()
+    if not filtered_words:
+        return 0
+    doc = " ".join(filtered_words)
+    tfidf = TfidfVectorizer(ngram_range=(3,3))
+    tfidf_matrix = tfidf.fit_transform([doc])
+    feature_names = tfidf.get_feature_names_out()
 
-#     if len(feature_names) == 0:
-#         return 0
-#     tfidf_sum = tfidf_matrix.sum()
-#     return tfidf_sum 
+    if len(feature_names) == 0:
+        return 0
+    tfidf_sum = tfidf_matrix.sum()
+    return tfidf_sum 
 
-# def euclideandistance(question_tokens, sentence_tokens):
-#     unique_chars = set(question_tokens + sentence_tokens)
+def euclideandistance(question_tokens, sentence_tokens):
+    unique_chars = set(question_tokens + sentence_tokens)
 
-#     question_vector = [question_tokens.count(c) for c in unique_chars]
-#     span_vector = [sentence_tokens.count(c) for c in unique_chars]
+    question_vector = [question_tokens.count(c) for c in unique_chars]
+    span_vector = [sentence_tokens.count(c) for c in unique_chars]
 
-#     squared_distance = sum((x - y) ** 2 for x, y in zip(question_vector, span_vector))
-#     return math.sqrt(squared_distance)  
-# def minkowskidistance(question_tokens, sentence_tokens, p=1):
-#     unique_chars = set(question_tokens + sentence_tokens)
+    squared_distance = sum((x - y) ** 2 for x, y in zip(question_vector, span_vector))
+    return math.sqrt(squared_distance)  
+def minkowskidistance(question_tokens, sentence_tokens, p=1):
+    unique_chars = set(question_tokens + sentence_tokens)
 
-#     question_vector = [question_tokens.count(c) for c in unique_chars]
-#     span_vector = [sentence_tokens.count(c) for c in unique_chars]
+    question_vector = [question_tokens.count(c) for c in unique_chars]
+    span_vector = [sentence_tokens.count(c) for c in unique_chars]
 
-#     distance = 0
-#     for x, y in zip(question_vector, span_vector):
-#         distance += abs(x - y) ** p
-#     distance **= 1 / p
+    distance = 0
+    for x, y in zip(question_vector, span_vector):
+        distance += abs(x - y) ** p
+    distance **= 1 / p
 
-#     return distance
-# def manhattandistance(question_tokens, sentence_tokens):
-#         unique_chars = set(question_tokens + sentence_tokens)
+    return distance
+def manhattandistance(question_tokens, sentence_tokens):
+        unique_chars = set(question_tokens + sentence_tokens)
 
-#         question_vector = [question_tokens.count(c) for c in unique_chars]
-#         span_vector = [sentence_tokens.count(c) for c in unique_chars]
+        question_vector = [question_tokens.count(c) for c in unique_chars]
+        span_vector = [sentence_tokens.count(c) for c in unique_chars]
 
-#         manhattan_distance = sum(abs(x - y) for x, y in zip(question_vector, span_vector))
+        manhattan_distance = sum(abs(x - y) for x, y in zip(question_vector, span_vector))
 
-#         return manhattan_distance
-# def spanTFIDF(sentence_tokens):
-#     result = 0
-#     for word in sentence_tokens:
-#         tf = 0
-#         occurance = 0
-#         N = len(sentence_tokens)
-#         occurance = sentence_tokens.count(word)
+        return manhattan_distance
+def spanTFIDF(sentence_tokens):
+    result = 0
+    for word in sentence_tokens:
+        tf = 0
+        occurance = 0
+        N = len(sentence_tokens)
+        occurance = sentence_tokens.count(word)
 
-#         if occurance != 0:
-#             tf = occurance / N
-#         result += tf
+        if occurance != 0:
+            tf = occurance / N
+        result += tf
 
-#     return result
+    return result
 
 
-# def calculate_features(question, sentence):
-#     question_tokens = nltk.word_tokenize(question)
-#     sentence_tokens = nltk.word_tokenize(sentence)
+def calculate_features(question, sentence):
+    question_tokens = nltk.word_tokenize(question)
+    sentence_tokens = nltk.word_tokenize(sentence)
     
-#     matching_words = set(question_tokens).intersection(sentence_tokens)
-#     mwf = len(matching_words) / len(question_tokens)
+    matching_words = set(question_tokens).intersection(sentence_tokens)
+    mwf = len(matching_words) / len(question_tokens)
     
-#     question_bigrams = set(nltk.bigrams(question_tokens))
-#     sentence_bigrams = set(nltk.bigrams(sentence_tokens))
-#     bigram_overlap = len(question_bigrams.intersection(sentence_bigrams)) / len(question_bigrams)
+    question_bigrams = set(nltk.bigrams(question_tokens))
+    sentence_bigrams = set(nltk.bigrams(sentence_tokens))
+    bigram_overlap = len(question_bigrams.intersection(sentence_bigrams)) / len(question_bigrams)
     
-#     question_trigrams = set(nltk.trigrams(question_tokens))
-#     sentence_trigrams = set(nltk.trigrams(sentence_tokens))
-#     trigram_overlap = len(question_trigrams.intersection(sentence_trigrams)) / len(question_trigrams)
+    question_trigrams = set(nltk.trigrams(question_tokens))
+    sentence_trigrams = set(nltk.trigrams(sentence_tokens))
+    trigram_overlap = len(question_trigrams.intersection(sentence_trigrams)) / len(question_trigrams)
     
-#     vectorizer = TfidfVectorizer()
-#     span_tfidf = vectorizer.fit_transform([sentence]).toarray()
-#     question_tfidf = vectorizer.transform([question]).toarray()
-#     span_tfidf_score = (span_tfidf * question_tfidf.T).sum()
-#     minkowski_distance=minkowskidistance(question_tokens, sentence_tokens)
-#     bigram_TFIDF=bigramTFIDF(sentence_tokens)
-#     trigram_TFIDF=trigramTFIDF(sentence_tokens)
+    vectorizer = TfidfVectorizer()
+    span_tfidf = vectorizer.fit_transform([sentence]).toarray()
+    question_tfidf = vectorizer.transform([question]).toarray()
+    span_tfidf_score = (span_tfidf * question_tfidf.T).sum()
+    minkowski_distance=minkowskidistance(question_tokens, sentence_tokens)
+    bigram_TFIDF=bigramTFIDF(sentence_tokens)
+    trigram_TFIDF=trigramTFIDF(sentence_tokens)
 
-#     manhattan_distance=manhattandistance(question_tokens, sentence_tokens)
+    manhattan_distance=manhattandistance(question_tokens, sentence_tokens)
 
-#     jaccard_distance = nltk.distance.jaccard_distance(set(question_tokens), set(sentence_tokens))
-#     euclidean_distance=euclideandistance(question_tokens, sentence_tokens)
-#     span_TFIDF = spanTFIDF(sentence_tokens)
-#     # return [span_tfidf_score,mwf,bigram_overlap , trigram_overlap,span_TFIDF,
-#     #        bigram_TFIDF, trigram_TFIDF,minkowski_distance, manhattan_distance,euclidean_distance, jaccard_distance]
-#     features_data = {
-#         "question": question,
-#         "span": sentence,
-#         "span_TFIDF": span_tfidf_score,
-#         "matching_word_frequency": mwf,
-#         "bigram_overlap": bigram_overlap,
-#         "trigram_overlap": trigram_overlap,
-#         "span_word_frequency": span_TFIDF,
-#         "bigram_TFIDF": bigram_TFIDF,
-#         "trigram_TFIDF": trigram_TFIDF,
-#         "minkowski_distance": minkowski_distance,
-#         "manhattan_distance": manhattan_distance,
-#         "euclidean_distance": euclidean_distance,
-#         "jaccard_distance": jaccard_distance,
+    jaccard_distance = nltk.distance.jaccard_distance(set(question_tokens), set(sentence_tokens))
+    euclidean_distance=euclideandistance(question_tokens, sentence_tokens)
+    span_TFIDF = spanTFIDF(sentence_tokens)
+    # return [span_tfidf_score,mwf,bigram_overlap , trigram_overlap,span_TFIDF,
+    #        bigram_TFIDF, trigram_TFIDF,minkowski_distance, manhattan_distance,euclidean_distance, jaccard_distance]
+    features_data = {
+        "question": question,
+        "span": sentence,
+        "span_TFIDF": span_tfidf_score,
+        "matching_word_frequency": mwf,
+        "bigram_overlap": bigram_overlap,
+        "trigram_overlap": trigram_overlap,
+        "span_word_frequency": span_TFIDF,
+        "bigram_TFIDF": bigram_TFIDF,
+        "trigram_TFIDF": trigram_TFIDF,
+        "minkowski_distance": minkowski_distance,
+        "manhattan_distance": manhattan_distance,
+        "euclidean_distance": euclidean_distance,
+        "jaccard_distance": jaccard_distance,
 
 
-#     }
+    }
 
-#     return features_data
+    return features_data
 
 
 # ///// FIND DISTANCE
@@ -161,33 +161,67 @@ train_data_norm = scaler.fit_transform(trainCSV.iloc[:, 2:])
 
 testCSV = pd.read_csv("kNN/test_Features_dev.csv",encoding='cp1252')
 test_data_norm = scaler.transform(testCSV.iloc[:, 2:])
-
 distances_list = []
 for i in range(test_data_norm.shape[0]):
     for j in range(train_data_norm.shape[0]):
-        distance = np.sqrt(np.sum((test_data_norm[i, :] - train_data_norm[j, :])**2))
+        # if (i == 0 and j == 0):
+        #     datatest_normalized_df = pd.DataFrame(test_data_norm, columns=testCSV.iloc[:, 2:].columns)
+        #     datatest_normalized_df.to_csv('KNN/validate-test-normalized.csv', index=False)
+        #     datatrain_normalized_df = pd.DataFrame(train_data_norm, columns=trainCSV.iloc[:, 2:].columns)
+        #     datatrain_normalized_df.to_csv('KNN/validate-train-normalized.csv', index=False)
+
+        # Euclidean Distance
+        # distance = np.sqrt(np.sum((test_data_norm[i, :] - train_data_norm[j, :])**2))
+
+        # Cosine Similarity
+        # dot_product = np.dot(test_data_norm[i], train_data_norm[j])
+        # norm_product = np.linalg.norm(test_data_norm[i]) * np.linalg.norm(train_data_norm[j])
+        # similarity = dot_product / norm_product
+        # distance = 1 - similarity
+
+        # Jaccard Distance
+        # intersection = np.intersect1d(test_data_norm[i], train_data_norm[j])
+        # union = np.union1d(test_data_norm[i], train_data_norm[j])
+        # distance = 1 - len(intersection) / len(union)
+
         test_question = testCSV.iloc[i]['question']
         test_span = testCSV.iloc[i]['span']
         train_question = trainCSV.iloc[j]['question']
         train_span = trainCSV.iloc[j]['span']
         distances_list.append([test_question, test_span, train_question, train_span, distance])
         
-distances_df = pd.DataFrame(distances_list, columns=['test_question', 'test_span', 'train_question', 'train_span', 'distance'])
-distances_df.to_csv('kNN/distances.csv', index=False)
+# distances_df = pd.DataFrame(distances_list, columns=['test_question', 'test_span', 'train_question', 'train_span', 'distance'])
+# distances_df.to_csv('kNN/jaccard-distance.csv', index=False)
+
+
+# ///// PRINT NORMALIZED DATA
+# datatest_normalized_df = pd.DataFrame(test_data_norm, columns=testCSV.iloc[:, 2:].columns)
+# datatest_normalized_df.to_csv('KNN/test-normalized.csv', index=False)
+
+# datatrain_normalized_df = pd.DataFrame(train_data_norm, columns=trainCSV.iloc[:, 2:].columns)
+# datatrain_normalized_df.to_csv('KNN/train-normalized.csv', index=False)
+
+# /// CHECK TWO CSV ARE EQUAL
+# df1 = pd.read_csv('KNN/train-normalized.csv')
+# df2 = pd.read_csv('KNN/validate-train-normalized.csv')
+# if df1.equals(df2):
+#     print("The two CSV files are completely equal.")
+# else:
+#     print("The two CSV files are not completely equal.")
 
 # ////// MIN DISTANCE EACH GROUP
-df = pd.read_csv('KNN/distances.csv')
-grouped_df = df.groupby(['test_question', 'test_span'])
-min_distance_df = grouped_df['distance'].min().reset_index()
-min_distance_df.to_csv("KNN/min_distances.csv", index=False)
+# df = pd.read_csv('KNN/jaccard-distance.csv')
+# grouped_df = df.groupby(['test_question', 'test_span'])
+# min_distance_df = grouped_df['distance'].min().reset_index()
+# min_distance_df.to_csv("KNN/min_jaccard_distance.csv", index=False)
 
 # /// SORT MIN DISTANCE
-df = pd.read_csv("KNN/min_distances.csv")
-sorted_df = df.sort_values(by=['test_question', 'distance'])
-grouped_df = sorted_df.groupby('test_question', group_keys=False)
-sorted_spans_df = grouped_df.apply(lambda x: x.sort_values(by=['distance']))
-sorted_spans_df = sorted_spans_df.reset_index(drop=True)
-sorted_spans_df.to_csv("KNN/sort_min_distances.csv", index=False)
+# df = pd.read_csv("KNN/min_jaccard_distance.csv")
+# sorted_df = df.sort_values(by=['test_question', 'distance'])
+# grouped_df = sorted_df.groupby('test_question', group_keys=False)
+# sorted_spans_df = grouped_df.apply(lambda x: x.sort_values(by=['distance']))
+# sorted_spans_df = sorted_spans_df.reset_index(drop=True)
+# sorted_spans_df.to_csv("KNN/sort_min_jaccard_distance.csv", index=False)
 # ///
 
 
