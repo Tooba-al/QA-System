@@ -272,16 +272,31 @@ def main():
         "paragraphNo": data_train_list[0][4],
     }
 
+    test_spans = nltk.sent_tokenize(data_test_list[0][0][0])
+    # print(test_spans)
+    t_span = []
+    t_question = []
+    t_answer = []
+    t_title = []
+    t_parag = []
+    for sentence in test_spans:
+        for index in range(len(data_test_list[0][1])):
+            t_span.append(sentence)
+            t_question.append(data_test_list[0][1][index])
+            t_answer.append(data_test_list[0][2][index])
+            t_title.append(data_test_list[0][3][index])
+            t_parag.append(data_test_list[0][4][index])
+
     test_df = {
-        "span": data_test_list[0][0],
-        "question": data_test_list[0][1],
-        "answer": data_test_list[0][2],
-        "titleNo": data_test_list[0][3],
-        "paragraphNo": data_test_list[0][4],
+        "span": t_span,
+        "question": t_question,
+        "answer": t_answer,
+        "titleNo": t_title,
+        "paragraphNo": t_parag,
     }
     train_df = pd.DataFrame(train_df)
     test_df = pd.DataFrame(test_df)
-    train_df.to_csv("KNN/TrainData_dev1_p46.csv", index=False)
+    # train_df.to_csv("KNN/TrainData_dev1_p46.csv", index=False)
     test_df.to_csv("KNN/TestData_dev1_p46.csv", index=False)
 
     # train_question = data_train_list[1][1]
