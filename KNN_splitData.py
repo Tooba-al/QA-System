@@ -71,7 +71,7 @@ def split_train_test():
         for j in range(len(data["data"][i]["paragraphs"])):
             # for each context
             for k in range(len(data["data"][i]["paragraphs"][j]["qas"])):
-                if j == len(data["data"][i]["paragraphs"]) - 2:
+                if j == len(data["data"][i]["paragraphs"]) - 3:
                     test_data_spans.append(data["data"][i]["paragraphs"][j]["context"])
                     test_data_questions.append(
                         data["data"][i]["paragraphs"][j]["qas"][k]["question"]
@@ -296,8 +296,8 @@ def main():
     }
     train_df = pd.DataFrame(train_df)
     test_df = pd.DataFrame(test_df)
-    # train_df.to_csv("KNN/TrainData_dev1_p46.csv", index=False)
-    test_df.to_csv("KNN/TestData_dev1_p46.csv", index=False)
+    train_df.to_csv("KNN/TrainData_dev1_p51.csv", index=False)
+    test_df.to_csv("KNN/TestData_dev1_p51.csv", index=False)
 
     # train_question = data_train_list[1][1]
 
