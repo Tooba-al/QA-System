@@ -175,7 +175,7 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
-with open("results.txt", "a") as text_file:
+with open("ClassificationAlgos/results.txt", "a") as text_file:
     text_file.write(
         "\nSVM : Model accuracy score with default hyperparameters: {0:0.4f}%\n".format(
             accuracy_score(y_test, y_pred) * 100
@@ -195,7 +195,7 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
-with open("results.txt", "a") as text_file:
+with open("ClassificationAlgos/results.txt", "a") as text_file:
     text_file.write(
         "SVM : Model accuracy score with rbf kernel and C=100.0 : {0:0.4f}%\n".format(
             accuracy_score(y_test, y_pred) * 100
@@ -215,7 +215,7 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
-with open("results.txt", "a") as text_file:
+with open("ClassificationAlgos/results.txt", "a") as text_file:
     text_file.write(
         "SVM : Model accuracy score with rbf kernel and C=1000.0 : {0:0.4f}%\n".format(
             accuracy_score(y_test, y_pred) * 100
@@ -235,7 +235,7 @@ print(
         accuracy_score(y_test, y_pred_test) * 100
     )
 )
-with open("results.txt", "a") as text_file:
+with open("ClassificationAlgos/results.txt", "a") as text_file:
     text_file.write(
         "SVM : Model accuracy score with linear kernel and C=1.0 : {0:0.4f}%\n".format(
             accuracy_score(y_test, y_pred) * 100
@@ -254,7 +254,7 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
-with open("results.txt", "a") as text_file:
+with open("ClassificationAlgos/results.txt", "a") as text_file:
     text_file.write(
         "SVM : Model accuracy score with linear kernel and C=100.0 : {0:0.4f}%\n".format(
             accuracy_score(y_test, y_pred) * 100
@@ -274,7 +274,7 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
-with open("results.txt", "a") as text_file:
+with open("ClassificationAlgos/results.txt", "a") as text_file:
     text_file.write(
         "SVM : Model accuracy score with linear kernel and C=1000.0 : {0:0.4f}%\n".format(
             accuracy_score(y_test, y_pred) * 100
@@ -311,7 +311,7 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
-with open("results.txt", "a") as text_file:
+with open("ClassificationAlgos/results.txt", "a") as text_file:
     text_file.write(
         "SVM : Model accuracy score with polynomial kernel and C=1.0 : {0:0.4f}%\n".format(
             accuracy_score(y_test, y_pred) * 100
@@ -331,7 +331,7 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
-with open("results.txt", "a") as text_file:
+with open("ClassificationAlgos/results.txt", "a") as text_file:
     text_file.write(
         "SVM : Model accuracy score with polynomial kernel and C=100.0 : {0:0.4f}%\n".format(
             accuracy_score(y_test, y_pred) * 100
@@ -351,7 +351,7 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
-with open("results.txt", "a") as text_file:
+with open("ClassificationAlgos/results.txt", "a") as text_file:
     text_file.write(
         "SVM : Model accuracy score with polynomial kernel and C=1000.0 : {0:0.4f}%\n".format(
             accuracy_score(y_test, y_pred) * 100
@@ -375,7 +375,7 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
-with open("results.txt", "a") as text_file:
+with open("ClassificationAlgos/results.txt", "a") as text_file:
     text_file.write(
         "SVM : Model accuracy score with sigmoid kernel and C=1.0 : {0:0.4f}%\n".format(
             accuracy_score(y_test, y_pred) * 100
@@ -395,7 +395,7 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
-with open("results.txt", "a") as text_file:
+with open("ClassificationAlgos/results.txt", "a") as text_file:
     text_file.write(
         "SVM : Model accuracy score with sigmoid kernel and C=100.0 : {0:0.4f}%\n".format(
             accuracy_score(y_test, y_pred) * 100
@@ -415,7 +415,7 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
-with open("results.txt", "a") as text_file:
+with open("ClassificationAlgos/results.txt", "a") as text_file:
     text_file.write(
         "SVM : Model accuracy score with sigmoid kernel and C=1000.0 : {0:0.4f}%\n".format(
             accuracy_score(y_test, y_pred) * 100

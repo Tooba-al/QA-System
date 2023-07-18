@@ -112,7 +112,7 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
-with open("results.txt", "a") as text_file:
+with open("ClassificationAlgos/results.txt", "a") as text_file:
     text_file.write(
         "\nRF : Model accuracy score with 10 decision-trees : {0:0.4f}%\n".format(
             accuracy_score(y_test, y_pred) * 100
@@ -132,7 +132,7 @@ print(
         accuracy_score(y_test, y_pred_100) * 100
     )
 )
-with open("results.txt", "a") as text_file:
+with open("ClassificationAlgos/results.txt", "a") as text_file:
     text_file.write(
         "RF : Model accuracy score with 100 decision-trees : {0:0.4f}%\n".format(
             accuracy_score(y_test, y_pred) * 100
@@ -217,7 +217,7 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
-with open("results.txt", "a") as text_file:
+with open("ClassificationAlgos/results.txt", "a") as text_file:
     text_file.write(
         "RF : Model accuracy score with some variable removed : {0:0.4f}%\n".format(
             accuracy_score(y_test, y_pred) * 100
