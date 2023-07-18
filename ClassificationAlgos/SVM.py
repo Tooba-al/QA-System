@@ -4,22 +4,14 @@ from nltk.stem import WordNetLemmatizer
 import datetime
 from colorama import Fore
 import time
-import numpy as np
 from sklearn.model_selection import train_test_split
-import json
-import nltk
 import category_encoders as ce
-from sklearn.preprocessing import RobustScaler
-from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import accuracy_score
 import numpy as np  # linear algebra
 import pandas as pd  # data processing, CSV file I/O (e.g. pd.read_csv)
 import matplotlib.pyplot as plt  # for data visualization
 from sklearn.preprocessing import StandardScaler
 from sklearn.svm import SVC
-
-# import seaborn as sns # for statistical data visualization
-# %matplotlib inline
 
 start_time = time.time()
 print(
@@ -183,6 +175,12 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
+with open("results.txt", "a") as text_file:
+    text_file.write(
+        "\nSVM : Model accuracy score with default hyperparameters: {0:0.4f}%\n".format(
+            accuracy_score(y_test, y_pred) * 100
+        )
+    )
 
 ######################################################
 # instantiate classifier with rbf kernel and C=100
@@ -197,6 +195,12 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
+with open("results.txt", "a") as text_file:
+    text_file.write(
+        "SVM : Model accuracy score with rbf kernel and C=100.0 : {0:0.4f}%\n".format(
+            accuracy_score(y_test, y_pred) * 100
+        )
+    )
 
 ######################################################
 # instantiate classifier with rbf kernel and C=1000
@@ -211,6 +215,12 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
+with open("results.txt", "a") as text_file:
+    text_file.write(
+        "SVM : Model accuracy score with rbf kernel and C=1000.0 : {0:0.4f}%\n".format(
+            accuracy_score(y_test, y_pred) * 100
+        )
+    )
 
 ######################################################
 # instantiate classifier with linear kernel and C=1.0
@@ -225,6 +235,12 @@ print(
         accuracy_score(y_test, y_pred_test) * 100
     )
 )
+with open("results.txt", "a") as text_file:
+    text_file.write(
+        "SVM : Model accuracy score with linear kernel and C=1.0 : {0:0.4f}%\n".format(
+            accuracy_score(y_test, y_pred) * 100
+        )
+    )
 ######################################################
 # instantiate classifier with linear kernel and C=100.0
 linear_svc100 = SVC(kernel="linear", C=100.0)
@@ -238,6 +254,13 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
+with open("results.txt", "a") as text_file:
+    text_file.write(
+        "SVM : Model accuracy score with linear kernel and C=100.0 : {0:0.4f}%\n".format(
+            accuracy_score(y_test, y_pred) * 100
+        )
+    )
+
 ######################################################
 # instantiate classifier with linear kernel and C=1000.0
 linear_svc1000 = SVC(kernel="linear", C=1000.0)
@@ -251,6 +274,12 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
+with open("results.txt", "a") as text_file:
+    text_file.write(
+        "SVM : Model accuracy score with linear kernel and C=1000.0 : {0:0.4f}%\n".format(
+            accuracy_score(y_test, y_pred) * 100
+        )
+    )
 ######################################################
 # Compare the train-set and test-set accuracy
 y_pred_train = linear_svc.predict(X_train)
@@ -282,6 +311,12 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
+with open("results.txt", "a") as text_file:
+    text_file.write(
+        "SVM : Model accuracy score with polynomial kernel and C=1.0 : {0:0.4f}%\n".format(
+            accuracy_score(y_test, y_pred) * 100
+        )
+    )
 
 #######################################################
 # instantiate classifier with polynomial kernel and C=100.0
@@ -296,6 +331,12 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
+with open("results.txt", "a") as text_file:
+    text_file.write(
+        "SVM : Model accuracy score with polynomial kernel and C=100.0 : {0:0.4f}%\n".format(
+            accuracy_score(y_test, y_pred) * 100
+        )
+    )
 
 #######################################################
 # instantiate classifier with polynomial kernel and C=100.0
@@ -310,6 +351,12 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
+with open("results.txt", "a") as text_file:
+    text_file.write(
+        "SVM : Model accuracy score with polynomial kernel and C=1000.0 : {0:0.4f}%\n".format(
+            accuracy_score(y_test, y_pred) * 100
+        )
+    )
 
 ########################################################
 ########################################################
@@ -328,6 +375,12 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
+with open("results.txt", "a") as text_file:
+    text_file.write(
+        "SVM : Model accuracy score with sigmoid kernel and C=1.0 : {0:0.4f}%\n".format(
+            accuracy_score(y_test, y_pred) * 100
+        )
+    )
 
 ########################################################
 # instantiate classifier with sigmoid kernel and C=100.0
@@ -342,6 +395,12 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
+with open("results.txt", "a") as text_file:
+    text_file.write(
+        "SVM : Model accuracy score with sigmoid kernel and C=100.0 : {0:0.4f}%\n".format(
+            accuracy_score(y_test, y_pred) * 100
+        )
+    )
 
 ########################################################
 # instantiate classifier with sigmoid kernel and C=100.0
@@ -356,3 +415,9 @@ print(
         accuracy_score(y_test, y_pred) * 100
     )
 )
+with open("results.txt", "a") as text_file:
+    text_file.write(
+        "SVM : Model accuracy score with sigmoid kernel and C=1000.0 : {0:0.4f}%\n".format(
+            accuracy_score(y_test, y_pred) * 100
+        )
+    )

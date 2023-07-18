@@ -272,17 +272,24 @@ def get_features():
 
     ######################################################
     # Compare the train-set and test-set accuracy
-    y_pred_train = gnb.predict(X_train)
-    print(
-        "Training-set accuracy score: {0:0.4f}%".format(
-            accuracy_score(y_train, y_pred_train) * 100
-        )
-    )
+    # y_pred_train = gnb.predict(X_train)
+    # # print(
+    # #     "Training-set accuracy score: {0:0.4f}%".format(
+    # #         accuracy_score(y_train, y_pred_train) * 100
+    # #     )
+    # # )
 
     #####################################################
     # print the scores on training and test set
     print("\nTraining set score: {:.4f}%".format(gnb.score(X_train, y_train) * 100))
     print("Test set score: {:.4f}%".format(gnb.score(X_test, y_test) * 100))
+    with open("results.txt", "a") as text_file:
+        text_file.write(
+            "\nNB : Model accuracy score: {0:0.4f}%".format(
+                accuracy_score(y_test, y_pred) * 100
+            )
+            + "\n"
+        )
 
 
 def main():
