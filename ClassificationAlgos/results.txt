@@ -1,0 +1,19 @@
+
+NB : Model accuracy score: 26.2570%
+
+SVM : Model accuracy score with default hyperparameters: 6.1728%
+SVM : Model accuracy score with rbf kernel and C=100.0 : 11.1111%
+SVM : Model accuracy score with rbf kernel and C=1000.0 : 11.1111%
+SVM : Model accuracy score with linear kernel and C=1.0 : 11.1111%
+SVM : Model accuracy score with linear kernel and C=100.0 : 16.6667%
+SVM : Model accuracy score with linear kernel and C=1000.0 : 16.6667%
+SVM : Model accuracy score with polynomial kernel and C=1.0 : 3.0864%
+SVM : Model accuracy score with polynomial kernel and C=100.0 : 2.4691%
+SVM : Model accuracy score with polynomial kernel and C=1000.0 : 2.4691%
+SVM : Model accuracy score with sigmoid kernel and C=1.0 : 8.0247%
+SVM : Model accuracy score with sigmoid kernel and C=100.0 : 22.8395%
+SVM : Model accuracy score with sigmoid kernel and C=1000.0 : 22.8395%
+
+RF : Model accuracy score with 10 decision-trees : 24.2537%
+RF : Model accuracy score with 100 decision-trees : 24.2537%
+RF : Model accuracy score with some variable removed : 36.4198%
