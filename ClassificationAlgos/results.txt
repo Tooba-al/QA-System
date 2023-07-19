@@ -17,3 +17,4 @@ SVM : Model accuracy score with sigmoid kernel and C=1000.0 : 22.8395%
 RF : Model accuracy score with 10 decision-trees : 24.2537%
 RF : Model accuracy score with 100 decision-trees : 24.2537%
 RF : Model accuracy score with some variable removed : 36.4198%
+
