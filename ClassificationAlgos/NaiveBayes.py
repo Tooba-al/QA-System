@@ -158,14 +158,22 @@ def split_train_test():
 def get_features():
     df = pd.read_csv("ClassificationAlgos/Features_dev1.csv", encoding="utf8")
 
+    # Remove rows with missing values
+    df = df.dropna()
     ########################################################
     # Declare feature vector and target variable
-    X = df.drop(["answer"], axis="columns")
-    y = df["answer"]
+    X = df.drop(["span"], axis="columns")
+    y = df["span"]
 
     # Split data into separate training and test set
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=0.22, random_state=0
+    )
+    X_train_copy, X_test_copy, y_train_copy, y_test_copy = (
+        X_train,
+        X_test,
+        y_train,
+        y_test,
     )
 
     #######################################################
@@ -176,10 +184,8 @@ def get_features():
 
     ########################################################
     # impute missing categorical variables with most frequent value
+
     for df2 in [X_train, X_test]:
-        # df2["question"].fillna(X_train["question"].mode()[0], inplace=True)
-        df2["span"].fillna(X_train["span"].mode()[0], inplace=True)
-        # df2["answer"].fillna(X_train["answer"].mode()[0], inplace=True)
         df2["wh_word"].fillna(X_train["wh_word"].mode()[0], inplace=True)
         df2["syntactic_divergence"].fillna(
             X_train["syntactic_divergence"].mode()[0], inplace=True
@@ -217,24 +223,19 @@ def get_features():
         df2["span_length"].fillna(X_train["span_length"].mode()[0], inplace=True)
         # df2["question_length"].fillna(X_train["question_length"].mode()[0], inplace=True)
 
-    #######################################################
-    # print(
-    #     Fore.YELLOW + "Check missing values in categorical variables in X_train:\n",
-    #     X_train[categorical].isnull().sum(),
-    # )
-    # print(
-    #     Fore.YELLOW + "Check missing values in categorical variables in X_train:\n",
-    #     X_train[categorical].isnull().sum(),
-    # )
-    # print(Fore.YELLOW + "Check missing values in X_train:\n", X_train.isnull().sum())
-    # print(Fore.YELLOW + "Check missing values in X_test\n", X_test.isnull().sum())
-
     ######################################################
     # encode remaining variables with one-hot encoding
+    X_train_question = X_train["question"]
+    X_train_answer = X_train["answer"]
+    X_test_question = X_test["question"]
+    X_test_answer = X_test["answer"]
+    Y_train_span = y_train_copy.tolist()
+    Y_test_span = y_test_copy.tolist()
     encoder = ce.OneHotEncoder(
         cols=[
             "question",
-            "span",
+            # "span",
+            "answer",
         ]
     )
     X_train = encoder.fit_transform(X_train)
@@ -259,7 +260,19 @@ def get_features():
     ######################################################
     # Predict the Results
     y_pred = gnb.predict(X_test)
-    # print("Results are:", y_pred)
+
+    # y_list = []
+    # y_list.extend(y_train.tolist())
+    # y_list.extend(y_pred.tolist())
+
+    # accuracy_list = []
+    # for item_index in range(len(y_list)):
+    #     if y_list[item_index].lower() == df["span"].tolist()[item_index].lower():
+    #         accuracy_list.append(True)
+    #     else:
+    #         accuracy_list.append(False)
+
+    # print(len(Fore.RED + str(y_list)))
 
     ######################################################
     # Model Accuracy
@@ -271,14 +284,70 @@ def get_features():
     )
 
     ######################################################
-    # Compare the train-set and test-set accuracy
-    # y_pred_train = gnb.predict(X_train)
-    # # print(
-    # #     "Training-set accuracy score: {0:0.4f}%".format(
-    # #         accuracy_score(y_train, y_pred_train) * 100
-    # #     )
-    # # )
+    train_questions = pd.get_dummies(X_train_question).idxmax(1).tolist()
+    train_answers = pd.get_dummies(X_train_answer).idxmax(1).tolist()
+    test_questions = pd.get_dummies(X_test_question).idxmax(1).tolist()
+    test_answers = pd.get_dummies(X_test_answer).idxmax(1).tolist()
 
+    train_newData = {
+        "titleNo": X_train_copy["titleNo"],
+        "paragNo": X_train_copy["paragNo"],
+        "question": train_questions,
+        "span": Y_train_span,
+        "answer": train_answers,
+        "wh_word": X_train_copy["wh_word"],
+        "syntactic_divergence": X_train_copy["syntactic_divergence"],
+        "root_matching": X_train_copy["root_matching"],
+        "span_TFIDF": X_train_copy["span_TFIDF"],
+        "matching_word_frequency": X_train_copy["matching_word_frequency"],
+        "bigram_overlap": X_train_copy["bigram_overlap"],
+        "trigram_overlap": X_train_copy["trigram_overlap"],
+        "span_word_frequency": X_train_copy["span_word_frequency"],
+        "bigram_TFIDF": X_train_copy["bigram_TFIDF"],
+        "trigram_TFIDF": X_train_copy["trigram_TFIDF"],
+        "minkowski_distance": X_train_copy["minkowski_distance"],
+        "manhattan_distance": X_train_copy["manhattan_distance"],
+        "euclidean_distance": X_train_copy["euclidean_distance"],
+        "hamming_distance": X_train_copy["hamming_distance"],
+        "jaccard_distance": X_train_copy["jaccard_distance"],
+        "edit_distance": X_train_copy["edit_distance"],
+        "span_length": X_train_copy["span_length"],
+        "question_length": X_train_copy["question_length"],
+    }
+    newDF = pd.DataFrame(train_newData)
+    newDF.to_csv("ClassificationAlgos/Train_NB_dev1.csv", index=False)
+
+    is_accurate_list = [[] for _ in range(len(test_questions))]
+    real_span_list = [[] for _ in range(len(test_questions))]
+    test_newData = {
+        "titleNo": X_test_copy["titleNo"],
+        "paragNo": X_test_copy["paragNo"],
+        "question": test_questions,
+        "predict_span": y_pred,
+        "real_span": real_span_list,
+        "is_accurate": is_accurate_list,
+        "answer": test_answers,
+        "wh_word": X_test_copy["wh_word"],
+        "syntactic_divergence": X_test_copy["syntactic_divergence"],
+        "root_matching": X_test_copy["root_matching"],
+        "span_TFIDF": X_test_copy["span_TFIDF"],
+        "matching_word_frequency": X_test_copy["matching_word_frequency"],
+        "bigram_overlap": X_test_copy["bigram_overlap"],
+        "trigram_overlap": X_test_copy["trigram_overlap"],
+        "span_word_frequency": X_test_copy["span_word_frequency"],
+        "bigram_TFIDF": X_test_copy["bigram_TFIDF"],
+        "trigram_TFIDF": X_test_copy["trigram_TFIDF"],
+        "minkowski_distance": X_test_copy["minkowski_distance"],
+        "manhattan_distance": X_test_copy["manhattan_distance"],
+        "euclidean_distance": X_test_copy["euclidean_distance"],
+        "hamming_distance": X_test_copy["hamming_distance"],
+        "jaccard_distance": X_test_copy["jaccard_distance"],
+        "edit_distance": X_test_copy["edit_distance"],
+        "span_length": X_test_copy["span_length"],
+        "question_length": X_test_copy["question_length"],
+    }
+    newDF = pd.DataFrame(test_newData)
+    newDF.to_csv("ClassificationAlgos/Test_NB_dev1.csv", index=False)
     #####################################################
     # print the scores on training and test set
     print("\nTraining set score: {:.4f}%".format(gnb.score(X_train, y_train) * 100))
@@ -291,10 +360,60 @@ def get_features():
             + "\n"
         )
 
+    return
+
+
+def change_accuracy_realSpan():
+    df = pd.read_csv("ClassificationAlgos/Features_dev1.csv", encoding="utf8")
+    test_df = pd.read_csv("ClassificationAlgos/Test_NB_dev1.csv", encoding="utf8")
+
+    test_predict_spans = test_df["predict_span"].tolist()
+    test_questions = test_df["question"].tolist()
+    test_answers = test_df["answer"].tolist()
+    test_paragNos = test_df["paragNo"].tolist()
+    original_spans = df["span"].tolist()
+    original_questions = df["question"].tolist()
+    original_answers = df["answer"].tolist()
+    original_paragNos = df["paragNo"].tolist()
+
+    real_spans = []
+    is_accurate = []
+    for index in range(len(test_questions)):
+        question = test_questions[index]
+        answer = test_answers[index]
+        paragNo = test_paragNos[index]
+
+        for original_index in range(len(original_spans)):
+            origin_question = original_questions[original_index]
+            origin_answer = original_answers[original_index]
+            origin_paragNo = original_paragNos[original_index]
+
+            if (
+                (origin_question == question)
+                and (origin_answer == answer)
+                and (origin_paragNo == paragNo)
+            ):
+                span = original_spans[original_index]
+                real_spans.append(span)
+
+                if span == test_predict_spans[index]:
+                    is_accurate.append(True)
+
+                else:
+                    is_accurate.append(False)
+
+                break
+
+    test_df["real_span"] = real_spans
+    test_df["is_accurate"] = is_accurate
+    test_df.to_csv("ClassificationAlgos/newTest_NB_dev1_.csv", index=False)
+    return
+
 
 def main():
     # split_train_test()
     get_features()
+    change_accuracy_realSpan()
 
 
 main()
