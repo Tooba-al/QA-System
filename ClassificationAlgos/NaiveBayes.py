@@ -39,7 +39,7 @@ test_data = []
 
 
 def split_train_test():
-    with open("CSV-Files/devSplit/dev1.json") as f:
+    with open("CSV-Files/devSplit/dev2.json") as f:
         data = json.load(f)
 
     print(Fore.RED + "Extracting data from dataset...\n")
@@ -151,12 +151,12 @@ def split_train_test():
     # }
     train_df = pd.DataFrame(train_df)
     # test_df = pd.DataFrame(test_df)
-    train_df.to_csv("ClassificationAlgos/DF_dev1.csv", index=False)
+    train_df.to_csv("ClassificationAlgos/DF_dev2.csv", index=False)
     # test_df.to_csv("ClassificationAlgos/TestData_dev1_p52.csv", index=False)
 
 
 def get_features():
-    df = pd.read_csv("ClassificationAlgos/Features_dev1.csv", encoding="utf8")
+    df = pd.read_csv("ClassificationAlgos/Features_dev2.csv", encoding="utf8")
 
     # Remove rows with missing values
     df = df.dropna()
@@ -315,7 +315,7 @@ def get_features():
         "question_length": X_train_copy["question_length"],
     }
     newDF = pd.DataFrame(train_newData)
-    newDF.to_csv("ClassificationAlgos/Train_NB_dev1.csv", index=False)
+    newDF.to_csv("ClassificationAlgos/Train_NB_dev2.csv", index=False)
 
     is_accurate_list = [[] for _ in range(len(test_questions))]
     real_span_list = [[] for _ in range(len(test_questions))]
@@ -347,7 +347,7 @@ def get_features():
         "question_length": X_test_copy["question_length"],
     }
     newDF = pd.DataFrame(test_newData)
-    newDF.to_csv("ClassificationAlgos/Test_NB_dev1.csv", index=False)
+    newDF.to_csv("ClassificationAlgos/Test_NB_dev2.csv", index=False)
     #####################################################
     # print the scores on training and test set
     print("\nTraining set score: {:.4f}%".format(gnb.score(X_train, y_train) * 100))
@@ -364,8 +364,8 @@ def get_features():
 
 
 def change_accuracy_realSpan():
-    df = pd.read_csv("ClassificationAlgos/Features_dev1.csv", encoding="utf8")
-    test_df = pd.read_csv("ClassificationAlgos/Test_NB_dev1.csv", encoding="utf8")
+    df = pd.read_csv("ClassificationAlgos/Features_dev2.csv", encoding="utf8")
+    test_df = pd.read_csv("ClassificationAlgos/Test_NB_dev2.csv", encoding="utf8")
 
     test_predict_spans = test_df["predict_span"].tolist()
     test_questions = test_df["question"].tolist()
@@ -406,7 +406,7 @@ def change_accuracy_realSpan():
 
     test_df["real_span"] = real_spans
     test_df["is_accurate"] = is_accurate
-    test_df.to_csv("ClassificationAlgos/newTest_NB_dev1_.csv", index=False)
+    test_df.to_csv("ClassificationAlgos/newTest_NB_dev2_.csv", index=False)
     return
 
 

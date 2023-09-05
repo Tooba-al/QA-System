@@ -37,7 +37,7 @@ print(
 nlp = spacy.load("en_core_web_sm")
 lemmatizer = WordNetLemmatizer()
 
-print(Fore.YELLOW + "Dataset : CSV-Files/devSplit/dev1.json\n")
+print(Fore.YELLOW + "Dataset : CSV-Files/devSplit/dev2.json\n")
 # with open("CSV-Files/devSplit/dev1.json") as f:
 #     data = json.load(f)
 
@@ -522,16 +522,20 @@ def get_bigram_TFIDF(text):
     )
 
     tfidf = TfidfVectorizer(ngram_range=(2, 2))
-    tfidf_matrix = tfidf.fit_transform([filtered_words])
-    feature_names = tfidf.get_feature_names_out()
+    # print(type(filtered_words))
+    if filtered_words != "":
+        tfidf_matrix = tfidf.fit_transform([filtered_words])
+        feature_names = tfidf.get_feature_names_out()
 
-    if len(feature_names) == 0:
-        tfidf_sum = 0
+        if len(feature_names) == 0:
+            tfidf_sum = 0
+        else:
+            tfidf_sum = tfidf_matrix.sum()
     else:
-        tfidf_sum = tfidf_matrix.sum()
+        tfidf_sum = 0
     return tfidf_sum
 
-    overlap_bigrams = question_bigrams & span_bigrams
+    # overlap_bigrams = question_bigrams & span_bigrams
 
 
 def get_trigram_TFIDF(text):
@@ -798,8 +802,8 @@ def calculateFeatures_main(CSV_file):
     # with open("CSV-Files/devSplit/dev1.json") as f:
     #     data = json.load(f)
 
-    print(Fore.Yellow + "Extracting data from dataset...\n")
-    CSV = pd.read_csv(CSV_file, encoding="cp1252")
+    print(Fore.YELLOW + "Extracting data from dataset...\n")
+    CSV = pd.read_csv(CSV_file)
 
     contexts = CSV["context"].tolist()
     questions = CSV["question"].tolist()
@@ -808,7 +812,7 @@ def calculateFeatures_main(CSV_file):
     paragNos = CSV["paragraphNo"].tolist()
     titleNos = CSV["titleNo"].tolist()
 
-    csv_file = "ClassificationAlgos/Features_dev1_p52_11.csv"
+    csv_file = "ClassificationAlgos/Features_dev2_p52_11.csv"
     csv_columns = [
         "paragNo",
         "titleNo",
@@ -837,12 +841,12 @@ def calculateFeatures_main(CSV_file):
         "question_length",
     ]
 
-    with open(csv_file, "w") as features_file:
+    with open(csv_file, "w", encoding="utf-8") as features_file:
         writer = csv.DictWriter(features_file, fieldnames=csv_columns)
         writer.writeheader()
-        for index in range(744, len(questions)):
+        for index in range(len(questions)):
             print(
-                Fore.Yellow
+                Fore.YELLOW
                 + "Getting data for question "
                 + str(index)
                 + "/"
@@ -912,11 +916,11 @@ def calculateFeatures_main(CSV_file):
 
 
 # CSV_file = "ClassificationAlgos/TestData_dev1_p52.csv"
-CSV_file = "ClassificationAlgos/DF_dev1.csv"
+CSV_file = "ClassificationAlgos/DF_dev2.csv"
 calculateFeatures_main(CSV_file)
 
-inputCSV = "ClassificationAlgos/Features_dev1_p52_11.csv"
-outputCSV = "ClassificationAlgos/Features_dev1_p52_11_1.csv"
+inputCSV = "ClassificationAlgos/Features_dev2_p52_11.csv"
+outputCSV = "ClassificationAlgos/Features_dev2_p52_11_1.csv"
 
 with open(inputCSV, newline="") as in_file:
     with open(outputCSV, "w", newline="") as out_file:

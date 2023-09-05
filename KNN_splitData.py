@@ -263,13 +263,27 @@ def main():
     data_list = split_train_test()
     data_train_list = data_list[0]
     data_test_list = data_list[1]
+    result_train_spans = []
+    result_train_questions = []
+    result_train_answers = []
+    result_train_titleNos = []
+    result_train_paragraphNos = []
 
+    for span_index in range(len(data_train_list[0][0])):
+        train_spans = nltk.sent_tokenize(data_train_list[0][0][span_index])
+        for sentence in train_spans:
+            if data_train_list[0][2][span_index] in sentence:
+                result_train_spans.append(sentence)
+                result_train_questions.append(data_train_list[0][1][span_index])
+                result_train_answers.append(data_train_list[0][2][span_index])
+                result_train_titleNos.append(data_train_list[0][3][span_index])
+                result_train_paragraphNos.append(data_train_list[0][4][span_index])
     train_df = {
-        "span": data_train_list[0][0],
-        "question": data_train_list[0][1],
-        "answer": data_train_list[0][2],
-        "titleNo": data_train_list[0][3],
-        "paragraphNo": data_train_list[0][4],
+        "span": result_train_spans,
+        "question": result_train_answers,
+        "answer": result_train_answers,
+        "titleNo": result_train_titleNos,
+        "paragraphNo": result_train_paragraphNos,
     }
 
     test_spans = nltk.sent_tokenize(data_test_list[0][0][0])
@@ -281,11 +295,13 @@ def main():
     t_parag = []
     for sentence in test_spans:
         for index in range(len(data_test_list[0][1])):
-            t_span.append(sentence)
-            t_question.append(data_test_list[0][1][index])
-            t_answer.append(data_test_list[0][2][index])
-            t_title.append(data_test_list[0][3][index])
-            t_parag.append(data_test_list[0][4][index])
+            answer = data_test_list[0][2][index]
+            if answer in sentence:
+                t_span.append(sentence)
+                t_question.append(data_test_list[0][1][index])
+                t_answer.append(data_test_list[0][2][index])
+                t_title.append(data_test_list[0][3][index])
+                t_parag.append(data_test_list[0][4][index])
 
     test_df = {
         "span": t_span,
@@ -296,8 +312,8 @@ def main():
     }
     train_df = pd.DataFrame(train_df)
     test_df = pd.DataFrame(test_df)
-    train_df.to_csv("KNN/TrainData_dev1_p51.csv", index=False)
-    test_df.to_csv("KNN/TestData_dev1_p51.csv", index=False)
+    train_df.to_csv("KNN/TrainData_dev1_p522.csv", index=False)
+    test_df.to_csv("KNN/TestData_dev1_p522.csv", index=False)
 
     # train_question = data_train_list[1][1]
 

@@ -1,0 +1,6 @@
+steps:
+------
+1. DataFrame.py -> create: DF_devX.csv
+2. calculateFeatures.py -> create: Features_dev2_p52_11_1.csv -> rename to: Features_dev2.csv
+3. NaiveBayes.py -> create: predictSpan_NB_devX.csv
+4. answerIndex.py -> create: answerIndex_NB_devX.csv
