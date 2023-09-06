@@ -787,65 +787,89 @@ def get_features(question, span, answer, titleNo, paragNo):
 
 
 def main():
-    data_questions = []
-    data_answers = []
-    data_spans = []
-    data_titleNo = []
-    data_paragNo = []
+    # data_questions = []
+    # data_answers = []
+    # data_spans = []
+    # data_titleNo = []
+    # data_paragNo = []
     dict_datas = []
 
-    with open("CSV-Files/devSplit/dev1.json") as f:
-        data = json.load(f)
+    # with open("CSV-Files/devSplit/dev1.json") as f:
+    #     data = json.load(f)
+    Testdata = pd.read_csv("KNN/TestData_dev1_p522.csv")
 
-    print(Fore.RED + "Extracting data from dataset...\n")
-    for i in range(len(data["data"])):
-        for j in range(len(data["data"][i]["paragraphs"])):
-            for k in range(len(data["data"][i]["paragraphs"][j]["qas"])):
-                data_spans.append(data["data"][i]["paragraphs"][j]["context"])
-                data_questions.append(
-                    data["data"][i]["paragraphs"][j]["qas"][k]["question"]
+    data_questions = Testdata["question"]
+    data_spans = Testdata["span"]
+    data_answers = Testdata["answer"]
+    data_paragNo = Testdata["paragraphNo"]
+    data_titleNo = Testdata["titleNo"]
+
+    # print(Fore.RED + "For each question and answer extracting features...\n")
+    # for index in range(len(data_questions)):
+    #     print(
+    #         Fore.RED
+    #         + "Getting data for question "
+    #         + str(index)
+    #         + "/"
+    #         + str(len(data_questions))
+    #         + "...\n"
+    #     )
+    #     question = data_questions[index]
+    #     span = data_spans[index]
+    #     answer = data_answers[index]
+    #     titleNo = data_titleNo[index]
+    #     paragNo = data_paragNo[index]
+
+    #     sentences = nltk.sent_tokenize(span)
+    #     for sentence in sentences:
+    #         # print(j, answer)
+    #         # span = find_answer_sentence(j, answer)
+    #         # if span != "":
+    #         if sentence.count(answer) > 0:
+    #             this_result = get_features(question, span, answer, titleNo, paragNo)
+    #             dict_datas.append(this_result)
+
+    #             print(
+    #                 Fore.GREEN
+    #                 + "\nEnd of question "
+    #                 + str(index)
+    #                 + "/"
+    #                 + str(len(data_questions))
+    #                 + "...\n"
+    #             )
+
+    print(Fore.RED + "For each question and answer extracting features...\n")
+    for index in range(len(data_questions)):
+        print(
+            Fore.RED
+            + "Getting data for question "
+            + str(index)
+            + "/"
+            + str(len(data_questions))
+            + "...\n"
+        )
+        question = data_questions[index]
+        span = data_spans[index]
+        answer = data_answers[index]
+        titleNo = data_titleNo[index]
+        paragNo = data_paragNo[index]
+
+        sentences = nltk.sent_tokenize(span)
+        for sentence in sentences:
+            if sentence.count(answer) > 0:
+                this_result = get_features(question, span, answer, titleNo, paragNo)
+                dict_datas.append(this_result)
+
+                print(
+                    Fore.GREEN
+                    + "\nEnd of question "
+                    + str(index)
+                    + "/"
+                    + str(len(data_questions))
+                    + "...\n"
                 )
-                data_answers.append(
-                    data["data"][i]["paragraphs"][j]["qas"][k]["answers"][0]["text"]
-                )
-                data_titleNo.append(i)
-                data_paragNo.append(j)
 
-        print(Fore.RED + "For each question and answer extracting features...\n")
-        for index in range(len(data_questions)):
-            print(
-                Fore.RED
-                + "Getting data for question "
-                + str(index)
-                + "/"
-                + str(len(data_questions))
-                + "...\n"
-            )
-            question = data_questions[index]
-            span = data_spans[index]
-            answer = data_answers[index]
-            titleNo = data_titleNo[index]
-            paragNo = data_paragNo[index]
-
-            sentences = nltk.sent_tokenize(span)
-            for sentence in sentences:
-                # print(j, answer)
-                # span = find_answer_sentence(j, answer)
-                # if span != "":
-                if sentence.count(answer) > 0:
-                    this_result = get_features(question, span, answer, titleNo, paragNo)
-                    dict_datas.append(this_result)
-
-                    print(
-                        Fore.GREEN
-                        + "\nEnd of question "
-                        + str(index)
-                        + "/"
-                        + str(len(data_questions))
-                        + "...\n"
-                    )
-
-    csv_file = "Features/KNN_Features_CSV_dev1_1.csv"
+    csv_file = "Features/TestData_Features_dev1_p52.csv"
     csv_columns = [
         "paragNo",
         "titleNo",
@@ -880,6 +904,19 @@ def main():
                 writer.writerow(data)
     except IOError:
         print(Fore.RED + "I/O error")
+
+    # CSV_file = "ClassificationAlgos/DF_dev2.csv"
+    # calculateFeatures_main(CSV_file)
+
+    inputCSV = "Features/TestData_Features_dev1_p52.csv"
+    outputCSV = "Features/TestData_Features_dev1_p522.csv"
+
+    with open(inputCSV, newline="") as in_file:
+        with open(outputCSV, "w", newline="") as out_file:
+            writer = csv.writer(out_file)
+            for row in csv.reader(in_file):
+                if row:
+                    writer.writerow(row)
 
 
 main()

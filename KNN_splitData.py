@@ -71,7 +71,7 @@ def split_train_test():
         for j in range(len(data["data"][i]["paragraphs"])):
             # for each context
             for k in range(len(data["data"][i]["paragraphs"][j]["qas"])):
-                if j == len(data["data"][i]["paragraphs"]) - 3:
+                if j == len(data["data"][i]["paragraphs"]) - 2:
                     test_data_spans.append(data["data"][i]["paragraphs"][j]["context"])
                     test_data_questions.append(
                         data["data"][i]["paragraphs"][j]["qas"][k]["question"]
